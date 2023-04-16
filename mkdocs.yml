@@ -8,5 +8,3 @@ nav:
   - Rides:
     - "Scary Coaster": rides/scary.md
     - "Drop of Doom": rides/drop.md
-theme:
-  name: material
