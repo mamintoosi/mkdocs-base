@@ -7,3 +7,17 @@ _______________________________________________________________________________
 | هم‌نیاز:    | ندارد             | نوع درس:    | نظری     |
 | تعداد واحد: | 3                 | تعداد ساعت: | 48       |
 | حل تمرین:   |  دارد             |             |          |
+
+**سر فصل یا رئوس مطالب**
+
+مفاهیم و تعاریف اولیه .معادلات جداپذیر و معادلات همگن، مدلسازی در علوم دیگر. معادلات کامل و عامل انتگرال‌ساز. معادلات خطی مرتبه اول. معادلات غیرخطی مرتبه اول و حالات خاص آن، مدلسازی در علوم دیگر. معادلات مرتبه دوم و بالاتر، مدلسازی در علوم دیگر. حل معادلات مرتبه دوم با ضرایب ثابت و متغیر. حل معادلات مرتبه دوم و بالاتر خطی ناهمگن. حل معادله کوشی-اویلر و بررسی چند حالت خاص در حل معادلات مرتبه دوم و بالاتر. حل معادلات دیفرانسیل به کمک سریها. معادله لژاندر. سری فروبنیوس. معادله بسل. تبدیل لاپلاس و کاربردهای آن. دستگاه خطی از معادلات دیفرانسیل .
+
+**فهرست منابع پیشنهادی**
+
+William E. Boyce, Richard C. DiPrima, Douglas B. Meade, Elementary Differential Equations and Boundary Value Problems, 11th Edition, WILEY, 2017.
+
+)ویرایش نهم این کتاب توسط حمیدرضا ظهوری زنگنه ترجمه و توسط انتشارات فاطمی منتشر شده است.(
+
+Stephen Goode, Scott Annin, Differential Equations and Linear Algebra by Stephen, Pearson, 2016C. H. Edwards, D. E. Penney, Elementary Differential Equations, 6th Edition, Pearson Education, Inc. 2008. 
+
+D. G. Zill, A First Course in Differential Equations with Modeling Applications, 10th Edition, Brooks/Cole, Cengage Learning, 2012.

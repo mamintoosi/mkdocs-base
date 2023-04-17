@@ -45,7 +45,7 @@ nav:
     - "برنامه‌نویسی وب": elective/Web-Programming.md
     - "برنامه‌نویسی موبایل": elective/Mobile-Programming.md
     - "مبانی آنالیز فوریه و موجک ها": elective/Introduction-to-Fourier-and-Wavelet-Analysis.md
-    - "اصول طراحی نرم افزار": elective/<p>Principles-of-Software</p><p>Design</p>.md
+    - "اصول طراحی نرم افزار": elective/Principles-of-SoftwareDesign.md
     - "کارآموزی": elective/Apprenticeship.md
     - "کامپایلر": elective/Compiler.md
     - "مباحثی در علوم کامپیوتر": elective/Topics-in-Computer-Science.md

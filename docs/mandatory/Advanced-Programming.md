@@ -7,3 +7,45 @@ _______________________________________________________________________________
 | هم‌نیاز:    | ندارد                | نوع درس:    | نظری         |
 | تعداد واحد: | 3                    | تعداد ساعت: | 48           |
 | حل تمرین:   |  دارد                |             |              |
+
+**سر فصل یا رئوس مطالب**
+
+•	چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
+
+•	محیط‌های مجتمع توسعه
+
+•	ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
+
+•	برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
+
+•	کارکردن با استاتیک ها
+
+•	وراثت در شی گرایی و چندریختی در شی گرایی
+
+•	مدیریت استثناء
+
+•	رابط گرافیکی و مفاهیم Interface
+
+•	فایل های ترتیبی
+
+•	جریان داده
+
+•	کار با رشته و آرایه
+
+•	الگوریتمهای جستجو و مرتب‌سازی
+
+•	حافظه پویا
+
+•	موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++
+
+- قالبها، فضای نام، auto، 
+
+- Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
+
+**فهرست منابع پیشنهادی**
+
+Ivor Horton and Peter Van Weert, Beginning C++17: From Novice to Professional, Apress, 2018
+
+Ivor Horton and Peter Van Weert, Beginning C++20: From Novice to Professional, Apress, 2020
+
+P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017.
