@@ -1,10 +1,91 @@
 site_name: علوم کامپیوتر فردوسی مشهد
 nav:
-  - Home: index.md
-  - About: about.md
+  - صفحه اصلی: index.md
+  - درباره: about.md
   - دروس پایه:
-    - "Ping Pong": games/ping.md
-    - Balloon: games/balloon.md
-  - Rides:
-    - "Scary Coaster": rides/scary.md
-    - "Drop of Doom": rides/drop.md
+    - "ریاضی عمومی 1": base/Calculus-I.md
+    - "کارگاه کامپیوتر ۱": base/Computer-Workshop-I.md
+    - "تحلیل داده‌ها با نرم‌افزارهای عمومی": base/Graphical-and-Exploratory-data-analysis.md
+    - "ریاضی عمومی 2": base/Calculus-II.md
+    - "احتمال م‍قدماتی": base/Elementary-Probability.md
+    - "مبانی اقتصاد": base/Basics-of-Economics.md
+    - "مبانی برنامه‌نویسی": base/Fundamentals-of-Computer-Programming.md
+    - "معادلات دیفرانسیل": base/Differential-Equations.md
+  - دروس الزامی:
+    - "بهینه‌سازی غیرخطی": mandatory/Nonlinear-Optimization.md
+    - "مبانی نظریه محاسبه": mandatory/Introduction-to-The-theory-of-Computation.md
+    - "داده‌کاوی مقدماتی": mandatory/Elementary-Data-Mining.md
+    - "یادگیری آماری مقدماتی": mandatory/Elementary-Statistical-Learning.md
+    - "روش‌های آماری": mandatory/Statistical-Methods.md
+    - "آمار محاسباتی": mandatory/Computational-Statistics.md
+    - "جبر خطی عددی": mandatory/Numerical-Linear-Algebra.md
+    - "مبانی آنالیز ریاضی": mandatory/Foundation-of-Mathematical-Analysis.md
+    - "مبانی آنالیزعددی": mandatory/Foundation-of-Numerical-Analysis.md
+    - "مبانی ماتریس‌ها و جبرخطی": mandatory/Foundation-of-Matrix-and-Linear-Algebra.md
+    - "تحلیل آماری داده ها": mandatory/Statistical-Data-Analysis.md
+    - "مبانی ترکیبیات": mandatory/Foundation-of-Combinatorics.md
+    - "اصول سیستم‌های کامپیوتری": mandatory/Principles-of-Computer-Systems.md
+    - "پایگاه داده": mandatory/Databases.md
+    - "کارگاه کامپیوتر ۲": mandatory/Computer-Workshop-II.md
+    - "مبانی علوم ریاضی": mandatory/Foundation-of-Mathematics.md
+    - "طراحی و تحلیل الگوریتم‌ها": mandatory/Design-and-Analysis-of-Algorithms.md
+    - "ساختمان داده و الگوریتم‌ها": mandatory/Data-Structures-and-Algorithms.md
+    - "پایتون برای علم داده": mandatory/Python-For-Data-Science.md
+    - "برنامه‌نویسی پیشرفته": mandatory/Advanced-Programming.md
+    - "آمار و احتمال 1": mandatory/Probability-and-Statistics-I.md
+    - "مبانی منطق و نظریه مجموعه ها": mandatory/Fundamentals-of-Logic.md
+  - دروس اختیاری:
+    - "بهینه‌سازی گسسته": elective/Discrete-Optimization.md
+    - "شبیه سازی کامپیوتری": elective/Computerized-Simulation.md
+    - "اصول سیستم‌های عامل": elective/Principles-of-Operating-Systems.md
+    - "شبکه‌های اجتماعی": elective/social-networks.md
+    - "گرافیک کامپیوتری": elective/Computer-Graphics.md
+    - "مبانی جبر": elective/Foundation-of-Algebra.md
+    - "شبکه‌های کامپیوتری": elective/Computer-Networks.md
+    - "برنامه‌نویسی وب": elective/Web-Programming.md
+    - "برنامه‌نویسی موبایل": elective/Mobile-Programming.md
+    - "مبانی آنالیز فوریه و موجک ها": elective/Introduction-to-Fourier-and-Wavelet-Analysis.md
+    - "اصول طراحی نرم افزار": elective/<p>Principles-of-Software</p><p>Design</p>.md
+    - "کارآموزی": elective/Apprenticeship.md
+    - "کامپایلر": elective/Compiler.md
+    - "مباحثی در علوم کامپیوتر": elective/Topics-in-Computer-Science.md
+    - "مبانی بیوانفورماتیک": elective/Fundamentals-of-Bioinformatic.md
+    - "پروژه کارشناسی": elective/Project.md
+    - "نظریه گراف و کاربردها": elective/Graph-Theory-and-Applications.md
+    - "آنالیز عددی": elective/Numerical-Analysis.md
+    - "آشنایی با تحلیل کلان داده‌ها": elective/Introduction-to-Big-Data-Analysis.md
+    - "مباحثی در الگوریتم‌ها": elective/Topics-in-Algorithms.md
+    - "فرایند های تصادفی": elective/Stochastic-Processes.md
+    - "مبانی رایانش ابری": elective/Cloud-Computing-Fundamentals.md
+    - "رایانش چند‌هسته‌ای": elective/Multicore-Computing.md
+    - "سیگنال‌ها و سیستم‌ها": elective/Signals-and-Systems.md
+    - "مدیریت پروژه‌های فناوری اطلاعات": elective/Information-Technology-Project-Management.md
+    - "تحقیق در عملیات": elective/Operations-research.md
+    - "تجارت الکترونیک": elective/Electronic-Commerce.md
+    - "ریاضیات فازی": elective/Fuzzy-Mathematics.md
+    - "هندسه محاسباتی": elective/Computational-Geometry.md
+    - "آمار و احتمال 2": elective/Probability-and-Statistics-II.md
+    - "یادگیری ماشین  مقدماتی ۱": elective/Elementary-Machine-Learning-I.md
+    - "یادگیری ماشین مقدماتی ۲": elective/Elementary-Machine-Learning-II.md
+    - "نظریه محاسبه": elective/Theory-of-Computation.md
+    - "منطق برای علوم کامپیوتر": elective/Logic-for-Computer-Science.md
+    - "نظریه مقدماتی کد گذاری": elective/Elementary-Coding-Theory.md
+    - "رمزنگاری": elective/Cryptography.md
+    - "برنامه‌نویسی امن": elective/Secure-Programming.md
+    - "معناشناسی عملیاتی برنامه‌نویسی": elective/Operational-Semantics-of-Programming.md
+    - "آشنایی با نظریه بازی ها": elective/Introduction-to-Game-Theory.md
+    - "الگوریتم‌های تصادفی": elective/Randomized-Algorithms.md
+    - "رگرسیون1": elective/Regression-I.md
+    - "آزمایشگاه ریاضی": elective/Mathematics-Lab.md
+    - "هوش مصنوعی": elective/Artificial-Intelligence.md
+    - "هوش محاسباتی": elective/Computational-Intelligence.md
+    - "هوش تجاری  مقدماتی": elective/Elementary-Business-intelligence.md
+    - "آشنایی با یادگیری عمیق": elective/Introduction-to-Deep-Learning.md
+    - "اصول مصورسازی داده ها": elective/Elements-of-data-visualization.md
+    - "مبانی کارآفرینی": elective/Foundations-of-Entrepreneurship.md
+    - "توسعه کسب و کارهای نوپا": elective/New-Business-Development.md
+    - "مدیریت و کنترل پروژه": elective/Management-and-Project-Control.md
+    - "مدلسازی ریاضی": elective/Elementary-Mathematical-Modeling.md
+    - "سری های زمانی": elective/Time-Series.md
+    - "پردازش تصویر مقدماتی": elective/Elementary-Image-Processing.md
+    - "مبانی و اصول مدیریت": elective/Basics-and-Principles-of-Management.md

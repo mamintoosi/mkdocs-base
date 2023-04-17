@@ -1,0 +1,10 @@
+site_name: علوم کامپیوتر فردوسی مشهد
+nav:
+  - Home: index.md
+  - About: about.md
+  - دروس پایه:
+    - "Ping Pong": games/ping.md
+    - Balloon: games/balloon.md
+  - Rides:
+    - "Scary Coaster": rides/scary.md
+    - "Drop of Doom": rides/drop.md
