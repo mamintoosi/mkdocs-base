@@ -14,4 +14,4 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-<a name="_hlk932247371"></a>O’Sullivan, A., Sheffrin, S., & Perez, S., Survey of Economics: Principles, Applications, and Tools, 8th Edition, Boston: Pearson, 2019.
+O’Sullivan, A., Sheffrin, S., & Perez, S., Survey of Economics: Principles, Applications, and Tools, 8th Edition, Boston: Pearson, 2019.

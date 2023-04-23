@@ -22,8 +22,8 @@ _______________________________________________________________________________
 
 گیونز، جف‌ اچ‌. (1393). آما‌ر محا‌سبا‌تی‌ (روش‌ بهینه‌سا‌زی عددی)، ترجمه محمدرضا مشکانی، انتشارات پژوهشکده آمار. 
 
-1\. Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
+\1. Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
 
-2\.Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
+2.Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
 
-3\. Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
+\3. Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
