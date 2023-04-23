@@ -29,7 +29,3 @@ _______________________________________________________________________________
 \2. Kerns, G. J. (2018). Introduction to Probability and Statistics using R. Lulu. Com.
 
 \3. Horgan, Jane (2020). Probability with R, Second Edition, John Wiley & Sons.
-
-` `دروس تخصصی  الزامی
-
-![](Aspose.Words.0b028a91-2834-40ff-a903-490525c0f884.001.png)
