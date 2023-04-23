@@ -5,13 +5,12 @@ nav:
     - "احتمال م‍قدماتی": base/Elementary-Probability.md
     - "تحلیل داده‌ها با نرم‌افزارهای عمومی": base/Graphical-and-Exploratory-data-analysis.md
     - "ریاضی عمومی ۱": base/Calculus-I.md
-    - "ریاضی عمومی ۱": base/Calculus-II.md
+    - "ریاضی عمومی ۲": base/Calculus-II.md
     - "کارگاه کامپیوتر ۱": base/Computer-Workshop-I.md
     - "مبانی اقتصاد": base/Basics-of-Economics.md
     - "مبانی کامپیوتر و برنامه‌سازی": base/Fundamentals-of-Computer-Programming.md
     - "معادلات دیفرانسیل": base/Differential-Equations.md
   - دروس الزامی:
-    - "` `نظریه بازی": mandatory/Game-Theory.md
     - "اصول سیستم‌های کامپیوتری": mandatory/Principles-of-Computer-Systems.md
     - "آمار محاسباتی": mandatory/Computational-Statistics.md
     - "آمار و احتمال ۱": mandatory/Probability-and-Statistics-I.md
@@ -35,7 +34,6 @@ nav:
     - "مبانی نظریه محاسبه": mandatory/Introduction-to-The-theory-of-Computation.md
     - "یادگیری ماشین  مقدماتی": mandatory/Elementary-Machine-Learning.md
   - دروس اختیاری:
-    - "` `هوش تجاری  مقدماتی": elective/Elementary-Business-intelligence.md
     - "اصول سیستم‌های عامل": elective/Principles-of-Operating-Systems.md
     - "اصول طراحی نرم افزار": elective/Principles-of-SoftwareDesign.md
     - "اصول مصورسازی داده‌ها": elective/Elements-of-data-visualization.md
@@ -83,6 +81,7 @@ nav:
     - "نظریه محاسبه": elective/Theory-of-Computation.md
     - "نظریه مقدماتی کد گذاری": elective/Elementary-Coding-Theory.md
     - "هندسه محاسباتی": elective/Computational-Geometry.md
+    - "هوش تجاری  مقدماتی": elective/Elementary-Business-intelligence.md
     - "هوش محاسباتی": elective/Computational-Intelligence.md
     - "هوش مصنوعی": elective/Artificial-Intelligence.md
     - "پردازش تصویر مقدماتی": elective/Elementary-Image-Processing.md

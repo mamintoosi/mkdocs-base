@@ -1,12 +1,5 @@
-# 👋 خوش آمدید 
-{% hint style="info" %}
-**درباره این سایت:** این سایت صفحه غیررسمی گروه علوم کامپیوتر و مرتبط با برنامه درسی دوره کارشناسی علوم کامپیوتر فردوسی می‌باشد
-سایت، غیر رسمی و در حال راه‌اندازی است و مطالب آن قابلیت استناد ندارند.
-{% endhint %}
-
-<details>
-<summary>دروس پایه</summary>
-
+* [صفحه اصلی](README.md)
+## دروس پایه
 * [احتمال م‍قدماتی](docs/base/Elementary-Probability.md)
 * [تحلیل داده‌ها با نرم‌افزارهای عمومی](docs/base/Graphical-and-Exploratory-data-analysis.md)
 * [ریاضی عمومی ۱](docs/base/Calculus-I.md)
@@ -15,13 +8,7 @@
 * [مبانی اقتصاد](docs/base/Basics-of-Economics.md)
 * [مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](docs/base/Differential-Equations.md)
-
-</details>
-
-<details>
-
-<summary>دروس الزامی</summary>
-
+## دروس الزامی
 * [اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)
 * [آمار محاسباتی](docs/mandatory/Computational-Statistics.md)
 * [آمار و احتمال ۱](docs/mandatory/Probability-and-Statistics-I.md)
@@ -44,13 +31,7 @@
 * [مبانی منطق و نظریه مجموعه ها](docs/mandatory/Fundamentals-of-Logic.md)
 * [مبانی نظریه محاسبه](docs/mandatory/Introduction-to-The-theory-of-Computation.md)
 * [یادگیری ماشین  مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)
-
-</details>
-
-<details>
-
-<summary>دروس اختیاری</summary>
-
+## دروس اختیاری
 * [اصول سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)
 * [اصول طراحی نرم افزار](docs/elective/Principles-of-SoftwareDesign.md)
 * [اصول مصورسازی داده‌ها](docs/elective/Elements-of-data-visualization.md)
@@ -103,5 +84,3 @@
 * [هوش مصنوعی](docs/elective/Artificial-Intelligence.md)
 * [پردازش تصویر مقدماتی](docs/elective/Elementary-Image-Processing.md)
 * [مبانی و اصول مدیریت](docs/elective/Basics-and-Principles-of-Management.md)
-
-</details>
