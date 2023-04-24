@@ -10,76 +10,16 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-آمار توصیفی
-
-• مثال کاربردی از آمار توصیفی
-
-• مفاهیم ابتدایی آمار استنباطی
-
-• آمار استنباطی بازه اطمینان
-
-• آزمون فرضیه و مثال کاربری از آزمون فرضیه
-
-- **آشنایی با احتمالات و آمار – آماره‌های معمول – واریانس، کوواریانس – توابع چگالی احتمال**
-
-- **تخمین**
-
-  - تخمین نقطه‌ای
-
-  - تخمین بازه‌ای
-
-  - تخمینگر بیشینه درست‌نمایی
-
-- **تست فرضیه**
-
-  - خطای نوع ۱ و نوع ۲
-
-  - P-value
-
-  - ارتباط با بازه اطمینان
-
-  - برخی از تست‌های مهم مانند Chi-Square
-
-- **رگرسیون خطی**
-
-  - روش کمترین مربعات
-
-  - خواص تخمین‌گر کمترین مربعات
-
-  - استنتاج درباره ضرایب رگرسیون
-
-  - انتخاب مدل و بررسی صحت آن
-
-  - معنی‌داری ضرائب مدل
-
-- **تحلیل واریانس**
-
-  - تحلیل واریانس
-
-  - ANOVA
-
-- **روش بدون پارامتر**
-
-  - ضرایب همبستگی Spearman rank
-
-- **آمار بیزی**
-
-  - استنتاج بیزی
-
-- R2 Score – 
-
-- سریهای زمانی – خودهمبستگی – مانایی، میانگین متحرک
-
-- احتمال شرطی – قانون احتمال کل
+جمع آوری اطلاعات آماری و تلخیص و ارائه آن، توزیع فراوانی، اندازه گیری شاخص های آماری، بررسی مفاهیم احتمالات و احتمال کلاسیک، احتمال شرطی، قانون احتمال کل، احتمال بیز، متغیرتصادفی، توزیع احتمال و توابع آن، مقدمه ای بر نمونه گیری، استنباط آماری، برآورد نقطه ای، برآورد فاصله ای، آزمون فرضیه های آماری، ضریب همبستگی و رگرسیون، انواع رگرسیون، مقدمه ای بر سری های زمانی، تحلیل واریانس
 
 **فهرست منابع پیشنهادی**
 
-Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020
+~~Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020~~
 
-Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008
+~~Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008~~
 
-Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012
+~~Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012~~
 
-STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of
+~~STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of~~
 
-Essential Statistics Concepts using Python, AI PUBLISHING
+~~Essential Statistics Concepts using Python, AI PUBLISHING~~
