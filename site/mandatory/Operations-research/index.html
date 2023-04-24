@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="fa">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>تحقیق در عملیات - علوم کامپیوتر فردوسی</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">علوم کامپیوتر فردوسی</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">صفحه اصلی</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">دروس پایه <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../base/Elementary-Statistics-and-Probability/" class="dropdown-item">آمار و احتمال م‍قدماتی</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Calculus-I/" class="dropdown-item">ریاضی عمومی ۱</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Calculus-II/" class="dropdown-item">ریاضی عمومی ۲</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Computer-Workshop-I/" class="dropdown-item">کارگاه کامپیوتر ۱</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Basics-of-Economics/" class="dropdown-item">مبانی اقتصاد</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Foundation-of-Mathematics/" class="dropdown-item">مبانی علوم ریاضی</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Fundamentals-of-Computer-Programming/" class="dropdown-item">مبانی کامپیوتر و برنامه‌سازی</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Differential-Equations/" class="dropdown-item">معادلات دیفرانسیل</a>
+</li>
+                                    
+<li>
+    <a href="../../base/Statistical-Software-and-data-analysis/" class="dropdown-item">نرم‌افزارهای آماری و تحلیل داده‌ها</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">دروس الزامی <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../Principles-of-Computer-Systems/" class="dropdown-item">اصول سیستم‌های کامپیوتری</a>
+</li>
+                                    
+<li>
+    <a href="../Python-Programming/" class="dropdown-item">برنامه‌نویسی پایتون</a>
+</li>
+                                    
+<li>
+    <a href="../Advanced-Programming/" class="dropdown-item">برنامه‌نویسی پیشرفته</a>
+</li>
+                                    
+<li>
+    <a href="../Nonlinear-Optimization/" class="dropdown-item">بهینه‌سازی غیرخطی</a>
+</li>
+                                    
+<li>
+    <a href="../Databases/" class="dropdown-item">پایگاه داده‌ها</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">تحقیق در عملیات</a>
+</li>
+                                    
+<li>
+    <a href="../Statistical-Data-Analysis/" class="dropdown-item">تحلیل آماری داده‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../Numerical-Linear-Algebra/" class="dropdown-item">جبر خطی عددی</a>
+</li>
+                                    
+<li>
+    <a href="../Elementary-Data-Mining/" class="dropdown-item">داده‌کاوی مقدماتی</a>
+</li>
+                                    
+<li>
+    <a href="../Data-Structures-and-Algorithms/" class="dropdown-item">ساختمان داده‌ها و الگوریتم‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../Time-Series/" class="dropdown-item">سری‌های زمانی کاربردی</a>
+</li>
+                                    
+<li>
+    <a href="../Design-and-Analysis-of-Algorithms/" class="dropdown-item">طراحی و تحلیل الگوریتم‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../Apprenticeship/" class="dropdown-item">کارآموزی</a>
+</li>
+                                    
+<li>
+    <a href="../Computer-Workshop-II/" class="dropdown-item">کارگاه کامپیوتر ۲</a>
+</li>
+                                    
+<li>
+    <a href="../Foundation-of-Mathematical-Analysis/" class="dropdown-item">مبانی آنالیز ریاضی</a>
+</li>
+                                    
+<li>
+    <a href="../Foundation-of-Numerical-Analysis/" class="dropdown-item">مبانی آنالیز عددی</a>
+</li>
+                                    
+<li>
+    <a href="../Foundation-of-Combinatorics/" class="dropdown-item">مبانی ترکیبیات</a>
+</li>
+                                    
+<li>
+    <a href="../Foundations-of-Entrepreneurship/" class="dropdown-item">مبانی کارآفرینی</a>
+</li>
+                                    
+<li>
+    <a href="../Foundation-of-Matrix-and-Linear-Algebra/" class="dropdown-item">مبانی ماتریس‌ها و جبر خطی</a>
+</li>
+                                    
+<li>
+    <a href="../Fundamentals-of-Logic/" class="dropdown-item">مبانی منطق و نظریه مجموعه‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../Introduction-to-The-theory-of-Computation/" class="dropdown-item">مبانی نظریه محاسبه</a>
+</li>
+                                    
+<li>
+    <a href="../Mathematical-Modeling/" class="dropdown-item">مدلسازی ریاضی</a>
+</li>
+                                    
+<li>
+    <a href="../Artificial-Intelligence/" class="dropdown-item">هوش مصنوعی</a>
+</li>
+                                    
+<li>
+    <a href="../Elementary-Machine-Learning/" class="dropdown-item">یادگیری ماشین  مقدماتی</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">دروس اختیاری <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../elective/Principles-of-Operating-Systems/" class="dropdown-item">اصول سیستم‌های عامل</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Principles-of-SoftwareDesign/" class="dropdown-item">اصول طراحی نرم افزار</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Randomized-Algorithms/" class="dropdown-item">الگوریتم‌های تصادفی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Mathematics-Lab/" class="dropdown-item">آزمایشگاه ریاضی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Introduction-to-Big-Data/" class="dropdown-item">آشنایی با کلان داده‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Introduction-to-Game-Theory/" class="dropdown-item">آشنایی با نظریه بازی‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Introduction-to-Deep-Learning/" class="dropdown-item">آشنایی با یادگیری عمیق</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Computational-Statistics/" class="dropdown-item">آمار محاسباتی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Probability-and-Statistics-I/" class="dropdown-item">آمار و احتمال ۱</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Probability-and-Statistics-II/" class="dropdown-item">آمار و احتمال ۲</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Numerical-Analysis/" class="dropdown-item">آنالیز عددی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Secure-Programming/" class="dropdown-item">برنامه‌نویسی امن</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Mobile-Programming/" class="dropdown-item">برنامه‌نویسی موبایل</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Web-Programming/" class="dropdown-item">برنامه‌نویسی وب</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Discrete-Optimization/" class="dropdown-item">بهینه‌سازی گسسته</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Elementary-Image-Processing/" class="dropdown-item">پردازش تصویر مقدماتی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Project/" class="dropdown-item">پروژه کارشناسی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Electronic-Commerce/" class="dropdown-item">تجارت الکترونیک</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Social-Networks-Analysis/" class="dropdown-item">تحلیل شبکه‌های اجتماعی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Multicore-Computing/" class="dropdown-item">رایانش چند‌هسته‌ای</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Regression-I/" class="dropdown-item">رگرسیون ۱</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Cryptography/" class="dropdown-item">رمزنگاری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Statistical-Methods/" class="dropdown-item">روش‌های آماری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Fuzzy-Mathematics/" class="dropdown-item">ریاضیات فازی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Signals-and-Systems/" class="dropdown-item">سیگنال‌ها و سیستم‌ها</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Computer-Networks/" class="dropdown-item">شبکه‌های کامپیوتری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Computerized-Simulation/" class="dropdown-item">شبیه سازی کامپیوتری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Design-and-development-of-start-up-businesses/" class="dropdown-item">طراحی و توسعه کسب و کارهای نوپا</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Stochastic-Processes/" class="dropdown-item">فرایند های تصادفی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Compiler/" class="dropdown-item">کامپایلر</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Computer-Graphics/" class="dropdown-item">گرافیک کامپیوتری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Topics-in-Computer-Science-I/" class="dropdown-item">مباحثی در علوم کامپیوتر ۱</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Topics-in-Computer-Science-II/" class="dropdown-item">مباحثی در علوم کامپیوتر ۲</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Introduction-to-Fourier-and-Wavelet-Analysis/" class="dropdown-item">مبانی آنالیز فوریه و موجک ها</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Fundamentals-of-Bioinformatic/" class="dropdown-item">مبانی بیوانفورماتیک</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Foundation-of-Algebra/" class="dropdown-item">مبانی جبر</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Cloud-Computing-Fundamentals/" class="dropdown-item">مبانی رایانش ابری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Basics-and-Principles-of-Management/" class="dropdown-item">مبانی و اصول مدیریت</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Elementary-Scientific-Computing/" class="dropdown-item">محاسبات علمی مقدماتی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Information-Technology-Project-Management/" class="dropdown-item">مدیریت پروژه‌های فناوری اطلاعات</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Operational-Semantics-of-Programming/" class="dropdown-item">معناشناسی عملیاتی برنامه‌نویسی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Logic-for-Computer-Science/" class="dropdown-item">منطق برای علوم کامپیوتر</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Graph-Theory-and-Applications/" class="dropdown-item">نظریه گراف و کاربردها</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Theory-of-Computation/" class="dropdown-item">نظریه محاسبه</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Elementary-Coding-Theory/" class="dropdown-item">نظریه مقدماتی کدگذاری</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Computational-Geometry/" class="dropdown-item">هندسه محاسباتی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Elementary-Business-intelligence/" class="dropdown-item">هوش تجاری مقدماتی</a>
+</li>
+                                    
+<li>
+    <a href="../../elective/Computational-Intelligence/" class="dropdown-item">هوش محاسباتی</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> جستجو
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../Databases/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> قبلی
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../Statistical-Data-Analysis/" class="nav-link">
+                                    بعدی <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="فهرست مطالب">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#_1" class="nav-link">تحقیق در عملیات</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#operations-research" class="nav-link">Operations research</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="_1">تحقیق در عملیات</h1>
+<h2 id="operations-research">Operations research</h2>
+<hr />
+<table>
+<thead>
+<tr>
+<th>نام درس:</th>
+<th>تحقیق در عملیات</th>
+<th>مقطع:</th>
+<th>کارشناسی</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>پیش‌نیاز:</td>
+<td><a href="../Foundation-of-Matrix-and-Linear-Algebra/">مبانی ماتریس‌ها و جبر خطی</a></td>
+<td>گروه درس:</td>
+<td>تخصصی الزامی</td>
+</tr>
+<tr>
+<td>هم‌نیاز:</td>
+<td>ندارد</td>
+<td>نوع درس:</td>
+<td>نظری</td>
+</tr>
+<tr>
+<td>تعداد واحد:</td>
+<td>3</td>
+<td>تعداد ساعت:</td>
+<td>48</td>
+</tr>
+<tr>
+<td>حل تمرین:</td>
+<td>دارد</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>سر فصل یا رئوس مطالب</strong></p>
+<p><code></code>آشنایی با زمینه هاي تحقیق در عملیات به ویژه در اقتصاد و یادگیری ماشین. مدل بندي مسائل بهینه سازي، مفاهیم پایه اي مرتبط با برنامه ریزي خطی شامل روشهاي ترسیمی، سیمپلکس اولیه و دوگان، دوفازي، دوگانی، تحلیل حساسیت. روشهاي حل مسائل حمل ونقل ساده و مرکب. مدل سازي مساله تخصیص و روش حل آن. آشنایی با برنامه ریزي عدد صحیح و روشهاي شاخه و کران و صفحات برشی،آشنایی با ماشین بردار پشتیبان. معرفی یک نرم افزار یا زبان مدلسازي جهت حل مسائل بهینه سازي، مانند CPLEX  و Pyomo</p>
+<p><strong>فهرست منابع پیشنهادی</strong></p>
+<p>1 .برتسیماس، سیتسیکلیس، مقدمه اي بر بهینه سازي خطی، ترجمه حمید اسمعیلی، انتشارات دانشگاه بوعلی سینا، 1394.</p>
+<p>2 .حمدي طه، آشنایی با تحقیق در عملیات: برنامه ریزي خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی، 1387.</p>
+<p>3 .وینستون، تحقیق در عملیات، برنامه‌ریزي خطی و حمل و نقل، ترجمه سید علی میر حسنی و محمدرضا علیرضایی، انتشارات مبتکران، 1380.</p>
+<p>4 .بازارا، جارویس، شرالی، برنامه ریزي خطی، ترجمه اسماعیل خرم، نشر کتاب دانشگاهی، 1392.</p>
+<p>**</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>مستندات ساخته شده توسط <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">جستجو</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">بستن</span></button>
+            </div>
+            <div class="modal-body">
+                <p>از این بخش می‌توانید اسناد را جستجو کنید. عبارت جستجوی خود را در بخش زیر وارد کنید.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="جستجو..." id="mkdocs-search-query" title="عبارت جستجو را اینجا وارد کنید">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="موردی یافت نشد"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">میانبر های صفحه کلید</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">بستن</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">کلیدها</th>
+                    <th>عمل</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>بازکردن این راهنما</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>صفحه بعدی</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>صفحه قبلی</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>جستجو</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
