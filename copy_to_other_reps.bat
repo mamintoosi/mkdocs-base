@@ -9,8 +9,8 @@ cd docs
 xcopy ..\..\mkdocs-base\docs\base base
 xcopy ..\..\mkdocs-base\docs\elective elective
 xcopy ..\..\mkdocs-base\docs\mandatory mandatory
-@REM git commit -am "Auto Commit"
-@REM git push
+git commit -am "Auto Commit"
+git push
 
 cd ..
 cd ..

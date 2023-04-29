@@ -1,4 +1,4 @@
-# 👋 خوش آمدید 
+# خوش آمدید 
 {% hint style="info" %}
 **درباره این سایت:** این سایت صفحه غیررسمی گروه علوم کامپیوتر و مرتبط با برنامه درسی دوره کارشناسی علوم کامپیوتر فردوسی می‌باشد
 سایت، غیر رسمی و در حال راه‌اندازی است و مطالب آن قابلیت استناد ندارند.
@@ -7,7 +7,6 @@
 <details>
 <summary>دروس پایه</summary>
 
-* [آمار و احتمال م‍قدماتی](base/Elementary-Statistics-and-Probability.md)
 * [ریاضی عمومی ۱](base/Calculus-I.md)
 * [ریاضی عمومی ۲](base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](base/Computer-Workshop-I.md)
@@ -15,7 +14,6 @@
 * [مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)
 * [مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](base/Differential-Equations.md)
-* [نرم‌افزارهای آماری و تحلیل داده‌ها](base/Statistical-Software-and-data-analysis.md)
 
 </details>
 
@@ -24,6 +22,7 @@
 <summary>دروس الزامی</summary>
 
 * [اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)
+* [آمار و احتمال ۱](mandatory/Probability-and-Statistics-I.md)
 * [برنامه‌نویسی پایتون](mandatory/Python-Programming.md)
 * [برنامه‌نویسی پیشرفته](mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](mandatory/Nonlinear-Optimization.md)
@@ -42,10 +41,11 @@
 * [مبانی کارآفرینی](mandatory/Foundations-of-Entrepreneurship.md)
 * [مبانی ماتریس‌ها و جبر خطی](mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)
 * [مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md)
-* [مبانی نظریه محاسبه](mandatory/Introduction-to-The-theory-of-Computation.md)
+* [مبانی نظریه محاسبه](mandatory/Introduction-to-the-theory-of-Computation.md)
 * [مدلسازی ریاضی](mandatory/Mathematical-Modeling.md)
+* [نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-data-analysis.md)
 * [هوش مصنوعی](mandatory/Artificial-Intelligence.md)
-* [یادگیری ماشین  مقدماتی](mandatory/Elementary-Machine-Learning.md)
+* [یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)
 
 </details>
 
@@ -61,7 +61,6 @@
 * [آشنایی با نظریه بازی‌ها](elective/Introduction-to-Game-Theory.md)
 * [آشنایی با یادگیری عمیق](elective/Introduction-to-Deep-Learning.md)
 * [آمار محاسباتی](elective/Computational-Statistics.md)
-* [آمار و احتمال ۱](elective/Probability-and-Statistics-I.md)
 * [آمار و احتمال ۲](elective/Probability-and-Statistics-II.md)
 * [آنالیز عددی](elective/Numerical-Analysis.md)
 * [برنامه‌نویسی امن](elective/Secure-Programming.md)

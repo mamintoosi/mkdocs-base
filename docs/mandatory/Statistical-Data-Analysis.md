@@ -1,12 +1,12 @@
 # تحلیل آماری داده‌ها
 ## Statistical Data Analysis
 _______________________________________________________________________________
-| نام درس:    | تحلیل آماری داده‌ها                                                        | مقطع:       | کارشناسی     |
-| ----------- | -------------------------------------------------------------------------- | ----------- | ------------ |
-| پیش‌نیاز:   | [آمار و احتمال م‍قدماتی](../base/Elementary-Statistics-and-Probability.md) | گروه درس:   | تخصصی الزامی |
-| هم‌نیاز:    | ندارد                                                                      | نوع درس:    | نظری         |
-| تعداد واحد: | 3                                                                          | تعداد ساعت: | 48           |
-| حل تمرین:   |  دارد                                                                      |             |              |
+| کارشناسی     | مقطع:       | تحلیل آماری داده‌ها                                             | نام درس:    |
+| ------------ | ----------- | --------------------------------------------------------------- | ----------- |
+| تخصصی الزامی | گروه درس:   | [آمار و احتمال ۱](../mandatory/Probability-and-Statistics-I.md) | پیش‌نیاز:   |
+| نظری         | نوع درس:    | ندارد                                                           | هم‌نیاز:    |
+| 48           | تعداد ساعت: | 3                                                               | تعداد واحد: |
+|              |             |  دارد                                                           | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -14,12 +14,18 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-~~Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020~~
+Hogg, R. V. Tanis, E. and Zimmerman, D. Probability and Statistical Inference, 9th Edition, 
 
-~~Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008~~
+Pearson, 2013
 
-~~Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012~~
+José Unpingco, Python for Probability, Statistics, and Machine Learning, Second Ed., 2019, Springer, Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 
-~~STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of~~
+Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020
 
-~~Essential Statistics Concepts using Python, AI PUBLISHING~~
+Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008
+
+Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012
+
+STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of
+
+Essential Statistics Concepts using Python, AI PUBLISHING
