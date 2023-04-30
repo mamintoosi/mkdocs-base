@@ -18,4 +18,4 @@ Russell, S., & Norvig, P., Artificial intelligence: a modern approach, 4th Editi
 
 «دروس تخصصی اختیاری»
 
-![](Aspose.Words.9eb183c4-53a5-4a65-8f2f-9cc2ebd1dc87.008.png)
+![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.008.png)
