@@ -16,8 +16,7 @@ dir: rtl
 |3|ندارد|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md) | 
 |3|ندارد|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md) | 
 |3|[ریاضی عمومی ۱](docs/base/Calculus-I.md)|[معادلات دیفرانسیل](docs/base/Differential-Equations.md) | 
-|1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/base/Statistical-Software-and-data-analysis.md) | 
- |22|مجموع تعداد واحد|
+ |21|مجموع تعداد واحد|
 
 ## دروس الزامی
 
@@ -41,13 +40,14 @@ dir: rtl
 |3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md) | 
 |3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی آنالیز عددی](docs/mandatory/Foundation-of-Numerical-Analysis.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی ترکیبیات](docs/mandatory/Foundation-of-Combinatorics.md) | 
-|3|ندارد|[مبانی کارآفرینی](docs/mandatory/Foundations-of-Entrepreneurship.md) | 
 |3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی منطق و نظریه مجموعه‌ها](docs/mandatory/Fundamentals-of-Logic.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md) | 
 |3|ندارد|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
+|1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md) | 
+|3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |68|مجموع تعداد واحد|
+ |69|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
@@ -99,5 +99,4 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](docs/elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[هوش محاسباتی](docs/elective/Computational-Intelligence.md) | 
-|3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[هوش مصنوعی](docs/elective/Artificial-Intelligence.md) | 
- |136|مجموع تعداد واحد|
+ |133|مجموع تعداد واحد|

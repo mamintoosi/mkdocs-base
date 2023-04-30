@@ -14,7 +14,6 @@
 * [مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)
 * [مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](base/Differential-Equations.md)
-* [نرم‌افزارهای آماری و تحلیل داده‌ها](base/Statistical-Software-and-data-analysis.md)
 
 </details>
 
@@ -40,11 +39,12 @@
 * [مبانی آنالیز ریاضی](mandatory/Foundation-of-Mathematical-Analysis.md)
 * [مبانی آنالیز عددی](mandatory/Foundation-of-Numerical-Analysis.md)
 * [مبانی ترکیبیات](mandatory/Foundation-of-Combinatorics.md)
-* [مبانی کارآفرینی](mandatory/Foundations-of-Entrepreneurship.md)
 * [مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)
 * [مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md)
 * [مبانی نظریه محاسبه](mandatory/Introduction-to-the-theory-of-Computation.md)
 * [مدلسازی ریاضی](mandatory/Mathematical-Modeling.md)
+* [نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-data-analysis.md)
+* [هوش مصنوعی](mandatory/Artificial-Intelligence.md)
 * [یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)
 
 </details>
@@ -99,6 +99,5 @@
 * [هندسه محاسباتی](elective/Computational-Geometry.md)
 * [هوش تجاری مقدماتی](elective/Elementary-Business-intelligence.md)
 * [هوش محاسباتی](elective/Computational-Intelligence.md)
-* [هوش مصنوعی](elective/Artificial-Intelligence.md)
 
 </details>

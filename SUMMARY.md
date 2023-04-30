@@ -9,7 +9,6 @@
 * [مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)
 * [مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](docs/base/Differential-Equations.md)
-* [نرم‌افزارهای آماری و تحلیل داده‌ها](docs/base/Statistical-Software-and-data-analysis.md)
 ## دروس الزامی
 * [اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)
 * [برنامه‌نویسی پایتون](docs/mandatory/Python-Programming.md)
@@ -29,11 +28,12 @@
 * [مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md)
 * [مبانی آنالیز عددی](docs/mandatory/Foundation-of-Numerical-Analysis.md)
 * [مبانی ترکیبیات](docs/mandatory/Foundation-of-Combinatorics.md)
-* [مبانی کارآفرینی](docs/mandatory/Foundations-of-Entrepreneurship.md)
 * [مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)
 * [مبانی منطق و نظریه مجموعه‌ها](docs/mandatory/Fundamentals-of-Logic.md)
 * [مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md)
 * [مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md)
+* [نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md)
+* [هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md)
 * [یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)
 ## دروس اختیاری
 * [اصول سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)
@@ -82,4 +82,3 @@
 * [هندسه محاسباتی](docs/elective/Computational-Geometry.md)
 * [هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md)
 * [هوش محاسباتی](docs/elective/Computational-Intelligence.md)
-* [هوش مصنوعی](docs/elective/Artificial-Intelligence.md)

@@ -34,6 +34,6 @@ Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Editio
 
 ` `«دروس تخصصی»
 
-![](Aspose.Words.de946f22-5e14-463b-886e-7cedea980546.007.png)
+![](Aspose.Words.9eb183c4-53a5-4a65-8f2f-9cc2ebd1dc87.007.png)
 
 **
