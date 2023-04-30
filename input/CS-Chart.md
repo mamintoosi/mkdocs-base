@@ -516,8 +516,8 @@ Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Editio
 |عنوان درس به فارسی:|<h3>نرم‌افزارهای آماری و تحلیل داده‌ها</h3>|
 | -: | :- |
 |عنوان درس به انگلیسی:|Statistical Software & data analysis|نوع درس و واحد|
-|دروس پیش‏نیاز:|ندارد|پایه £  |نظری £|
-|دروس هم‏نیاز:||تخصصی الزامی¢|عملی n |
+|دروس پیش‏نیاز:|ندارد|پایه ¢ |نظری £|
+|دروس هم‏نیاز:||تخصصی الزامی £ |عملی n |
 |تعداد واحد:|1||تخصصی اختیاری £|نظری-عملی £|
 |تعداد ساعت:|32||رساله / پایان‏نامه £||
 |نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار ¢ سمینار £ کارگاه £ موارد دیگر: ..............|
@@ -3178,10 +3178,3 @@ A.V. Oppenheim, A.S. Willsky, S.H. Nawab, *Signals and Systems*, 2nd Edition, Pr
 **فهرست منابع پیشنهادی:** 
 
 Jack T. Marchewka. Information Technology Project Management. WILEY, 2014.
-
-
-[^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
-[^2]: ["Computer Science as a Profession"](https://web.archive.org/web/20080617030847/http:/www.csab.org/comp_sci_profession.html). Computing Sciences Accreditation Board. May 28, 1997.
-[^3]: [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
-[^4]: در تدوین این برنامه درسی، برنامه‌های درسی مصوب وزارت در سالهای ۱۳۹۹ تا ۱۴۰۱ برای رشته‌های علوم کامپیوتر، ریاضیات و کاربردها و آمار و همچنین برنامه درسی مهندسی کامپیوتر وزارت علوم و چند دانشگاه داخلی و خارجی مورد ملاحظه قرار گرفته‌اند.
-[^5]: Andrew Ng
