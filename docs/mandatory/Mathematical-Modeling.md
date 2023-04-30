@@ -14,12 +14,12 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-1\. Functions and change, 5th Edition, Crauder, Evans and Noell, Houghton Mifflin, 2010.
+\1. Functions and change, 5th Edition, Crauder, Evans and Noell, Houghton Mifflin, 2010.
 
-2\. An Introduction to Mathematical Modeling, Michael Alder, HeavenForBooks.com, 2001.
+\2. An Introduction to Mathematical Modeling, Michael Alder, HeavenForBooks.com, 2001.
 
-3\. An Introduction to Mathematical Modeling: A Course in Mechanics 1st Edition, Tinsley Oden, Wily
+\3. An Introduction to Mathematical Modeling: A Course in Mechanics 1st Edition, Tinsley Oden, Wily
 
 Series in Computational Mechanics, 2011.
 
-4\. Mathematics for Life Sciences, Calculus, Modeling, Probability and Dynamical Systems, G. Ledder, Springer, 2013.
+\4. Mathematics for Life Sciences, Calculus, Modeling, Probability and Dynamical Systems, G. Ledder, Springer, 2013.

@@ -22,14 +22,14 @@ _______________________________________________________________________________
 
 تارخ، محمد جعفر و مهاجری، حسین (1392). هوش تجاری نگرشی پویا در عرصه کسب و کار، انتشارات دانشگاه خواجه نصیر. 
 
-1\.Vercellis, C. (2011). Business intelligence: data mining and optimization for decision making. John Wiley.
+1.Vercellis, C. (2011). Business intelligence: data mining and optimization for decision making. John Wiley.
 
-2\.Azevedo, A. and Santos, M. F. (Eds.). (2020). Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
+2.Azevedo, A. and Santos, M. F. (Eds.). (2020). Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
 
-3\.Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
+3.Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
 
-4\.Sauter, V. L. (2014). Decision support systems for business intelligence. John Wiley & Sons.
+4.Sauter, V. L. (2014). Decision support systems for business intelligence. John Wiley & Sons.
 
-5\.Clark, D. (2019). Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
+5.Clark, D. (2019). Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
 
-6\.Seamark, P. (2018). Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence. Apress.
+6.Seamark, P. (2018). Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence. Apress.

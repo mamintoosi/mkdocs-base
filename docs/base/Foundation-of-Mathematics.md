@@ -25,5 +25,3 @@ Halmos, Paul R. I set theory. Courier Dover Publications, 2017.
 Stewart, Ian, and David Tall. The foundations of mathematics. OUP Oxford, 2015.
 
 Lin, Shwu-Yeng T., and You-Feng Lin. Set theory with applications. Mancorp Pub, 1985.
-
-**

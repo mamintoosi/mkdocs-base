@@ -14,10 +14,10 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-1\. I .Sommerville, Software Engineering, 9th edition, Addison Wesley, 2010.
+\1. I .Sommerville, Software Engineering, 9th edition, Addison Wesley, 2010.
 
-2\. C .Ghezzi, M .Jazayeri, D .Mandrioli, Fundamentals of software engineering, Prentice Hall, 2003.
+\2. C .Ghezzi, M .Jazayeri, D .Mandrioli, Fundamentals of software engineering, Prentice Hall, 2003.
 
-3\. P .A. B. Ng and R. T. Yeh, Modern Software Engineering: Foundations and Current Perspectives, Van Nostrand Reinhold, 1990.
+\3. P .A. B. Ng and R. T. Yeh, Modern Software Engineering: Foundations and Current Perspectives, Van Nostrand Reinhold, 1990.
 
-4\. R. S. Pressman and P. Roger, Software Engineering: A Practitioner's Approach, 7th edition, McGraw Hill, 2009.
+\4. R. S. Pressman and P. Roger, Software Engineering: A Practitioner's Approach, 7th edition, McGraw Hill, 2009.

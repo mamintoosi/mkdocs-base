@@ -7,10 +7,10 @@
 <details>
 <summary>دروس پایه</summary>
 
+* [آمار و احتمال ۱](base/Probability-and-Statistics-I.md)
 * [ریاضی عمومی ۱](base/Calculus-I.md)
 * [ریاضی عمومی ۲](base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](base/Computer-Workshop-I.md)
-* [مبانی اقتصاد](base/Basics-of-Economics.md)
 * [مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)
 * [مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](base/Differential-Equations.md)
@@ -22,7 +22,6 @@
 <summary>دروس الزامی</summary>
 
 * [اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)
-* [آمار و احتمال ۱](mandatory/Probability-and-Statistics-I.md)
 * [برنامه‌نویسی پایتون](mandatory/Python-Programming.md)
 * [برنامه‌نویسی پیشرفته](mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](mandatory/Nonlinear-Optimization.md)
@@ -33,18 +32,19 @@
 * [ساختمان داده‌ها و الگوریتم‌ها](mandatory/Data-Structures-and-Algorithms.md)
 * [سری‌های زمانی کاربردی](mandatory/Time-Series.md)
 * [طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)
+* [طراحی و توسعه کسب و کارهای نوپا](mandatory/Design-and-development-of-start-up-businesses.md)
 * [کارآموزی](mandatory/Apprenticeship.md)
 * [کارگاه کامپیوتر ۲](mandatory/Computer-Workshop-II.md)
+* [مبانی اقتصاد دیجیتال](mandatory/Basics-of-Digital-Economics.md)
 * [مبانی آنالیز ریاضی](mandatory/Foundation-of-Mathematical-Analysis.md)
 * [مبانی آنالیز عددی](mandatory/Foundation-of-Numerical-Analysis.md)
 * [مبانی ترکیبیات](mandatory/Foundation-of-Combinatorics.md)
 * [مبانی کارآفرینی](mandatory/Foundations-of-Entrepreneurship.md)
-* [مبانی ماتریس‌ها و جبر خطی](mandatory/Foundation-of-Matrix-and-Linear-Algebra.md)
+* [مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)
 * [مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md)
 * [مبانی نظریه محاسبه](mandatory/Introduction-to-the-theory-of-Computation.md)
 * [مدلسازی ریاضی](mandatory/Mathematical-Modeling.md)
 * [نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-data-analysis.md)
-* [هوش مصنوعی](mandatory/Artificial-Intelligence.md)
 * [یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)
 
 </details>
@@ -71,7 +71,7 @@
 * [پروژه کارشناسی](elective/Project.md)
 * [تجارت الکترونیک](elective/Electronic-Commerce.md)
 * [تحلیل شبکه‌های اجتماعی](elective/Social-Networks-Analysis.md)
-* [جبر خطی عددی](elective/Numerical-Linear-Algebra.md)
+* [جبر خطی](elective/Linear-Algebra.md)
 * [رایانش چند‌هسته‌ای](elective/Multicore-Computing.md)
 * [رگرسیون ۱](elective/Regression-I.md)
 * [رمزنگاری](elective/Cryptography.md)
@@ -80,7 +80,6 @@
 * [سیگنال‌ها و سیستم‌ها](elective/Signals-and-Systems.md)
 * [شبکه‌های کامپیوتری](elective/Computer-Networks.md)
 * [شبیه سازی کامپیوتری](elective/Computerized-Simulation.md)
-* [طراحی و توسعه کسب و کارهای نوپا](elective/Design-and-development-of-start-up-businesses.md)
 * [فرایند های تصادفی](elective/Stochastic-Processes.md)
 * [کامپایلر](elective/Compiler.md)
 * [گرافیک کامپیوتری](elective/Computer-Graphics.md)
@@ -91,7 +90,6 @@
 * [مبانی جبر](elective/Foundation-of-Algebra.md)
 * [مبانی رایانش ابری](elective/Cloud-Computing-Fundamentals.md)
 * [مبانی و اصول مدیریت](elective/Basics-and-Principles-of-Management.md)
-* [محاسبات علمی مقدماتی](elective/Elementary-Scientific-Computing.md)
 * [مدیریت پروژه‌های فناوری اطلاعات](elective/Information-Technology-Project-Management.md)
 * [معناشناسی عملیاتی برنامه‌نویسی](elective/Operational-Semantics-of-Programming.md)
 * [منطق برای علوم کامپیوتر](elective/Logic-for-Computer-Science.md)
@@ -101,5 +99,6 @@
 * [هندسه محاسباتی](elective/Computational-Geometry.md)
 * [هوش تجاری مقدماتی](elective/Elementary-Business-intelligence.md)
 * [هوش محاسباتی](elective/Computational-Intelligence.md)
+* [هوش مصنوعی](elective/Artificial-Intelligence.md)
 
 </details>

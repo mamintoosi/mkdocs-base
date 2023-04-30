@@ -1,12 +1,12 @@
 # آمار محاسباتی
 ## Computational Statistics
 _______________________________________________________________________________
-| کارشناسی      | مقطع:       | آمار محاسباتی                                                   | نام درس:    |
-| ------------- | ----------- | --------------------------------------------------------------- | ----------- |
-| تخصصی اختیاری | گروه درس:   | [آمار و احتمال ۱](../mandatory/Probability-and-Statistics-I.md) | پیش‌نیاز:   |
-| عملی          | نوع درس:    | ندارد                                                           | هم‌نیاز:    |
-| 48            | تعداد ساعت: | 3                                                               | تعداد واحد: |
-|               |             |                                                                 | حل تمرین:   |
+| کارشناسی      | مقطع:       | آمار محاسباتی                                              | نام درس:    |
+| ------------- | ----------- | ---------------------------------------------------------- | ----------- |
+| تخصصی اختیاری | گروه درس:   | [آمار و احتمال ۱](../base/Probability-and-Statistics-I.md) | پیش‌نیاز:   |
+| عملی          | نوع درس:    | ندارد                                                      | هم‌نیاز:    |
+| 48            | تعداد ساعت: | 3                                                          | تعداد واحد: |
+|               |             |                                                            | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -22,8 +22,8 @@ _______________________________________________________________________________
 
 گیونز، جف‌ اچ‌. (1393). آما‌ر محا‌سبا‌تی‌ (روش‌ بهینه‌سا‌زی عددی)، ترجمه محمدرضا مشکانی، انتشارات پژوهشکده آمار. 
 
-1\. Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
+\1. Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
 
-2\.Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
+2.Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
 
-3\. Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
+\3. Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
