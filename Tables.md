@@ -29,7 +29,7 @@ dir: rtl
 |3|[تحقیق در عملیات](docs/mandatory/Operations-research.md)|[بهینه‌سازی غیرخطی](docs/mandatory/Nonlinear-Optimization.md) | 
 |3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[پایگاه داده‌ها](docs/mandatory/Databases.md) | 
 |3|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[تحقیق در عملیات](docs/mandatory/Operations-research.md) | 
-|4|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) | 
+|3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](docs/mandatory/Time-Series.md) | 
@@ -47,7 +47,7 @@ dir: rtl
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md) | 
 |3|ندارد|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |69|مجموع تعداد واحد|
+ |68|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
