@@ -10,22 +10,25 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-مروری بر مدل سازی ریاضی. روشهای شمارشی و شاخه و کران برای مسایل بهینه‌سازی. معرفی الگوریتم فراابتکاری برای حل مسایل بهینه‌سازی گسسته. مدلسازی مسایل واقعی به کمک گراف و شبکه. الگوریتم‌های تطابق. بررسی کاربردهای مسایل شبکه در حمل و نقل، بهینه‌سازی شبکه و طراحی شبکه. الگوریتمهای مسائل شبکه (جریان بیشینه، برش کمینه)، مسئله پستچی چینی  (تور اویلری و حل آن)،  مسئله کوله‌پشتی و الگوریتم تقریبی برای آن، برخی مسائل پوشش در گراف و حل آنها،  مسئله تخصیص و ارتباط آن با مسئله تطابق بیشینه و روش حل آن،  مسئله فروشنده دوره‌گرد با معرفی 2-opt ، 3-opt و NN،  مسئله افرازبندی گراف، مسائل مکان‌یابی. اجرای پروژه کاربردی.
+
+- مروری بر مدل سازی ریاضی. روشهای شمارشی و شاخه و کران برای مسایل بهینه‌سازی. معرفی الگوریتم فراابتکاری برای حل مسایل بهینه‌سازی گسسته. مدلسازی مسایل واقعی به کمک گراف و شبکه. الگوریتم‌های تطابق. بررسی کاربردهای مسایل شبکه در حمل و نقل، بهینه‌سازی شبکه و طراحی شبکه. الگوریتمهای مسائل شبکه (جریان بیشینه، برش کمینه)، مسئله پستچی چینی  (تور اویلری و حل آن)،  مسئله کوله‌پشتی و الگوریتم تقریبی برای آن، برخی مسائل پوشش در گراف و حل آنها،  مسئله تخصیص و ارتباط آن با مسئله تطابق بیشینه و روش حل آن،  مسئله فروشنده دوره‌گرد با معرفی 2-opt ، 3-opt و NN،  مسئله افرازبندی گراف، مسائل مکان‌یابی. اجرای پروژه کاربردی.
+
 
 **فهرست منابع پیشنهادی**
 
-حمدی طه، آشنایی با تحقیق در عملیات: برنامهریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی،1387
 
-مهدی قطعی، تحقیق در عملیات و بهینه‌سازی ترکیبیاتی، انتشارات ناقوس، 1395.
+- حمدی طه، (۱۳۸۷) آشنایی با تحقیق در عملیات: برنامه‌ریزی خطی پویا و با اعداد صحیح، (م. بازرگان، مترجم). تهران: مرکز نشر دانشگاهی.
 
-J. Lee, A First Course in Combinatorial Optimization, Cambridge University Press, 2004.
+- مهدی قطعی، (1395). تحقیق در عملیات و بهینه‌سازی ترکیبیاتی. تهران: انتشارات ناقوس.
 
-T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein, Introduction to Algorithms, 3rd Edition, The MIT Press, 2009.
+- Lee, J. (2004). A First Course in Combinatorial Optimization. Cambridge University Press.
 
-C.H. Papadimitriou, R. Steiglitz, Combinatorial Optimization Algorithms and Complexity, Perintice Hall, 1982.
+- Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). The MIT Press.
 
-V. Balakrishnan, Network Optimization, Chapman and Hall/CRC , 1995.
+- Papadimitriou, C.H., & Steiglitz, R. (1982). Combinatorial Optimization Algorithms and Complexity. Prentice-Hall.
 
-R.K. Ahuja, T.L. Magnanti, J.B. Orlin, Network Flows: Theory, Algorithms, and Applications, Prentice-Hall, 1993.
+- Balakrishnan, V. (1995). Network Optimization. Chapman and Hall/CRC.
+
+- Ahuja, R.K., Magnanti, T.L., & Orlin, J.B. (1993). Network Flows: Theory, Algorithms, and Applications. Prentice-Hall.
 
 **

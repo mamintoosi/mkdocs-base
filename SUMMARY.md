@@ -50,6 +50,7 @@
 * [برنامه‌نویسی امن](docs/elective/Secure-Programming.md)
 * [برنامه‌نویسی موبایل](docs/elective/Mobile-Programming.md)
 * [برنامه‌نویسی وب](docs/elective/Web-Programming.md)
+* [بهینه‌سازی گسسته](docs/elective/Discrete-Optimization.md)
 * [پردازش تصویر مقدماتی](docs/elective/Elementary-Image-Processing.md)
 * [پروژه کارشناسی](docs/elective/Project.md)
 * [تجارت الکترونیک](docs/elective/Electronic-Commerce.md)

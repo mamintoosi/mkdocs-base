@@ -20,5 +20,3 @@ _______________________________________________________________________________
 - Henle, J. M. (1986). An Outline of Set Theory. Springer-Verlag.
 
 - Huth, M., & Ryan, M. (2004). Logic in Computer Science: Modelling and reasoning about systems. Cambridge university press.
-
-**

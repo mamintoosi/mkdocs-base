@@ -21,4 +21,4 @@ Berkeley notes in Intro to Artificial Intelligence course: <https://inst.eecs.be
 
 «دروس تخصصی اختیاری»
 
-![](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.008.png)
+![](Aspose.Words.4811e529-edda-4feb-ad77-629bce69f956.008.png)

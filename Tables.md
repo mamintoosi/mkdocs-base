@@ -38,7 +38,7 @@ dir: rtl
 |3|` `اجازه گروه|[کارآموزی](docs/mandatory/Apprenticeship.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۲](docs/mandatory/Computer-Workshop-II.md) | 
 |2|ندارد|[مبانی اقتصاد دیجیتال](docs/mandatory/Basics-of-Digital-Economics.md) | 
-|3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md) | 
+|3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md) ،[ریاضی عمومی ۱](docs/base/Calculus-I.md)|[مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md) | 
 |3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی آنالیز عددی](docs/mandatory/Foundation-of-Numerical-Analysis.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی ترکیبیات](docs/mandatory/Foundation-of-Combinatorics.md) | 
 |3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) | 
@@ -67,6 +67,7 @@ dir: rtl
 |3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[برنامه‌نویسی امن](docs/elective/Secure-Programming.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[برنامه‌نویسی موبایل](docs/elective/Mobile-Programming.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[برنامه‌نویسی وب](docs/elective/Web-Programming.md) | 
+|3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[بهینه‌سازی گسسته](docs/elective/Discrete-Optimization.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[پردازش تصویر مقدماتی](docs/elective/Elementary-Image-Processing.md) | 
 |3|گذراندن 75 واحد|[پروژه کارشناسی](docs/elective/Project.md) | 
 |2|ندارد|[تجارت الکترونیک](docs/elective/Electronic-Commerce.md) | 
@@ -98,4 +99,4 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](docs/elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[هوش محاسباتی](docs/elective/Computational-Intelligence.md) | 
- |132|مجموع تعداد واحد|
+ |135|مجموع تعداد واحد|
