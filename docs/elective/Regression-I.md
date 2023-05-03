@@ -16,20 +16,24 @@ _______________________________________________________________________________
 
 `     `تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمونهای کوتاه. این درس نیاز به انجام پروژه و تحلیل داده‌های واقعی توسط دانشجو دارد. همراه با آموزش نظری، مطالب درس به مهارت تحلیل دادهها  و تسلط دانشجویان به نرم افزارهای آماری نیاز دارد که استاد درس بایستی در آزمایشگاه نرم افزار ارائه دهد و دانشجویان فعالیتهای تعریف شده را  انجام دهند. این درس نیاز به انجام پروژه و تحلیل داده‌های واقعی توسط دانشجو دارد.
 
-**ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
+ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی**
 
-1-مونتگمری، د.،  پک، آ و جافری، و. (1395). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
+-
 
-\2. امینی، م. زمانی، ح. روزبه، م.  (1398). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
+- - مونتگمری، د.،  پک، آ و جافری، و. (۱۳۹۵). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
 
-1. Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
+- - امینی، م. زمانی، ح. روزبه، م.  (۱۳۹۸). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
 
-1. Olive, D. (2017). Linear Regression, Springer.
+- - Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
 
-1. Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
+- - Olive, D. (2017). Linear Regression, Springer.
 
-1. Weisberg, S. (2013). Applied linear regression. John Wiley.
+- - Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
 
-1. Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
+- - Weisberg, S. (2013). Applied linear regression. John Wiley.
+
+- - Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
+
+**

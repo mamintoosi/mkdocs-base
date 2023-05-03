@@ -20,12 +20,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-\1. مار، برنارد (1396). [داده‌های بزرگ ارتقای تصمیم گیری و عملکرد با استفاده از داده‌های بزرگ هوشمند: تحلیل شناسی و معیارها](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)، ترجمه: موسی خانی، مرتضی، انتشارات آوند دانش. 
+-
 
-2. EMC Education Services. (2015). Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
+- - مار، برنارد (1396). [داده‌های بزرگ ارتقای تصمیم گیری و عملکرد با استفاده از داده‌های بزرگ هوشمند: تحلیل شناسی و معیارها](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)، ترجمه: موسی خانی، مرتضی، انتشارات آوند دانش. 
 
-2. Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
+- - EMC Education Services. (2015). Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
 
-2. Sarangi, S., and Sharma, P. (2019). Big Data: A Beginner’s Introduction. Routledge.
+- - Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
 
-2. Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021). Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.
+- - Sarangi, S., and Sharma, P. (2019). Big Data: A Beginner’s Introduction. Routledge.
+
+- - Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021). Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.

@@ -10,38 +10,42 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-•	چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
+-
 
-•	محیط‌های مجتمع توسعه
+- - چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
 
-•	ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
+- - محیط‌های مجتمع توسعه
 
-•	برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
+- - ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
 
-•	وراثت در شی گرایی و چندریختی در شی گرایی
+- - برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
 
-•	مدیریت استثناء
+- - وراثت در شی گرایی و چندریختی در شی گرایی
 
-•	رابط گرافیکی و مفاهیم Interface
+- - مدیریت استثناء
 
-•	کار با فایل‌ها
+- - رابط گرافیکی و مفاهیم Interface
 
-•	جریان داده
+- - کار با فایل‌ها
 
-•	کار با رشته و آرایه
+- - جریان داده
 
-•	حافظه پویا
+- - کار با رشته و آرایه
 
-•	(درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
+- - حافظه پویا
 
-- قالبها، فضای نام، auto، 
+- - (درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
 
-- Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
+- - قالبها، فضای نام، auto، 
+
+- - Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
 
 **فهرست منابع پیشنهادی**
 
-Ivor Horton and Peter Van Weert, Beginning C++17: From Novice to Professional, Apress, 2018
+-
 
-Ivor Horton and Peter Van Weert, Beginning C++20: From Novice to Professional, Apress, 2020
+- - Horton, I., & Van Weert, P. (2018). Beginning C++17: From Novice to Professional. Apress.
 
-P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017.
+- - Horton, I., & Van Weert, P. (2020). Beginning C++20: From Novice to Professional. Apress.
+
+- - Deitel, P., & Deitel, H. (2017). C++ How to Program (11th ed.). Pearson Education.

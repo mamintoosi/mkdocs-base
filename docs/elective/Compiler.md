@@ -10,12 +10,16 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-معرفی کلی کامپایلر. فاز تحلیل لغوی. آتوماتای متناهی. تجزیه بالا یه پایین. تجزیه پایین به بالا. تحلیل معنایی. تولید کد. بهینه‌سازی محلی. بهینه‌سازی سراسری.
+-
+
+- معرفی کلی کامپایلر. فاز تحلیل لغوی. آتوماتای متناهی. تجزیه بالا یه پایین. تجزیه پایین به بالا. تحلیل معنایی. تولید کد. 
 
 **فهرست منابع پیشنهادی**
 
-Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, Compilers: Principles, Techniques, and Tools, 2nd Edition, Pearson, 2007.
+-
 
-Douglas Thain, Introduction to Compilers and Language Design, 2nd Edition, 2020, downloadable from http://compilerbook.org.
+- - Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2007). Compilers: Principles, Techniques, and Tools. 2nd Edition. Pearson.
 
-Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevier, 2012.
+- - Thain, D. (2020). Introduction to Compilers and Language Design. 2nd Edition. Retrieved from http://compilerbook.org
+
+- - Cooper, K. D., & Torczon, L. (2012). Engineering a Compiler. 2nd Edition. Elsevier.

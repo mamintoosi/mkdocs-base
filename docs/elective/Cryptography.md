@@ -10,14 +10,20 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-مقدمه‌ای بر رمزنگاری. ساختارهای اساسی رمزنگاری. رمزنگاری متقارن. رمزنگاری کلید عمومی. امضای دیجیتال. ریاضی رمز. تعاریف مبتنی بر شبیه‌سازی. مدل پیشگوی تصادفی. پروتکل های رمزنگاری. رمزنگاری کوانتومی.
+-
+
+- مقدمه‌ای بر رمزنگاری. ساختارهای اساسی رمزنگاری. رمزنگاری متقارن. رمزنگاری کلید عمومی. امضای دیجیتال. ریاضی رمز. تعاریف مبتنی بر شبیه‌سازی. مدل پیشگوی تصادفی. پروتکل های رمزنگاری. رمزنگاری کوانتومی.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-Jonathan Katz and Yehuda Lindell. Introduction to Modern Cryptography, CRC Press, 2007.
+-
 
-O. Goldreich. Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press, 2001.
+- - Katz, J., & Lindell, Y. (2007). Introduction to Modern Cryptography. CRC Press.
 
-O. Goldreich. Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press, 2004.
+- - Goldreich, O. (2001). Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press.
 
-A.J. Menezes, P.C. van Oorschot, and S.A. Vanstone. Handbook of Applied Cryptography, CRC Press, 1996.
+- - Goldreich, O. (2004). Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press.
+
+- - Menezes, A. J., van Oorschot, P. C., & Vanstone, S. A. (1996). Handbook of Applied Cryptography. CRC Press.

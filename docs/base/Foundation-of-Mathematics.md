@@ -14,14 +14,16 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-موحد، ضیاء، درآمدی به منطق جدید، انتشارات و آموزش انقلاب اسلامی ، 1379
+-
 
-ناصر، بردجربان. مبانی و مقدمات علم ریاضی، مرکز نشر پرفسور حسابی، 1377
+- - موحد، ضیاء (1379). درآمدی به منطق جدید. انتشارات و آموزش انقلاب اسلامی.
 
-سپهری ، محمد رضا. آشنائی با مبانی علوم ریاضی، مرکز نشر آینه، 1390
+- - بردجربان ، ناصر (1377). مبانی و مقدمات علم ریاضی. مرکز نشر پرفسور حسابی.
 
-Halmos, Paul R. I set theory. Courier Dover Publications, 2017.
+- - سپهری ، محمد رضا (1390). آشنائی با مبانی علوم ریاضی. مرکز نشر آینه.
 
-Stewart, Ian, and David Tall. The foundations of mathematics. OUP Oxford, 2015.
+- - Halmos, P. R. (2017). I Set Theory. Courier Dover Publications.
 
-Lin, Shwu-Yeng T., and You-Feng Lin. Set theory with applications. Mancorp Pub, 1985.
+- - Stewart, I., & Tall, D. (2015). The Foundations of Mathematics. Oxford University Press.
+
+- - Lin, S.-Y. T., & Lin, Y.-F. (1985). Set Theory with Applications. Mancorp Pub.

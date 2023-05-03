@@ -22,8 +22,10 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-1. J. M. Keller, D. Liu and D. B. Fogel, Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation, Wiley, 2016. 
+-
 
-1. P. Engelbrecht, Computational Intelligence: An Introduction, Wiley, 2007.
+- - Keller, J. M., Liu, D., & Fogel, D. B. (2016). Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation. Wiley.
 
-1. Konar, Computational Intelligence: Principles, Techniques and Applications, Springer, 2007.
+- - Engelbrecht, P. (2007). Computational Intelligence: An Introduction. Wiley.
+
+- - Konar, A. (2007). Computational Intelligence: Principles, Techniques and Applications. Springer.

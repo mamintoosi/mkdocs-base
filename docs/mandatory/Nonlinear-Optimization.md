@@ -10,22 +10,26 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-مدل سازی شامل: کاربردهایی از بهینه سازی محدب مانند طبقه بندی خطی، برازش داده‌ها (کمترین مربعات خطی و غیر خطی)، مدل های سبد سرمایه (مدل میانگین-واریانس و مینیمم واریانس مارکوویتز)، کنترل بهینه، مساله ماکسیمم درست نمایی، مساله اشتاینر، ........؛ شکل کلی مسایل بهینه سازی، شرایط لازم و کافی برای مسایل نامقید و مقید، شرایط کاروش-کیون-تاکر؛ الگوریتم‌های حل مسایل نامقید شامل: روشهای بر مبنای جستجوی خطی( جستجوی طلایی، فیبوناچی، عقب گرد)، روشهای گرادیان و نیوتن و بررسی نقاط ضعف و قوت آنها. روش های گرادیان مزدوج و شبه نیوتن. مسایل بهینه سازی درجه دوم محدب با قیود خطی و معرفی برخی روش های حل آن ؛ الگوریتم‌های حل مسایل مقید مانند الگوریتم‌های نقطه درونی. پیاده سازی الگوریتم‌ها  در پایتون یا نرم‌افزار مشابه.
+-
+
+- مدل سازی شامل: کاربردهایی از بهینه سازی محدب مانند طبقه بندی خطی، برازش داده‌ها (کمترین مربعات خطی و غیر خطی)، مدل های سبد سرمایه (مدل میانگین-واریانس و مینیمم واریانس مارکوویتز)، کنترل بهینه، مساله ماکسیمم درست نمایی، مساله اشتاینر، ........؛ شکل کلی مسایل بهینه سازی، شرایط لازم و کافی برای مسایل نامقید و مقید، شرایط کاروش-کیون-تاکر؛ الگوریتم‌های حل مسایل نامقید شامل: روشهای بر مبنای جستجوی خطی( جستجوی طلایی، فیبوناچی، عقب گرد)، روشهای گرادیان و نیوتن و بررسی نقاط ضعف و قوت آنها. روش های گرادیان مزدوج و شبه نیوتن. مسایل بهینه سازی درجه دوم محدب با قیود خطی و معرفی برخی روش های حل آن ؛ الگوریتم‌های حل مسایل مقید مانند الگوریتم‌های نقطه درونی. پیاده سازی الگوریتم‌ها  در پایتون یا نرم‌افزار مشابه.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-1. د. ج. لوئنبرگر، برنامه‌ریزی خطی و غیرخطی، ترجمه نظام‌الدین مهدوی امیری و محمدحسین پور کاظمی، دانشگاه صنعتی شریف، ۱۳۹۲.
+- لوئنبرگر، د. ج.، مهدوی امیری، ن.، و پور کاظمی، محمدحسین. (۱۳۹۲). برنامه‌ریزی خطی و غیرخطی. تهران: دانشگاه صنعتی شریف.
 
-1. M. Bazaraa, H.D. Sherali, C.M. Shetty, *Nonlinear Programming: Theory and Algorithms*, 3rd edition, John Wiley & Sons, 2006.
+- Bazaraa, M., Sherali, H. D., & Shetty, C. M. (2006). Nonlinear Programming: Theory and Algorithms (3rd ed.). John Wiley & Sons.
 
-1. Stephen Boyd and Lieven Vandenberghe. *Convex optimization*. Cambridge university press, 2004.
+- Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University Press.
 
-1. E.K.P. Chong, S.H. Zak, An Introduction to Optimization, 4th edition, Wiley, 2013.
+- Chong, E. K. P., & Zak, S. H. (2013). An Introduction to Optimization (4th ed.). Wiley.
 
-1. 4. I. Griva, S.G. Nash, A. Sofer, Linear and Nonlinear Optimization, 2nd edition, SIAM, 2009.
+- Griva, I., Nash, S. G., & Sofer, A. (2009). Linear and Nonlinear Optimization (2nd ed.). SIAM.
 
-1. Jorge Nocedal and Stephen Wright. *Numerical optimization*. Springer Series in Operations Research and Financial Engineering, 2nd edition, 2006.
+- Nocedal, J., & Wright, S. (2006). Numerical optimization (2nd ed.). Springer Series in Operations Research and Financial Engineering.
 
-1. *Convex Optimization* taught by Ryan Tibshirani at CMU from 2013 to 2019.
+- Tibshirani, R. (2013-2019). Convex Optimization [Course]. Carnegie Mellon University.
 
-1. S.S. RAO: Optimization: Theory and Applications, August 9, 1978, John Wiley and Sons
+- Rao, S. S. (1978). Optimization: Theory and Applications. John Wiley & Sons.

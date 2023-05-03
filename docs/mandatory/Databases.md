@@ -14,12 +14,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-R. Elmasri, S. Navathe, Fundamentals of Database Systems, 7th edition, 2015
+-
 
-A. Silberschatz, H. F. Korth, S. Sudarshan, Database System Concepts, 7th edition, 2019.
+- - Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems (7th ed.). Pearson.
 
-Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
+- - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts (7th ed.). McGraw-Hill Education.
 
-Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
+- - Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
 
-Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson
+- - Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
+
+- - Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson.

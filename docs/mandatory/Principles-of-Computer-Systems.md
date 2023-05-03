@@ -14,6 +14,8 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-Mano, M. Morris. Computer system architecture. 3th Edition, Prentice-Hall of India, 2003.
+-
 
-Patterson, D. A., & Hennessy, J. L., Computer organization and design: the hardware/software interface, (Rev. ed. of: Computer organization and design/John L. Hennessy, David A. Patterson.1998.), Morgan Kaufmann, 2012.
+- - Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
+
+- - Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)

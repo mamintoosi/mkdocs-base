@@ -30,14 +30,16 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-1. R. Neopolitan. Foundations of algorithms. Jones & Bartlett Learning, 2015.
+-
 
-1. J. Kleinberg and E. Tardos. Algorithm Design. Addison Wesley, 2005.
+- - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
 
-1. T. Cormen, C. Leiserson, R. Riverst, and C. Stein. Introduction to Algorithms. 3rd Edition, MIT Press, 2009.
+- - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
 
-1. U. Manber. Introduction to Algorithms: A Creative Approach. Addison-Wesley, 1989.
+- - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
 
-1. G. Brassard, P. Bratley. Algorithmics: Theory and Practice. Prentice-Hall, 1988
+- - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
+
+- - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
 
 **

@@ -10,8 +10,12 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-خواص گرافی شبکه‌های اجتماعی. نظریه بازی در شبکه‌های اجتماعی. انتشار اطلاعات در شبکه‌های اجتماعی. دینامیک شبکه‌های اجتماعی.
+-
+
+- خواص گرافی شبکه‌های اجتماعی. نظریه بازی در شبکه‌های اجتماعی. انتشار اطلاعات در شبکه‌های اجتماعی. دینامیک شبکه‌های اجتماعی.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-D. Easley, J. Kleinberg, Networks, Crowds, and Markets: Reasoning about a Highly Connected World, Cambridge University Press, 2010.
+- Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press.

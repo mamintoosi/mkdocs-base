@@ -12,24 +12,22 @@ _______________________________________________________________________________
 
 معرفی بیوانفورماتیک، حوزه های علم بیوانفورماتیک، کاربردهای بیوانفورماتیک،  اساس بیوشیمی و زیست‌شناسی سلولی، ساختار مولکولی و شیمی فیزیکی پروتئین‌ها و DNA، گرافیک مولکولی، بانک‌های اطلاعاتی ساختاری، آنالیز توالی پروتئین و DNA، روشهای پیشگو به‌وسیله توالی‌های پروتئین و DNA، آنالیز ژنومیک، کاربرد بالینی / پزشکی و درمانی Bio-informatics
 
-**راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:** 
-
-**
-
-` `تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمونهای کوتاه توسط مدرس، در کنار آموزشهای کلاس درس، دانشجویان نیاز  به تمرین بیشتر و در برخی مطالب نیاز به مهارت و کار با نرم افزارهای آماری برای تحلیل داده دارند. کلاس حل تمرین در دو بخش نظری 8 جلسه 2 ساعتی و آزمایشگاه نرم افزار در 4 جلسه 2 ساعتی برگزار شود. این درس نیاز به انجام پروژه توسط دانشجو دارد. 
-
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی**
 
-\1. نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (1398). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
+-
 
-1. Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
+- - نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (۱۳۹۸). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
 
-1. Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
+- - Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
 
-1. Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
+- - Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
 
-1. Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
+- - Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
 
-1. Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
+- - Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
+
+- - Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
+
+-

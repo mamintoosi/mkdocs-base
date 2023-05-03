@@ -14,12 +14,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-1. Fabrizio Romano, Dusty Phillips, Rick van Hattem, Python: Journey from Novice to Expert, 2016, Packt Publishing
+-
 
-1. P. Wentworth, J. Elkner, A. B. Downey, C. Meyers. How to Think Like a Computer Scientist: Learning with Python. 3rd Edition, Open Book Project, 2011.
+- - Romano, F., Phillips, D., & van Hattem, R. (2016). Python: Journey from Novice to Expert. Packt Publishing.
 
-1. J. Campbell, P. Gries, J. Montojo, G. Wilson. Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf, 2009.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
 
-1. J. M. Zelle. Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates, 2004.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
 
-1. Micha Gorelick and Ian Ozsvald, High-Performance-Python, y O’Reilly Media, Inc., 2014
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O'Reilly Media, Inc.

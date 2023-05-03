@@ -44,10 +44,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-2. *D. A. Patterson and J. L. Hennessy. Computer Architecture: A quantitative approach. Morgan Kaufmann, 2019.*
+-
 
-2. *J. Sanders and E. Kandrot. CUDA by examples: An introduction to GPU programming. Addison-Wesley, 2011.*
+- - Patterson, D. A., & Hennessy, J. L. (2019). Computer Architecture: A Quantitative Approach. Morgan Kaufmann.
 
-2. *D. B. Kirk and W. W. Hwu. Programming massively parallel processors: A hands-on approach. NVIDIA, 2010.*
+- - Sanders, J., & Kandrot, E. (2011). CUDA by Examples: An Introduction to GPU Programming. Addison-Wesley.
 
-2. *M. McCool, A.D. Robison, and J. Reinders. Structured Parallel Programming. Elsevier, 2012.*
+- - Kirk, D. B., & Hwu, W. W. (2010). Programming Massively Parallel Processors: A Hands-On Approach. NVIDIA.
+
+- - McCool, M., Robison, A. D., & Reinders, J. (2012). Structured Parallel Programming. Elsevier.
+
+-

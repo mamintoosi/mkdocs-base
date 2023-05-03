@@ -10,20 +10,22 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-منابع خطا، سیستم‌های نمایشی اعداد، خطای رندکردن و تحلیل آن. ریشه‌یابی توابع و دستگاههای غیر خطی. درون‌یابی. تقریب کمترین مربعات. مشتق‌گیری عددی. انتگرال‌گیری عددی. حل دستگاه‌های خطی.
+-
+
+- منابع خطا، سیستم‌های نمایشی اعداد، خطای رندکردن و تحلیل آن. ریشه‌یابی توابع و دستگاههای غیر خطی. درون‌یابی. تقریب کمترین مربعات. مشتق‌گیری عددی. انتگرال‌گیری عددی. حل دستگاه‌های خطی.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-Burden, R. L., & Faires, J. D., Solutions of equations in one variable the bisection
+-
 
-method. Brooks/Cole, Cengage Learning, 2011.
+- - Burden, R. L., & Faires, J. D. (2011). Solutions of equations in one variable: the bisection method. Brooks/Cole, Cengage Learning.
 
-Dahlquist, G., & Björck, Å., Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics, 2008.
+- - Dahlquist, G., & Björck, Å. (2008). Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics.
 
-Süli, E., & Mayers, D. F., An introduction to numerical analysis. Cambridge university press, 2003.
+- - Süli, E., & Mayers, D. F. (2003). An introduction to numerical analysis. Cambridge university press.
 
-Hildebrand, F. B., Introduction to numerical analysis. Courier Corporation, 1987.
+- - Hildebrand, F. B. (1987). Introduction to numerical analysis. Courier Corporation.
 
-Stoer, J., & Bulirsch, R., Introduction to numerical analysis (Vol. 12). Springer Science &
-
-Business Media, 2013
+- - Stoer, J., & Bulirsch, R. (2013). Introduction to numerical analysis (Vol. 12). Springer Science & Business Media.

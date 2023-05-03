@@ -10,12 +10,18 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-مقدمه ای بر شبیه سازی. اصول کلی و زبانهای شبیه سازی. مدلهای ریاضی و آماری در شبیه سازی. مدلهای صف. سیستمهای موجودی. تولید اعداد تصادفی. تجزیه و تحلیل داده‌های ورودی به مدل. آزمایش مدلهای شبیه سازی و تعیین اعتبار آنها. تجزیه و تحلیل نتایج به دست آمده از یک مدل شبیه سازی. اجرای یک پروژه عملی.
+-
+
+- مقدمه ای بر شبیه سازی. اصول کلی و زبانهای شبیه سازی. مدلهای ریاضی و آماری در شبیه سازی. مدلهای صف. سیستمهای موجودی. تولید اعداد تصادفی. تجزیه و تحلیل داده‌های ورودی به مدل. آزمایش مدلهای شبیه سازی و تعیین اعتبار آنها. تجزیه و تحلیل نتایج به دست آمده از یک مدل شبیه سازی. اجرای یک پروژه عملی.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-Wainer, G. A., Discrete-event modeling and simulation: a practitioner's approach. CRC press, 2017.
+-
 
-Banks, J., Discrete event system simulation. Pearson Education India, 2005.
+- - Wainer, G. A. (2017). Discrete-Event Modeling and Simulation: A Practitioner's Approach. CRC Press.
 
-Banks, J. (Ed.), Handbook of simulation: principles, methodology, advances, applications, and practice. John Wiley & Sons, 1998.
+- - Banks, J. (2005). Discrete Event System Simulation. Pearson Education India.
+
+- - Banks, J. (Ed.). (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice. John Wiley & Sons.

@@ -10,8 +10,14 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-معناشناسی عملیاتی. درستی یابی برنامه. تایپ های بازگشتی.
+-
+
+- معناشناسی عملیاتی. درستی یابی برنامه. تایپ های بازگشتی.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-G. Winskel, The Formal Semantics of Programming Languages An Introduction, The MIT Press, 1994
+-
+
+- - Winskel, G., (1994), The Formal Semantics of Programming Languages An Introduction, The MIT Press, 

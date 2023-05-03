@@ -20,14 +20,16 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-\1. گوس، جی و منیروپ، د. (1401). آمار با نرم افزار JMP: نمودارها، آمار توصیفی و احتمال، ترجمه: بزرگنیا، ا.، و همکاران، انتشارات فردوسی مشهد. 
+-
 
-\2. وناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و2، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی.
+- - گوس، جی و منیروپ، د. (1401). آمار با نرم افزار JMP: نمودارها، آمار توصیفی و احتمال، ترجمه: بزرگنیا، ا.، و همکاران، انتشارات فردوسی مشهد.
 
-\2. Goos, P. and Meintrup, D. (2015).Statistics with JMP: graphs, descriptive statistics and probability. Wiley.
+- - وناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و 2، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی.
 
-\3. Rahlf, T. (2019).Data Visualisation with R: 111 Eexamples. Springer Nature. 
+- - Goos, P., & Meintrup, D. (2015). Statistics with JMP: Graphs, Descriptive Statistics and Probability. Wiley.
 
-\4. Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
+- - Rahlf, T. (2019). Data Visualisation with R: 111 Examples. Springer
+
+- - Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
 
 **

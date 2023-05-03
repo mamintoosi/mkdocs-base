@@ -20,7 +20,7 @@ nav:
     - "تحلیل آماری داده‌ها": mandatory/Statistical-Data-Analysis.md
     - "داده‌کاوی مقدماتی": mandatory/Elementary-Data-Mining.md
     - "ساختمان داده‌ها و الگوریتم‌ها": mandatory/Data-Structures-and-Algorithms.md
-    - "سری‌های زمانی کاربردی": mandatory/Time-Series.md
+    - "سری‌های زمانی کاربردی": mandatory/Applied-Time-Series.md
     - "طراحی و تحلیل الگوریتم‌ها": mandatory/Design-and-Analysis-of-Algorithms.md
     - "طراحی و توسعه کسب و کارهای نوپا": mandatory/Design-and-development-of-start-up-businesses.md
     - "کارآموزی": mandatory/Apprenticeship.md
@@ -46,10 +46,10 @@ nav:
     - "آمار محاسباتی": elective/Computational-Statistics.md
     - "آمار و احتمال ۲": elective/Probability-and-Statistics-II.md
     - "آنالیز عددی": elective/Numerical-Analysis.md
+    - "بازی‌سازی و بازی‌انگاری": elective/Gamification-and-Game-Design.md
     - "برنامه‌نویسی امن": elective/Secure-Programming.md
     - "برنامه‌نویسی موبایل": elective/Mobile-Programming.md
     - "برنامه‌نویسی وب": elective/Web-Programming.md
-    - "بهینه‌سازی گسسته": elective/Discrete-Optimization.md
     - "پردازش تصویر مقدماتی": elective/Elementary-Image-Processing.md
     - "پروژه کارشناسی": elective/Project.md
     - "تجارت الکترونیک": elective/Electronic-Commerce.md
@@ -72,7 +72,6 @@ nav:
     - "مبانی بیوانفورماتیک": elective/Fundamentals-of-Bioinformatic.md
     - "مبانی جبر": elective/Foundation-of-Algebra.md
     - "مبانی رایانش ابری": elective/Cloud-Computing-Fundamentals.md
-    - "مبانی و اصول مدیریت": elective/Basics-and-Principles-of-Management.md
     - "مدیریت پروژه‌های فناوری اطلاعات": elective/Information-Technology-Project-Management.md
     - "معناشناسی عملیاتی برنامه‌نویسی": elective/Operational-Semantics-of-Programming.md
     - "منطق برای علوم کامپیوتر": elective/Logic-for-Computer-Science.md

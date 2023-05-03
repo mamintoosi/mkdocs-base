@@ -10,14 +10,20 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-اتاماتای متناهی به عنوان یک ماشین محاسبه ساده. خواص اتاماتای متناهی. لم پامپینگ . کلاس های هم ارزی جداناپذیری روی یک زبان.  زبان های منظم و عبارتهای منظم. اتاماتای غیر قطعی و قضایای کلینی. زبان های مستقل از متن. گرامر مستقل از متن. لم پامپینگ برای زبان های مستقل از متن. اتاماتای پشته ای. اتاماتای پشته ای قطعی. خواص زبان های مستقل از متن. معرفی ماشین تورینگ. حل چند مساله با ماشین تورینگ.
+-
+
+- اتاماتای متناهی به عنوان یک ماشین محاسبه ساده. خواص اتاماتای متناهی. لم پامپینگ . کلاس های هم ارزی جداناپذیری روی یک زبان.  زبان های منظم و عبارتهای منظم. اتاماتای غیر قطعی و قضایای کلینی. زبان های مستقل از متن. گرامر مستقل از متن. لم پامپینگ برای زبان های مستقل از متن. اتاماتای پشته ای. اتاماتای پشته ای قطعی. خواص زبان های مستقل از متن. معرفی ماشین تورینگ. حل چند مساله با ماشین تورینگ.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-Sipser, Michael. Introduction to the Theory of Computation. Cengage learning, 2012.
+-
 
-G. Boolos, J. Burgess, and R. Jeffrey. Computability and Logic. 5th Edition, Cambridge University Press, 2007.
+- - Sipser, M. (2012). Introduction to the Theory of Computation. Cengage Learning.
 
-D. Kozen. Theory of Computation. Springer, 2006.
+- - Boolos, G., Burgess, J., & Jeffrey, R. (2007). Computability and Logic (5th ed.). Cambridge University Press.
 
-S. Hedman. A First Course in Logic: An introduction to model theory, proof theory, computability, and complexity. Oxford University Press, 2004.
+- - Kozen, D. (2006). Theory of Computation. Springer.
+
+- - Hedman, S. (2004). A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity. Oxford University Press.

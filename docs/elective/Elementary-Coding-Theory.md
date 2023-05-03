@@ -10,12 +10,16 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-یادآوری مفاهیم حلقه، میدان، حلقه خارج قسمتی، حوزه ایده آل اصلی، حلقه چندجمله‌ای‌ها، الگوریتم تقسیم، فضای برداری روی میدان متناهی، پایه و بعد یک فضای برداری. تعریف مفاهیم ابتدایی کدگذاری شامل مجموعه الفبا، کد و کد کلمه، تعریف فاصله همینگ و خواص آن و ….  مقدمه‌ای بر میدان‌های متناهی. مقدمه‌ای بر کدهای خطی. تعریف کد دوری.
+-
+
+- یادآوری مفاهیم حلقه، میدان، حلقه خارج قسمتی، حوزه ایده آل اصلی، حلقه چندجمله‌ای‌ها، الگوریتم تقسیم، فضای برداری روی میدان متناهی، پایه و بعد یک فضای برداری. تعریف مفاهیم ابتدایی کدگذاری شامل مجموعه الفبا، کد و کد کلمه، تعریف فاصله همینگ و خواص آن و ….  مقدمه‌ای بر میدان‌های متناهی. مقدمه‌ای بر کدهای خطی. تعریف کد دوری.
 
 **فهرست منابع پیشنهادی**
 
-R. Hill, A First Course in Coding Theory, Oxford Applied Mathematics and Computers Science Series, 11th Edition, Clarendon Press, 2001.
+-
 
-S. Roman, Coding and Information, Springer, 1992.
+- - Hill, R. (2001). A First Course in Coding Theory (11th ed.). Oxford Applied Mathematics and Computers Science Series, Clarendon Press.
 
-S. Ling, C. Xing, Coding Theory: A First Course, Cambridge University Press, 2014
+- - Roman, S. (1992). Coding and Information. Springer.
+
+- - Ling, S., & Xing, C. (2014). Coding Theory: A First Course. Cambridge University Press.

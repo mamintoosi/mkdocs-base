@@ -10,8 +10,16 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-منطق گزاره ای. منطق محمولات. منطق درستی یابی کد برنامه. منطق زمانی. منطق شناختی. سیستم‌های انتقالی.
+-
+
+- منطق گزاره ای. منطق محمولات. منطق درستی یابی کد برنامه. منطق زمانی. منطق شناختی. سیستم‌های انتقالی.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-Huth, M., Ryan, M. Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University, 2020.
+-
+
+- - Huth, M., Ryan, M. (2020), Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University.
+
+**

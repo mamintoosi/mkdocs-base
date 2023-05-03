@@ -10,12 +10,18 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-بررسی کلی سیستمهای عامل. بررسی پیشینه های سیستم عامل. مدیریت فرآیند. مدیریت چند نخی. زمانبندی. مدیریت همزمانی. مدیریت بن بست و الگوریتم‌های شناسایی و رفع بن بست. مدیریت ذخیره سازی. برنامه‌نویسی لینوکس.
+-
+
+- بررسی کلی سیستمهای عامل. بررسی پیشینه های سیستم عامل. مدیریت فرآیند. مدیریت چند نخی. زمانبندی. مدیریت همزمانی. مدیریت بن بست و الگوریتم‌های شناسایی و رفع بن بست. مدیریت ذخیره سازی. برنامه‌نویسی لینوکس.
+
+-
 
 **فهرست منابع پیشنهادی**
 
-Avi Silberschatz , Peter Baer Galvin, Greg Gagne , Operating System Concepts, Ninth Edition, John Wiley & Sons, Inc. 2013.
+-
 
-Silberschatz, Abraham, Peter B. Galvin, and Greg Gagne. Operating system concepts with Java. Wiley Publishing, 2009.
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2013). Operating System Concepts, Ninth Edition. John Wiley & Sons, Inc.
 
-Tanenbaum, A. Woodhull, Operating Systems: Design and Implementation, Pearson, 2009.
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2009). Operating System Concepts with Java. Wiley Publishing.
+
+- - Tanenbaum, A., & Woodhull, A. S. (2009). Operating Systems: Design and Implementation. Pearson.

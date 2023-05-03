@@ -10,92 +10,96 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-- مقدمه 
+-
 
-  - معرفی درس، نمونه مسائل هندسی
+- - مقدمه 
 
-- پوسته‌ی محدب 
+- - معرفی درس، نمونه مسائل هندسی
 
-  - محاسبه‌ی پوسته‌ی محدب در صفحه، عملیات پایه‌ی هندسی
+- - پوسته‌ی محدب 
 
-  - چند روش برای محاسبه‌ی پوسته‌ی محدب در صفحه
+- - محاسبه‌ی پوسته‌ی محدب در صفحه، عملیات پایه‌ی هندسی
 
-  - اثبات کران پایین، قضیه‌ی بن-اُر
+- - چند روش برای محاسبه‌ی پوسته‌ی محدب در صفحه
 
-  - الگوریتم‌های حساس به خروجی، دو الگوریتم بهینه از چن
+- - اثبات کران پایین، قضیه‌ی بن-اُر
 
-- دوگان هندسی 
+- - الگوریتم‌های حساس به خروجی، دو الگوریتم بهینه از چن
 
-  - دوگان نقاط، پوش‌های بالایی و پایینی، کاربردها، دوگان در فضای سه‌بعدی
+- - دوگان هندسی 
 
-- پوسته‌ی محدب در فضای سه‌بعدی 
+- - دوگان نقاط، پوش‌های بالایی و پایینی، کاربردها، دوگان در فضای سه‌بعدی
 
-  - پیچیدگی ترکیبیاتی، نحوه‌ی نمایش، الگوریتم کادوپیچی
+- - پوسته‌ی محدب در فضای سه‌بعدی 
 
-  - الگوریتم تصادفی کلارکسون-شور، پوسته‌ی محدب در فضاهای بالاتر
+- - پیچیدگی ترکیبیاتی، نحوه‌ی نمایش، الگوریتم کادوپیچی
 
-- تقاطع و چینش خطوط 
+- - الگوریتم تصادفی کلارکسون-شور، پوسته‌ی محدب در فضاهای بالاتر
 
-  - ساخت چینش خطوط، الگوریتم افزایشی، قضیه‌ی قلمرو یک خط
+- - تقاطع و چینش خطوط 
 
-  - تقاطع پاره‌خط‌ها، الگوریتم جاروب صفحه، الگوریتم تقسیم و حل
+- - ساخت چینش خطوط، الگوریتم افزایشی، قضیه‌ی قلمرو یک خط
 
-- نمودار ورونوی و مثلث‌بندی دلونی 
+- - تقاطع پاره‌خط‌ها، الگوریتم جاروب صفحه، الگوریتم تقسیم و حل
 
-  - تعریف نمودار ورونوی، ویژگی‌ها و قضایا
+- - نمودار ورونوی و مثلث‌بندی دلونی 
 
-  - مثلث‌بندی دلونی و خواص آن، الگوریتم فورچیون
+- - تعریف نمودار ورونوی، ویژگی‌ها و قضایا
 
-  - ارتباط با پوسته‌ی محدب، الگوریتم تصادفی ساخت
+- - مثلث‌بندی دلونی و خواص آن، الگوریتم فورچیون
 
-  - کاربردهای نمودار ورونوی و مثلث‌بندی دلونی، نمودار ورونوی مرتبه‌ی بالاتر
+- - ارتباط با پوسته‌ی محدب، الگوریتم تصادفی ساخت
 
-- برنامه‌ریزی خطی 
+- - کاربردهای نمودار ورونوی و مثلث‌بندی دلونی، نمودار ورونوی مرتبه‌ی بالاتر
 
-  - تعریف برنامه‌ریزی خطی، کاربردهای هندسی در فضای پایین
+- - برنامه‌ریزی خطی 
 
-  - الگوریتم هرس و جست‌وجوی مگیدو، الگوریتم تصادفی-افزایشی سایدل
+- - تعریف برنامه‌ریزی خطی، کاربردهای هندسی در فضای پایین
 
-  - الگوریتم نمونه‌برداری تصادفی کلارکسون
+- - الگوریتم هرس و جست‌وجوی مگیدو، الگوریتم تصادفی-افزایشی سایدل
 
-  - مسائل شبیه به برنامه‌ریزی خطی، کوچک‌ترین دایره‌ی محیطی
+- - الگوریتم نمونه‌برداری تصادفی کلارکسون
 
-- مکان‌یابی نقاط 
+- - مسائل شبیه به برنامه‌ریزی خطی، کوچک‌ترین دایره‌ی محیطی
 
-  - روش تقسیم و حل، نقشه‌ی ذوزنقه‌ای، الگوریتم افزایشی تصادفی
+- - مکان‌یابی نقاط 
 
-  - الگوریتم هرس و جست‌وجوی کرکپاتریک
+- - روش تقسیم و حل، نقشه‌ی ذوزنقه‌ای، الگوریتم افزایشی تصادفی
 
-- مثلث‌بندی چندضلعی 
+- - الگوریتم هرس و جست‌وجوی کرکپاتریک
 
-  - روش ذوزنقه‌بندی، الگوریتم تصادفی سایدل
+- - مثلث‌بندی چندضلعی 
 
-  - کاربردهای مثلث‌بندی، مسئله‌ی گالری هنر
+- - روش ذوزنقه‌بندی، الگوریتم تصادفی سایدل
 
-- جست‌وجوی بازه‌ای 
+- - کاربردهای مثلث‌بندی، مسئله‌ی گالری هنر
 
-  - بازه‌های متعامد: درخت کی‌دی، درخت بازه، آبشار کسری
+- - جست‌وجوی بازه‌ای 
 
-  - پنجره‌بندی، درخت جست‌وجوی اولویت، درخت پاره‌خط
+- - بازه‌های متعامد: درخت کی‌دی، درخت بازه، آبشار کسری
+
+- - پنجره‌بندی، درخت جست‌وجوی اولویت، درخت پاره‌خط
 
 **فهرست منابع پیشنهادی**
 
-M. de Berg, O. Cheong, M. van Kreveld, and M. Overmars. Computational Geometry: Algorithms and Applications. 3rd edition, Springer-Verlag, 2008.
+-
 
-J. O'Rourke. Computational Geometry in C. 2nd edition, Cambridge University Press, 1998.
+- - Berg, M., Cheong, O., van Kreveld, M., & Overmars, M. (2008). Computational Geometry: Algorithms and Applications (3rd ed.). Springer-Verlag.
 
-Jean-Daniel Boissonnat and Mariette Yvinec, Algorithmic Geometry, Cambridge Univ. Press, 1998. 
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
 
-Satyan L. Devadoss and Joseph O'Rourke, Discrete and Computational Geometry, Princeton Univ. Press, 2011.
+- - Boissonnat, J.-D., & Yvinec, M. (1998). Algorithmic Geometry. Cambridge University Press.
 
-Herbert Edelsbrunner, Algorithms in Combinatorial Geometry, Springer, 1987. 
+- - Devadoss, S. L., & O'Rourke, J. (2011). Discrete and Computational Geometry. Princeton University Press.
 
-Jacob E. Goodman, Joseph O'Rourke, and Csaba D. Tóth (editors), Handbook of Discrete and Computational Geometry, 3rd edition, CRC Press, 2017.
+- - Edelsbrunner, H. (1987). Algorithms in Combinatorial Geometry. Springer.
 
-Sariel Har-Peled, Geometric Approximation Algorithms, AMS Press, 2011. Early draft and additional material available as PDF files.
+- - Goodman, J. E., O'Rourke, J., & Tóth, C. D. (Eds.). (2017). Handbook of Discrete and Computational Geometry (3rd ed.). CRC Press.
 
-Jiří Matoušek, Lectures on Discrete Geometry, Springer, 2002.
+- - Har-Peled, S. (2011). Geometric Approximation Algorithms. AMS Press.
 
-Joseph O'Rourke, Computational Geometry in C, Second Edition, Cambridge Univ. Press, 1998.
+- - Matoušek, J. (2002). Lectures on Discrete Geometry. Springer.
 
-Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduction, Springer, 1985
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+
+- - Preparata, F. P., & Shamos, M. I. (1985). Computational Geometry: An Introduction. Springer.

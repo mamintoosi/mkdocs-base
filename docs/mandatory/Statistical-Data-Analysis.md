@@ -10,22 +10,18 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
-جمع آوری اطلاعات آماری و تلخیص و ارائه آن، توزیع فراوانی، اندازه گیری شاخص های آماری، بررسی مفاهیم احتمالات و احتمال کلاسیک، احتمال شرطی، قانون احتمال کل، احتمال بیز، متغیرتصادفی، توزیع احتمال و توابع آن، مقدمه ای بر نمونه گیری، استنباط آماری، برآورد نقطه ای، برآورد فاصله ای، آزمون فرضیه های آماری، ضریب همبستگی و رگرسیون، انواع رگرسیون، مقدمه ای بر سری های زمانی، تحلیل واریانس
+مروری بر جمع آوری اطلاعات آماری و تلخیص و ارائه آن، توزیع فراوانی، اندازه گیری شاخص های آماری. بررسی مفاهیم احتمالات و احتمال کلاسیک، احتمال شرطی، قانون احتمال کل، احتمال بیز، متغیرتصادفی، توزیع احتمال و توابع آن، مقدمه ای بر نمونه گیری، استنباط آماری، برآورد نقطه ای، برآورد فاصله ای، آزمون فرضیه های آماری، ضریب همبستگی و رگرسیون، انواع رگرسیون، تحلیل واریانس
 
 **فهرست منابع پیشنهادی**
 
-Hogg, R. V. Tanis, E. and Zimmerman, D. Probability and Statistical Inference, 9th Edition, 
+Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th Ed.). Pearson.
 
-Pearson, 2013
+Unpingco, J. (2019). Python for Probability, Statistics, and Machine Learning (2nd Ed.). Springer. [Source code available at <https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E>]
 
-José Unpingco, Python for Probability, Statistics, and Machine Learning, Second Ed., 2019, Springer, Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Ed.). O'Reilly Media, Inc.
 
-Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020
+Griffiths, D. (2008). Head First Statistics. O'Reilly Media, Inc.
 
-Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008
+Wheelan, C. (2014). Naked Statistics: Stripping the Dread from the Data. W. W. Norton & Company.
 
-Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012
-
-STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of
-
-Essential Statistics Concepts using Python, AI PUBLISHING
+AI PUBLISHING. (2021). Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts Using Python.

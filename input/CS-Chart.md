@@ -1,4 +1,4 @@
-﻿![C:\Users\user\Desktop\36.jpg](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.001.png)
+﻿![C:\Users\user\Desktop\36.jpg](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.001.png)
 
 جمهوری اسلامی ایران 
 
@@ -6,7 +6,7 @@
 
 دانشگاه فردوسی مشهد
 
-![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\مشهد.png](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.002.png)
+![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\مشهد.png](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.002.png)
 
 **برنامه درسی پیشنهادی دانشکده علوم ریاضی
 برای رشته**
@@ -30,26 +30,26 @@
 فصل اول
 
 مشخصات کلی برنامه درسی
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.003.png)
+![](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.003.png)
 
 ## **الف)‌ مقدمه**
 روند رو به رشد استفاده از کامپیوتر در زندگی روزانه افراد امری مشهود است. گسترش کسب و کارهایی مثل فروشگاه‌ها و تاکسی‌های آنلاین، تغییر تدریجی کسب و کارهای سنتی به کسب و کارهای مبتنی بر بستر شبکه‌های کامپیوتری را ملموس نموده است. پیشرفت‌های سریع حوزه کامپیوتر و هوش مصنوعی خبر از تحولات عمده در این حوزه در سطح جهان را می‌دهد که نویدبخش چشم‌انداز روشنی برای فعالان و فارغ‌التحصیلان رشته‌های مرتبط با علوم کامپیوتر است. در خلال چند دهه‌ی اخیر تعاریف متعددی برای علوم کامپیوتر داده شده است، می‌توان گفت علم کامپیوتر به مطالعه کامپیوتر نمی‌پردازد، بلکه در حالت کلی عبارت است از حل مسائل توسط یک دستگاه قابل برنامه‌ریزی به صورت کارا و کاربرد این دانش[^1]. از جمله زیرحوزه‌های مطرح در علوم کامپیوتر می‌توان مواردی مانند نظریه‌ی محاسبات، داده ساختارها و الگوریتم‌ها، زبانها و متدولوژی‌های برنامه‌نویسی و هوش مصنوعی[^2] را برشمرد که هر یک خود شامل دسته‌های تخصصی‌تر هستند[^3]:
-
-1. **نظریه‌ی محاسبات**، شامل نظریه اتوماتا،‌ نظریه‌ی پیچیدگی محاسباتی، زبانهای رسمی، محاسبات کوانتومی، ‌ نظریه مدار منطقی، اتوماتای سلولی و ...
-1. **داده ساختارها و الگوریتم‌ها**، ‌شامل آنالیز الگوریتم‌ها، طراحی الگوریتم‌ها، ساختارهای داده، بهینه‌سازی ترکیبیاتی، هندسه محاسباتی و الگوریتم‌های تصادفی
-1. **نظریه‌ی زبانهای برنامه‌نویسی و روش‌های صوری**، ‌شامل زبانهای برنامه‌نویسی، طراحی کامپایلر، درستی‌یابی صوری و ...
-1. **هوش مصنوعی و علم داده**، شامل نظریه یادگیری آماری، بینایی ماشین، شبکه‌های عصبی، برنامه‌ریزی و زمانبندی، پردازش زبان طبیعی،‌ نظریه بازی، محاسبات تکاملی، شناسایی الگو، هوش جمعی و ...
-1. **پایگاه داده‌ها و داده‌کاوی**
-1. **پردازش صوت و تصویر**، ‌شامل آنالیز فوریه،‌ پردازش صوت، پردازش تصویر، فشرده‌سازی داده و ...
-1. **محاسبات علمی** شامل، آنالیز عددی، فیزیک محاسباتی، بیوانفورماتیک، انفورماتیک پزشکی،‌ نورو انفورماتیک 
-1. **نظریه‌ی کدگذاری و اطلاعات**، شامل نظریه‌ی کدگذاری و ...
-1. **امنیت و رمزنگاری**
-1. **پردازش موازی و سیستم‌های توزیع شده**
-1. **گرافیک کامپیوتری و بصری‌سازی**، شامل گرافیک دو بعدی کامپیوتری، پویانمایی،‌ واقعیت مجازی و ...
-1. **تعامل انسان و کامپیوتر**
-1. **مهندسی نرم‌افزار**
-1. **معماری کامپیوتر**،‌ شامل محاسبات فراگیر، سیستم‌های عامل و ...
-1. **شبکه‌های کامپیوتری**
+-
+- 1. **نظریه‌ی محاسبات**، شامل نظریه اتوماتا،‌ نظریه‌ی پیچیدگی محاسباتی، زبانهای رسمی، محاسبات کوانتومی، ‌ نظریه مدار منطقی، اتوماتای سلولی و ...
+- 1. **داده ساختارها و الگوریتم‌ها**، ‌شامل آنالیز الگوریتم‌ها، طراحی الگوریتم‌ها، ساختارهای داده، بهینه‌سازی ترکیبیاتی، هندسه محاسباتی و الگوریتم‌های تصادفی
+- 1. **نظریه‌ی زبانهای برنامه‌نویسی و روش‌های صوری**، ‌شامل زبانهای برنامه‌نویسی، طراحی کامپایلر، درستی‌یابی صوری و ...
+- 1. **هوش مصنوعی و علم داده**، شامل نظریه یادگیری آماری، بینایی ماشین، شبکه‌های عصبی، برنامه‌ریزی و زمانبندی، پردازش زبان طبیعی،‌ نظریه بازی، محاسبات تکاملی، شناسایی الگو، هوش جمعی و ...
+- 1. پایگاه داده‌ها و داده‌کاوی
+- 1. **پردازش صوت و تصویر**، ‌شامل آنالیز فوریه،‌ پردازش صوت، پردازش تصویر، فشرده‌سازی داده و ...
+- 1. **محاسبات علمی** شامل، آنالیز عددی، فیزیک محاسباتی، بیوانفورماتیک، انفورماتیک پزشکی،‌ نورو انفورماتیک 
+- 1. **نظریه‌ی کدگذاری و اطلاعات**، شامل نظریه‌ی کدگذاری و ...
+- 1. امنیت و رمزنگاری
+- 1. پردازش موازی و سیستم‌های توزیع شده
+- 1. **گرافیک کامپیوتری و بصری‌سازی**، شامل گرافیک دو بعدی کامپیوتری، پویانمایی،‌ واقعیت مجازی و ...
+- 1. تعامل انسان و کامپیوتر
+- 1. مهندسی نرم‌افزار
+- 1. **معماری کامپیوتر**،‌ شامل محاسبات فراگیر، سیستم‌های عامل و ...
+- 1. شبکه‌های کامپیوتری
 
 در برنامه‌ی درسی رشته علوم کامپیوتر  ضمن لحاظ کردن مبانی لازمه برای حوزه‌های مختلف علوم کامپیوتر نکات زیر رعایت شده‌اند: ۱) خوشه‌های دانشی مرتبط با برخی از زیرحوزه‌های فوق برای راهنمایی دانشجویان در انتخاب دروس اختیاری پیشنهاد شده‌اند و ۲) دانشجویان با انتخاب دروس اختیاری مناسب، توانایی ادامه تحصیل در دوره های تحصیلات تکمیلی در رشته‌های مرتبط را داشته باشند[^4].
 ## **ب) مشخصات کلی، تعریف و اهداف** 
@@ -79,8 +79,8 @@
 | :-: | :-: | :-: |
 |22|طبق مصوبات وزارت عتف|عمومی|
 |۲۲|اجباری (جدول شماره2)|پایه |
-|۶۹|الزامی (دروس هسته علوم کامپیوتر- جدول3)|الزامی تخصصی|
-|۲۲-۲۷|در اختیار دانشجو ( انتخاب از دروس جدول شماره۴)|اختیاری |
+|۶۸|الزامی (دروس هسته علوم کامپیوتر- جدول3)|الزامی تخصصی|
+|۲۳-۲۸|در اختیار دانشجو ( انتخاب از دروس جدول شماره۴)|اختیاری |
 |140-135|جمع|
 ## **ث) مهارت، توانمندی و شایستگی دانش‏آموختگان**
 `   `این برنامه با توجه به برنامه های درسی به روز گروه های علوم کامپیوتر دانشگاه های معتبر دنیا  و با توجه به امکانات دانشگاه های کشور و شرایط بومی تدوین شده است. در این برنامه بر توانمندسازی دانشجویان در سه زمینه کامپیوتر، ریاضیات و آمار و همچنین مباحث کارآفرینی تاکید شده است. به علاوه با امکان انتخاب دروسی از سایر رشته‌ها به عنوان خارج رشته، امکان اخذ درس مبتنی بر علاقمندی دانشجو از سایر رشته‌ها نیز فراهم است.
@@ -95,10 +95,10 @@
 |<p>پایگاه داده‌ها</p><p>تجارت الکترونیکی </p><p>شبکه‌های کامپیوتری</p><p>برنامه‌نویسی وب </p><p>برنامه‌نویسی موبایل </p><p>اصول طراحی نرم‌افزار </p><p>مدیریت پروژه‌های فناوری اطلاعات</p><p>فناوری اطلاعات</p><p>آداب فناوری اطلاعات</p><p>مبانی پردازش ابری</p>|<p>نرم‌افزارهای آماری و تحلیل داده‌ها</p><p>تحلیل آماری داده‌ها</p><p>یادگیری ماشین مقدماتی </p><p>داده‌کاوی مقدماتی</p><p>آشنایی با یادگیری عمیق</p><p>روش‌های آماری</p><p>رگرسیون ۱</p><p>آمار محاسباتی</p><p>فرآیندهای تصادفی</p><p>سری‌های زمانی کاربردی</p><p></p>|<p>بهینه‌سازی غیرخطی</p><p>یادگیری ماشین مقدماتی </p><p>داده‌کاوی مقدماتی</p><p>آنالیز فوریه و موجک‌ها</p><p>سیگنالها و سیستم‌ها</p><p>آشنایی با یادگیری عمیق</p><p>شبکه‌های عصبی </p><p>رگرسیون ۱</p><p>شناسایی آماری الگو</p>||
 
 توضیحات:
-
-- این خوشه‌ها به منظور راهنمایی دانشجویان ارائه شده و اجباری در اخذ دروس بر اساس آنها وجود ندارد.
-- سقف مجاز انتخاب درس از سایر رشته‌ها و دروس ارشد بایستی رعایت شود.
-- لزوما تمامی دروس خوشه‌ها به صورت منظم توسط دانشکده ارائه نمی‌شوند.
+-
+- - این خوشه‌ها به منظور راهنمایی دانشجویان ارائه شده و اجباری در اخذ دروس بر اساس آنها وجود ندارد.
+- - سقف مجاز انتخاب درس از سایر رشته‌ها و دروس ارشد بایستی رعایت شود.
+- - لزوما تمامی دروس خوشه‌ها به صورت منظم توسط دانشکده ارائه نمی‌شوند.
 
 
 
@@ -106,11 +106,11 @@
 فصل دوم
 
 جدول عناوین و مشخصات دروس
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.004.png)
+![](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.004.png)
 
-کارشناسی علوم کامپیوتر  /   PAGE 110
+کارشناسی علوم کامپیوتر  /   PAGE 115
 
-![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\عمومی.jpg](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.005.jpeg)
+![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\عمومی.jpg](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.005.jpeg)
 
 
 
@@ -155,22 +155,22 @@
 ||مبانی منطق و نظریه مجموعه‌ها|3|ü|||||
 ||تحقیق در عملیات|3||||||
 ||مبانی نظریه محاسبه|3|ü|||||
-||جبر خطی دکتر طبسی|3|ü||||مبانی علوم ریاضی|
+||جبر خطی|3|ü||||مبانی علوم ریاضی|
 ||بهینه‌سازی غیرخطی|3|ü|||||
 ||مبانی محاسبات علمی|3|ü||||ریاضی عمومی 2|
 ||مبانی آنالیز ریاضی|3|ü||||مبانی علوم ریاضی - ریاضی عمومی 2|
 ||داده‌کاوی مقدماتی|3|ü|||||
-||مدلسازی ریاضی – دکتر عفتی|3|ü|||||
+||مدلسازی ریاضی|3|ü|||||
 ||تحلیل آماری داده‌ها|3|ü|||||
 ||یادگیری ماشین مقدماتی|3|ü|||||
-||سری های زمانی کاربردی – دکتر سرمد امین طوسی با پایتون|3|ü||||آمار و احتمال 1|
-||` `هوش مصنوعی امین طوسی – با نشان|3|ü||||ساختمان داده‌ها و الگوریتم‌ها|
-||طراحی و توسعه کسب و کارهای نوپا|3|ü|||||
-||مبانی اقتصاد دیجیتال-دکتر نصیری + دکتر قنبری|2|ü|||||
+||سری های زمانی کاربردی|3|ü||||آمار و احتمال 1|
+||` `هوش مصنوعی|3|ü||||ساختمان داده‌ها و الگوریتم‌ها|
+||طراحی و توسعه کسب و کارهای نوپا|2|ü|||||
+||مبانی اقتصاد دیجیتال|2|ü|||||
 ||کارآموزی|3||ü||||
-||**جمع واحد ها**|||||||
+||**جمع واحد ها**|68||||||
 
-`	`گذراندن همه دروس این جدول الزامی است (69 واحد). 
+`	`گذراندن همه دروس این جدول الزامی است (۶۸ واحد). 
 
 `       `جدول (۴) – عنوان و مشخصات کلی دروس اختیاری 
 
@@ -221,13 +221,13 @@
 ||**جمع واحد ها**|||||||
 
 
-از جدول دروس اختیاری  بین ۲۲  تا ۲۵ واحد باید اخذ شود، که علاوه بر دروس جدول فوق می‌تواند شامل: ۱) حداکثر ۲ درس ارشد (با سقف ۶ واحد) از دروس دوره‌های ارشد علوم کامپیوتر و ۲) حداکثر ۶ واحد از دروس سایر رشته ها (خارج رشته) باشد.
+از جدول دروس اختیاری  بین ۲۳  تا ۲۸ واحد باید اخذ شود، که علاوه بر دروس جدول فوق می‌تواند شامل: ۱) حداکثر ۲ درس ارشد (با سقف ۶ واحد) از دروس دوره‌های ارشد علوم کامپیوتر و ۲) حداکثر ۶ واحد از دروس سایر رشته ها (خارج رشته) باشد.
 
 
 
 
 ` `«دروس  پایه»
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.006.png)
+![](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.006.png)
 
 |عنوان درس به فارسی:|<h3>ریاضی عمومی ۱</h3>|
 | -: | :- |
@@ -245,21 +245,16 @@
 **سر فصل یا رئوس مطالب:** 
 
 مختصات دکارتی، مختصات قطبی، اعداد مختلط، جمع و ضرب و ریشه، نمایش هندسی اعداد مختلط، نمایش قطبی اعداد مختلط، تابع، جبر توابع، حد و قضایای مربوط به حد، بینهایت و حد چپ و راست، پیوستگی، مشتق، دستورهای مشتق‌گیری، تابع معکوس و مشتق آن، مشتق توابع مثلثاتی و توابع معکوس آنها، قضیه رل، قضیه میانگین، بسط تیلر، کاربردهای مهندسی و فیزیکی مشتق، منحنیها و شتاب در مختصات قطبی، کاربرد مشتق در تقریب ریشه‌های معادلات، تعریف انتگرال توابع پیوسته و قطعه پیوسته، قضایای اساسی حساب دیفرانسیل و انتگرال، تابع اولیه، روش‌های تقریبی برآورد انتگرال در محاسبه مساحت و حجم و طول منحنی و گشتاور و مرکز ثقل و کار و .... (در مختصات دکارتی و قطبی)، لگاریتم و تابع نمائی و مشتق آنها، تابع‌های هذلولولی، روش‌های انتگرال‌گیری مانند تعویض متغیر و جز به جز و تجزیه کسرها، برخی تعویض متغیرهای خاص
-**
+
 
 
 **فهرست منابع پیشنهادی**: 
-
-کتاب حساب دیفرانسیل و انتگرال تالیف جیمز استوارت – ترجمه ارشک حمیدی ویراست حداقل 6
-
-` `کتاب حساب دیفرانسیل و انتگرال و هندسه تحلیلی، تالیف توماس فینی – ویر، ویرایش حداقل ۹
-
-سیاوش شهشهانی، "حساب دیفرانسیل و انتگرال"، جلد اول، ویراست دوم، انتشارات فاطمی، ۱۳۹۶.
-
-Robert A. Adams and Cristopher Essex. Calculus, A Complete Course. 9th Edition, Pearson, 2018.
-
-James Stewart. Calculus. 8th Edition, Cengage learning, 2016.
-
+-
+- - استوارت، ج. (1395). حساب دیفرانسیل و انتگرال (ج. حمیدی، مترجم). تهران: مؤسسه آموزشی و نشریاتی مدرسه.
+- - شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
 
 
 
@@ -279,22 +274,15 @@ James Stewart. Calculus. 8th Edition, Cengage learning, 2016.
 
 **سر فصل یا رئوس مطالب:** 
 
-سیستم مختصات قطبی، نمودارهای قطبی دنباله، سری عددی و قضایای مربوط به سری توانی، قضیه تیلور با باقیمانده، معادلات پارامتری،
-
-مختصات فضائی، قائده زنجیری برای مشتق جزئی، دیفرانسیل کامل، انتگرالهای دوگانه و سه گانه و کاربرد آنها در مسائل هندسی و فیزیکی، تعویض ترتیب انتگرال گیری (بدون اثبات دقیق)، مختصات استوانه‌ای و کروی
+سیستم مختصات قطبی، نمودارهای قطبی دنباله، سری عددی و قضایای مربوط به سری توانی، قضیه تیلور با باقیمانده، معادلات پارامتری، مختصات فضائی، قائده زنجیری برای مشتق جزئی، دیفرانسیل کامل، انتگرالهای دوگانه و سه گانه و کاربرد آنها در مسائل هندسی و فیزیکی، تعویض ترتیب انتگرال گیری (بدون اثبات دقیق)، مختصات استوانه‌ای و کروی
 
 **فهرست منابع پیشنهادی**: 
-
-کتاب حساب دیفرانسیل و انتگرال تالیف جیمز استوارت – ترجمه ارشک حمیدی ویراست حداقل 6
-
-` `کتاب حساب دیفرانسیل و انتگرال و هندسه تحلیلی، تالیف توماس فینی – ویر، ویرایش حداقل ۹
-
-سیاوش شهشهانی، "حساب دیفرانسیل و انتگرال"، جلد اول، ویراست دوم، انتشارات فاطمی، ۱۳۹۶.
-
-Robert A. Adams and Cristopher Essex. Calculus, A Complete Course. 9th Edition, Pearson, 2018.
-
-James Stewart. Calculus. 8th Edition, Cengage learning, 2016.
-
+-
+- - استوارت، ج. (1395). حساب دیفرانسیل و انتگرال (ج. حمیدی، مترجم). تهران: مؤسسه آموزشی و نشریاتی مدرسه.
+- - شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
 
 
 
@@ -317,15 +305,11 @@ James Stewart. Calculus. 8th Edition, Cengage learning, 2016.
 
 **فهرست منابع پیشنهادی**: 
 
-William E. Boyce, Richard C. DiPrima, Douglas B. Meade, Elementary Differential Equations and Boundary Value Problems, 11th Edition, WILEY, 2017.
-
-)ویرایش نهم این کتاب توسط حمیدرضا ظهوری زنگنه ترجمه و توسط انتشارات فاطمی منتشر شده است.(
-
-Stephen Goode, Scott Annin, Differential Equations and Linear Algebra by Stephen, Pearson, 2016C. H. Edwards, D. E. Penney, Elementary Differential Equations, 6th Edition, Pearson Education, Inc. 2008. 
-
-D. G. Zill, A First Course in Differential Equations with Modeling Applications, 10th Edition, Brooks/Cole, Cengage Learning, 2012.
-
-
+- - ظهوری زنگنه، ح. (مترجم). (1394). معادلات دیفرانسیل مقدماتی و مسائل مقدماتی مرزی (ویرایش ۹). انتشارات فاطمی
+- - Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). Elementary Differential Equations and Boundary Value Problems (11th ed.). Wiley.
+- - Goode, S., & Annin, S. A. (2016). Differential Equations and Linear Algebra by Stephen. Pearson.
+- - Edwards, C. H., & Penney, D. E. (2008). Elementary Differential Equations (6th ed.). Pearson Education, Inc.
+- - Zill, D. G. (2012). A First Course in Differential Equations with Modeling Applications (10th ed.). Brooks/Cole, Cengage Learning.
 
 
 
@@ -354,19 +338,18 @@ D. G. Zill, A First Course in Differential Equations with Modeling Applications,
 از آنجا که در این برنامه درسی، چند درس به موضوع برنامه‌نویسی اختصاص یافته است، شایسته است در این درس پایه، تاکید اصلی بر تقویت مهارت حل مسأله و الگوریتم‌نویسی دانشجویان باشد. لحاظ کردن مثالها و تمرین‌های متنوع و جالب و مشارکت دانشجویان در مباحث درس و بیان روش‌های مختلف حل یک مسأله می‌تواند ترغیب کننده دانشجویان به فراگیری درس باشد. آشنایی دانشجویان با وب‌گاه‌های برگزاری مسابقات و چالش‌های برنامه‌نویسی و آموزش‌های متنوع دردسترس و انجام پروژه مثمرثمر خواهد بود. 
 
 **فهرست منابع پیشنهادی**: 
-
-1. Eric Matthes, Python Crash Course: A Hands-On, Project-Based Introduction to Programming, No Starch Press, 2019
-1. Allen Downey, Think Python, How to Think Like a Computer Scientist, 2nd Edition, Green Tea Press, 2015
-1. P. Wentworth, J. Elkner, A. B. Downey, C. Meyers. How to Think Like a Computer Scientist: Learning with Python. 3rd Edition, Open Book Project, 2011.
-1. J. Campbell, P. Gries, J. Montojo, G. Wilson. Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf, 2009.
-1. J. M. Zelle. Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates, 2004.
-1. Micha Gorelick and Ian Ozsvald, High-Performance-Python, y O’Reilly Media, Inc., 2014
-1. Learning Python by Mark Lutz
-1. Head First Programming by Paul Barry and David Griffiths
-1. Python Programming: A Complete Guide For Beginners To Master And Become An Expert by Brian Draper
-1. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
-1. Some other references: <https://github.com/ambadidi/Python-Books>
-
+-
+- - Matthes, E. (2019). Python Crash Course: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
+- - Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). Green Tea Press.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O’Reilly Media, Inc.
+- - Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media.
+- - Barry, P., & Griffiths, D. (2009). Head First Programming. O'Reilly Media.
+- - Draper, B. (2020). Python Programming: A Complete Guide For Beginners To Master And Become An Expert.
+- - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
+- Some other references: <https://github.com/ambadidi/Python-Books>
 
 
 
@@ -386,17 +369,17 @@ D. G. Zill, A First Course in Differential Equations with Modeling Applications,
 **سر فصل یا رئوس مطالب:** 
 
 مطالب اصلی مورد بحث در اختیار گروه و استاد درس است که وابسته به نیازمندی‌های دانشجویان مطالب متناسب ارائه گردد. برخی از مواردی که می‌تواند در این درس مورد استفاده قرار گیرد در ادامه آمده است:
-
-- **آشنایی مقدماتی با تهیه اسناد کامپیوتری**
+-
+- - آشنایی مقدماتی با تهیه اسناد کامپیوتری
 
 کار با نرم‌افزار مایکروسافت ورد، ساخت یک سند جدید، قالب‌دهی به کلمه، پاراگراف، صفحه، آشنایی با استایل، افزودن جدول/تصویر/فرمول به متن، ویژگی‌های خاص برای نگارش فارسی
-
-- **آشنایی مقدماتی با مجموعه میکروسافت آفیس**
-- **آشنایی با سرویس‌های کاربردی**
+-
+- - آشنایی مقدماتی با مجموعه میکروسافت آفیس
+- - آشنایی با سرویس‌های کاربردی
 
 سرویس‌های ابری مانند دراپ‌باکس،‌ گوگل درایو و گوگل داکس، سرویس‌های محاسبات ابری، سرویس‌های مدیریت گروهی مانند Trello و Doodle، سرویس‌های سوال و جواب و تبادل دانش مانند Stack Exchange ،Stack Overflow و ChatGPT
-
-- **آشنایی با سیستم عامل لینوکس**
+-
+- - آشنایی با سیستم عامل لینوکس
 
 مفهوم shell، جستجو در فایل‌ها، مجوزها، Help، فشرده‌سازی، دستورهای مهم مانند passwd ،cp ،ls ،cd ،grep ،su ،chmod  و kill
 
@@ -408,7 +391,7 @@ D. G. Zill, A First Course in Differential Equations with Modeling Applications,
 
 در اختیار مدرس
 
-**
+
 
 
 |عنوان درس به فارسی:|<h3>مبانی علوم ریاضی</h3>|
@@ -429,18 +412,13 @@ D. G. Zill, A First Course in Differential Equations with Modeling Applications,
 منطق گزاره ها و جدول ارزش. مجموعه‌ها و اعمال مقدماتی روی آنها. پارادوکس راسل. روابط و توابع. روابط هم ارزی و افراز. مجموعه‌های متناهی، شمارا و ناشمارا. اعداد اصلی. قضایای کانتور. قضایای شرودر برنشتاین. اصل انتخاب و صورت‌های معادل آن.
 
 ` `**فهرست منابع پیشنهادی**: 
-
-موحد، ضیاء، درآمدی به منطق جدید، انتشارات و آموزش انقلاب اسلامی ، 1379
-
-ناصر، بردجربان. مبانی و مقدمات علم ریاضی، مرکز نشر پرفسور حسابی، 1377
-
-سپهری ، محمد رضا. آشنائی با مبانی علوم ریاضی، مرکز نشر آینه، 1390
-
-Halmos, Paul R. I set theory. Courier Dover Publications, 2017.
-
-Stewart, Ian, and David Tall. The foundations of mathematics. OUP Oxford, 2015.
-
-Lin, Shwu-Yeng T., and You-Feng Lin. Set theory with applications. Mancorp Pub, 1985.
+-
+- - موحد، ضیاء (1379). درآمدی به منطق جدید. انتشارات و آموزش انقلاب اسلامی.
+- - بردجربان ، ناصر (1377). مبانی و مقدمات علم ریاضی. مرکز نشر پرفسور حسابی.
+- - سپهری ، محمد رضا (1390). آشنائی با مبانی علوم ریاضی. مرکز نشر آینه.
+- - Halmos, P. R. (2017). I Set Theory. Courier Dover Publications.
+- - Stewart, I., & Tall, D. (2015). The Foundations of Mathematics. Oxford University Press.
+- - Lin, S.-Y. T., & Lin, Y.-F. (1985). Set Theory with Applications. Mancorp Pub.
 
 
 
@@ -460,27 +438,19 @@ Lin, Shwu-Yeng T., and You-Feng Lin. Set theory with applications. Mancorp Pub, 
 
 **سر فصل یا رئوس مطالب:** 
 
-احتمال: فضای احتمال، قوانین احتمال، مدل های احتمال، قوانین شمارش، احتمال شرطی، استقلال و قانون بیز. متغیرهای تصادفی: تعریف متغیر تصادفی، متغیرهای تصادفی (گسسته، پیوسته و آمیخته)، تابع توزیع، تابع جرم احتمال و تابع چگالی. امید ریاضی و گشتاورها: امید ریاضی، امید ریاضی تابعی از یک متغیر تصادفی. خواص و کاربردهای امید ریاضی، میانه و مد یک توزیع، واریانس و معیارهای پراکندگی دیگر، تقارن و چولگی، گشتاورهای یک متغیر تصادفی. تبدیل یک متغیر تصادفی: تابع مولد احتمال، تابع مولد گشتاور، ویژگیها و کاربردها. توزیع های استاندارد گسسته و پیوسته: برنولی، دوجمله ای، هندسی. فوق هندسی، دوجمله ای منفی، پواسون، یکنواخت (گسسته و پیوسته)، نمایی، گاما، بتا و نرمال. توزیع تابعی از یک متغیر تصادفی، تولید اعداد تصادفی از یک متغیر تصادفی، نامساوی های احتمالی: مارکوف، چپیشف، کشی و شوارتز.
+احتمال: فضای احتمال، قوانین احتمال، مدل های احتمال، قوانین شمارش، احتمال شرطی، استقلال و قانون بیز. متغیرهای تصادفی: تعریف متغیر تصادفی، متغیرهای تصادفی (گسسته، پیوسته و آمیخته)، تابع توزیع، تابع جرم احتمال و تابع چگالی. امید ریاضی و گشتاورها: امید ریاضی، امید ریاضی تابعی از یک متغیر تصادفی. خواص و کاربردهای امید ریاضی، میانه و مد یک توزیع، واریانس و معیارهای پراکندگی دیگر، تقارن و چولگی، گشتاورهای یک متغیر تصادفی. تبدیل یک متغیر تصادفی: تابع مولد احتمال، تابع مولد گشتاور، ویژگیها و کاربردها. توزیع های استاندارد گسسته و پیوسته: برنولی، دوجمله ای، هندسی. فوق هندسی، دوجمله ای منفی، پواسون، یکنواخت (گسسته و پیوسته)، نمایی، گاما، بتا و نرمال. توزیع تابعی از یک متغیر تصادفی، تولید اعداد تصادفی از یک متغیر تصادفی، نامساوی های احتمالی: مارکوف، چپیشف، کشی و شوارتز، تابع توزیع توأم.
 
 ` `**فهرست منابع پیشنهادی**: 
+-
+- - بهبودیان، جواد (1394). آمار و احتمال مقدماتی. انتشارات دانشگاه امام رضا.
+- - قهرمانی، سعید (1397). مبانی احتمال، ویرایش سوم، ترجمه شاهکار، غ. و بزرگنیا، ا. انتشارات دانشگاه صنعتی شریف.
+- - راس، شلدون (1389). مبانی احتمال، ویرایش هشتم، ترجمه پارسیان، ا.، همدانی، ع. انتشارات شیخ بهایی.
+- - هاگ، ر. و تنیس، ل. آ. (1394). احتمال و استنباط آماری. ترجمه نوروز ایزددوستدار و حمید پزشک. انتشارات دانشگاه تهران.
 
-بهبودیان، جواد. (1394). آمار واحتمال مقدماتی، انتشارات دانشگاه امام رضا، 
-
-قهرمانی، سعید. (1397).  مبانی احتمال،  ترجمه شاهکار، غ. و بزرگنیا، ا.، ویرایش سوم، انتشارات دانشگاه صنعتی شریف.  
-
-راس، شلدون. (1389).  مبانی احتمال، ترجمه پارسیان، ا.  همدانی، ع.، ویرایش هشتم، انتشارات شیخ بهایی، اصفهان. 
-
-هاگ، ر.و .تنیس، ل .آ .احتمال و استنباط آماری، ترجمه نوروز ایزددوستدار و حمید پزشک، انتشارات دانشگاه تهران،1۳۹۴
-
-Hogg, R. V. Tanis, E. and Zimmerman, D. Probability and Statistical Inference, 9th Edition, 
-
-Pearson, 2013
-
-José Unpingco, Python for Probability, Statistics, and Machine Learning, Second Ed., 2019, Springer, Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-
-Grimmett, G. and Welsh D. Probability: an Introduction, 2nd Edition, OUP, 2014.
-
-Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Edition, CRC Press,2014.
+- - Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th ed.). Pearson.
+- - José Unpingco (2019). Python for Probability, Statistics, and Machine Learning (2nd ed.). Springer. Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+- - Grimmett, G., & Welsh, D. (2014). Probability: An Introduction (2nd ed.). Oxford University Press.
+- - Ghahramani, S. (2014). Fundamentals of Probability: with Stochastic Process (3rd ed.). CRC Press. 
 
 
 
@@ -507,7 +477,7 @@ Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Editio
 
 
 ` `«دروس تخصصی»
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.007.png)
+![](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.007.png)
 
 
 **
@@ -537,19 +507,15 @@ Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Editio
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی:** 
+-
+- - گوس، جی و منیروپ، د. (1401). آمار با نرم افزار JMP: نمودارها، آمار توصیفی و احتمال، ترجمه: بزرگنیا، ا.، و همکاران، انتشارات فردوسی مشهد.
+- - وناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و 2، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی.
+- - Goos, P., & Meintrup, D. (2015). Statistics with JMP: Graphs, Descriptive Statistics and Probability. Wiley.
+- - Rahlf, T. (2019). Data Visualisation with R: 111 Examples. Springer
+- - Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
 
-\1. گوس، جی و منیروپ، د. (1401). آمار با نرم افزار JMP: نمودارها، آمار توصیفی و احتمال، ترجمه: بزرگنیا، ا.، و همکاران، انتشارات فردوسی مشهد. 
-
-\2. وناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و2، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی.
-
-\2. Goos, P. and Meintrup, D. (2015).Statistics with JMP: graphs, descriptive statistics and probability. Wiley.
-
-\3. Rahlf, T. (2019).Data Visualisation with R: 111 Eexamples. Springer Nature. 
-
-\4. Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
 
 **
-
 
 |عنوان درس به فارسی:|<h3>برنامه‌نویسی پیشرفته</h3>|
 | -: | :- |
@@ -565,41 +531,27 @@ Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Editio
 اهداف ویژه: **یک هدف در درس برنامه‌نویسی پیشرفته آشنایی دانشجویان با یک زبان کامپایلری مانند** C++ **یا جاوا است که به صورت گسترده در بین برنامه‌نویسان مورد استفاده است. پیشنهاد می‌شود در این درس**Modern C++ **تدریس شود و در انتها در قالب یکی دو جلسه، دانشجویان با جاوا آشنا شوند (یا بالعکس).** 
 
 **سر فصل یا رئوس مطالب:** 
-
-•	چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
-
-•	محیط‌های مجتمع توسعه
-
-•	ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
-
-•	برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
-
-•	وراثت در شی گرایی و چندریختی در شی گرایی
-
-•	مدیریت استثناء
-
-•	رابط گرافیکی و مفاهیم Interface
-
-•	کار با فایل‌ها
-
-•	جریان داده
-
-•	کار با رشته و آرایه
-
-•	حافظه پویا
-
-•	(درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
-
-- قالبها، فضای نام، auto، 
-- Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
+-
+- - چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
+- - محیط‌های مجتمع توسعه
+- - ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
+- - برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
+- - وراثت در شی گرایی و چندریختی در شی گرایی
+- - مدیریت استثناء
+- - رابط گرافیکی و مفاهیم Interface
+- - کار با فایل‌ها
+- - جریان داده
+- - کار با رشته و آرایه
+- - حافظه پویا
+- - (درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
+- - قالبها، فضای نام، auto، 
+- - Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
 
 **فهرست منابع پیشنهادی**: 
-
-Ivor Horton and Peter Van Weert, Beginning C++17: From Novice to Professional, Apress, 2018
-
-Ivor Horton and Peter Van Weert, Beginning C++20: From Novice to Professional, Apress, 2020
-
-P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017.
+-
+- - Horton, I., & Van Weert, P. (2018). Beginning C++17: From Novice to Professional. Apress.
+- - Horton, I., & Van Weert, P. (2020). Beginning C++20: From Novice to Professional. Apress.
+- - Deitel, P., & Deitel, H. (2017). C++ How to Program (11th ed.). Pearson Education.
 
 
 
@@ -615,20 +567,19 @@ P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017
 ||
 هدف کلی:  **آشنایی حرفه‌ای دانشجویان با زبان پایتون** 
 
-اهداف ویژه: **هدف از این درس، آشنایی حرفه‌ای دانشجویان با زبان پایتون برای هوش مصنوعی است که مورد نیاز درسهایی، همچون داده‌کاوی،  یادگیری ماشین و یادگیری عمیق است.**
+اهداف ویژه: **هدف از این درس، آشنایی حرفه‌ای دانشجویان با زبان پایتون است که مورد نیاز درسهایی همچون داده‌کاوی،  یادگیری ماشین و یادگیری عمیق است.**
 
 **سر فصل یا رئوس مطالب:** 
 
 مرور فرهنگ‌های داده‌ای، تاپل‌ها و مجموعه‌ها. پردازش متن. عملیات روی رشته‌ها. آشنایی با عبارات منظم (باقاعده) و ماژول re. نمایش نمودار. آشنایی با ماژول [Matplotlib](https://github.com/rougier/matplotlib-tutorial) و Seaborn. رسم نمودار، هیستوگرام. مصورسازی داده‌ها. کار با پرونده‌های متنی و دودویی. فایلهای اکسل. Lambda function. – Pandas DataFrame . Iterators and Generators,. برنامه‌نویسی شیءگرا. متدها و ویژگی‌ها. سازنده‌ها،  وراثت، چند ریختی . برنامه‌نویسی مبتنی بر رویداد. رویدادها و گرداننده‌ها. رویدادهای صفحه‌کلید و ماوس. واسط کاربر گرافیکی. آشنایی با ماژول Tkinter. ساخت واسط کاربر ساده. افزودن عناصر. افزودن گرداننده‌ها. مدیریت استثناها، توابع تصادفی، نحوه ایجاد یک وب اپلیکیشن. اتصال به پایگاه داده‌ها، Zip, Filter, Map, Reduce, Decorators, Frozen Set, Collections، Threads.
 
 ` `**فهرست منابع پیشنهادی:**
-
-1. Fabrizio Romano, Dusty Phillips, Rick van Hattem, Python: Journey from Novice to Expert, 2016, Packt Publishing
-1. P. Wentworth, J. Elkner, A. B. Downey, C. Meyers. How to Think Like a Computer Scientist: Learning with Python. 3rd Edition, Open Book Project, 2011.
-1. J. Campbell, P. Gries, J. Montojo, G. Wilson. Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf, 2009.
-1. J. M. Zelle. Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates, 2004.
-1. Micha Gorelick and Ian Ozsvald, High-Performance-Python, y O’Reilly Media, Inc., 2014
-
+-
+- - Romano, F., Phillips, D., & van Hattem, R. (2016). Python: Journey from Novice to Expert. Packt Publishing.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O'Reilly Media, Inc.
 
 
 
@@ -665,17 +616,13 @@ P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017
 
 ` `**فهرست منابع پیشنهادی:**
 
-- محمد قدسی، "داده‌ساختارهای و مبانی الگوریتم‌ها"، چاپ چهارم، انتشارات فاطمی، ۱۳۹۳.
-- محمد قدسی و آیدین نصیری شرق، "۶۰۰ مسئله‌ی چندگزینه‌ای از داده‌ساختارها و الگوریتم‌ها"، چاپ ششم، انتشارات فاطمی، ۱۳۹۷.
-- Cormen, T. H. and Leiserson, C. E., Rivest, R. L. and Stein, C. (2009)., Introduction to Algorithms (3rd Ed), MIT Press. 
-- Manber, U.,  (1989).Introduction to Algorithms: A Creative Approach, Addison-Wesley. 
-- Sedgewick, R. and Wayne, K., (2011). Algorithms, 4th Ed, Addison-Wesley.
-- Weiss, M. A., (2012). Data Structures and Algorithm Analysis in C++, 4th Ed, Addison Wesley. 
+- قدسی، محمد (۱۳۹۳). داده‌ساختارها و مبانی الگوریتم‌ها (چاپ چهارم). انتشارات فاطمی.
+- قدسی، محمد، و نصیری شرق، آیدین (۱۳۹۷). ۶۰۰ مسئله‌ی چندگزینه‌ای از داده‌ساختارها و الگوریتم‌ها (چاپ ششم). انتشارات فاطمی
+- - Cormen, T. H. and Leiserson, C. E., Rivest, R. L. and Stein, C. (2009)., Introduction to Algorithms (3rd Ed), MIT Press. 
+- - Manber, U.,  (1989).Introduction to Algorithms: A Creative Approach, Addison-Wesley. 
+- - Sedgewick, R. and Wayne, K., (2011). Algorithms, 4th Ed, Addison-Wesley.
+- - Weiss, M. A., (2012). Data Structures and Algorithm Analysis in C++, 4th Ed, Addison Wesley. 
 - Horowitz and Sahni, Fundamental of Data Structures, 4th Ed., CSP, 1994, (Pascal, C , C++ or Generic version(
-
-
-
-
 
 
 
@@ -722,12 +669,12 @@ P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017
 ۹- مقدمه ای بر پیچیدگی محاسبات و کلاس های NP-hard و P,NP,NP – complete
 
 **فهرست منابع پیشنهادی:**
-
-1. R. Neopolitan. Foundations of algorithms. Jones & Bartlett Learning, 2015.
-1. J. Kleinberg and E. Tardos. Algorithm Design. Addison Wesley, 2005.
-1. T. Cormen, C. Leiserson, R. Riverst, and C. Stein. Introduction to Algorithms. 3rd Edition, MIT Press, 2009.
-1. U. Manber. Introduction to Algorithms: A Creative Approach. Addison-Wesley, 1989.
-1. G. Brassard, P. Bratley. Algorithmics: Theory and Practice. Prentice-Hall, 1988
+-
+- - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
+- - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
+- - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
+- - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
+- - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
 
 
 
@@ -750,18 +697,16 @@ P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017
 **سر فصل یا رئوس مطالب:** مطالب مورد بحث می‌تواند بسته به نظر استاد درس باشد. البته در ادامه کارگاه ۱،‌ موارد زیر پیشنهاد می‌شود:
 
 - آشنایی با سیستم‌های کنترل نسخه و گیت‌هاب
-- آشنایی با عبارات با قاعده
 - آشنایی با تولید مستندات مانند Sphinx و MkDocs
 - **آشنایی با شبکه‌های کامپیوتری**
 - ساختار کلی شبکه و اینترنت، موتورهای جستجو، مفاهیم اولیه مانند URL و IP، آشنایی با پروتکل‌های متداول مانند FTP ،HTTP و IMAP، آشنایی با دستورهای پرکاربرد در شبکه مانند ipconfig ،ping و traceroute
 - آشنایی **با** مهارت‌هایی که یک توسعه دهنده Back-end‌ و Front-end باید داشته باشد.
 - آشنایی با UML
-
+-
 
 **فهرست منابع پیشنهادی:**
 
 در اختیار مدرس
-
 
 
 
@@ -802,17 +747,12 @@ P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017
 مفاهیم پایه‌ای (داده، فراداده، ساختارها و مدل داده‌ها)، اصول طراحی پایگاه داده‌ها (مدل مفهومی، نمودارهای ER، نرمال‌سازی، سیر تکاملی پایگاه داده‌ها (فایل، شبکه، رابطه، شیء، شیء-رابطه، مکعب)، معرفی نرم افزارهای مدیریت پایگاه داده‌ها (مزایا و معایب تکنولوژی¬ های مختلف)، به کارگیری یک نرم افزار مدیریت پایگاه داده‌ها (SQL Server ، Oracle، MySQL)، زبان SQL، ساخت، حذف، و ویرایش پایگاه داده، جدول، و نما، درج، حذف، و ویرایش داده‌ها، جستجوی داده‌ها، مرتب سازی، انتخاب شرطی، قالب‌بندی نتایج جستجو، توابع محاسباتی و تجمیعی، ادغام دو یا چند جدول، آشنایی با تحلیل مه‌داده‌ها با ابزارهای مدرن پایگاه داده‌ها (SQL Server, Spark  و مانند اینها)، پایگاه داده‌های غیر رابطه‌ای.
 
 ` `**فهرست منابع پیشنهادی:**
-
-R. Elmasri, S. Navathe, Fundamentals of Database Systems, 7th edition, 2015
-
-A. Silberschatz, H. F. Korth, S. Sudarshan, Database System Concepts, 7th edition, 2019.
-
-Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
-
-Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
-
-Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson
-
+-
+- - Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems (7th ed.). Pearson.
+- - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts (7th ed.). McGraw-Hill Education.
+- - Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
+- - Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
+- - Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson.
 
 
 
@@ -836,11 +776,9 @@ Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearso
 جبر بول. مدارات ترکیبی. فلیپ فلاپ. مدارات ترتیبی. سیستم اعداد. زبان انتقال ثبات. کامپیوتر پایه. سیستم حافظه. خط لوله. زبان ماشین 8086.
 
 ` `**فهرست منابع پیشنهادی:**
-
-Mano, M. Morris. Computer system architecture. 3th Edition, Prentice-Hall of India, 2003.
-
-Patterson, D. A., & Hennessy, J. L., Computer organization and design: the hardware/software interface, (Rev. ed. of: Computer organization and design/John L. Hennessy, David A. Patterson.1998.), Morgan Kaufmann, 2012.
-
+-
+- - Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
+- - Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)
 
 
 
@@ -882,17 +820,14 @@ Patterson, D. A., & Hennessy, J. L., Computer organization and design: the hardw
 اهداف ویژه: دانشجو باید بتواند با مفاهیم  و تکنیکهای اساسی ترکیبیاتی کار کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-دوره سریع مفاهیم مجموعه‌ها، توابع، الگوریتم و منطق گزاره ها و جبر بول، شمارش شامل: مفاهیم اصلی، اصل لانه کبوتری، تبدیلها و ترکیب ها و ضرایب دوجمله ای، اصل شمول وعدم شمول، روابط بازگشتی،توابع مولد. روابط و انواع آنها: روابط و نمایش آنها، روابط هم ارزی و افزارها، روابط ترتیب جزئی و ترتیب کامل، بستار یک رابطه نسبت به خواص مختلف (این بخش با هماهنگی با درس " مبانی علوم ریاضی" ارائه می شود به نحوی که تکرار صورت نپذیرد). ماتریس ها: ماتریس ها از دیدگاه ترکیباتی، بالاخص برخی خواص مهم ماتریس های صفر و یک (آماده سازی برای بخش مربع های لاتین و گراف ها)، آشنایی با ماتریس های آدامار و برخی نتایج در این مورد. گراف ها و مدل های مبتنی بر آنها: معرفی مفهوم گراف با تاکید بر کاربردهای آن در مدلسازی (با چند مثال با نظر استاد)، آشنایی با مفاهیم اصلی نظریه گراف نظیر دور، مسیر، درجه، دنباله درجه ای، انواع اصلی گراف نظیر گراف های کامل، درخت ها، گراف های دوبخشی، گراف های اویلری و هامیلتونی و گراف های جهت دار و تورنمنت ها (با تاکید بر مثال و کاربردها)، تطابق های کامل و ماکزیمم (طرح الگوریتم و کاربردها)، رنگ آمیزی گراف ها و چند جمله ای رنگی (با ارائه مثال و الگوریتم). مربع های لاتین، طرح ها و هندسه های متناهی: آشنایی با تعریف و مفاهیم اصلی با تاکید بر ارتباط این مفاهیم (با ارائه مثال) و همچنین تاکید بر ارتباط این مفاهیم با مفاهیم قبلی طرح شده در درس نظیر گراف ها و همچنین ارائه چند مورد در این خصوص، ارائه مفهوم سیستمهای نمایندگی متمایز  و همچنین طرح صورت قضیه فیلیپ هال و ارائه مثال و کاربرد در مربعها لاتین و چند کاربرد عملی (با نظر استاد).
-
+-
+- دوره سریع مفاهیم مجموعه‌ها، توابع، الگوریتم و منطق گزاره ها و جبر بول، شمارش شامل: مفاهیم اصلی، اصل لانه کبوتری، تبدیلها و ترکیب ها و ضرایب دوجمله ای، اصل شمول وعدم شمول، روابط بازگشتی،توابع مولد. روابط و انواع آنها: روابط و نمایش آنها، روابط هم ارزی و افزارها، روابط ترتیب جزئی و ترتیب کامل، بستار یک رابطه نسبت به خواص مختلف (این بخش با هماهنگی با درس " مبانی علوم ریاضی" ارائه می شود به نحوی که تکرار صورت نپذیرد). ماتریس ها: ماتریس ها از دیدگاه ترکیباتی، بالاخص برخی خواص مهم ماتریس های صفر و یک (آماده سازی برای بخش مربع های لاتین و گراف ها)، آشنایی با ماتریس های آدامار و برخی نتایج در این مورد. گراف ها و مدل های مبتنی بر آنها: معرفی مفهوم گراف با تاکید بر کاربردهای آن در مدلسازی (با چند مثال با نظر استاد)، آشنایی با مفاهیم اصلی نظریه گراف نظیر دور، مسیر، درجه، دنباله درجه ای، انواع اصلی گراف نظیر گراف های کامل، درخت ها، گراف های دوبخشی، گراف های اویلری و هامیلتونی و گراف های جهت دار و تورنمنت ها (با تاکید بر مثال و کاربردها)، تطابق های کامل و ماکزیمم (طرح الگوریتم و کاربردها)، رنگ آمیزی گراف ها و چند جمله ای رنگی (با ارائه مثال و الگوریتم). مربع های لاتین، طرح ها و هندسه های متناهی: آشنایی با تعریف و مفاهیم اصلی با تاکید بر ارتباط این مفاهیم (با ارائه مثال) و همچنین تاکید بر ارتباط این مفاهیم با مفاهیم قبلی طرح شده در درس نظیر گراف ها و همچنین ارائه چند مورد در این خصوص، ارائه مفهوم سیستمهای نمایندگی متمایز  و همچنین طرح صورت قضیه فیلیپ هال و ارائه مثال و کاربرد در مربعها لاتین و چند کاربرد عملی (با نظر استاد).
+-
 ` `**فهرست منابع پیشنهادی**: 
-
-ر . پ. گریمالدی، ریاضیات گسسته و ترکیبیاتی، ترجمه محمدعلی رضوانی و بیژن شمس، انتشارات فاطمی، 1377
-
-Anderson, Ian. A first course in combinatorial mathematics. Clarendon Press, 1989.
-
-Grimaldi, Ralph P. Discrete and Combinatorial Mathematics, 5/e. Pearson Education, India, 2006.
-
+-
+- - گریمالدی، ر. پ. (۱۳۷۷). ریاضیات گسسته و ترکیبیاتی، ترجمه محمدعلی رضوانی و بیژن شمس، انتشارات فاطمی.
+- - Anderson, I. (1989). A first course in combinatorial mathematics. Clarendon Press.
+- - Grimaldi, R. P. (2006). Discrete and Combinatorial Mathematics (5th ed.). Pearson Education India.
 
 
 
@@ -926,15 +861,13 @@ Grimaldi, Ralph P. Discrete and Combinatorial Mathematics, 5/e. Pearson Educatio
 2 .کسب توانایی در استدلال منطقی، صوری سازی مفاهیم غیر رسمی و درستی یابی
 
 **سر فصل یا رئوس مطالب:** 
-
-آشنایی با منطق: آشنایی با منطق گزارهیی، زبان منطق گزاره یی، قواعد استنتاج طبیعی، معناشناسی، قضیه صحت و تمامیت، فرم های نرمال الگوریتمهای. SAT، آشنایی با زبان منطق محموالت، زبان منطق محموالت، قواعد استنتاج طبیعی، توصیف پذیری زبان، آشنایی با زبان Prolog. آشنایی با نظریه مجموعه‌ها: مروری بر عملگرهای اجتماع، اشتراک، و متمم گیری، تعریف تابع و رابطه، اصول نظریه مجموعه‌ها، پارادوکس راسل. نظریه مجموعه‌ها به عنوان پایه:ساخت اعداد طبیعی، ساخت اعداد گویا، ساخت اعداد حقیقی. مجموعه‌های نامتناهی: اعداد اصلی، اعداد ترتیبی، خوشترتیبی.
-
+-
+- آشنایی با منطق: آشنایی با منطق گزارهیی، زبان منطق گزاره یی، قواعد استنتاج طبیعی، معناشناسی، قضیه صحت و تمامیت، فرم های نرمال الگوریتمهای. SAT، آشنایی با زبان منطق محموالت، زبان منطق محموالت، قواعد استنتاج طبیعی، توصیف پذیری زبان، آشنایی با زبان Prolog. آشنایی با نظریه مجموعه‌ها: مروری بر عملگرهای اجتماع، اشتراک، و متمم گیری، تعریف تابع و رابطه، اصول نظریه مجموعه‌ها، پارادوکس راسل. نظریه مجموعه‌ها به عنوان پایه:ساخت اعداد طبیعی، ساخت اعداد گویا، ساخت اعداد حقیقی. مجموعه‌های نامتناهی: اعداد اصلی، اعداد ترتیبی، خوشترتیبی.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-J. M. Henle, An Outline of Set Theory, Springer-Verlag, 1986.
-
-M. Huth, M. Ryan, Logic in Computer Sciences, Modeling and Reasoning about Systems, Cambridge University Press, 2004.
-
+-
+- - Henle, J. M. (1986). An Outline of Set Theory. Springer-Verlag.
+- - Huth, M., & Ryan, M. (2004). Logic in Computer Science: Modelling and reasoning about systems. Cambridge university press.
 
 
 
@@ -950,43 +883,6 @@ M. Huth, M. Ryan, Logic in Computer Sciences, Modeling and Reasoning about Syste
 
 
 
-
-**
-
-
-|عنوان درس به فارسی:|<h3>بهینه‌سازی گسسته </h3>|
-| -: | :- |
-|عنوان درس به انگلیسی:|Discrete Optimization|نوع درس و واحد|
-|دروس پیش‏نیاز:|طراحی و تحلیل الگوریتم‌ها|**پایه £**|نظری**n**|
-|دروس هم‏نیاز:|ندارد|تخصصی الزامی**£** |عملی £|
-|تعداد واحد:|3|حل تمرین ندارد|تخصصی اختیاری **n**|نظری-عملی £|
-|تعداد ساعت:|48||رساله / پایان‏نامه £||
-|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار£ سمینار £ کارگاه ¢موارد دیگر: ..............|
-||
-هدف کلی:  **آشنایی با الگوریتم‌های حل مسایل بهینه‌سازی گسسته با استفاده از اصول شمارش و تحلیل شبکه ها به منظور استخراج راهبردهای اجرایی**
-
-اهداف ویژه: دانشجو با روشهای بهینه‌سازی گسسته و کاربردهای آنها آشنا و با مفاهیم آن کار می کند.
-
-**سر فصل یا رئوس مطالب:** 
-
-مروری بر مدل سازی ریاضی. روشهای شمارشی و شاخه و کران برای مسایل بهینه‌سازی. معرفی الگوریتم فراابتکاری برای حل مسایل بهینه‌سازی گسسته. مدلسازی مسایل واقعی به کمک گراف و شبکه. الگوریتم‌های تطابق. بررسی کاربردهای مسایل شبکه در حمل و نقل، بهینه‌سازی شبکه و طراحی شبکه. الگوریتمهای مسائل شبکه (جریان بیشینه، برش کمینه)، مسئله پستچی چینی  (تور اویلری و حل آن)،  مسئله کوله‌پشتی و الگوریتم تقریبی برای آن، برخی مسائل پوشش در گراف و حل آنها،  مسئله تخصیص و ارتباط آن با مسئله تطابق بیشینه و روش حل آن،  مسئله فروشنده دوره‌گرد با معرفی 2-opt ، 3-opt و NN،  مسئله افرازبندی گراف، مسائل مکان‌یابی. اجرای پروژه کاربردی.
-
-
-` `**فهرست منابع پیشنهادی:**
-
-حمدی طه، آشنایی با تحقیق در عملیات: برنامهریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی،1387
-
-مهدی قطعی، تحقیق در عملیات و بهینه‌سازی ترکیبیاتی، انتشارات ناقوس، 1395.
-
-J. Lee, A First Course in Combinatorial Optimization, Cambridge University Press, 2004.
-
-T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein, Introduction to Algorithms, 3rd Edition, The MIT Press, 2009.
-
-C.H. Papadimitriou, R. Steiglitz, Combinatorial Optimization Algorithms and Complexity, Perintice Hall, 1982.
-
-V. Balakrishnan, Network Optimization, Chapman and Hall/CRC , 1995.
-
-R.K. Ahuja, T.L. Magnanti, J.B. Orlin, Network Flows: Theory, Algorithms, and Applications, Prentice-Hall, 1993.
 
 **
 
@@ -1005,19 +901,15 @@ R.K. Ahuja, T.L. Magnanti, J.B. Orlin, Network Flows: Theory, Algorithms, and Ap
 اهداف ویژه: **هدف از ارائه‌ی این درس آشنایی دانشجویان با مبانی نظریه‌ی محاسبات و مفاهیم اصلی مدل‌های محاسبه‌پذیری، مسائل حل‌شدنی، منطق ریاضی و مقدمه‌ای بر نظریه آتوماتا بر ورودی‌های نامتناهی رشته‌ای یا درختی‌ است. این درس در واقع تأمین‌کننده پایه‌ی نظری لازم برای دانشجویانی است که در دوره‌های تحصیلات تکمیلی در گرایش‌های نظریه‌ی محاسبات و الگوریتم یا روش‌های صوری در مهندسی نرم‌افزار و درستی‌یابی سیستم‌ها تحصیل می‌کنند، و همچنین منطق ریاضی لازم برای هوش مصنوعی را بنا می‌نهد**
 
 **سر فصل یا رئوس مطالب:** 
-
-اتاماتای متناهی به عنوان یک ماشین محاسبه ساده. خواص اتاماتای متناهی. لم پامپینگ . کلاس های هم ارزی جداناپذیری روی یک زبان.  زبان های منظم و عبارتهای منظم. اتاماتای غیر قطعی و قضایای کلینی. زبان های مستقل از متن. گرامر مستقل از متن. لم پامپینگ برای زبان های مستقل از متن. اتاماتای پشته ای. اتاماتای پشته ای قطعی. خواص زبان های مستقل از متن. معرفی ماشین تورینگ. حل چند مساله با ماشین تورینگ.
-
+-
+- اتاماتای متناهی به عنوان یک ماشین محاسبه ساده. خواص اتاماتای متناهی. لم پامپینگ . کلاس های هم ارزی جداناپذیری روی یک زبان.  زبان های منظم و عبارتهای منظم. اتاماتای غیر قطعی و قضایای کلینی. زبان های مستقل از متن. گرامر مستقل از متن. لم پامپینگ برای زبان های مستقل از متن. اتاماتای پشته ای. اتاماتای پشته ای قطعی. خواص زبان های مستقل از متن. معرفی ماشین تورینگ. حل چند مساله با ماشین تورینگ.
+-
 ` `**فهرست منابع پیشنهادی**: 
-
-Sipser, Michael. Introduction to the Theory of Computation. Cengage learning, 2012.
-
-G. Boolos, J. Burgess, and R. Jeffrey. Computability and Logic. 5th Edition, Cambridge University Press, 2007.
-
-D. Kozen. Theory of Computation. Springer, 2006.
-
-S. Hedman. A First Course in Logic: An introduction to model theory, proof theory, computability, and complexity. Oxford University Press, 2004.
-
+-
+- - Sipser, M. (2012). Introduction to the Theory of Computation. Cengage Learning.
+- - Boolos, G., Burgess, J., & Jeffrey, R. (2007). Computability and Logic (5th ed.). Cambridge University Press.
+- - Kozen, D. (2006). Theory of Computation. Springer.
+- - Hedman, S. (2004). A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity. Oxford University Press.
 
 
 
@@ -1049,62 +941,20 @@ S. Hedman. A First Course in Logic: An introduction to model theory, proof theor
 
 **سر فصل یا رئوس مطالب:** 
 
-دستگاه معادلات خطی و ماتریسها. دترمینان. فضای برداری. فضای ضرب داخلی. تبدیل خطی. بردار ویژه و مقادیر ویژه. قضیه کیلی همیلتون. نرم برداری و ماتریسی. حل دستگاه های خطی و تجزیه LU. تحلیل حساسیت دستگاههای خطی. روش گاوس با محورگیری جزئی. تجزیه چولسکی، تجزیه QR و تجزیه هوس هولدر. روش های تکراری برای حل دستگاه های خطی از جمله ژاکوبی، گاوس-سایدل و SOR . روش های عددی برای یافتن مقادیر ویژه ماتریس ها.
+\1.	خطا. انواع خطا. منابع تولید خطا. نمایش اعداد. ارقام با معنی. محاسبات پایدار و ناپایدار. حساسیت
 
-پیاده‌سازی مسائل با ماتریس‌های بدحالت، پیاده‌سازی
+\2.	دستگاه معادلات خطی و ماتریسها. دترمینان. ماتریس های نواری. ماتریس های بلوکی. بردار ویژه و مقادیر ویژه. قضیه کیلی همیلتون. نرم برداری و ماتریسی. حل دستگاه های خطی. تجزیه LU. تحلیل حساسیت دستگاههای خطی. تجزیه چولسکی، تجزیه QR و تجزیه هوس هولدر. دستگاه های هزنبرگ. روش های تکراری برای حل دستگاه های خطی از جمله ژاکوبی، گاوس-سایدل و SOR . روش های عددی برای یافتن مقادیر ویژه ماتریس ها. 
 
+\3.	اعمال ماتریسی بازگشتی. تبدیل فوریه سریع
+
+\4.	پیاده‌سازی مسائل با ماتریس‌های بدحالت، پیاده‌سازی
+-
 ` `**فهرست منابع پیشنهادی**: 
-
-Stephen Boyd and Lieven Vandenberghe, Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares, 2018
-
-Axler, S., Linear algebra done right. Springer, 2015.
-
-Scientific Computing with Case Studies, By Dianne P. O'Leary, 2009
-
-منصور واعظ پور، جبر خطی و ماتریس ها، انتشارات دانشگاه یزد، 1393.
-
-جبر خطی با متلب، دکتر کرایچیان
-
-Theodore Shifrin , Multivariable Mathematics, Linear Algebra, Multivariable Calculus, and Manifolds, Wiley, 2005
-
-Datta, B. N., Numerical linear algebra and applications (Vol. 116). SIAM, 2010.
-
-Trefethen, L. N., & Bau III, D., Numerical linear algebra (Vol. 50). SIAM, 1997.
-
-
-
-
-
-|عنوان درس به فارسی:|<h3>جبر خطی</h3>|
-| -: | :- |
-|عنوان درس به انگلیسی:|Linear Algebra|نوع درس و واحد|
-|دروس پیش‏نیاز:|مبانی آنالیز عددی|**پایه**£** |نظریn|
-|دروس هم‏نیاز:|ندارد|تخصصی الزامی£|عملی £|
-|تعداد واحد:|2|حل تمرین دارد|تخصصی اختیاری **n**|نظری-عملی £|
-|تعداد ساعت:|32||رساله / پایان‏نامه £||
-|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار £سمینار £ کارگاه £ موارد دیگر: ..............|
-||
-هدف کلی:  آشنایی با نرم‌افزارهای رایج ریاضی و برنامه‌نویسی علمی با آن به همراه پیادهسازی الگوریتم‌های عددی جهت کسب
-
-آمادگی لازم برای حل مسائل کاربردی و بنیادی
-
-اهداف ویژه: پیاده‌سازی علمی الگوریتم‌های عددی.
-
-**سر فصل یا رئوس مطالب:** 
-
-~~سیستم‌های ممیز شناور ( آشنایی با استانداردهای IEEE) و معرفی رند عدد یک.~~
-
-~~خطای نمایش، خطرات آن و نحوه کنترل آن، نحوه محاسبات توابع پایه با سیستم ممیز شناور، پیاده‌سازی مسائل با ماتریس‌های بدحالت، پیاده‌سازی علمی الگوریتم‌های منتخب عددی با انتخاب استاد و مستندسازی نرم‌افزارهای علمی~~
-**
-
-
-**فهرست منابع پیشنهادی**: 
-
-Stephen Boyd and Lieven Vandenberghe, Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares, 2018
-
-Axler, S., Linear algebra done right. Springer, 2015.
-
-
+-
+- - ون لوان، چارلز فرانسیس (۱۴۰۱)،  مقدمه ای بر محاسبات علمی، ترجمه دکتر فائزه توتونیان و دکتر داود خجسته سالکویه.
+- - کرایچیان، ع. (۱۴۰۱). جبر خطی با متلب. انتشارات دانشگاه فردوسی مشهد
+- - O'Leary, D. P. (2009). Scientific Computing with Case Studies.
+- - Trefethen, L. N., & Bau III, D. (1997). Numerical Linear Algebra (Vol. 50). SI
 
 
 
@@ -1123,26 +973,16 @@ Axler, S., Linear algebra done right. Springer, 2015.
 اهداف ویژه: دانشجو  با روشهای محاسباتی باید بتواند به صورت تحلیلی و نرم افزاری کار کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-منابع خطا، سیستم‌های نمایشی اعداد، خطای رندکردن و تحلیل آن. ریشه‌یابی توابع و دستگاههای غیر خطی. درون‌یابی. تقریب کمترین مربعات. مشتق‌گیری عددی. انتگرال‌گیری عددی. حل دستگاه‌های خطی.
-
+-
+- منابع خطا، سیستم‌های نمایشی اعداد، خطای رندکردن و تحلیل آن. ریشه‌یابی توابع و دستگاههای غیر خطی. درون‌یابی. تقریب کمترین مربعات. مشتق‌گیری عددی. انتگرال‌گیری عددی. حل دستگاه‌های خطی.
+-
 ` `**فهرست منابع پیشنهادی**: 
-
-Burden, R. L., & Faires, J. D., Solutions of equations in one variable the bisection
-
-method. Brooks/Cole, Cengage Learning, 2011.
-
-Dahlquist, G., & Björck, Å., Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics, 2008.
-
-Süli, E., & Mayers, D. F., An introduction to numerical analysis. Cambridge university press, 2003.
-
-Hildebrand, F. B., Introduction to numerical analysis. Courier Corporation, 1987.
-
-Stoer, J., & Bulirsch, R., Introduction to numerical analysis (Vol. 12). Springer Science &
-
-Business Media, 2013
-
-
+-
+- - Burden, R. L., & Faires, J. D. (2011). Solutions of equations in one variable: the bisection method. Brooks/Cole, Cengage Learning.
+- - Dahlquist, G., & Björck, Å. (2008). Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics.
+- - Süli, E., & Mayers, D. F. (2003). An introduction to numerical analysis. Cambridge university press.
+- - Hildebrand, F. B. (1987). Introduction to numerical analysis. Courier Corporation.
+- - Stoer, J., & Bulirsch, R. (2013). Introduction to numerical analysis (Vol. 12). Springer Science & Business Media.
 
 
 
@@ -1178,16 +1018,74 @@ Business Media, 2013
 اهداف ویژه: دانشجو با مبانی آنالیز ریاضی آشنا و با مفاهیم آن کار می کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-اعداد حقیقی و آشنایی با فضاهای متریک و مفاهیم توپولوژیکی آن. مجموعه اعداد حقیقی، اصل کمال و خاصیت ارشمیدسی. مجموعه‌های باز و بسته. مجموعه‌های فشرده. مجموعه‌های همبند. پیوستگی توابع. مشتق توابع. قضیه مقدار میانی و قضیه اکسترمم. پیوستگی یکنواخت. قضیه مقدار میانگین و قاعده هوپیتال. فضاهای متریک. دنباله‌ها و همگرایی آن‌ها. حد توابع. حفظ پیوستگی و همبندی توسط توابع پیوسته.
+-
+- اعداد حقیقی و آشنایی با فضاهای متریک و مفاهیم توپولوژیکی آن. مجموعه اعداد حقیقی، اصل کمال و خاصیت ارشمیدسی. مجموعه‌های باز و بسته. مجموعه‌های فشرده. مجموعه‌های همبند. پیوستگی توابع. مشتق توابع. قضیه مقدار میانی و قضیه اکسترمم. پیوستگی یکنواخت. قضیه مقدار میانگین و قاعده هوپیتال. فضاهای متریک. دنباله‌ها و همگرایی آن‌ها. حد توابع. حفظ پیوستگی و همبندی توسط توابع پیوسته.
 
 ` `**فهرست منابع پیشنهادی**: 
+-
+- - میرزا وزیری، م. (۱۳۸۸). فضاهای متریک با طعم توپولوژی (چاپ سوم). مشهد: انتشارات دانشگاه فردوسی.
+- - Rudin, W. (1964). Principles of mathematical analysis (Vol. 3). New York: McGraw-hill.
+- - Gordon, R. A. (2001). Real analysis: A first course. Addison Wesley.
 
-` `مجید میرزا وزیری، فضاهای متریک با طعم توپولوژی، انتشارات دانشگاه فردوسی مشهد، چاپ سوم، 1
+|عنوان درس به فارسی:|<h3>تحلیل آماری داده‌ها  </h3>|
+| -: | :- |
+|عنوان درس به انگلیسی:|Statistical Data Analysis|نوع درس و واحد|
+|دروس پیش‏نیاز:|آمار و احتمال ۱|**پایه £**|نظری**n**|
+|دروس هم‏نیاز:|ندارد|تخصصی الزامی  **n**|عملی £|
+|تعداد واحد:|3|حل تمرین دارد|تخصصی اختیاری£|نظری-عملی £|
+|تعداد ساعت:|48||رساله / پایان‏نامه £||
+|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار £ سمینار £ کارگاه ¢موارد دیگر: ..............|
+||
+هدف کلی:  **آشنایی با پایه‌های تئوری و عملی آماری لازم برای تحلیل داده‌ها برای مسائل واقعی**
 
-Rudin, W., Principles of mathematical analysis (Vol. 3). New York: McGraw-hill, 1964.
+اهداف ویژه: **این درس سعی دارد تا پایه‌های تئوری و عملی آماری لازم برای تحلیل داده‌ها و یادگیری ماشین را فراهم نماید. برای بخش عملی، زبان پایتون توصیه می‌شود.**
 
-Gordon, R. A., Real Analysis: A first course. Addison Wesley, 2001.
+**سر فصل یا رئوس مطالب:** 
+
+مروری بر جمع آوری اطلاعات آماری و تلخیص و ارائه آن، توزیع فراوانی، اندازه گیری شاخص های آماری. بررسی مفاهیم احتمالات و احتمال کلاسیک، احتمال شرطی، قانون احتمال کل، احتمال بیز، متغیرتصادفی، توزیع احتمال و توابع آن، مقدمه ای بر نمونه گیری، استنباط آماری، برآورد نقطه ای، برآورد فاصله ای، آزمون فرضیه های آماری، ضریب همبستگی و رگرسیون، انواع رگرسیون، تحلیل واریانس
+
+` `**فهرست منابع پیشنهادی:**
+
+Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th Ed.). Pearson.
+
+Unpingco, J. (2019). Python for Probability, Statistics, and Machine Learning (2nd Ed.). Springer. [Source code available at <https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E>]
+
+Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Ed.). O'Reilly Media, Inc.
+
+Griffiths, D. (2008). Head First Statistics. O'Reilly Media, Inc.
+
+Wheelan, C. (2014). Naked Statistics: Stripping the Dread from the Data. W. W. Norton & Company.
+
+AI PUBLISHING. (2021). Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts Using Python.
+
+
+
+|عنوان درس به فارسی:|<h3>سری‌های زمانی کاربردی</h3>|
+| -: | :- |
+|عنوان درس به انگلیسی:|Applied Time Series|نوع درس و واحد|
+|دروس پیش‏نیاز:|تحلیل آماری داده‌ها|**پایه £**|نظری**n**|
+|دروس هم‏نیاز:|ندارد|تخصصی الزامی  **n**|عملی £|
+|تعداد واحد:|3|حل تمرین دارد|تخصصی اختیاری**£**|نظری-عملی £|
+|تعداد ساعت:|48||رساله / پایان‏نامه £||
+|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار  £ سمینار £ کارگاه ¢موارد دیگر: ..............|
+||
+هدف کلی:  **آشنایی با مفهوم سری های زمانی به صورت نظری و کاربردی**
+
+اهداف ویژه: توانمندی و مهارت در مدل بندی و شبیه سازی سری های زمانی و به کارگیری آن در حل مسایل عملی با استفاده از پایتون (یا یک نرم‌افزار مشابه).
+
+**سر فصل یا رئوس مطالب:** 
+-
+- بیان اهداف تحلیل سری¬های زمانی با ذکر مثال‌هایی در زمینه‌های مختلف مانند هواشناسی، موضوعات اقتصادی و مالی، روند، مولفه فصلی، تجزیه سری زمانی، برآورد روندها با مدل های رگرسیونی، هموارسازی، مفاهیم پایه‌ای سری‌های زمانی و فرایندهای تصادفی(تابع میانگین و واریانس، تابع خود کوواریانس، خود همبستگی و خود همبستگی جزئی،‌ مانایی)، فرآیند نوفه سفید، قدم زدن تصادفی، سری های عمومی خطی، میانگین متحرک و فرآیند خود بازگشت،  مدل‌های ARMA  و ARIMA (فصلی و غیر فصلی)، در کلاس باکس- جنکینز، آزمون ریشه واحد، تفاضل‌گیری،  براورد پارامترها  (روشهای گشتاوری، کمترین مربعات و ماکسیمم درستنمایی)، پیش بینی، تحلیل باقیمانده ها و بررسی تشخیص مدلها، مناسبت مدل ها، آزمون‌های خودهمبستگی، آزمون های نرمال بودن، ملاکهای AIC و BIC برای انتخاب مدل، مقدمه مدل های ناهمسان واریانس شرطی، تبدیلات باکس- کاکس.
+- توجه: پیاده‌سازی و بکارگیری عملی در نرم‌افزار جزیی از سرفصل است که بنا به صلاحدید مدرس اعمال می‌شود.
+-
+` `**فهرست منابع پیشنهادی:**
+-
+- - کرایر، ج.د.؛ سیک چن، ک.  (1392). تجزیه‌وتحلیل سری‌های زمانی با استفاده از نرم‌افزار R، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی. 
+- - براکول، پ. و دیویس، ر.ا. (1384). مقدمه‌ای بر سری‌های زمانی و پیش‌بینی، ترجمه امینی، م.،  بزرگ نیا، ا. و  دهقان، م. ح. انتشارات دانشگاه سیستان و بلوچستان. 
+- - چتفیلد، ک. (1996). مقدمه‌ای بر تحلیل سری‌های زمانی، ترجمه حسینعلی نیرومند چاپ ششم، انتشارات دانشگاه فردوسی مشهد
+- - Shumway, R. H., and Stoffer, D. S. (2019). Time series: a data analysis approach using R. Chapman and Hall/CRC.
+- - Cryer, J. D. and Chan, K. S. (2008). Time Series Analysis With Application in R, 2nd Ed. Springer.
+
 
 
 
@@ -1208,33 +1106,31 @@ Gordon, R. A., Real Analysis: A first course. Addison Wesley, 2001.
 
 اصطلاحات و مفاهیم پایه یادگیری ماشینی، تفاوت بین یادگیری با نظارت و یادگیری بی نظارت، طبقه‌بندی داده‌ها:‌ روش k-نزدیک‌ترین همسایه، روشها و معیارهای ارزیابی طبقه‌بندها: صحت، دقت و فراخوانی، ماتریس درهم‌ریختگی، اعتبارسنجی متقابل. رگرسیون:  رگرسیون خطی، روش معادلات نرمال، رگرسیون لجستیک، مدل ساده پرسپترون، شبکه‌های عصبی چند لایه پرسپترونی.
 
-نرمال‌سازی و استانداردسازی داده‌ها. روش بیز ناپخته، درخت تصمیم و الگوریتم‌های مربوطه. آشنایی مقدماتی با ترکیب طبقه‌بندها، جنگل تصادفی.
+آشنایی با نرمال‌سازی و استانداردسازی داده‌ها. روش بیز ساده، درخت تصمیم و الگوریتم‌های مربوطه. آشنایی مقدماتی با ترکیب طبقه‌بندها، جنگل تصادفی.
 
 مباحث تکمیلی درخصوص رگرسیون:‌ انتخاب متغیرها در مدل‌های رگرسیونی، مدل‌های رگرسیون چندجمله‌ای، اسپلاین 
 
-الگوریتم‌های یادگیری بدون نظارت، روش خوشه‌بندی  K-Means. آشنایی با چند معیار ارزیابی روش‌های خوشه‌بندی، روشهای کاهش بعد، PCA و LDA.
-
-پروژه کاربردی (حتی الامکان تحت وب)
+الگوریتم‌های یادگیری بدون نظارت، روش خوشه‌بندی  K-Means. آشنایی با چند معیار ارزیابی روش‌های خوشه‌بندی، آنالیز مؤلفه‌هاب اصلی (PCA) و تحلیل تفکیک خطی (LDA).
 
 **راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:**
 
-`     `تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمون‌های کوتاه.  رویکرد این درس آشنایی دانشجو با مباحث یادگیری ماشینی است و مباحث نظری صرفا در حد نیاز آموزش داده شوند. در تدریس این درس به سرفصل درس داده‌کاوی مقدماتی هم توجه شود که هم‌پوشانی تدریس کمینه باشد. فرض بر این است که روش ماشین بردار پشتیبان در درس‌های بهینه‌سازی گفته شده است. همچنین به فرض سایر موضوعات مرتبط با یادگیری ماشین همچون روش‌های منظم‌ساز، رگرسیون ریج، روشهای بگینگ و بوستینگ،AdaBoost, XGBoost, EM، روشهای کرنل، نفرین ابعاد، موازنه بایاس-وارایانس، سایر روشهای ارزیابی طبقه‌بندها و خوشه‌بندها در دروس تکمیلی مرتبط با یادگیری ماشین، همچون دروس تحصیلات تکمیلی گفته خواهد شد. این درس نیاز به انجام پروژه و تحلیل داده‌های واقعی توسط دانشجو دارد.
+در تدریس این درس به سرفصل درس داده‌کاوی مقدماتی هم توجه شود که هم‌پوشانی تدریس کمینه باشد. فرض بر این است که روش ماشین بردار پشتیبان در درس‌های بهینه‌سازی گفته شده است. همچنین به فرض سایر موضوعات مرتبط با یادگیری ماشین همچون روش‌های منظم‌ساز، رگرسیون ریج، روشهای بگینگ و بوستینگ،AdaBoost, XGBoost, EM، روشهای کرنل، نفرین ابعاد، موازنه بایاس-وارایانس، سایر روشهای ارزیابی طبقه‌بندها و خوشه‌بندها در دروس تکمیلی مرتبط با یادگیری ماشین، همچون مباحثی در علوم کامپیوتر یا دروس تحصیلات تکمیلی گفته خواهد شد. این درس نیاز به انجام پروژه و تحلیل داده‌های واقعی توسط دانشجو دارد.
 
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی:** 
 
-\1. جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند و گویا مولفان کتاب اصلی -کتاب زیر- قصد دارند نسخه‌ی جدیدی از کتاب با پایتون در سال ۲۰۲۳ منتشر نمایند)
+\1. جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند)
 
 2. James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
 2. Sugiyama, M. (2015). Introduction to Statistical Machine Learning, Elsevier Science.
 2. Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
-2. Zaki, M. J., & Meira, W., Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press, 2014.**
+- 2. Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.**
 
 |عنوان درس به فارسی:|<h3>داده‌کاوی مقدماتی</h3>|
 | -: | :- |
 |عنوان درس به انگلیسی:|Elementary Data Mining|نوع درس و واحد|
-|دروس پیش‏نیاز:|یادگیری ماشین مقدماتی|**پایه £**|نظری**n**|
+|دروس پیش‏نیاز:|یادگیری ماشین مقدماتی،  سری‌های زمانی کاربردی|**پایه £**|نظری**n**|
 |دروس هم‏نیاز:|ندارد|تخصصی الزامی**  ¢|عملی £|
 |تعداد واحد:|3|حل تمرین دارد|تخصصی اختیاری£ |نظری-عملی £|
 |تعداد ساعت:|48||رساله / پایان‏نامه £||
@@ -1245,103 +1141,24 @@ Gordon, R. A., Real Analysis: A first course. Addison Wesley, 2001.
 اهداف ویژه: آشنایی با اصول داده کاوی، پالایش و تحلیل اکتشافی داده‌ها، توانمندی و مهارت در پیش‌پردازش داده‌ها، کشف الگوها، ارزیابی آنها و ارائه دانش کسب شده و پیاده‌سازی در یک نرم افزار (پایتون قویا توصیه می‌شود)
 
 **سر فصل یا رئوس مطالب:** 
+-
+- مفاهیم و اصول پایه داده کاوی، انباره داده‌ها، OLAP، پیش پردازش و آماده سازی داده‌ها، پاکسازی داده‌ها، یکپارچه سازی، جایگذاری داده‌های گمشده (مفقود)، انتخاب متغیر و تبدیلات روی داده‌ها، نرمال‌سازی و استانداردسازی داده‌ها، تحلیل اکتشافی و مصور‌سازی، مجموعه اقلام مکرر، قواعد انجمنی.
+- تکمیل روشهای خوشه‌بندی در درس یادگیری ماشین مقدماتی، همچون روشهای سلسله مراتبی، روشهای مبتنی بر چگالی مانند DBSCAN، روشهای مبتنی بر گرید، مانند CLIQUE، خوشه‌بندی طیفی. آشنایی با سایر روش‌های ارزیابی خوشه‌بندی.
+- شناسایی داده‌های پرت. روش‌های رتبه‌بندی صفحات، سیستم‌های پیشنهاد دهنده، ارزیابی آنها، پالایش مشارکتی، معیارهای مختلف مقایسه، فاصله اقلیدسی، ضریب همبستگی پیرسون،‌ شباهت کسینوسی، ضریب کاپای کوهن، پالایش بر اساس اقلام، امتیازدهی صریح و ضمنی. تجزیه و تحلیل شبکه‌های اجتماعی، اشاره ای به گراف کاوی، تحلیل لینک و متن کاوی.
+- روشهای کاوش الگوها در داده‌های ترتیبی و سری‌های زمانی، GSP ،  SPADE،‌FreeSpan، آنالیز تناوب، Motif Discovery،  Matrix Profile، الگوریتم MASS.
+- معرفی برخی از نرم افزارهای تخصصی در داده کاوی، مانند RapidMiner، نحوه بارگذاری  داده‌ها  و تحلیل آنها بوسیله نرم افزار،  ارایه پروژه های کلاسی دانشجویان.
 
-مفاهیم و اصول پایه داده کاوی، انباره داده‌ها، OLAP، پیش پردازش و آماده سازی داده‌ها، پاکسازی داده‌ها، یکپارچه سازی، جایگذاری داده‌های گمشده (مفقود)، انتخاب متغیر و تبدیلات روی داده‌ها، نرمال‌سازی و استاندارد سازی داده‌ها، تحلیل اکتشافی و مصور‌سازی، مجموعه اقلام مکرر، قواعد انجمنی.
-
-تکمیل روشهای خوشه‌بندی در درس یادگیری ماشین مقدماتی، همچون روشهای سلسله مراتبی، روشهای مبتنی بر چگالی مانند DBSCAN، روشهای مبتنی بر گرید، مانند CLIQUE، خوشه‌بندی طیفی. آشنایی با سایر روش‌های ارزیابی خوشه‌بندی 
-
-روشهای کاوش الگوها در داده‌های ترتیبی و سری‌های زمانی، GSP ،  SPADE،‌FreeSpan، میانگین متحرک، آنالیز تناوب، Motif Discovery،  Matrix Profile، الگوریتم MASS.
-
-شناسایی داده‌های پرت. روش‌های رتبه‌بندی صفحات، سیستم‌های پیشنهاد دهنده، ارزیابی آنها، پالایش مشارکتی، معیارهای مختلف مقایسه، فاصله اقلیدسی، ضریب همبستگی پیرسون،‌ شباهت کسینوسی، ضریب کاپای کوهن، پالایش بر اساس اقلام، امتیازدهی صریح و ضمنی. تجزیه و تحلیل شبکه‌های اجتماعی، اشاره ای به گراف کاوی، تحلیل لینک و متن کاوی، معرفی برخی از نرم افزارهای تخصصی در داده کاوی، مانند RapidMiner، نحوه بارگذاری  داده‌ها  و تحلیل آنها بوسیله نرم افزار،  ارایه پروژه های کلاسی دانشجویان.
-
-نکته‌: از آنجا که برخی از موضوعات مانند روش‌های طبقه‌بندی و خوشه‌بندی با حوزه‌ی یادگیری ماشین اشتراک دارد، در این برنامه درسی سعی شده است که هم‌پوشانی مطالب کمینه باشد. شایسته است مدرسین این دروس در این خصوص هماهنگ باشند.
+نکته‌: از آنجا که برخی از موضوعات مانند روش‌های طبقه‌بندی و خوشه‌بندی با درس یادگیری ماشین مقدماتی اشتراک دارد، شایسته است مدرسین این دروس در این خصوص هماهنگ باشند.
 
 ` `**فهرست منابع پیشنهادی:**
-
-` `شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
-
-مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
-
-زینل همدانی، علی (1394). دانشیابی داده‌ها ( مقدمه ای بر داده کاوی)، انتشارات دانشگاه صنعتی اصفهان. 
-
-Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
-
-Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
-
-Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
-
-Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
-
-Zaki, M. J., & Meira, W., Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press, 2014.
-
-
-
-
-|عنوان درس به فارسی:|<h3>تحلیل آماری داده‌ها  </h3>|
-| -: | :- |
-|عنوان درس به انگلیسی:|Statistical Data Analysis|نوع درس و واحد|
-|دروس پیش‏نیاز:|آمار و احتمال ۱|**پایه £**|نظری**n**|
-|دروس هم‏نیاز:|ندارد|تخصصی الزامی  **n**|عملی £|
-|تعداد واحد:|3|حل تمرین دارد|تخصصی اختیاری£|نظری-عملی £|
-|تعداد ساعت:|48||رساله / پایان‏نامه £||
-|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار £ سمینار £ کارگاه ¢موارد دیگر: ..............|
-||
-هدف کلی:  **آشنایی با پایه‌های تئوری و عملی آماری لازم برای تحلیل داده‌ها برای مسائل واقعی**
-
-اهداف ویژه: **این درس سعی دارد تا پایه‌های تئوری و عملی آماری لازم برای تحلیل داده‌ها و یادگیری ماشین را فراهم نماید. برای بخش عملی، زبان پایتون توصیه می‌شود.**
-
-**سر فصل یا رئوس مطالب:** 
-
-جمع آوری اطلاعات آماری و تلخیص و ارائه آن، توزیع فراوانی، اندازه گیری شاخص های آماری، بررسی مفاهیم احتمالات و احتمال کلاسیک، احتمال شرطی، قانون احتمال کل، احتمال بیز، متغیرتصادفی، توزیع احتمال و توابع آن، مقدمه ای بر نمونه گیری، استنباط آماری، برآورد نقطه ای، برآورد فاصله ای، آزمون فرضیه های آماری، ضریب همبستگی و رگرسیون، انواع رگرسیون، مقدمه ای بر سری های زمانی، تحلیل واریانس
-
-` `**فهرست منابع پیشنهادی:**
-
-Hogg, R. V. Tanis, E. and Zimmerman, D. Probability and Statistical Inference, 9th Edition, 
-
-Pearson, 2013
-
-José Unpingco, Python for Probability, Statistics, and Machine Learning, Second Ed., 2019, Springer, Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-
-Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020
-
-Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008
-
-Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012
-
-STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of
-
-Essential Statistics Concepts using Python, AI PUBLISHING
-
-
-
-
-|عنوان درس به فارسی:|<h3>سری‌های زمانی کاربردی</h3>|
-| -: | :- |
-|عنوان درس به انگلیسی:|Time Series|نوع درس و واحد|
-|دروس پیش‏نیاز:|تحلیل آماری داده‌ها|**پایه £**|نظری**n**|
-|دروس هم‏نیاز:|ندارد|تخصصی الزامی  **n**|عملی £|
-|تعداد واحد:|3|حل تمرین دارد|تخصصی اختیاری**£**|نظری-عملی £|
-|تعداد ساعت:|48||رساله / پایان‏نامه £||
-|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار  £ سمینار £ کارگاه ¢موارد دیگر: ..............|
-||
-هدف کلی:  **آشنایی با مفهوم سری های زمانی به صورت نظری و کاربردی**
-
-اهداف ویژه: توانمندی و مهارت در مدل بندی و شبیه سازی سری های زمانی و به کارگیری آن در حل مسایل عملی با استفاده از پایتون (یا یک نرم‌افزار مشابه).
-
-**سر فصل یا رئوس مطالب:** 
-
-مثالهایی از سری های زمانی و اهداف تحلیل سری های زمانی.  مدل های دارای روند و مؤلفه فصلی در حوزه زمان و روشهای برآورد و حذف آنها (عملگرهای پسرو و تفاضلی). مدل های مبتنی بر روابط خودهمبستگی (تعاریف اولیه مانند تابع خود کوواریانس، خودهمبستگی، خودهمبستگی جزئی). توابع خود کوواریانس و خودهمبستگی نمونه‌ای. آزمون های گوناگون برای تصادفی و نرمال بودن دنباله‌های متغیرهای تصادفی. معرفی کلاس ARIMA از مدل‌های خطی و وارون‌پذیر. برآورد میانگین و توابع خود کوواریانس و خودهمبستگی مدل های ایستا. پیشبینی مدل های سری های زمانی ایستا. مدل‌های ARIMA با استفاده از برآوردهای اولیه. برآوردگرهای MLE، بررسی درستی و صحت مدل، معیار AICC. سری های زمانی در حوزه فرکانس. برآورد پارامترهای مدل و چگونگی تعیین مدل و معرفی مدل های سری زمانی مبتنی بر واریانس شرطی.
-
-توجه: پیاده‌سازی و بکارگیری عملی در نرم‌افزار ( یا نرم‌افزارهای مشابه) جزیی از سرفصل است که بنا به صلاحدید مدرس اعمال می‌شود.
-
-` `**فهرست منابع پیشنهادی:**
-
-براکول، پ. و دیویس، ر.ا. (۱۳۸۴) مقدمهای بر سریهای زمانی و پیشبینی، ترجمه محمد امینی، ابوالقاسم بزرگ نیا و محمدحسین دهقان، چاپ دوم، انتشارات دانشگاه سیستان و بلوچستان. 
-
-چتفیلد، ک. (۱۹۹۶) . مقدمهای بر تحلیل سریهای زمانی، ترجمه حسینعلی نیرومند چاپ ششم، دانشگاه فردوسی مشهد.
-
-ترجمه محمدرضا مشکانی، ،R کرایر، ج.د.؛ سیک چن، ک. (۱۳۹۲)  تجزیه‌وتحلیل سریهای زمانی با استفاده از نرم‌افزار، مرکز نشر دانشگاهی.
-
+-
+- - شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
+- - مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
+- - Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
+- - Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
+- - Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
+- - Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
+- - Zaki, M. J., & Meira, W., (2014)m Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.
 
 |عنوان درس به فارسی:|<h3>تحقیق در عملیات</h3>|
 | -: | :- |
@@ -1357,20 +1174,15 @@ Essential Statistics Concepts using Python, AI PUBLISHING
 اهداف ویژه: هدف از این درس این است که دانشجو توانایی مدل بندی مسائل مختلف بهینه سازی را بدست آورده و روشهای حل مسائل برنامه ریزی خطی را بیاموزد. همچنین آشنایی با قضایا و مفاهیم ریاضی که این روشها بر اساس آنها بنا شده اند از اهداف این درس است. در انتهای این درس دانشجو باید بتواند یک مساله متوسط بهینه سازی را مدل بندی، تحلیل و با یک نرم افزار حل نماید.
 
 **سر فصل یا رئوس مطالب:** 
-
-`	`آشنایی با زمینه های تحقیق در عملیات به ویژه در اقتصاد و یادگیری ماشین. مدل بندی مسائل بهینه سازی، مفاهیم پایه ای مرتبط با برنامه ریزی خطی شامل روشهای ترسیمی، سیمپلکس اولیه و دوگان، دوفازی، دوگانی، تحلیل حساسیت. روشهای حل مسائل حمل ونقل ساده و مرکب. مدل سازی مساله تخصیص و روش حل آن. آشنایی با برنامه ریزی عدد صحیح و روشهای شاخه و کران و صفحات برشی،آشنایی با ماشین بردار پشتیبان. معرفی یک نرم افزار یا زبان مدلسازی جهت حل مسائل بهینه سازی، مانند CPLEX  و Pyomo
-
+-
+- `	`آشنایی با زمینه های تحقیق در عملیات به ویژه در اقتصاد و یادگیری ماشین. مدل بندی مسائل بهینه سازی، مفاهیم پایه ای مرتبط با برنامه ریزی خطی شامل روشهای ترسیمی، سیمپلکس اولیه و دوگان، دوفازی، دوگانی، تحلیل حساسیت. روشهای حل مسائل حمل ونقل ساده و مرکب. مدل سازی مساله تخصیص و روش حل آن. آشنایی با برنامه ریزی عدد صحیح و روشهای شاخه و کران و صفحات برشی،آشنایی با ماشین بردار پشتیبان. معرفی یک نرم افزار یا زبان مدلسازی جهت حل مسائل بهینه سازی، مانند CPLEX  و Pyomo
+-
 **فهرست منابع پیشنهادی:** 
-
-1 .برتسیماس، سیتسیکلیس، مقدمه ای بر بهینه سازی خطی، ترجمه حمید اسمعیلی، انتشارات دانشگاه بوعلی سینا، 1394.
-
-2 .حمدی طه، آشنایی با تحقیق در عملیات: برنامه ریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی، 1387.
-
-3 .وینستون، تحقیق در عملیات، برنامه‌ریزی خطی و حمل و نقل، ترجمه سید علی میر حسنی و محمدرضا علیرضایی، انتشارات مبتکران، 1380.
-
-4 .بازارا، جارویس، شرالی، برنامه ریزی خطی، ترجمه اسماعیل خرم، نشر کتاب دانشگاهی، 1392.
-**
-
+-
+- - برتسیماس، سیتسیکلیس، (1394). مقدمه‌ای بر بهینه‌سازی خطی، ترجمه حمید اسمعیلی، انتشارات دانشگاه بوعلی سینا.
+- - حمدی طه، (1387). آشنایی با تحقیق در عملیات: برنامه‌ریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی.
+- - وینستون، (1380). تحقیق در عملیات، برنامه‌ریزی خطی و حمل و نقل، ترجمه سید علی میر حسنی و محمدرضا علیرضایی، انتشارات مبتکران.
+- - بازارا، جارویس، شرالی، (1392). برنامه‌ریزی خطی، ترجمه اسماعیل خرم، نشر کتاب دانشگاهی. 
 
 |عنوان درس به فارسی:|<h3>بهینه‌سازی غیرخطی</h3>|
 | -: | :- |
@@ -1386,20 +1198,19 @@ Essential Statistics Concepts using Python, AI PUBLISHING
 اهداف ویژه:** این درس معرفی مبانی نظری و روشهای حل مسایل بهینه سازی غیر خطی شامل شرایط لازم و کافی در بهینه سازی مقید و نامقید، معرفی و تحلیل الگوریتم‌های حل این نوع مسایل است.
 
 **سر فصل یا رئوس مطالب:** 
-
-مدل سازی شامل: کاربردهایی از بهینه سازی محدب مانند طبقه بندی خطی، برازش داده‌ها (کمترین مربعات خطی و غیر خطی)، مدل های سبد سرمایه (مدل میانگین-واریانس و مینیمم واریانس مارکوویتز)، کنترل بهینه، مساله ماکسیمم درست نمایی، مساله اشتاینر، ........؛ شکل کلی مسایل بهینه سازی، شرایط لازم و کافی برای مسایل نامقید و مقید، شرایط کاروش-کیون-تاکر؛ الگوریتم‌های حل مسایل نامقید شامل: روشهای بر مبنای جستجوی خطی( جستجوی طلایی، فیبوناچی، عقب گرد)، روشهای گرادیان و نیوتن و بررسی نقاط ضعف و قوت آنها. روش های گرادیان مزدوج و شبه نیوتن. مسایل بهینه سازی درجه دوم محدب با قیود خطی و معرفی برخی روش های حل آن ؛ الگوریتم‌های حل مسایل مقید مانند الگوریتم‌های نقطه درونی. پیاده سازی الگوریتم‌ها  در پایتون یا نرم‌افزار مشابه.
-
+-
+- مدل سازی شامل: کاربردهایی از بهینه سازی محدب مانند طبقه بندی خطی، برازش داده‌ها (کمترین مربعات خطی و غیر خطی)، مدل های سبد سرمایه (مدل میانگین-واریانس و مینیمم واریانس مارکوویتز)، کنترل بهینه، مساله ماکسیمم درست نمایی، مساله اشتاینر، ........؛ شکل کلی مسایل بهینه سازی، شرایط لازم و کافی برای مسایل نامقید و مقید، شرایط کاروش-کیون-تاکر؛ الگوریتم‌های حل مسایل نامقید شامل: روشهای بر مبنای جستجوی خطی( جستجوی طلایی، فیبوناچی، عقب گرد)، روشهای گرادیان و نیوتن و بررسی نقاط ضعف و قوت آنها. روش های گرادیان مزدوج و شبه نیوتن. مسایل بهینه سازی درجه دوم محدب با قیود خطی و معرفی برخی روش های حل آن ؛ الگوریتم‌های حل مسایل مقید مانند الگوریتم‌های نقطه درونی. پیاده سازی الگوریتم‌ها  در پایتون یا نرم‌افزار مشابه.
+-
 **فهرست منابع پیشنهادی:** 
 
-1. د. ج. لوئنبرگر، برنامه‌ریزی خطی و غیرخطی، ترجمه نظام‌الدین مهدوی امیری و محمدحسین پور کاظمی، دانشگاه صنعتی شریف، ۱۳۹۲.
-1. M. Bazaraa, H.D. Sherali, C.M. Shetty, *Nonlinear Programming: Theory and Algorithms*, 3rd edition, John Wiley & Sons, 2006.
-1. Stephen Boyd and Lieven Vandenberghe. *Convex optimization*. Cambridge university press, 2004.
-1. E.K.P. Chong, S.H. Zak, An Introduction to Optimization, 4th edition, Wiley, 2013.
-1. 4. I. Griva, S.G. Nash, A. Sofer, Linear and Nonlinear Optimization, 2nd edition, SIAM, 2009.
-1. Jorge Nocedal and Stephen Wright. *Numerical optimization*. Springer Series in Operations Research and Financial Engineering, 2nd edition, 2006.
-1. *Convex Optimization* taught by Ryan Tibshirani at CMU from 2013 to 2019.
-1. S.S. RAO: Optimization: Theory and Applications, August 9, 1978, John Wiley and Sons
-
+- لوئنبرگر، د. ج.، مهدوی امیری، ن.، و پور کاظمی، محمدحسین. (۱۳۹۲). برنامه‌ریزی خطی و غیرخطی. تهران: دانشگاه صنعتی شریف.
+- Bazaraa, M., Sherali, H. D., & Shetty, C. M. (2006). Nonlinear Programming: Theory and Algorithms (3rd ed.). John Wiley & Sons.
+- Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University Press.
+- Chong, E. K. P., & Zak, S. H. (2013). An Introduction to Optimization (4th ed.). Wiley.
+- Griva, I., Nash, S. G., & Sofer, A. (2009). Linear and Nonlinear Optimization (2nd ed.). SIAM.
+- Nocedal, J., & Wright, S. (2006). Numerical optimization (2nd ed.). Springer Series in Operations Research and Financial Engineering.
+- Tibshirani, R. (2013-2019). Convex Optimization [Course]. Carnegie Mellon University.
+- Rao, S. S. (1978). Optimization: Theory and Applications. John Wiley & Sons.
 
 
 
@@ -1450,7 +1261,6 @@ Essential Statistics Concepts using Python, AI PUBLISHING
 
 منابع آزاد با نظر استاد درس
 
-
 |عنوان درس به فارسی:|<h3>مبانی اقتصاد دیجیتال</h3>|
 | -: | :- |
 |عنوان درس به انگلیسی:|Basics of Digital Economics|نوع درس و واحد|
@@ -1460,19 +1270,36 @@ Essential Statistics Concepts using Python, AI PUBLISHING
 |تعداد ساعت:|32||رساله / پایان‏نامه £||
 |نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار£ سمینار £ کارگاه £ موارد دیگر: ..............|
 ||
-هدف کلی: این درس با اصول اساسی اقتصادی سروکار دارد و به ما کمک می کند روند تصمیم گیری توسط افراد و جوامع را درک کنیم. در این درس ، فعالیتهای اساسی اقتصادی تولید ، توزیع ، مبادله و مصرف در سطح خرد و کلان مورد تجزیه و تحلیل قرار می گیرد.
+هدف کلی: آشنایی دانشجو با انقلاب دیجیتال و مبانی اقتصاد دیجیتال
 
-اهداف ویژه:دانشجو باید بتواند با نظریه های اقتصادی و کاربرد آن در زندگی آشنا شود.
+اهداف ویژه: آشنایی دانشجو با نقش و جایگاه انقلاب دیجیتال در فضای کسب و کار
 
 **سر فصل یا رئوس مطالب:** 
-
-اقتصاد: مبانی و مدل ها. معاملات، مزیت مقایسه ای و سیستم بازار. قیمت ها از کجا می آیند: تعادل تقاضا و عرضه. بهره وری اقتصادی ، تعیین قیمت و مالیات ها. سیاست های زیست محیطی و خدمات عمومی. انعطاف پذیری: پاسخگویی تقاضا. شرکت ها، بازار سهام و حاکمیت شرکتی. انتخاب مصرف کننده و اقتصاد رفتاری. فناوری ، تولید و هزینه ها. شرکت ها در بازارهای کاملاً رقابتی. سیاست انحصاری و ضد انحصاری.
-
-اشاره‌ای به رمزارزها و بلاکچین
-
+-
+- انقلاب صنعتی چهارم
+- روند حضور و نفوذ فناوری های دیجیتال در صنعت
+- انقلاب دیجیتال
+- تحول دیجیتال
+- روندهای اقتصادی و فناوری های مرتبط با اقتصاد دیجیتال
+- هوش مصنوعی / بلاک چین / اینترنت اشیا  / ...
+- مدل های کسب و کار در اقتصاد دیجیتال
+- انقلاب پلتفرم
+- تجارت الکترونیک نسل چهارم 
+- تشخیص فرصت و ایده پردازی در فضای کسب و کارهای دیجیتالی
+- طراحی و راه اندازی کسب و کار در اقتصاد دیجیتالی
+- اصول تیم سازی در فضای کسب و کارهای دیجیتالی
+- اصول مدیریت پروژه و کار تیمی در فضای کسب و کارهای دیجیتالی 
+- نقش های کلیدی در یک کسب و کار مبتنی بر اقتصاد دیجیتال
+- تدوین استراتژی ورود به بازار و اصول بازاریابی در کسب و کارهای دیجیتالی
+- تدوین استراتژی های جذب، حفظ و توسعه مشتریان در کسب و کارهای دیجیتالی
+- قیمت گذاری محصولات یا خدمات
+- روش های تامین مالی و شیوه ارائه به سرمایه گذار و الزامات آن
+- ارزشگذاری فناوری
+- اجزای اکوسیستم نوآوری مبتنی بر اقتصاد دیجیتال و آشنایی با نقش آنها
+-
 **فهرست منابع پیشنهادی**: 
 
-O’Sullivan, A., Sheffrin, S., & Perez, S., Survey of Economics: Principles, Applications, and Tools, 8th Edition, Boston: Pearson, 2019.
+Øverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 
 
 
 |عنوان درس به فارسی:|<h3>کارآموزی  </h3>|
@@ -1513,13 +1340,14 @@ O’Sullivan, A., Sheffrin, S., & Perez, S., Survey of Economics: Principles, Ap
 اهداف ویژه: دانشجو با ایده های مختلف هوش مصنوعی آشنا و با مفاهیم آن کار می کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-مقدمه‌ای بر هوش مصنوعی و تاریخچه‌ی آن، معرفی عامل‌های هوشمند، جست‌وجوی ناآگاهانه، جست‌وجوی اول-سطح  و جستجوی اول-عمق، جست‌وجوی عمق بخشی تکراری، جست‌وجوی هزینه-یکنواخت، جست‌وجوی آگاهانه، توابع ابتکاری قابل قبول  و سازگار، جست‌وجوی اول بهترین حریصانه، الگوریتم \*A و اثبات بهینگی، خودکارسازی تولید توابع ابتکاری، جست‌وجوی محلی، تپه‌نوردی، شبیه‌سازی ذوب، جست‌وجوی شعاعی محلی  و الگوریتم ژنتیک، جستجوی محلی در فضای پیوسته: روش کاهش در راستای گرادیان، مسائل ارضای محدودیت، جست‌وجوی عقبگرد، استفاده از تکنیک‌هایی نظیر LCV، MRV، بررسی جلورو‌، MAC، AC3، حل مسائل CSP با رویکرد جستجوی محلی، جستجوی مقابله‌ای، الگوریتم minimax و هرس آلفا-بتا، الگوریتم expectiminimax، فرایند تصمیم مارکوف، ارزیابی سیاست  و بهبود  سیاست، روش تکرار ارزش  و تکرار سیاست، یادگیری تقویتی، روش‌های مبتنی بر مدل، یادگیری تفاضل زمانی  و الگوریتم Q-learning، منطق، منطق گزاره‌ای  و استنتاج  در منطق گزاره‌ای )، منطق مرتبه اول  و استنتاج در منطق مرتبه اول، معرفی شبکه‌های بیزین، بازنمایی  در شبکه‌های بیزین و استقلال  در این شبکه‌ها، استنتاج در شبکه‌های بیزین: استنتاج دقیق و استنتاج تقریبی با استفاده از نمونه برداری، تخمین پارامترها در شبکه‌های بیزین، نمونه‌های معروف و کاربردی از شبکه‌های بیزین: مدل مارکوف، مدل مخفی مارکوف، دسته‌بند بیز ساده.
+-
+- مقدمه‌ای بر هوش مصنوعی و تاریخچه‌ی آن، معرفی عامل‌های هوشمند، فضای حالت، جست‌وجوی ناآگاهانه، جست‌وجوی آگاهانه، الگوریتم \*A و اثبات بهینگی، جست‌وجوی محلی، مسائل ارضای محدودیت، جست‌وجوی عقبگرد، حل مسائل CSP با رویکرد جستجوی محلی، جستجوی مقابله‌ای، الگوریتم minimax و هرس آلفا-بتا، یادگیری تقویتی، روش‌های مبتنی بر مدل، یادگیری تفاضل زمانی  و الگوریتم Q-learning، منطق، منطق گزاره‌ای  و استنتاج  در منطق گزاره‌ای، منطق مرتبه اول  و استنتاج در منطق مرتبه اول، معرفی شبکه‌های بیزین، بازنمایی  در شبکه‌های بیزین و استقلال  در این شبکه‌ها، استنتاج در شبکه‌های بیزین: استنتاج دقیق و استنتاج تقریبی با استفاده از نمونه برداری، تخمین پارامترها در شبکه‌های بیزین، نمونه‌های معروف و کاربردی از شبکه‌های بیزین: مدل مارکوف، مدل مخفی مارکوف، دسته‌بند بیز ساده.
 
 ` `**فهرست منابع پیشنهادی:**
 
-Russell, S., & Norvig, P., Artificial intelligence: a modern approach, 4th Edition, PEARSON SERIES, 2020.
+Russell, S., & Norvig, P., (2020), Artificial intelligence: a modern approach, 4th Edition, PEARSON SERIES.
 
+Berkeley notes in Intro to Artificial Intelligence course: <https://inst.eecs.berkeley.edu/~cs188>
 
 
 
@@ -1531,7 +1359,7 @@ Russell, S., & Norvig, P., Artificial intelligence: a modern approach, 4th Editi
 
 
 «دروس تخصصی اختیاری»
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.008.png)
+![](Aspose.Words.7601dad0-2951-4f1a-8528-8c93ddffd37e.008.png)
 
 
 
@@ -1558,21 +1386,16 @@ Russell, S., & Norvig, P., Artificial intelligence: a modern approach, 4th Editi
 اهداف ویژه: دانشجو باید بتواند از روش‌های برآورد و آزمون‌های فرض آماری استفاده نماید.
 
 **سر فصل یا رئوس مطالب:** 
-
-توزیعهای توام: تابع احتمال، تابع چگالی و تابع توزیع توام، متغیرهای تصادفی مستقل، کواریانس، ضریب همبستگی، مثال هایی از توزیع های توام خاص. توزیع های شرطی: توزیع های شرطی گسسته، توزیع های شرطی پیوسته، کاربرد توزیع های شرطی، امید ریاضی شرطی و کاربردهای آن شامل امید کل، واریانس شرطی. توزیع توابعی از متغیرهای تصادفی: روش تابع توزیع، روش تغییر متغیرها (دو یا چند متغیره)، روش تابع مولد گشتاور، توزیع مجموع متغیرهای تصادفی، مجموع تعداد تصادفی از متغیرهای تصادفی، امید ریاضی مجموع تعداد تصادفی از متغیرهای تصادفی. قضیه حد مرکزی و تقریب دوجمله ای توسط نرمال، تقریب پواسن به نرمال. آمار توصیفی: نمونه، جامعه آماری، شاخصهای آماری، نمودارهای آماری. نمونه تصادفی، توزیع میانگین نمونه ای، توزیع های نمونه ای، تی استودنت، کای-دو و توزیع فیشر. روشهای برآوردیابی پارامترهای نامعلوم: برآوردیابی نقطه ای، برآورد فاصله ای، فاصله اطمینان با اندازه نمونه‌های بزرگ. آشنایی با مفاهیم آزمون فرضها: آزمون فرضهای ساده، آزمون فرض های یک طرفه، آزمون فرض های دوطرفه، آزمون واریانس جمعیت نرمال، آزمون میانگین و نسبت با اندازه نمونه های بزرگ، استنباط در مورد دو میانگین، استنباط در مورد جفت مشاهدات، آزمون میانگین و نسبت دو جمعیت با اندازه نمونه های بزرگ.
-
+-
+- توزیعهای توام: تابع احتمال، تابع چگالی و تابع توزیع توام، متغیرهای تصادفی مستقل، کواریانس، ضریب همبستگی، مثال هایی از توزیع های توام خاص. توزیع های شرطی: توزیع های شرطی گسسته، توزیع های شرطی پیوسته، کاربرد توزیع های شرطی، امید ریاضی شرطی و کاربردهای آن شامل امید کل، واریانس شرطی. توزیع توابعی از متغیرهای تصادفی: روش تابع توزیع، روش تغییر متغیرها (دو یا چند متغیره)، روش تابع مولد گشتاور، توزیع مجموع متغیرهای تصادفی، مجموع تعداد تصادفی از متغیرهای تصادفی، امید ریاضی مجموع تعداد تصادفی از متغیرهای تصادفی. قضیه حد مرکزی و تقریب دوجمله ای توسط نرمال، تقریب پواسن به نرمال. آمار توصیفی: نمونه، جامعه آماری، شاخصهای آماری، نمودارهای آماری. نمونه تصادفی، توزیع میانگین نمونه ای، توزیع های نمونه ای، تی استودنت، کای-دو و توزیع فیشر. روشهای برآوردیابی پارامترهای نامعلوم: برآوردیابی نقطه ای، برآورد فاصله ای، فاصله اطمینان با اندازه نمونه‌های بزرگ. آشنایی با مفاهیم آزمون فرضها: آزمون فرضهای ساده، آزمون فرض های یک طرفه، آزمون فرض های دوطرفه، آزمون واریانس جمعیت نرمال، آزمون میانگین و نسبت با اندازه نمونه های بزرگ، استنباط در مورد دو میانگین، استنباط در مورد جفت مشاهدات، آزمون میانگین و نسبت دو جمعیت با اندازه نمونه های بزرگ.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-ن. نعمت الهی، آمار و احتمالات مهندسی، انتشارات دلفک، 1394.
-
-ش. م. راس، مقدمهای بر آمار و احتمال (برای دانشجویان مهندسی و علوم)، ترجمه مجید اسدی و ابوالقاسم بزرگ نیا، انتشارات دانشگاه فردوسی مشهد، 1382.
-
-ج. بهبودیان، آمار و احتمال مقدماتی، انتشارات دانشگاه امام رضا (ع)، 1383.
-
-س. قهرمانی، مبانی احتمال، ترجمه غلامحسین شاهکار و ابوالقاسم بزرگ نیا، انتشارات دانشگاه فردوسی مشهد، 1390.
-
-G. G. Roussas, Introduction to probability, 2nd Edition, Academic Press, 2014.
-
+-
+- - نعمت الهی، ن. (1394). آمار و احتمالات مهندسی. انتشارات دلفک.
+- - راس، ش. م.، اسدی، م.، و بزرگ نیا، ا. ق. (1382). مقدمه‌ای بر آمار و احتمال (برای دانشجویان مهندسی و علوم). انتشارات دانشگاه فردوسی مشهد.
+- - بهبودیان، ج. (1383). آمار و احتمال مقدماتی. انتشارات دانشگاه امام رضا (ع).
+- - قهرمانی، س.، شاهکار، غ.، و بزرگ نیا، ا. ق. (1390). مبانی احتمال. انتشارات دانشگاه فردوسی مشهد.
+- - Roussas, G. G. (2014). Introduction to probability (2nd ed.). Academic Press.
 
 
 
@@ -1602,14 +1425,11 @@ G. G. Roussas, Introduction to probability, 2nd Edition, Academic Press, 2014.
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی:** 
-
-گیونز، جف‌ اچ‌. (1393). آما‌ر محا‌سبا‌تی‌ (روش‌ بهینه‌سا‌زی عددی)، ترجمه محمدرضا مشکانی، انتشارات پژوهشکده آمار. 
-
-\1. Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
-
-2.Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
-
-\3. Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
+-
+- - گیونز، جف‌ اچ‌. (۱۳۹۳). آما‌ر محا‌سبا‌تی‌ (روش‌ بهینه‌سا‌زی عددی)، ترجمه محمدرضا مشکانی، انتشارات پژوهشکده آمار. 
+- Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
+- Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
+- Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
 
 
 
@@ -1639,21 +1459,19 @@ G. G. Roussas, Introduction to probability, 2nd Edition, Academic Press, 2014.
 
 **فهرست منابع پیشنهادی:** 
 
-\1. نعمت اللهی، نادر ( 1397). روشهای آماری، انتشارات دانشگاه علامه طباطبایی.
+\1. نعمت اللهی، نادر (۱۳۹۷). روشهای آماری، انتشارات دانشگاه علامه طباطبایی.
 
-\2. جانسون، ر. آ. و  باتاچاریا، گ.، (1388).  آمار اصول و روش ها، جلد 1 و 2، ترجمه میکائیلی، ف.، انتشارات نشر ارکان دانش.
+\2. جانسون، ر. آ. و  باتاچاریا، گ.، (۱۳۸۸).  آمار اصول و روش ها، جلد ۱ و ۲، ترجمه میکائیلی، ف.، انتشارات نشر ارکان دانش.
 
-\3. ووناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و 2، ترجمه مشکانی، م. ر.، انتشارات مرکز نشر دانشگاهی، 
+\3. ووناکت، ت. چ. و ووناکت، ر. ج. (۱۳۹۳). آمار مقدماتی، جلد ۱ و ۲، ترجمه مشکانی، م. ر.، انتشارات مرکز نشر دانشگاهی، 
 
-\4. بهبودیان، ج.، آمار و احتمال مقدماتی (1394).  چاپ چهلم، انتشارات آستان قدس رضوی. 
+\4. بهبودیان، ج.، آمار و احتمال مقدماتی (۱۳۹۴).  چاپ چهلم، انتشارات آستان قدس رضوی. 
 
-\5. طاهری، س.م. (1399). احتمال و آمار مهندسی، انتشارات دانشگاه تهران. 
+\5. طاهری، س.م. (۱۳۹۹). احتمال و آمار مهندسی، انتشارات دانشگاه تهران. 
 
 \6. Agresti, A.,  Franklin, C. Klingenberg, B.(2018). The art and science of learning from data. Peatson.
 
 \7. Wilcox, R. R. (2016). Understanding and applying basic statistical methods using R. John Wiley & Sons.
-
-
 
 
 
@@ -1671,16 +1489,14 @@ G. G. Roussas, Introduction to probability, 2nd Edition, Academic Press, 2014.
 اهداف ویژه: دانشجو با مفاهیم نظری علوم کامپیوتر آشنا و با مفاهیم آن کار کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-معرفی انواع مدل های محاسباتی تورینگ که با کامپیوتر معادل است. مدلهای محاسباتی شامل مدل ریاضی و ماشین توینگ و تز تورینگ چرچ. کدگذاری گودل و ماشین تورینگ جهانی. شمارش پذیری و محاسبه پذیری. مجموعه‌های محاسبه ناپذیر. مجموعه‌های خلاق .اوراکل. P و NP. قضیه پست. توضیحی از محاسبه پذیریهای پیچیده تر. معرفی مسئله هایی که قابل محاسبه با تورینگ ماشین نیستند. روش اثبات حل ناپذیری مسائل با reduction.
-
+-
+- معرفی انواع مدل های محاسباتی تورینگ که با کامپیوتر معادل است. مدلهای محاسباتی شامل مدل ریاضی و ماشین توینگ و تز تورینگ چرچ. کدگذاری گودل و ماشین تورینگ جهانی. شمارش پذیری و محاسبه پذیری. مجموعه‌های محاسبه ناپذیر. مجموعه‌های خلاق .اوراکل. P و NP. قضیه پست. توضیحی از محاسبه پذیریهای پیچیده تر. معرفی مسئله هایی که قابل محاسبه با تورینگ ماشین نیستند. روش اثبات حل ناپذیری مسائل با reduction.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-Sipser, M. (2003). Introduction to the Theory of Computation. 3th Edition, ACM Sigact News, 27(1), 27-29.
-
-Cooper, S. Barry. Computability theory. CRC Press, 2003.
-
-M. Divis, R. Sigal, E. Weyuker, Computability, Complexity, and Languages. 2nd Edition, Academic Press, 1997. 
+-
+- - Sipser, M. (2003). Introduction to the Theory of Computation. 3th Edition, ACM Sigact News, 27(1), 27-29.
+- - Cooper, S. Barry. (2003) Computability theory. CRC Press.
+- - M. Divis, R. Sigal, E. Weyuker, (1997), Computability, Complexity, and Languages. 2nd Edition, Academic Press. 
 
 
 
@@ -1699,43 +1515,15 @@ M. Divis, R. Sigal, E. Weyuker, Computability, Complexity, and Languages. 2nd Ed
 اهداف ویژه: دانشجو درستی یابی یک برنامه کامپیوتری با روش های منطقی را می آموزد.
 
 **سر فصل یا رئوس مطالب:** 
-
-منطق گزاره ای. منطق محمولات. منطق درستی یابی کد برنامه. منطق زمانی. منطق شناختی. سیستم‌های انتقالی.
-
+-
+- منطق گزاره ای. منطق محمولات. منطق درستی یابی کد برنامه. منطق زمانی. منطق شناختی. سیستم‌های انتقالی.
+-
 ` `**فهرست منابع پیشنهادی**: 
-
-Huth, M., Ryan, M. Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University, 2020.
-
-
+-
+- - Huth, M., Ryan, M. (2020), Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**
 
 
 |عنوان درس به فارسی:|<h3>نظریه مقدماتی کدگذاری </h3>|
@@ -1752,17 +1540,14 @@ Huth, M., Ryan, M. Logic in Computer Science: Modelling and Reasoning about Syst
 اهداف ویژه: دانشجو باید بتواند از شیوه‌ها متفاوت کدگذاری استفاده نماید.
 
 **سر فصل یا رئوس مطالب:** 
-
-یادآوری مفاهیم حلقه، میدان، حلقه خارج قسمتی، حوزه ایده آل اصلی، حلقه چندجمله‌ای‌ها، الگوریتم تقسیم، فضای برداری روی میدان متناهی، پایه و بعد یک فضای برداری. تعریف مفاهیم ابتدایی کدگذاری شامل مجموعه الفبا، کد و کد کلمه، تعریف فاصله همینگ و خواص آن و ….  مقدمه‌ای بر میدان‌های متناهی. مقدمه‌ای بر کدهای خطی. تعریف کد دوری.
+-
+- یادآوری مفاهیم حلقه، میدان، حلقه خارج قسمتی، حوزه ایده آل اصلی، حلقه چندجمله‌ای‌ها، الگوریتم تقسیم، فضای برداری روی میدان متناهی، پایه و بعد یک فضای برداری. تعریف مفاهیم ابتدایی کدگذاری شامل مجموعه الفبا، کد و کد کلمه، تعریف فاصله همینگ و خواص آن و ….  مقدمه‌ای بر میدان‌های متناهی. مقدمه‌ای بر کدهای خطی. تعریف کد دوری.
 
 ` `**فهرست منابع پیشنهادی:**
-
-R. Hill, A First Course in Coding Theory, Oxford Applied Mathematics and Computers Science Series, 11th Edition, Clarendon Press, 2001.
-
-S. Roman, Coding and Information, Springer, 1992.
-
-S. Ling, C. Xing, Coding Theory: A First Course, Cambridge University Press, 2014
-
+-
+- - Hill, R. (2001). A First Course in Coding Theory (11th ed.). Oxford Applied Mathematics and Computers Science Series, Clarendon Press.
+- - Roman, S. (1992). Coding and Information. Springer.
+- - Ling, S., & Xing, C. (2014). Coding Theory: A First Course. Cambridge University Press.
 
 
 
@@ -1781,19 +1566,15 @@ S. Ling, C. Xing, Coding Theory: A First Course, Cambridge University Press, 201
 اهداف ویژه: دانشجو باید بتواند از مفاهیم حد، مشتق، انتگرال و سریها برای حل مسائل کاربردی استفاده نماید.
 
 **سر فصل یا رئوس مطالب:** 
-
-مقدمه‌ای بر رمزنگاری. ساختارهای اساسی رمزنگاری. رمزنگاری متقارن. رمزنگاری کلید عمومی. امضای دیجیتال. ریاضی رمز. تعاریف مبتنی بر شبیه‌سازی. مدل پیشگوی تصادفی. پروتکل های رمزنگاری. رمزنگاری کوانتومی.
-
-
+-
+- مقدمه‌ای بر رمزنگاری. ساختارهای اساسی رمزنگاری. رمزنگاری متقارن. رمزنگاری کلید عمومی. امضای دیجیتال. ریاضی رمز. تعاریف مبتنی بر شبیه‌سازی. مدل پیشگوی تصادفی. پروتکل های رمزنگاری. رمزنگاری کوانتومی.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-Jonathan Katz and Yehuda Lindell. Introduction to Modern Cryptography, CRC Press, 2007.
-
-O. Goldreich. Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press, 2001.
-
-O. Goldreich. Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press, 2004.
-
-A.J. Menezes, P.C. van Oorschot, and S.A. Vanstone. Handbook of Applied Cryptography, CRC Press, 1996.
+-
+- - Katz, J., & Lindell, Y. (2007). Introduction to Modern Cryptography. CRC Press.
+- - Goldreich, O. (2001). Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press.
+- - Goldreich, O. (2004). Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press.
+- - Menezes, A. J., van Oorschot, P. C., & Vanstone, S. A. (1996). Handbook of Applied Cryptography. CRC Press.
 
 
 |عنوان درس به فارسی:|<h3>برنامه‌نویسی امن </h3>|
@@ -1816,15 +1597,15 @@ A.J. Menezes, P.C. van Oorschot, and S.A. Vanstone. Handbook of Applied Cryptogr
 3 )آشنایی با مفاهیم تحلیل برنامه 
 
 **سر فصل یا رئوس مطالب:** 
-
-مقدمه ای بر امنیت ، تعریف امنیت، مفاهیم رمزنگاری – امنیت نرم افزار، تفاوت قابلیتهای امنیتی با قابلیتهای امن، تاثیر امنیت در فرایند مهندسی نرم افزار، نیازمندیهای کیفی نرم افزار، دسته بندی مخاطرات، مدلهای تولید نرم افزار امن )مدل مستقل ، مدل توزیع شده ، مدل متمرکز( - آنالیزهای ایستا و پویا ، آنالیز ایستا )محدودیتهای آنالیز ایستا، بازخوانی کد، مدل سازی، آنالیز الگوریتم(، آنالیز پویا )تست نفوذ( – مخاطرات مشهور، سرریز بافر، بررسی ورودی، خطاها و استثنائات، امنیت برنامه های تحت وب، سطح دسترسی، حریم خصوصی - استانداردهای موجود، ASVS\OWASP ، Cert ، SDLC ، Clasp ،Criteria Common – ابزارهای آنالیز سورس کد ، ابزارهای ایستا ، ابزارهای پویا. 
-
-
+-
+- مقدمه ای بر امنیت ، تعریف امنیت، مفاهیم رمزنگاری – امنیت نرم افزار، تفاوت قابلیتهای امنیتی با قابلیتهای امن، تاثیر امنیت در فرایند مهندسی نرم افزار، نیازمندیهای کیفی نرم افزار، دسته بندی مخاطرات، مدلهای تولید نرم افزار امن )مدل مستقل ، مدل توزیع شده ، مدل متمرکز( - آنالیزهای ایستا و پویا ، آنالیز ایستا )محدودیتهای آنالیز ایستا، بازخوانی کد، مدل سازی، آنالیز الگوریتم(، آنالیز پویا )تست نفوذ( – مخاطرات مشهور، سرریز بافر، بررسی ورودی، خطاها و استثنائات، امنیت برنامه های تحت وب، سطح دسترسی، حریم خصوصی - استانداردهای موجود، ASVS\OWASP ، Cert ، SDLC ، Clasp ،Criteria Common – ابزارهای آنالیز سورس کد ، ابزارهای ایستا ، ابزارهای پویا. 
+-
 ` `**فهرست منابع پیشنهادی:**
+-
+- - Chest, B., & West, J. (2007). Secure Programming with Static Analysis. Addison Wesley.
+- - McGraw, G. (2006). Software Security. Addison Wesley.
 
-B. Chest and J. West, Secure Programming with Static Analysis, , Addison Wesley, 2007.
 
-G. McGraw, Software Security, Addison Wesley, 2006.
 
 
 |عنوان درس به فارسی:|<h3>معناشناسی عملیاتی برنامه‌نویسی </h3>|
@@ -1841,12 +1622,12 @@ G. McGraw, Software Security, Addison Wesley, 2006.
 اهداف ویژه: 
 
 **سر فصل یا رئوس مطالب:** 
-
-معناشناسی عملیاتی. درستی یابی برنامه. تایپ های بازگشتی.
-
+-
+- معناشناسی عملیاتی. درستی یابی برنامه. تایپ های بازگشتی.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-G. Winskel, The Formal Semantics of Programming Languages An Introduction, The MIT Press, 1994
+-
+- - Winskel, G., (1994), The Formal Semantics of Programming Languages An Introduction, The MIT Press, 
 
 
 |عنوان درس به فارسی:|<h3>آشنایی با نظریه بازی‌ها</h3>|
@@ -1873,15 +1654,11 @@ G. Winskel, The Formal Semantics of Programming Languages An Introduction, The M
 
 **فهرست منابع پیشنهادی:** 
 
-\1. عبدلی، قهرمان (1398). نظریه بازیها و کاربردهای آن (بازیهای اطلاعات ناقص ، تکاملی و همکارانه)، انتشارات سمت. 
-
-\2. عبدلی، قهرمان (1399). نظریه بازی ها و کاربردهای آن (بازیهای ایستا و پویا با اطلاعات کامل)، انتشارات جهاد دانشگاهی. 
-
-\3. سوری، علی. (1400). نظریه بازی‌ها و کاربردهای اقتصادی، انتشارات نور علم.
-
-\5. زیگفرید، تام. (1399). ریاضیات زیبا: جان نش، نظریه بازی ها، و جست و جوی رمز طبیعت، ترجمه صادقی، مهدی، نشر نی.
-
-\1. Rasmusen, E. (1990). Games and information. An introduction to game theory.Wiley.  
+- عبدلی، قهرمان (1398). نظریه بازیها و کاربردهای آن (بازیهای اطلاعات ناقص ، تکاملی و همکارانه)، انتشارات سمت. 
+- عبدلی، قهرمان (1399). نظریه بازی ها و کاربردهای آن (بازیهای ایستا و پویا با اطلاعات کامل)، انتشارات جهاد دانشگاهی. 
+- سوری، علی. (1400). نظریه بازی‌ها و کاربردهای اقتصادی، انتشارات نور علم.
+- زیگفرید، تام. (1399). ریاضیات زیبا: جان نش، نظریه بازی ها، و جست و جوی رمز طبیعت، ترجمه صادقی، مهدی، نشر نی.
+- Rasmusen, E. (1990). Games and information. An introduction to game theory.Wiley.  
 #
 
 
@@ -1900,17 +1677,14 @@ G. Winskel, The Formal Semantics of Programming Languages An Introduction, The M
 اهداف ویژه: دانشجو باید بتواند الگوریتم‌های تصادفی را تحلیل نماید.
 
 **سر فصل یا رئوس مطالب:** 
-
-احتمال و اثبات با روش احتمالاتی. الگوریتم‌های تصادفی پایه‌ای. جایگشت تصادفی و کاربردهای‌ آن. کران پایین الگوریتم‌های تصادفی. ساختمان‌داده. قدم‌زدن تصادفی. روش مونت کارلو. روش‌های جبری. الگوریتم‌های گراف. آنتروپی.
-
-
+-
+- احتمال و اثبات با روش احتمالاتی. الگوریتم‌های تصادفی پایه‌ای. جایگشت تصادفی و کاربردهای‌ آن. کران پایین الگوریتم‌های تصادفی. ساختمان‌داده. قدم‌زدن تصادفی. روش مونت کارلو. روش‌های جبری. الگوریتم‌های گراف. آنتروپی.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-R. Motwani and P. Raghavan. Randomized Algorithms. Cambridge University Press, 1995.
-
-J. Matoušek and J. Vondrák. The Probabilistic Method. Lecture Notes, Department of Applied Mathematics, Charles University, Prague, 2001.
-
-M. Mitzenmacher and E. Upfa. Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press, 2005.
+-
+- - Motwani, R., & Raghavan, P. (1995). Randomized Algorithms. Cambridge University Press.
+- - Matoušek, J., & Vondrák, J. (2001). The Probabilistic Method [Lecture Notes]. Department of Applied Mathematics, Charles University.
+- - Mitzenmacher, M., & Upfal, E. (2005). Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press.
 
 
 |عنوان درس به فارسی:|<h3>هندسه محاسباتی </h3>|
@@ -1927,64 +1701,54 @@ M. Mitzenmacher and E. Upfa. Probability and Computing: Randomized Algorithms an
 اهداف ویژه: 
 
 **سر فصل یا رئوس مطالب:** 
-
-- مقدمه 
-  - معرفی درس، نمونه مسائل هندسی
-- پوسته‌ی محدب 
-  - محاسبه‌ی پوسته‌ی محدب در صفحه، عملیات پایه‌ی هندسی
-  - چند روش برای محاسبه‌ی پوسته‌ی محدب در صفحه
-  - اثبات کران پایین، قضیه‌ی بن-اُر
-  - الگوریتم‌های حساس به خروجی، دو الگوریتم بهینه از چن
-- دوگان هندسی 
-  - دوگان نقاط، پوش‌های بالایی و پایینی، کاربردها، دوگان در فضای سه‌بعدی
-- پوسته‌ی محدب در فضای سه‌بعدی 
-  - پیچیدگی ترکیبیاتی، نحوه‌ی نمایش، الگوریتم کادوپیچی
-  - الگوریتم تصادفی کلارکسون-شور، پوسته‌ی محدب در فضاهای بالاتر
-- تقاطع و چینش خطوط 
-  - ساخت چینش خطوط، الگوریتم افزایشی، قضیه‌ی قلمرو یک خط
-  - تقاطع پاره‌خط‌ها، الگوریتم جاروب صفحه، الگوریتم تقسیم و حل
-- نمودار ورونوی و مثلث‌بندی دلونی 
-  - تعریف نمودار ورونوی، ویژگی‌ها و قضایا
-  - مثلث‌بندی دلونی و خواص آن، الگوریتم فورچیون
-  - ارتباط با پوسته‌ی محدب، الگوریتم تصادفی ساخت
-  - کاربردهای نمودار ورونوی و مثلث‌بندی دلونی، نمودار ورونوی مرتبه‌ی بالاتر
-- برنامه‌ریزی خطی 
-  - تعریف برنامه‌ریزی خطی، کاربردهای هندسی در فضای پایین
-  - الگوریتم هرس و جست‌وجوی مگیدو، الگوریتم تصادفی-افزایشی سایدل
-  - الگوریتم نمونه‌برداری تصادفی کلارکسون
-  - مسائل شبیه به برنامه‌ریزی خطی، کوچک‌ترین دایره‌ی محیطی
-- مکان‌یابی نقاط 
-  - روش تقسیم و حل، نقشه‌ی ذوزنقه‌ای، الگوریتم افزایشی تصادفی
-  - الگوریتم هرس و جست‌وجوی کرکپاتریک
-- مثلث‌بندی چندضلعی 
-  - روش ذوزنقه‌بندی، الگوریتم تصادفی سایدل
-  - کاربردهای مثلث‌بندی، مسئله‌ی گالری هنر
-- جست‌وجوی بازه‌ای 
-  - بازه‌های متعامد: درخت کی‌دی، درخت بازه، آبشار کسری
-  - پنجره‌بندی، درخت جست‌وجوی اولویت، درخت پاره‌خط
+-
+- - مقدمه 
+- - معرفی درس، نمونه مسائل هندسی
+- - پوسته‌ی محدب 
+- - محاسبه‌ی پوسته‌ی محدب در صفحه، عملیات پایه‌ی هندسی
+- - چند روش برای محاسبه‌ی پوسته‌ی محدب در صفحه
+- - اثبات کران پایین، قضیه‌ی بن-اُر
+- - الگوریتم‌های حساس به خروجی، دو الگوریتم بهینه از چن
+- - دوگان هندسی 
+- - دوگان نقاط، پوش‌های بالایی و پایینی، کاربردها، دوگان در فضای سه‌بعدی
+- - پوسته‌ی محدب در فضای سه‌بعدی 
+- - پیچیدگی ترکیبیاتی، نحوه‌ی نمایش، الگوریتم کادوپیچی
+- - الگوریتم تصادفی کلارکسون-شور، پوسته‌ی محدب در فضاهای بالاتر
+- - تقاطع و چینش خطوط 
+- - ساخت چینش خطوط، الگوریتم افزایشی، قضیه‌ی قلمرو یک خط
+- - تقاطع پاره‌خط‌ها، الگوریتم جاروب صفحه، الگوریتم تقسیم و حل
+- - نمودار ورونوی و مثلث‌بندی دلونی 
+- - تعریف نمودار ورونوی، ویژگی‌ها و قضایا
+- - مثلث‌بندی دلونی و خواص آن، الگوریتم فورچیون
+- - ارتباط با پوسته‌ی محدب، الگوریتم تصادفی ساخت
+- - کاربردهای نمودار ورونوی و مثلث‌بندی دلونی، نمودار ورونوی مرتبه‌ی بالاتر
+- - برنامه‌ریزی خطی 
+- - تعریف برنامه‌ریزی خطی، کاربردهای هندسی در فضای پایین
+- - الگوریتم هرس و جست‌وجوی مگیدو، الگوریتم تصادفی-افزایشی سایدل
+- - الگوریتم نمونه‌برداری تصادفی کلارکسون
+- - مسائل شبیه به برنامه‌ریزی خطی، کوچک‌ترین دایره‌ی محیطی
+- - مکان‌یابی نقاط 
+- - روش تقسیم و حل، نقشه‌ی ذوزنقه‌ای، الگوریتم افزایشی تصادفی
+- - الگوریتم هرس و جست‌وجوی کرکپاتریک
+- - مثلث‌بندی چندضلعی 
+- - روش ذوزنقه‌بندی، الگوریتم تصادفی سایدل
+- - کاربردهای مثلث‌بندی، مسئله‌ی گالری هنر
+- - جست‌وجوی بازه‌ای 
+- - بازه‌های متعامد: درخت کی‌دی، درخت بازه، آبشار کسری
+- - پنجره‌بندی، درخت جست‌وجوی اولویت، درخت پاره‌خط
 
 ` `**فهرست منابع پیشنهادی:**
-
-M. de Berg, O. Cheong, M. van Kreveld, and M. Overmars. Computational Geometry: Algorithms and Applications. 3rd edition, Springer-Verlag, 2008.
-
-J. O'Rourke. Computational Geometry in C. 2nd edition, Cambridge University Press, 1998.
-
-Jean-Daniel Boissonnat and Mariette Yvinec, Algorithmic Geometry, Cambridge Univ. Press, 1998. 
-
-Satyan L. Devadoss and Joseph O'Rourke, Discrete and Computational Geometry, Princeton Univ. Press, 2011.
-
-Herbert Edelsbrunner, Algorithms in Combinatorial Geometry, Springer, 1987. 
-
-Jacob E. Goodman, Joseph O'Rourke, and Csaba D. Tóth (editors), Handbook of Discrete and Computational Geometry, 3rd edition, CRC Press, 2017.
-
-Sariel Har-Peled, Geometric Approximation Algorithms, AMS Press, 2011. Early draft and additional material available as PDF files.
-
-Jiří Matoušek, Lectures on Discrete Geometry, Springer, 2002.
-
-Joseph O'Rourke, Computational Geometry in C, Second Edition, Cambridge Univ. Press, 1998.
-
-Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduction, Springer, 1985
-
+-
+- - Berg, M., Cheong, O., van Kreveld, M., & Overmars, M. (2008). Computational Geometry: Algorithms and Applications (3rd ed.). Springer-Verlag.
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+- - Boissonnat, J.-D., & Yvinec, M. (1998). Algorithmic Geometry. Cambridge University Press.
+- - Devadoss, S. L., & O'Rourke, J. (2011). Discrete and Computational Geometry. Princeton University Press.
+- - Edelsbrunner, H. (1987). Algorithms in Combinatorial Geometry. Springer.
+- - Goodman, J. E., O'Rourke, J., & Tóth, C. D. (Eds.). (2017). Handbook of Discrete and Computational Geometry (3rd ed.). CRC Press.
+- - Har-Peled, S. (2011). Geometric Approximation Algorithms. AMS Press.
+- - Matoušek, J. (2002). Lectures on Discrete Geometry. Springer.
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+- - Preparata, F. P., & Shamos, M. I. (1985). Computational Geometry: An Introduction. Springer.
 
 
 
@@ -2012,25 +1776,18 @@ Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduct
 
 `     `تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمونهای کوتاه. این درس نیاز به انجام پروژه و تحلیل داده‌های واقعی توسط دانشجو دارد. همراه با آموزش نظری، مطالب درس به مهارت تحلیل دادهها  و تسلط دانشجویان به نرم افزارهای آماری نیاز دارد که استاد درس بایستی در آزمایشگاه نرم افزار ارائه دهد و دانشجویان فعالیتهای تعریف شده را  انجام دهند. این درس نیاز به انجام پروژه و تحلیل داده‌های واقعی توسط دانشجو دارد.
 
-**ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
+ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی:** 
-
-1-مونتگمری، د.،  پک، آ و جافری، و. (1395). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
-
-\2. امینی، م. زمانی، ح. روزبه، م.  (1398). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
-
-1. Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
-1. Olive, D. (2017). Linear Regression, Springer.
-1. Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
-1. Weisberg, S. (2013). Applied linear regression. John Wiley.
-1. Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
-
-
-
-
-
-
+-
+- - مونتگمری، د.،  پک، آ و جافری، و. (۱۳۹۵). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
+- - امینی، م. زمانی، ح. روزبه، م.  (۱۳۹۸). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
+- - Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
+- - Olive, D. (2017). Linear Regression, Springer.
+- - Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
+- - Weisberg, S. (2013). Applied linear regression. John Wiley.
+- - Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
+**
 
 
 
@@ -2043,7 +1800,7 @@ Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduct
 |تعداد ساعت:|48||رساله / پایان‏نامه £||
 |نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار £ سمینار £ کارگاه ¢موارد دیگر: ..............|
 ||
-هدف کلی: آشنایی با هوش محاسباتی (محاسبات نرم)
+هدف کلی: **آشنایی با هوش محاسباتی (محاسبات نرم)**
 
 اهداف ویژه: هدف این درس آشنا نمودن دانشجویان با مفاهیم و اصول روشهای تحلیل هوشمند داده‌ها و روشهای هوشمند حل مسائل عملی با استفاده از رویکردهای فازی و تکاملی می‌باشد. 
 
@@ -2060,12 +1817,10 @@ Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduct
 نکته: توصیه می‌شود این درس با هماهنگی با درس شبکه‌های عصبی گفته شود.
 
 **فهرست منابع پیشنهادی:**
-
-1. J. M. Keller, D. Liu and D. B. Fogel, Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation, Wiley, 2016. 
-1. P. Engelbrecht, Computational Intelligence: An Introduction, Wiley, 2007.
-1. Konar, Computational Intelligence: Principles, Techniques and Applications, Springer, 2007.
-
-
+-
+- - Keller, J. M., Liu, D., & Fogel, D. B. (2016). Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation. Wiley.
+- - Engelbrecht, P. (2007). Computational Intelligence: An Introduction. Wiley.
+- - Konar, A. (2007). Computational Intelligence: Principles, Techniques and Applications. Springer.
 
 
 
@@ -2095,23 +1850,12 @@ Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduct
 
 تارخ، محمد جعفر و مهاجری، حسین (1392). هوش تجاری نگرشی پویا در عرصه کسب و کار، انتشارات دانشگاه خواجه نصیر. 
 
-1.Vercellis, C. (2011). Business intelligence: data mining and optimization for decision making. John Wiley.
-
-2.Azevedo, A. and Santos, M. F. (Eds.). (2020). Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
-
-3.Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
-
-4.Sauter, V. L. (2014). Decision support systems for business intelligence. John Wiley & Sons.
-
-5.Clark, D. (2019). Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
-
-6.Seamark, P. (2018). Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence. Apress.
-
-
-
-
-
-
+- Vercellis, C. (2011). Business intelligence: data mining and optimization for decision making. John Wiley.
+- Azevedo, A. and Santos, M. F. (Eds.). (2020). Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
+- Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
+- Sauter, V. L. (2014). Decision support systems for business intelligence. John Wiley & Sons.
+- Clark, D. (2019). Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
+- Seamark, P. (2018). Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence. Apress.
 
 
 
@@ -2141,17 +1885,15 @@ Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduct
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:** کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی:** 
-
-\1. نیلسن، م. (1400). شبکه‌های عصبی و یادگیری عمیق، ترجمه: جاودانی گندمانی، فروزنده، سعید و هادی خسروی، انتشارات جهاد دانشگاهی چهارمحال و بختیاری. 
-
-2. Eli Stevens, Luca Antiga, and Thomas Viehmann, (2020) Deep Learning with PyTorch, Manning Pub.
-2. Chollet, F. (2017).  Deep Learning with Python. Manning Pub.
-2. Goodfellow, I., Bengio, Y. and Courville, A.  (2016). Deep Learning, MIT Press.
-2. Lantz, B. (2019). Machine learning with R: expert techniques for predictive modeling. Packt publishing.
-2. Santanu Pattanayak (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python by Santanu Pattanayak.
-2. Nielsen, M. A. (2015). Neural networks and deep learning, San Francisco, CA: Determination press.
-
-
+-
+- - نیلسن، م. (۱۴۰۰). شبکه‌های عصبی و یادگیری عمیق، ترجمه: جاودانی گندمانی، فروزنده، سعید و هادی خسروی، انتشارات جهاد دانشگاهی چهارمحال و بختیاری. 
+- - Stevens, E., Antiga, L., & Viehmann, T. (2020). Deep Learning with PyTorch. Manning Publications.
+- - Chollet, F. (2017). Deep Learning with Python. Manning Publications.
+- - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+- - Lantz, B. (2019). Machine Learning with R: Expert Techniques for Predictive Modeling. Packt Publishing.
+- - Pattanayak, S. (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python. Apress.
+- - Nielsen, M. (2015). Neural Networks and Deep Learning. Determination Press.
+-
 
 
 |عنوان درس به فارسی:|<h3>تجارت الکترونیک</h3>|
@@ -2168,46 +1910,12 @@ Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduct
 اهداف ویژه: 
 
 **سر فصل یا رئوس مطالب:** 
-
-مقدمات، شالوده، ابزار و ساز و کارهای تجارت الکترونیکی، خرده فروشی، خدمات الکترونیکی، کسب و کار متحرک، کسب و کار هوشمند،  کسب و کار اجتماعی،بنگاه‌های اجتماعی، بازاریابی الکترونیکی، تبلیغات و ترویج الکترونیکی، امنیت تجارت الکترونیکی، سامانه‌های پرداخت الکترونیکی، تحقق سفارش الکترونیکی، راهبر دهای تجارت الکترونیکی، حقوق کسب و کار الکترونیکی، اسناد تجارت الکترونیکی، تجارت الکترونیکی در جهان، تجارت الکترونیکی در ایران.
+-
+- مقدمات، شالوده، ابزار و ساز و کارهای تجارت الکترونیکی، خرده فروشی، خدمات الکترونیکی، کسب و کار متحرک، کسب و کار هوشمند،  کسب و کار اجتماعی،بنگاه‌های اجتماعی، بازاریابی الکترونیکی، تبلیغات و ترویج الکترونیکی، امنیت تجارت الکترونیکی، سامانه‌های پرداخت الکترونیکی، تحقق سفارش الکترونیکی، راهبر دهای تجارت الکترونیکی، حقوق کسب و کار الکترونیکی، اسناد تجارت الکترونیکی، تجارت الکترونیکی در جهان، تجارت الکترونیکی در ایران.
 
 **فهرست منابع پیشنهادی**: 
-
-E. Turban, D. King, J. K. Lee, T.-P. Liang, and D. C. Turban. Electronic Commerce: A Managerial and Social Networks Perspective. 8th Edition, Springer, 2018.
-
-
-
-|عنوان درس به فارسی:|<h3>مبانی و اصول مدیریت</h3>|
-| -: | :- |
-|عنوان درس به انگلیسی:|Basics and Principles of Management|نوع درس و واحد|
-|دروس پیش‏نیاز:|ندارد|پایه £|نظری ¢|
-|دروس هم‏نیاز:||تخصصی الزامی£|عملی £|
-|تعداد واحد:|2||تخصصی اختیاری n|نظری-عملی £|
-|تعداد ساعت:|32||رساله / پایان‏نامه £||
-|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه £ سمینار £ کارگاه £ موارد دیگر: ..............|
-هدف کلی: آشنایی دانشجویان با مباحث مدیریتی. تصمیم سازی و تصمیم گیری در سیاست
-
-اهداف ویژه: فراگیری مفاهیم اساسی دانش مدیریت  نظریه های این حوزه دانشی و کاربرد آن در زندگی سیاسی و اجتماعی
-
-**سر فصل یا رئوس مطالب:** 
-
-`   `آشنایی با: مفاهیم و تعریف مدیریت. کاربرد های سازمان و انواع آن. برنامه ریزی و انواع آن با تاکید بر حوزه سیاسی. انگیزش و روش های ایجاد و تقویت انگیزه با تاکید بر سازمان های سیاسی. هدایت رهبری با تاکید بر هداریت و رهبری سیاسی. نظارت(کنترل) و روش های آن با تاکید بر نظارت در حوزه سیاست. خلاقیت و نوآوری و روش های ایجاد و تقویت آن با تاکید حوزه های سیاسی. روش های تصمیم گیری و انواع آن. رهیافت های عمده در سیر تکوینی نظریه های مدیریتی شامل رهیافت های سنتی منابع انسانی کمی و اقتضایی. انواع الگو های مدیریتی. الگو های مدیریت سیاسی. اصول مدیریت در اسلام. الکوی مدیریت حکمرانی انبیا- آشنایی با مدیریت در محیط سیاس. احزاب سازمان های مردم نهاد و مانند آن. مطالعه موردی شیوه های مدیریت سیاس در سیاست داخلی و خارجی.
-
-**راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:**
-
-سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمون‌های کوتاه توسط استاد درس. دانشجویان باید تکلیف‌های محول شده را انجام و ارائه نمایند.
-
-**ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
-
-**فهرست منابع پیشنهادی:** 
-
-\1. الوانی مهدی (1395). مدیریت عمومی. چاپ پنجاه و چهارم. تهران .نی.
-
-\2. قلی پور رحمت ا.. . ابراهیم غلامی (1389).  فراین سیاست گذاری عمومی در ایران. تهران. مرکز پژوهش های مجلس شورای اسلامی.
-
-\3. نامغ پرویز (1391).  مبانی مدیریت دولتی. تهران. هستان.
-
-
+-
+- - Turban, E., King, D., Lee, J. K., Liang, T.-P., & Turban, D. C. (2018). Electronic Commerce: A Managerial and Social Networks Perspective (8th ed.). Springer.
 
 
 |عنوان درس به فارسی:|<h3>مدلسازی ریاضی</h3>|
@@ -2224,20 +1932,15 @@ E. Turban, D. King, J. K. Lee, T.-P. Liang, and D. C. Turban. Electronic Commerc
 اهداف ویژه: **آشنایی با نرم‌افزارهای ریاضی برای مدلسازی**
 
 **سر فصل یا رئوس مطالب:** 
-
-`	`مقدمه ای بر مدلسازی، تعریف مدلسازی و اهمیت آن، رسیدن از یک سیستم به یک مدل در غالب چند مثال، ذکر انواع مدلها از قبیل مدلهای اقتصادی مدلهای بیویوژیکی و زیستی، مدلهای فیزیکی، مدلهای تصادفی، مدلهای دینامیکی با ارائه چند مثال؛ توابع و  انواع آن در مدلسازی: انواع توابع ونمایش آنها با استفاده از جداول، نمودارها (گرافها)، فرمولها و کلمات با ذکر مثال، توابع خطی و کاربرد آنها در مدلسازی، شیب و نرخ تغییرات، فاصله و سرعت، کاربردهایی از توابع خطی دراقتصاد و مدلهای اقتصادی از قبیل تابع هزینه، تابع درآمد، تابع سود، هزینه نهایی، درآمد نهایی، عرضه وتقاضا، نرخ تعادلی و تالیر مالیات بر آن؛ توابع نمایی در مدلسازی، مقایسه بین، توابع خطی و نمایی در مدلسازی، تابع لگاریتم طبیعی و حل معادلات با استفاد از لگاریتم در مدلسازی، رشد وکاهش نمایی، استفاده از تابع نمایی در چند مدل از قبیل مدل رشد جمعیت در بیولوژی و مدل بهره مرکب در اقتصاد؛ توابع گراف و استفاده از گرافها در مدلسازی، بسط گرافها و گرافهای شیفت یافته و کاربرد آنها در مدلسازی همراه با ارائه چند مثال؛ توابع توانی و چند جمله ای ها در مدلسازی، تابع لجستیکی و چند جمله ای‌ها در مدل رشد جمعیت (کولونی با ذخیره غذایی ثابت، جمعیت با ذخیره غذایی پایدار)، توابع متناوب، دامنه و دور آنها و استفاده از آنها در مدلسازی با ذکر چند مثال از قبیل ارتعاش پاندول؛ برازش فرمول بر داده ، برازش توابع خطی بر داده ، خط رگرسیون و استفاده از آن در پیش بینی نتایج، چگونگی عملکرد رگرسیون همراه با کاربرد آن در مدلسازی همراه با ارائه چند مثال.
-
+-
+- `	`مقدمه ای بر مدلسازی، تعریف مدلسازی و اهمیت آن، رسیدن از یک سیستم به یک مدل در غالب چند مثال، ذکر انواع مدلها از قبیل مدلهای اقتصادی مدلهای بیویوژیکی و زیستی، مدلهای فیزیکی، مدلهای تصادفی، مدلهای دینامیکی با ارائه چند مثال؛ توابع و  انواع آن در مدلسازی: انواع توابع ونمایش آنها با استفاده از جداول، نمودارها (گرافها)، فرمولها و کلمات با ذکر مثال، توابع خطی و کاربرد آنها در مدلسازی، شیب و نرخ تغییرات، فاصله و سرعت، کاربردهایی از توابع خطی دراقتصاد و مدلهای اقتصادی از قبیل تابع هزینه، تابع درآمد، تابع سود، هزینه نهایی، درآمد نهایی، عرضه وتقاضا، نرخ تعادلی و تالیر مالیات بر آن؛ توابع نمایی در مدلسازی، مقایسه بین، توابع خطی و نمایی در مدلسازی، تابع لگاریتم طبیعی و حل معادلات با استفاد از لگاریتم در مدلسازی، رشد وکاهش نمایی، استفاده از تابع نمایی در چند مدل از قبیل مدل رشد جمعیت در بیولوژی و مدل بهره مرکب در اقتصاد؛ توابع گراف و استفاده از گرافها در مدلسازی، بسط گرافها و گرافهای شیفت یافته و کاربرد آنها در مدلسازی همراه با ارائه چند مثال؛ توابع توانی و چند جمله ای ها در مدلسازی، تابع لجستیکی و چند جمله ای‌ها در مدل رشد جمعیت (کولونی با ذخیره غذایی ثابت، جمعیت با ذخیره غذایی پایدار)، توابع متناوب، دامنه و دور آنها و استفاده از آنها در مدلسازی با ذکر چند مثال از قبیل ارتعاش پاندول؛ برازش فرمول بر داده ، برازش توابع خطی بر داده ، خط رگرسیون و استفاده از آن در پیش بینی نتایج، چگونگی عملکرد رگرسیون همراه با کاربرد آن در مدلسازی همراه با ارائه چند مثال.
+-
 **فهرست منابع پیشنهادی**: 
-
-\1. Functions and change, 5th Edition, Crauder, Evans and Noell, Houghton Mifflin, 2010.
-
-\2. An Introduction to Mathematical Modeling, Michael Alder, HeavenForBooks.com, 2001.
-
-\3. An Introduction to Mathematical Modeling: A Course in Mechanics 1st Edition, Tinsley Oden, Wily
-
-Series in Computational Mechanics, 2011.
-
-\4. Mathematics for Life Sciences, Calculus, Modeling, Probability and Dynamical Systems, G. Ledder, Springer, 2013.
+-
+- - Crauder, B., Evans, A., & Noell, J. (2010). Functions and Change (5th ed.). Houghton Mifflin.
+- - Alder, M. (2001). An Introduction to Mathematical Modeling. HeavenForBooks.com.
+- - Oden, J. T. (2011). An Introduction to Mathematical Modeling: A Course in Mechanics (1st ed.). Wiley Series in Computational Mechanics.
+- - Ledder, G. (2013). Mathematics for Life Sciences: Calculus, Modeling, Probability and Dynamical Systems. Springer.
 
 
 |عنوان درس به فارسی:|<h3>آزمایشگاه ریاضی</h3>|
@@ -2251,19 +1954,21 @@ Series in Computational Mechanics, 2011.
 ||
 هدف کلی: **آشنایی دانشجویان با یکی از نرم افزارهای ریاضی** 
 
-اهداف ویژه: **آشنایی دانشجویان با یکی از نرم افزارهای ریاضی مانند maple یا GeoGebra ،mathematica ،matlab  و استفاده از آن برای پیاده سازی و تجربه عملی مفاهیم ریاضیات عمومی**
+اهداف ویژه: **آشنایی دانشجویان با یکی از نرم افزارهای ریا**ضی مانند maple یا GeoGebra ،mathematica ،matlab  و **استفاده از آن برای پیاده سازی و تجربه عملی مفاهیم ریاضیات عمومی**
 
 **سر فصل یا رئوس مطالب:** 
-
-`	`معرفی یکی از نرم افزارهای ریاضی، نحوه نصب و استفاده از راهنمای آن؛ تعریف متغیرها و ماتریس در نرم افزار؛ اعداد مختلط و پیدا کردن ریشه‌های n ام، قانون دموآر، ریاضیات سمبولیک (حد، مشتق، انتگرال)، تابع ها و فایلهای تابع، رسم نمودارهای دو بعدی، برنامهنویسی در نرم‌افزار، بررسی مفاهیم حد، مشتق و کاربرد مشتق-انتگرال و روشهای تقریبی برآورد انتگرال، دنباله‌ها و سری ها، قضیه تیلور،کاربرد انتگرال در محاسبه حجم، طول منحنی، گشتاور؛
-
+-
+- `	`معرفی یکی از نرم افزارهای ریاضی، نحوه نصب و استفاده از راهنمای آن؛ تعریف متغیرها و ماتریس در نرم افزار؛ اعداد مختلط و پیدا کردن ریشه‌های n ام، قانون دموآر، ریاضیات سمبولیک (حد، مشتق، انتگرال)، تابع ها و فایلهای تابع، رسم نمودارهای دو بعدی، برنامه‌نویسی در نرم‌افزار، بررسی مفاهیم حد، مشتق و کاربرد مشتق-انتگرال و روشهای تقریبی برآورد انتگرال، دنباله‌ها و سری ها، قضیه تیلور،کاربرد انتگرال در محاسبه حجم، طول منحنی، گشتاور؛
+-
 **فهرست منابع پیشنهادی**: 
 
-Applied Numerical Methods with MATLAB, by Steven C. Chapra
+Chapra, S. C. (n.d.). Applied Numerical Methods with MATLAB.
 
-Matlab Symbolic Algebra and Calculus Tools, by C. P. Lopez
+Lopez, C. P. (n.d.). Matlab Symbolic Algebra and Calculus Tools.
 
-Mathematica, by E. Don 
+Don, E. (n.d.). Mathematica.
+
+
 
 
 |عنوان درس به فارسی:|<h3>ریاضیات فازی</h3>|
@@ -2282,18 +1987,17 @@ Mathematica, by E. Don
 مصنوعی و محاسبات نرم یعنی کنترل و استنتاج فازی
 
 **سر فصل یا رئوس مطالب:** 
-
-`	`مروری گذرا بر منطق کالسیک (ارسطویی) و نظریه مجموعه‌های کالسیک. تعریف مجموعه‌های فازی و متغیر زبانی، تابع عضویت و انواع متداول آن (تابع عضویت منفرد، مثلثی، ذوزنقه و گوسی)، آشنایی با مفاهیم تکیهگاه، ارتفاع، مرکز، هسته، نرمال بودن، آلفا-برش. معرفی مفاهیم زیرمجموعه بودن فازی، مکمل فازی، اجتماع فازی، اشتراک فازی، قانون دمورگان.  مروری کوتاه بر نظریه امکان و تفاوت آن با نظریه احتمال. تعریف عملگرهای مکمل فازی، -tنرم فازی و-s نرم فازی و میانگین فازی. معرفی شرایط برقراری مجموعه انجمنی برای عملگرهای مکمل فازی، -tنرم فازی و-s نرم فازی. تعریف حاصلضرب دکارتی مجموعه‌های فازی، تعریف رابطه فازی و ترکیب روابط فازی، تعریف تابع فازی، معرفی مفاهیم تصویر فازی، توسعه استوانهای فازی، اصل تجزیه فازی و اصل توسیع زاده. معرفی اعداد فازی، انواع اعداد فازی متداول (عدد فازی منفرد، مثلثی، ذوزنقه‌ای و نمایی یا گوسی)، حساب اعداد فازی بر اساس دو روش اصل توسیع فازی و استفاده از آلفا-برشها، بررسی وجود جواب معادالت خطی فازی، رتبه بندی اعداد فازی. تعریف گزاره‌های فازی، قواعد اگر- آنگاه فازی، تعریف استلزام فازی و کاربرد آن در ساختن یک سیستم استنتاج فازی(سیستم کنترل فازی). تعریف موتور استنتاج فازی، فازی ساز و انواع آن، پایگاه قواعد فازی، غیر فازی ساز و انواع آن. آشنایی با ساختن یک سیستم فازی ممدانی.
-
+-
+- `	`مروری گذرا بر منطق کالسیک (ارسطویی) و نظریه مجموعه‌های کالسیک. تعریف مجموعه‌های فازی و متغیر زبانی، تابع عضویت و انواع متداول آن (تابع عضویت منفرد، مثلثی، ذوزنقه و گوسی)، آشنایی با مفاهیم تکیهگاه، ارتفاع، مرکز، هسته، نرمال بودن، آلفا-برش. معرفی مفاهیم زیرمجموعه بودن فازی، مکمل فازی، اجتماع فازی، اشتراک فازی، قانون دمورگان.  مروری کوتاه بر نظریه امکان و تفاوت آن با نظریه احتمال. تعریف عملگرهای مکمل فازی، -tنرم فازی و-s نرم فازی و میانگین فازی. معرفی شرایط برقراری مجموعه انجمنی برای عملگرهای مکمل فازی، -tنرم فازی و-s نرم فازی. تعریف حاصلضرب دکارتی مجموعه‌های فازی، تعریف رابطه فازی و ترکیب روابط فازی، تعریف تابع فازی، معرفی مفاهیم تصویر فازی، توسعه استوانهای فازی، اصل تجزیه فازی و اصل توسیع زاده. معرفی اعداد فازی، انواع اعداد فازی متداول (عدد فازی منفرد، مثلثی، ذوزنقه‌ای و نمایی یا گوسی)، حساب اعداد فازی بر اساس دو روش اصل توسیع فازی و استفاده از آلفا-برشها، بررسی وجود جواب معادالت خطی فازی، رتبه بندی اعداد فازی. تعریف گزاره‌های فازی، قواعد اگر- آنگاه فازی، تعریف استلزام فازی و کاربرد آن در ساختن یک سیستم استنتاج فازی(سیستم کنترل فازی). تعریف موتور استنتاج فازی، فازی ساز و انواع آن، پایگاه قواعد فازی، غیر فازی ساز و انواع آن. آشنایی با ساختن یک سیستم فازی ممدانی.
+-
 **فهرست منابع پیشنهادی**: 
 
-L.X. Wang, A Course in Fuzzy Systems and Control, 1996.
+- Wang, L. X. (1996). A course in fuzzy systems and control.
+- Klir, G. J., & Youn, B. (1995). Fuzzy set and fuzzy logic: Theory and applications.
+- Bede, B. (2013). Mathematics of fuzzy sets and fuzzy logic.
+- Yager, R. R., & Negoyen, H. T. (1987). Fuzzy set and applications.
 
-G.J. Klir, B. Youn, Fuzzy Set and Fuzzy Logic (Theory and Application), 1995.
 
-B. Bede, Mathematics of Fuzzy Sets and Fuzzy Logic, 2013.
-
-R.R. Yager, H.T. Negoyen, Fuzzy Set and Application, 1987.
 
 
 |عنوان درس به فارسی:|<h3>نظریه گراف و کاربردها </h3>|
@@ -2310,18 +2014,14 @@ R.R. Yager, H.T. Negoyen, Fuzzy Set and Application, 1987.
 اهداف ویژه: دانشجو با گراف و کاربردهای آن آشنا و با مفاهیم آن کار می کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-مفاهیم و تعاریف اولیه گراف های ساده، جهت دار و مخلوط - درجه راس - همبندی – زیرگراف ها - یکریختی گرافها – مکمل گراف. ماتریس های وابسته به گراف ها مانند ماتریس مجاورت و ماتریس وقوع. رده های مختلف گرافها مانند: دور- مسیر- دوبخشی – وتری – ابرمکعب و …. اعداد استقلال و پوشش راسی گراف ها. دورهای همیلتونی و اویلری. عملیات مختلف روی گراف ها. همبندی راسی و یالی – گراف های 2-همبند و بلوک ها - قضیه منگر. تطابق ها و قضیه هال. گراف های مسطح - قضیه کوراتوسکی. انواع رنگ آمیزی گراف ها و قضایای معروف مربوطه. مجموعه‌های مستقل و خوشه ها.
-
+-
+- مفاهیم و تعاریف اولیه گراف های ساده، جهت دار و مخلوط - درجه راس - همبندی – زیرگراف ها - یکریختی گرافها – مکمل گراف. ماتریس های وابسته به گراف ها مانند ماتریس مجاورت و ماتریس وقوع. رده های مختلف گرافها مانند: دور- مسیر- دوبخشی – وتری – ابرمکعب و …. اعداد استقلال و پوشش راسی گراف ها. دورهای همیلتونی و اویلری. عملیات مختلف روی گراف ها. همبندی راسی و یالی – گراف های 2-همبند و بلوک ها - قضیه منگر. تطابق ها و قضیه هال. گراف های مسطح - قضیه کوراتوسکی. انواع رنگ آمیزی گراف ها و قضایای معروف مربوطه. مجموعه‌های مستقل و خوشه ها.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-Diestel, R., Extremal Graph Theory. In Graph Theory (pp. 173-207). Springer, Berlin,
-
-Heidelberg, 2017.
-
-West, D. B., Introduction to graph theory (Vol. 2). Upper Saddle River, NJ: Prentice hall, 1996.
-
-Bondy, J. A., & Murty, U. S. R., Graph theory with applications (Vol. 290). London: Macmillan, 1976.
+-
+- - 1. Diestel, R. (2017). Extremal Graph Theory. In Graph Theory (pp. 173-207). Springer, Berlin Heidelberg.
+- - 2. West, D. B. (1996). Introduction to Graph Theory: Vol. 2. Prentice Hall.
+- - 3. Bondy, J. A., & Murty, U. S. R. (1976). Graph Theory with Applications: Vol. 290. Macmillan, London..
 
 
 
@@ -2340,14 +2040,13 @@ Bondy, J. A., & Murty, U. S. R., Graph theory with applications (Vol. 290). Lond
 اهداف ویژه: دانشجو با مبانی جبرآشنا و با مفاهیم آن کار می کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-نیمگروه، گروه، همریختی، زیرگروه. گروه خارج قسمتی، قضایای گروه های دوری و قضیه لاگرانژ. گروههای جایگشتی و قضیه کیلی. زیر گروه های نرمال و زیرگروه مشتق. قضایای یکریختی. حلقه و اعمال مقدماتی روی حلقه‌ها . زیرحلقه و مشخصه حلقه. ایده‌آلها و همریختی حلقه‌ها. ایده‌آل اول و ماکسیمال. حلقه چندجمله‌ای‌ها.
-
+-
+- نیمگروه، گروه، همریختی، زیرگروه. گروه خارج قسمتی، قضایای گروه های دوری و قضیه لاگرانژ. گروههای جایگشتی و قضیه کیلی. زیر گروه های نرمال و زیرگروه مشتق. قضایای یکریختی. حلقه و اعمال مقدماتی روی حلقه‌ها . زیرحلقه و مشخصه حلقه. ایده‌آلها و همریختی حلقه‌ها. ایده‌آل اول و ماکسیمال. حلقه چندجمله‌ای‌ها.
+-
 ` `**فهرست منابع پیشنهادی**: 
-
-Gallian, J. Contemporary abstract algebra. Nelson Education, 2012
-
-` `Kleiner, I., A history of abstract algebra. Springer Science & Business Media, 2007.
+-
+- - Gallian, J. (2012), Contemporary abstract algebra. Nelson Education,
+- - Kleiner, I., (2007), A history of abstract algebra. Springer Science & Business Media.
 
 
 |عنوان درس به فارسی:|<h3>مبانی آنالیز فوریه و موجک ها</h3>|
@@ -2364,18 +2063,15 @@ Gallian, J. Contemporary abstract algebra. Nelson Education, 2012
 اهداف ویژه: آشنایی با مفاهیم پایه‌ای از آنالیز فوریه و نظریه موجکها و کاربردهایی از آن، فضای هیلبرت
 
 **سر فصل یا رئوس مطالب:** 
-
-جبر خطی و فضاهای هیلبرت: یادآوری فضاهای برداری و خواص آن، ضرب داخلی و تعامد، عملگرهای خطی و خود الحاق روی فضای ضرب داخلی، فضاهای هیلبرت، دنباله ها و سری ها در فضای هیلبرت، پایه های متعامد؛ سری فوریه: دیدگاه های تاریخی، تحلیل سیگنال و مثال های متنوع، سری فوریه و قضایای همگرایی، همگرایی در نقاط پیوستگی و ناپیوستگی، همگرایی یکنواخت و  همگرایی در میانگین؛ تبدیل فوریه : تبدیل فوریه و معکوس آن، ویژگی های تبدیل فوریه، تبدیل فوریه در فضاهای اقلیدسی، تبدیل  فوریه پیچش، فرمول پلانچرل؛ تبدیل فوریه گسسته: تبدیل فوریه گسسته، پایه فوریه، تبدیل فوریه سریع و کاربردهای آن؛ موجک ها:  سیستم های هار، تبدیل گسسته هار، آنالیز چند ریز ساز، پایه های موجکی، تبدیل های گسسته موجکی، موجک هار، موجک دبشیز، کاربردهایی از آنالیز موجکی شامل پردازش تصویر و ... . 
-
+-
+- جبر خطی و فضاهای هیلبرت: یادآوری فضاهای برداری و خواص آن، ضرب داخلی و تعامد، عملگرهای خطی و خود الحاق روی فضای ضرب داخلی، فضاهای هیلبرت، دنباله ها و سری ها در فضای هیلبرت، پایه های متعامد؛ سری فوریه: دیدگاه های تاریخی، تحلیل سیگنال و مثال های متنوع، سری فوریه و قضایای همگرایی، همگرایی در نقاط پیوستگی و ناپیوستگی، همگرایی یکنواخت و  همگرایی در میانگین؛ تبدیل فوریه : تبدیل فوریه و معکوس آن، ویژگی های تبدیل فوریه، تبدیل فوریه در فضاهای اقلیدسی، تبدیل  فوریه پیچش، فرمول پلانچرل؛ تبدیل فوریه گسسته: تبدیل فوریه گسسته، پایه فوریه، تبدیل فوریه سریع و کاربردهای آن؛ موجک ها:  سیستم های هار، تبدیل گسسته هار، آنالیز چند ریز ساز، پایه های موجکی، تبدیل های گسسته موجکی، موجک هار، موجک دبشیز، کاربردهایی از آنالیز موجکی شامل پردازش تصویر و ... . 
+-
 ` `**فهرست منابع پیشنهادی**: 
 
-\1. Michael W. Frazier, An Introduction to Wavelets through Linear Algebra, Springer Undergraduate Texts in Mathematics
-
-\2. Barbara Burke Hubbard, The World According to Wavelets, Second Edition.
-
-\3. D. F. J. Narcowich, A. Boggess, A First Course in Wavelets with Fourier Analysis, Prentice Hall
-
-\4. F. P. J. Van Fleet, Discrete Wavelet Transforms- An Elementary Approach with Applications 
+- - Frazier, M. W. (1999). An introduction to wavelets through linear algebra. Springer Science & Business Media.
+- - Hubbard, B. B. (2001). The world according to wavelets (2nd ed.). AK Peters.
+- - Narcowich, D. F. J., & Boggess, A. (2001). A first course in wavelets with Fourier analysis. Prentice Hall.
+- - Van Fleet, F. P. J. (1996). Discrete wavelet transforms: An elementary approach with applications. John Wiley & Sons. 
 
 
 
@@ -2393,19 +2089,16 @@ Gallian, J. Contemporary abstract algebra. Nelson Education, 2012
 اهداف ویژه: **در درس پردازش تصویر به مباحث نظری بحث پرداخته می‌شود، اما تاکید در این درس بر جنبه عملی است که به عنوان پیش‌درآمد یا مکملی برای درسهایی، همچون یادگیری ماشین، آنالیز فوریه، بهینه‌سازی، موجک‌ها و قاب‌ها، شبکه‌های عصبی و یادگیری عمیق مورد استفاده قرار گیرد. پیشنهاد می‌شود از** OpenCV **و ترجیحا در پایتون بهره گرفته شود، البته این آشنایی مقدماتی محدود به زبان نیست و می‌تواند در سایر زبانها همچون**C++  **یا نرم‌افزاری مانند** MATLAB **هم صورت پذیرد.** 
 
 **سر فصل یا رئوس مطالب:** 
+-
+- مبانی تصویر دیجیتال. خواندن و نما یش تصویر خاکستری و رنگی. فضاهای رنگی و تبدیل فضای رنگ. افزودن نویز به تصویر. آستانه‌گذاری. تبدیلات هندسی تصویر، تغییر اندازه،‌ تغییرمقیاس و …. تبدیل آفین و پرسپکتیو. فیلترینگ در حوزه مکان و فرکانس. عملگرهای ریخت شناسی. آشکارساز لبه (لبه‌یابی). هیستوگرام تصویر. تبدیل هاف. شناسایی نقاط کلیدی تصویر مانند گوشه‌ها. قطعه‌بندی تصویر. مثالهای کاربردی همچون شناسایی اشیاء. اشاره‌ای بر بینایی ماشین.
 
-مبانی تصویر دیجیتال. خواندن و نما یش تصویر خاکستری و رنگی. فضاهای رنگی و تبدیل فضای رنگ. افزودن نویز به تصویر. آستانه‌گذاری. تبدیلات هندسی تصویر، تغییر اندازه،‌ تغییرمقیاس و …. تبدیل آفین و پرسپکتیو. فیلترینگ در حوزه مکان و فرکانس. عملگرهای ریخت شناسی. آشکارساز لبه (لبه‌یابی). هیستوگرام تصویر. تبدیل هاف. شناسایی نقاط کلیدی تصویر مانند گوشه‌ها. قطعه‌بندی تصویر. مثالهای کاربردی همچون شناسایی اشیاء. اشاره‌ای بر بینایی ماشین.
-
-
+-
 ` `**فهرست منابع پیشنهادی:**
-
-` `محمد حسن علیائی طرقبه، آموزش جامع پردازش تصویر با OpenCV و Python، ناشر: انتشارات میعاد اندیشه. ۱۴۰۰
-
-وحید کیانی،‌ پردازش تصاویر در پایتون: راهنمای سریع OpenCV، انتشارات دانشگاه بجنورد، ۱۴۰۲
-
-Sandipan Dey, Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data, Packt Publishing, 2018
-
-Ravishankar Chityala, Sridevi Pudipeddi , Image Processing and Acquisition using Python, Chapman & Hall, 2021
+-
+- - علیائی طرقبه، م. ح. (1400). آموزش جامع پردازش تصویر با OpenCV و Python. انتشارات میعاد اندیشه.
+- - کیانی، و. (1402). پردازش تصاویر در پایتون: راهنمای سریع OpenCV. انتشارات دانشگاه بجنورد.
+- - Dey, S. (2018). Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data. Packt Publishing.
+- - Chityala, R., & Pudipeddi, S. (2021). Image Processing and Acquisition using Python. Chapman & Hall.
 
 
 |عنوان درس به فارسی:|<h3>برنامه‌نویسی موبایل</h3>|
@@ -2419,51 +2112,33 @@ Ravishankar Chityala, Sridevi Pudipeddi , Image Processing and Acquisition using
 ||
 هدف کلی: هدف از این درس آشنایی دانشجویان با مفاهیم و الگوهای برنامه‌نویسی موبایل است 
 
-اهداف ویژه: . مطالب این درس دربرگیرنده‌ی برنامه‌نویسی در سیستم‌های عامل اندروید و iOS خواهد بود. 
+اهداف ویژه:  مطالب این درس دربرگیرنده‌ی برنامه‌نویسی در سیستم‌های عامل اندروید و iOS خواهد بود. 
 
 **سر فصل یا رئوس مطالب:** 
-
+-
 - مقدمه و برپایی محیط توسعه اندروید 
-
-آشنایی با مفاهیم، ابزارها (Android Studio و Android SDK)، نحوه‌ی خطایابی و آزمون در توسعه‌ی برنامه‌های اندروید، فرایند تولید یک برنامه اندروید
-
+- آشنایی با مفاهیم، ابزارها ، نحوه‌ی خطایابی و آزمون در توسعه‌ی برنامه‌های اندروید، فرایند تولید یک برنامه اندروید
 - ‎واسط کاربری و الگوهای آن‎ 
-
-آشنایی با الگوی MVP، معرفی مولفه‌های واسط کاربری، اصول طراحی و پیاده‌سازی یک واسط کاربری سفارشی (به کمک بسطview و GroupView)، مدیریت واسط کاربری به صورت پویا (dynamic layouts management)، بهترین الگوهای (best practices) طراحی واسط کاربری در اندروید
-
+- آشنایی با الگوی MVP، معرفی مولفه‌های واسط کاربری، اصول طراحی و پیاده‌سازی یک واسط کاربری سفارشی ، مدیریت واسط کاربری به صورت پویا ، بهترین الگوهای  طراحی واسط کاربری در اندروید
 - مدیریت داده‌ها و بومی‌سازی 
-
-ذخیره و بازیابی اطلاعات یک برنامه کاربردی در Preference اشتراکی و اختصاصی، ارتباط با پایگاه داده (SQLite database)، مکانیزم‌های پشتیبانی از localization (l10n) و internationalization (i18n)
-
+- ذخیره و بازیابی اطلاعات یک برنامه کاربردی در Preference اشتراکی و اختصاصی، ارتباط با پایگاه داده ، مکانیزم‌های پشتیبانی از localization  و internationalization 
 - حافظه و ریسمان‌ها 
-
-چرخه‌ی حیات برنامه اندروید (application life cycle)، مدل حافظه و مدیریت ریسمان‌ها در اندروید، آشنایی با اصول پیاده‌سازی الگو AsyncTask
-
+- چرخه‌ی حیات برنامه اندروید ، مدل حافظه و مدیریت ریسمان‌ها در اندروید، آشنایی با اصول پیاده‌سازی الگو AsyncTask
 - مدیریت سرویس‌ها‎ 
-
-سرویس‌های مبتنی بر مکان (location-based services)، مدیریت سرویس‌ها و هشدارها (Services, Broadcast receivers and notifications)، مدیریت دوربین، مدیریت سنسورها (sensor manager)، آشنایی با پرداخت درون برنامه‌ای
-
+- سرویس‌های مبتنی بر مکان ، مدیریت سرویس‌ها و هشدارها ، مدیریت دوربین، مدیریت سنسورها ، آشنایی با پرداخت درون برنامه‌ای
 - برپایی محیط توسعه iOS 
-
-آشنایی با مفاهیم و ابزارهای توسعه برنامه‌نویسی (Xcode)، مروری بر مولفه‌های واسط کاربری و آشنایی با Storyboards، آشنایی با الگوی MVC
-
+- آشنایی با مفاهیم و ابزارهای توسعه برنامه‌نویسی ، مروری بر مولفه‌های واسط کاربری و آشنایی با Storyboards، آشنایی با الگوی MVC
 - برنامه‌نویسی با Swift 
-
-آشنایی با ساختار زبان، انواع داده‌، کلاس‌ها و اشیا، قلمروها (Scopes)، اختیاری‌ها (Optionals)، داده‌ها و توابع عام (Generics)، آشنایی با پروتکل‌ها (Protocols)، مدیریت خطاها، مروری بر مدیریت حافظه
-
+- آشنایی با ساختار زبان، انواع داده‌، کلاس‌ها و اشیا، قلمروها ، اختیاری‌ها ، داده‌ها و توابع عام ، آشنایی با پروتکل‌ها ، مدیریت خطاها، مروری بر مدیریت حافظه
 - تکنولوژی‌های iOS 
-
-تکنولوژی‌های واسط کاربری(UIKit، Core Graphics، Core Animation)، تکنولوژی‌های بازی‌سازی (Game Kit، Sprite Kit،OpenGL ES، Game Controller)، تکنولوژی‌های مدیریت داده‌ها (Core Data، Foundation)، مدیریت صدا و تصویر (AV Foundation)
-
-- امنیت‎ 
-
-آشنایی با مخاطرات امنیتی و استانداردهای تخمین آن (mobile security assessment)، آشنایی با ابزارهای Obfuscation، آشنایی با ابزارهای تحلیل مخاطرات امنیتی (روش‌های مبتنی بر تحلیل ایستا و پویا-static and dynamic analysis tools، روش‌های مهندسی مجدد)
-
+- تکنولوژی‌های واسط کاربری، تکنولوژی‌های بازی‌سازی ، تکنولوژی‌های مدیریت داده‌ها ، مدیریت صدا و تصویر 
+-
+- امنیت‎، آشنایی با مخاطرات امنیتی و استانداردهای تخمین آن ، آشنایی با ابزارهای Obfuscation، آشنایی با ابزارهای تحلیل مخاطرات امنیتی
+-
 **فهرست منابع پیشنهادی**: 
-
-M. L. Murphy. The busy coder's guide to Android development. CommonsWare, 2011.
-
-M. Neuburg. iOS 12 Programming Fundamentals with Swift. O'Reilly Media, 2018.
+-
+- - Murphy, M. L. (2011). The busy coder's guide to Android development. CommonsWare.
+- - Neuburg, M. (2018). iOS 12 Programming Fundamentals with Swift. O'Reilly Media.
 
 
 |عنوان درس به فارسی:|<h3>برنامه‌نویسی وب</h3>|
@@ -2480,98 +2155,53 @@ M. Neuburg. iOS 12 Programming Fundamentals with Swift. O'Reilly Media, 2018.
 اهداف ویژه: در این درس، دانش‌جویان علاوه بر آشنایی اولیه با برنامه‌نویسی سمت کاربر و سمت کارگزار و نحوه‌ی تعامل این دو، با یکی از چارچوب‌های پرکاربرد برای پیاده‌سازی نرم‌افزارهای تحت وب آشنا می‌شوند
 
 **سر فصل یا رئوس مطالب:** 
-
-- مقدمه 
-
-کلیات درس، تاریخچه‌ی وب، پروتکل‌ HTTP
-
-- طراحی صفحات 
-
-ساختار HTML، عناصر و ویژگی‌ها، پاراگراف‌بندی، فرمت‌بندی، لینک‌ها، لیست‌ها
-
-`      `تصاویر، جدول‌ها، فرم‌ها، عناصر جدید در HTML5
-
-- سبک‌بندی 
-
-تعریف CSS، فرمت‌بندی، انتخاب‌کننده‌ها، وراثت و آبشار، اصول طراحی
-
-چیدمان صفحه، مدل جعبه‌ای، نمایش شناور، موقعیت‌ها، شبه‌کلاس‌ها
-
-- جاوا اسکریپت 
-
-ساختار کلی زبان، کاربردها، دستورات و توابع، متغیرها و انواع داده‌ای، ساختارهای کنترلی
-
-آرایه‌ها، اشیاء، نحوه‌ی تعریف اشیاء، سازنده‌ها، نهان‌سازی داده‌ها
-
-مدل DOM، ویرایش عناصر و سبک‌ها، رسیدگی به رویدادها، استثناها
-
-کتاب‌خانه‌ی jQuery، انتخاب‌کننده‌ها، رویدادها، جلوه‌ها و پویانمایی
-
-- ذخیره‌ی داده‌ها 
-
-آشنایی با XML، کاربردها، DTD، تبدیل توسط XSLT، آشنایی با JSON
-
-پایگاه‌ داده‌های رابطه‌ای‌، ایجاد پایگاه داده، زبان پرس‌وجوی SQL
-
-- تعامل با سرور 
-
-رابط CGI، ارسال توسط GET و POST، پردازش فرم‌ها، کوکی‌ها
-
-استفاده از AJAX، ارسال درخواست، دریافت و تجزیه‌ی پاسخ، کاربردها
-
-- پایتون 
-
-ساختار زبان، عملگرها، انواع داده‌ای، لیست‌ها، رشته‌ها، چندتایی‌ها، فرهنگ‌های داده‌ای
-
-توابع، ماژول‌ها، پکیج‌ها، توابع بی‌نام، آرگومان‌های متغیر، دکوراتورها
-
-رده‌ها و اشیاء، سازنده‌ها، وراثت، رسیدگی به استثناها
-
-پرونده‌ها، پردازش متن، عبارات منظم، کاربردها
-
-خواندن صفحات وب، کارگزار وب پایتون، آشنایی با WSGI
-
-- معماری وب 
-
-لایه‌بندی، معماری کاربر-کارگزار، معماری سه‌لایه، معماری MVC
-
-مدل‌های داده، انواع رابطه‌، تطابق با پایگاه‌ داده‌های رابطه‌ای
-
-- چارچوب جنگو 
-
-مفاهیم اولیه، نصب و راه‌اندازی، مؤلفه‌ها، معماری کلی
-
-ایجاد یک پروژه، تعریف پایگاه داده، راه‌اندازی مدیر، افزودن نما
-
-لایه‌ی مدل، نگاشت‌گر شیء-رابطه، وراثت، اجرای پرس‌وجو
-
-`     `لایه‌ی نما، نگاشت نشانی‌ها، اشیاء درخواست و پاسخ، نماهای عمومی
-
-لایه‌ی قالب‌، زبان تعریف قالب، تگ‌ها و فیلترهای آماده
-
-پردازش فرم‌ها، ابزارک‌های توکار، اعتبارسنجی
-
-مباحث پیشرفته 
-
-میان‌افزارها، بهینه‌سازی، فشرده‌سازی، استفاده از کش
-
-احراز هویت، کنترل دسترسی‌ها، مدیریت کاربرها و گروه‌ها
-
-امنیت، محافظت در مقابل حملات امنیتی، رمزنگاری
-
-`     `جلسات، ذخیره‌ی حالت جلسه، روش‌های ترکیبی
-
-بین‌المللی‌سازی، محلی‌سازی، ابزارهای ترجمه‌
-
+-
+- - مقدمه 
+- - کلیات درس، تاریخچه‌ی وب، پروتکل‌ HTTP
+- - طراحی صفحات 
+- - ساختار HTML، عناصر و ویژگی‌ها، پاراگراف‌بندی، فرمت‌بندی، لینک‌ها، لیست‌ها
+- - `      `تصاویر، جدول‌ها، فرم‌ها، عناصر جدید در HTML5
+- - سبک‌بندی 
+- - تعریف CSS، فرمت‌بندی، انتخاب‌کننده‌ها، وراثت و آبشار، اصول طراحی
+- - چیدمان صفحه، مدل جعبه‌ای، نمایش شناور، موقعیت‌ها، شبه‌کلاس‌ها
+- - جاوا اسکریپت 
+- - ساختار کلی زبان، کاربردها، دستورات و توابع، متغیرها و انواع داده‌ای، ساختارهای کنترلی
+- - آرایه‌ها، اشیاء، نحوه‌ی تعریف اشیاء، سازنده‌ها، نهان‌سازی داده‌ها
+- - مدل DOM، ویرایش عناصر و سبک‌ها، رسیدگی به رویدادها، استثناها
+- - کتاب‌خانه‌ی jQuery، انتخاب‌کننده‌ها، رویدادها، جلوه‌ها و پویانمایی
+- - ذخیره‌ی داده‌ها 
+- - آشنایی با XML، کاربردها، DTD، تبدیل توسط XSLT، آشنایی با JSON
+- - پایگاه‌ داده‌های رابطه‌ای‌، ایجاد پایگاه داده، زبان پرس‌وجوی SQL
+- - تعامل با سرور 
+- - رابط CGI، ارسال توسط GET و POST، پردازش فرم‌ها، کوکی‌ها
+- - استفاده از AJAX، ارسال درخواست، دریافت و تجزیه‌ی پاسخ، کاربردها
+- - پایتون 
+- - خواندن صفحات وب، کارگزار وب پایتون، آشنایی با WSGI
+- - معماری وب 
+- لایه‌بندی، معماری کاربر-کارگزار، معماری سه‌لایه، معماری MVC
+- مدل‌های داده، انواع رابطه‌، تطابق با پایگاه‌ داده‌های رابطه‌ای
+- - چارچوب جنگو 
+- مفاهیم اولیه، نصب و راه‌اندازی، مؤلفه‌ها، معماری کلی
+- ایجاد یک پروژه، تعریف پایگاه داده، راه‌اندازی مدیر، افزودن نما
+- لایه‌ی مدل، نگاشت‌گر شیء-رابطه، وراثت، اجرای پرس‌وجو
+- `     `لایه‌ی نما، نگاشت نشانی‌ها، اشیاء درخواست و پاسخ، نماهای عمومی
+- لایه‌ی قالب‌، زبان تعریف قالب، تگ‌ها و فیلترهای آماده
+- پردازش فرم‌ها، ابزارک‌های توکار، اعتبارسنجی
+- مباحث پیشرفته 
+- میان‌افزارها، بهینه‌سازی، فشرده‌سازی، استفاده از کش
+- احراز هویت، کنترل دسترسی‌ها، مدیریت کاربرها و گروه‌ها
+- امنیت، محافظت در مقابل حملات امنیتی، رمزنگاری
+- `     `جلسات، ذخیره‌ی حالت جلسه، روش‌های ترکیبی
+- بین‌المللی‌سازی، محلی‌سازی، ابزارهای ترجمه‌
+-
 **فهرست منابع پیشنهادی**: 
+-
+- - Schafer, S. M. (2010). HTML, XHTML, and CSS Bible (5th ed.). Wiley Publishing.
+- - Forcier, J., Bissex, P., & Chun, W. (2009). Python web development with Django. Pearson Addison-Wesley.
+- - Chun, W. J. (2012). Core Python applications programming (3rd ed.). Pearson Addison-Wesley.
+- - Fowler, M., Rice, D., Foemmel, M., Hieatt, E., Mee, R., & Stafford, R. (2003). Patterns of enterprise application architecture. Pearson Addison-Wesley.
 
-S. M. Schafer. HTML, XHTML, and CSS Bible. 5th Edition, Wiley Publishing, 2010.
 
-J. Forcier, P. Bissex, and W. Chun. Python Web Development with Django. Pearson Addison-Wesley, 2009.
-
-W. J. Chun. Core Python Applications Programming. 3rd Edition, Pearson Addison-Wesley, 2012.
-
-M. Fowler, D. Rice, M. Foemmel, E. Hieatt, R. Mee, and R. Stafford. Patterns of Enterprise Application Architecture. Pearson Addison-Wesley, 2003.
 
 
 |عنوان درس به فارسی:|<h3>شبکه‌های کامپیوتری</h3>|
@@ -2588,12 +2218,14 @@ M. Fowler, D. Rice, M. Foemmel, E. Hieatt, R. Mee, and R. Stafford. Patterns of 
 اهداف ویژه: هدف از ارایه این درس آشنایی دانشجویان با مفاهیم اولیه‌ی شبکه‌های کامپیوتری و مفاهیم مرتبط می باشد.
 
 **سر فصل یا رئوس مطالب:** 
-
-برنامه‌نویسی مبتنی بر سوکت. سویچینگ بسته‌های آی‌پی. آدرس‌دهی و هدایت مبتنی بر آی‌پی. قراردادهای انتقال (تی‌سی‌پی و یو‌دی‌پی‌). کنترل ازدحام. ترجمه‌ی آدرس‌ها (دی‌ان‌اس‌، دی‌اچ‌سی‌پی و اِی‌آر‌پی‌). میان‌افزار (Middleware). سوئیچ ها و پل‌ها (Switches and Bridges). اتصالات (Links). مسیریابی حالت اتصال. مسیریابی بردار فاصله و بردار مسیر. مسیریابی بردار مسیر مبتنی بر خط مشی (BGP). شبکه‌های فرالایه‌ای و همتا-به-همتا. جریان‌سازی چندرسانه‌ای. سویچینگ مداری (Circuit Switching). شبکه‌های بی‌سیم و همراه. شبکه توزیع محتوا (CDN). شبکه‌های مبتنی بر نرم‌‌افزار.
-
+-
+- برنامه‌نویسی مبتنی بر سوکت. سویچینگ بسته‌های آی‌پی. آدرس‌دهی و هدایت مبتنی بر آی‌پی. قراردادهای انتقال (تی‌سی‌پی و یو‌دی‌پی‌). کنترل ازدحام. ترجمه‌ی آدرس‌ها (دی‌ان‌اس‌، دی‌اچ‌سی‌پی و اِی‌آر‌پی‌). میان‌افزار (Middleware). سوئیچ ها و پل‌ها (Switches and Bridges). اتصالات (Links). مسیریابی حالت اتصال. مسیریابی بردار فاصله و بردار مسیر. مسیریابی بردار مسیر مبتنی بر خط مشی (BGP). شبکه‌های فرالایه‌ای و همتا-به-همتا. جریان‌سازی چندرسانه‌ای. سویچینگ مداری (Circuit Switching). شبکه‌های بی‌سیم و همراه. شبکه توزیع محتوا (CDN). شبکه‌های مبتنی بر نرم‌‌افزار.
+-
 **فهرست منابع پیشنهادی**: 
+-
+- - Peterson, L. L., & Davie, B. S. (2011). Computer Networks: A Systems Approach. 5th Edition. Morgan Kaufmann Publishers.
+**
 
-Larry L. Peterson and Bruce S. Davie. Computer Networks: A Systems Approach. 5th Edition, 2011.
 
 
 |عنوان درس به فارسی:|<h3>شبیه سازی کامپیوتری </h3>|
@@ -2610,19 +2242,14 @@ Larry L. Peterson and Bruce S. Davie. Computer Networks: A Systems Approach. 5th
 اهداف ویژه: دانشجو با روشهای شبیه سازی آشنا و با مفاهیم آن کار می کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-مقدمه ای بر شبیه سازی. اصول کلی و زبانهای شبیه سازی. مدلهای ریاضی و آماری در شبیه سازی. مدلهای صف. سیستمهای موجودی. تولید اعداد تصادفی. تجزیه و تحلیل داده‌های ورودی به مدل. آزمایش مدلهای شبیه سازی و تعیین اعتبار آنها. تجزیه و تحلیل نتایج به دست آمده از یک مدل شبیه سازی. اجرای یک پروژه عملی.
-
-
+-
+- مقدمه ای بر شبیه سازی. اصول کلی و زبانهای شبیه سازی. مدلهای ریاضی و آماری در شبیه سازی. مدلهای صف. سیستمهای موجودی. تولید اعداد تصادفی. تجزیه و تحلیل داده‌های ورودی به مدل. آزمایش مدلهای شبیه سازی و تعیین اعتبار آنها. تجزیه و تحلیل نتایج به دست آمده از یک مدل شبیه سازی. اجرای یک پروژه عملی.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-Wainer, G. A., Discrete-event modeling and simulation: a practitioner's approach. CRC press, 2017.
-
-Banks, J., Discrete event system simulation. Pearson Education India, 2005.
-
-Banks, J. (Ed.), Handbook of simulation: principles, methodology, advances, applications, and practice. John Wiley & Sons, 1998.
-
-
+-
+- - Wainer, G. A. (2017). Discrete-Event Modeling and Simulation: A Practitioner's Approach. CRC Press.
+- - Banks, J. (2005). Discrete Event System Simulation. Pearson Education India.
+- - Banks, J. (Ed.). (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice. John Wiley & Sons.
 
 
 |عنوان درس به فارسی:|<h3>گرافیک کامپیوتری </h3>|
@@ -2639,16 +2266,16 @@ Banks, J. (Ed.), Handbook of simulation: principles, methodology, advances, appl
 اهداف ویژه: دانشجو باید با مفاهیم گرافیک کامپیوتری آشنا شود.
 
 **سر فصل یا رئوس مطالب:** 
-
-آشنایی با مفاهیم کلی و سخت‌افزار‌های گرافیکی. نمایش سه بعدی اشیا. معرفی توابع و سطوح اسپلاین و کار برد آنها. اشیاء حبابی شکل، نمایش محوری، روشهای مبتنی بر اشکال خوش‌تعریف هندسی. روش‌های تشخیص سطوح قابل رویت. مدل محاسبه‌ی روشنایی فونگ، روش‌های نورپردازی و رنگ آمیزی (Rendering) سطوح. مدل های رنگ و کاربرد آنها. نورپردازی کلی (Global illumination). سایه زن‌ها (Shaders). معرفی هندسه فراکتالی برای ساخت اشیا و صحنه‌هایی که با هندسه اقلیدسی قابل توصیف نیستند. مصورسازی مجموعه‌ی داده‌ها. پویا نمایی کامپیوتری. روش‌های ضبط حرکت کل بدن و چهره (Motion Capture) و کاربرد آن‌ها در ساخت پویانمایی، فیلم و بازی. آشنایی با ساخت یک بازی کامپیوتری.
-
+-
+- آشنایی با مفاهیم کلی و سخت‌افزار‌های گرافیکی. نمایش سه بعدی اشیا. معرفی توابع و سطوح اسپلاین و کار برد آنها. اشیاء حبابی شکل، نمایش محوری، روشهای مبتنی بر اشکال خوش‌تعریف هندسی. روش‌های تشخیص سطوح قابل رویت. مدل محاسبه‌ی روشنایی فونگ، روش‌های نورپردازی و رنگ آمیزی (Rendering) سطوح. مدل های رنگ و کاربرد آنها. نورپردازی کلی (Global illumination). سایه زن‌ها (Shaders). معرفی هندسه فراکتالی برای ساخت اشیا و صحنه‌هایی که با هندسه اقلیدسی قابل توصیف نیستند. مصورسازی مجموعه‌ی داده‌ها. پویا نمایی کامپیوتری. روش‌های ضبط حرکت کل بدن و چهره (Motion Capture) و کاربرد آن‌ها در ساخت پویانمایی، فیلم و بازی. آشنایی با ساخت یک بازی کامپیوتری.
+-
 ` `**فهرست منابع پیشنهادی:**
+-
+- - Hearn, D., & Baker, M. P. (2011). Computer Graphics with OpenGL. 4th Edition. Prentice Hull.
+- - Marschner, S., & Shirley, P. (2016). Fundamentals of Computer Graphics. 4th Edition. CRC Press.
+- - Angel, E. (2002). OpenGL: A Primer. Addison Wesley.
 
-Hearn and Baker. Computer Graphics with OpenGL. 4th Edition, Prentice Hull, 2011.
 
-Steve Marschner and Peter Shirley. Fundamental of Computer Graphics. 4th Edition, CRC Press, 2016.
-
-Edward Angel. OpenGL, A primer. Addison Wesley, 2002.
 
 
 |عنوان درس به فارسی:|<h3>تحلیل شبکه‌های اجتماعی </h3>|
@@ -2665,12 +2292,14 @@ Edward Angel. OpenGL, A primer. Addison Wesley, 2002.
 اهداف ویژه: ساختار های شبکه‌های اجتماعی و نحوه شکل‌گیری شبکه‌های اجتماعی
 
 **سر فصل یا رئوس مطالب:** 
-
-خواص گرافی شبکه‌های اجتماعی. نظریه بازی در شبکه‌های اجتماعی. انتشار اطلاعات در شبکه‌های اجتماعی. دینامیک شبکه‌های اجتماعی.
-
+-
+- خواص گرافی شبکه‌های اجتماعی. نظریه بازی در شبکه‌های اجتماعی. انتشار اطلاعات در شبکه‌های اجتماعی. دینامیک شبکه‌های اجتماعی.
+-
 ` `**فهرست منابع پیشنهادی:**
 
-D. Easley, J. Kleinberg, Networks, Crowds, and Markets: Reasoning about a Highly Connected World, Cambridge University Press, 2010.
+- Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press.
+
+
 
 
 |عنوان درس به فارسی:|<h3>اصول سیستم‌های عامل</h3>|
@@ -2687,16 +2316,14 @@ D. Easley, J. Kleinberg, Networks, Crowds, and Markets: Reasoning about a Highly
 اهداف ویژه: دانشجو با سیستمهای عامل آشنا و با مفاهیم آن کار کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-بررسی کلی سیستمهای عامل. بررسی پیشینه های سیستم عامل. مدیریت فرآیند. مدیریت چند نخی. زمانبندی. مدیریت همزمانی. مدیریت بن بست و الگوریتم‌های شناسایی و رفع بن بست. مدیریت ذخیره سازی. برنامه‌نویسی لینوکس.
-
+-
+- بررسی کلی سیستمهای عامل. بررسی پیشینه های سیستم عامل. مدیریت فرآیند. مدیریت چند نخی. زمانبندی. مدیریت همزمانی. مدیریت بن بست و الگوریتم‌های شناسایی و رفع بن بست. مدیریت ذخیره سازی. برنامه‌نویسی لینوکس.
+-
 ` `**فهرست منابع پیشنهادی:**
-
-Avi Silberschatz , Peter Baer Galvin, Greg Gagne , Operating System Concepts, Ninth Edition, John Wiley & Sons, Inc. 2013.
-
-Silberschatz, Abraham, Peter B. Galvin, and Greg Gagne. Operating system concepts with Java. Wiley Publishing, 2009.
-
-Tanenbaum, A. Woodhull, Operating Systems: Design and Implementation, Pearson, 2009.
+-
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2013). Operating System Concepts, Ninth Edition. John Wiley & Sons, Inc.
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2009). Operating System Concepts with Java. Wiley Publishing.
+- - Tanenbaum, A., & Woodhull, A. S. (2009). Operating Systems: Design and Implementation. Pearson.
 
 
 |عنوان درس به فارسی:|<h3>اصول طراحی نرم افزار </h3>|
@@ -2719,18 +2346,15 @@ Tanenbaum, A. Woodhull, Operating Systems: Design and Implementation, Pearson, 2
 3 )آشنایی با روشهای طراحی سیستمها
 
 **سر فصل یا رئوس مطالب:** 
-
-بررسی مدل های تولید نرم افزار(آبشاری و غیره)، روش های تعریف نیازها (صوری و غیر صوری)، روشهای وارسی و اعتبار سنجی، روشهای طراحی(از بالا به پایین، از پایین به بالا)، موضوعی، فرآروندی و داده ای، پیاده سازی، آزمون، اشکال زدایی، نگهداری، قابلیت اطمینان، استفاده مجدد، قابلیت حمل، کارآیی، طراحی نرم افزار بوسیله کامپیوتر، انجام پروژه تیمی.
-
+-
+- بررسی مدل های تولید نرم افزار(آبشاری و غیره)، روش های تعریف نیازها (صوری و غیر صوری)، روشهای وارسی و اعتبار سنجی، روشهای طراحی(از بالا به پایین، از پایین به بالا)، موضوعی، فرآروندی و داده ای، پیاده سازی، آزمون، اشکال زدایی، نگهداری، قابلیت اطمینان، استفاده مجدد، قابلیت حمل، کارآیی، طراحی نرم افزار بوسیله کامپیوتر، انجام پروژه تیمی.
+-
 ` `**فهرست منابع پیشنهادی:**
 
-\1. I .Sommerville, Software Engineering, 9th edition, Addison Wesley, 2010.
-
-\2. C .Ghezzi, M .Jazayeri, D .Mandrioli, Fundamentals of software engineering, Prentice Hall, 2003.
-
-\3. P .A. B. Ng and R. T. Yeh, Modern Software Engineering: Foundations and Current Perspectives, Van Nostrand Reinhold, 1990.
-
-\4. R. S. Pressman and P. Roger, Software Engineering: A Practitioner's Approach, 7th edition, McGraw Hill, 2009.
+- - Sommerville, I. (2010). Software Engineering, 9th Edition. Addison Wesley.
+- - Ghezzi, C., Jazayeri, M., & Mandrioli, D. (2003). Fundamentals of Software Engineering. Prentice Hall.
+- - Ng, P. A. B., & Yeh, R. T. (1990). Modern Software Engineering: Foundations and Current Perspectives. Van Nostrand Reinhold.
+- - Pressman, R. S., & Roger, P. (2009). Software Engineering: A Practitioner's Approach. 7th Edition. McGraw Hill.
 
 
 |عنوان درس به فارسی:|<h3>کامپایلر </h3>|
@@ -2747,16 +2371,14 @@ Tanenbaum, A. Woodhull, Operating Systems: Design and Implementation, Pearson, 2
 اهداف ویژه: دانشجو با اصول ایجاد کامپایلر آشنا و با مفاهیم آن کار می کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-معرفی کلی کامپایلر. فاز تحلیل لغوی. آتوماتای متناهی. تجزیه بالا یه پایین. تجزیه پایین به بالا. تحلیل معنایی. تولید کد. بهینه‌سازی محلی. بهینه‌سازی سراسری.
+-
+- معرفی کلی کامپایلر. فاز تحلیل لغوی. آتوماتای متناهی. تجزیه بالا یه پایین. تجزیه پایین به بالا. تحلیل معنایی. تولید کد. 
 
 ` `**فهرست منابع پیشنهادی:**
-
-Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, Compilers: Principles, Techniques, and Tools, 2nd Edition, Pearson, 2007.
-
-Douglas Thain, Introduction to Compilers and Language Design, 2nd Edition, 2020, downloadable from http://compilerbook.org.
-
-Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevier, 2012.
+-
+- - Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2007). Compilers: Principles, Techniques, and Tools. 2nd Edition. Pearson.
+- - Thain, D. (2020). Introduction to Compilers and Language Design. 2nd Edition. Retrieved from http://compilerbook.org
+- - Cooper, K. D., & Torczon, L. (2012). Engineering a Compiler. 2nd Edition. Elsevier.
 
 
 |عنوان درس به فارسی:|<h3>مباحثی در علوم کامپیوتر ۱</h3>|
@@ -2775,7 +2397,7 @@ Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevie
 **سر فصل یا رئوس مطالب:** 
 
 بر اساس مصوبه گروه های تخصصی سرفصل و پیشنیاز در هر ترم تعیین می گردد.
-
+-
 **فهرست منابع پیشنهادی:**
 
 در اختیار مدرس
@@ -2799,7 +2421,7 @@ Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevie
 **سر فصل یا رئوس مطالب:** 
 
 بر اساس مصوبه گروه های تخصصی سرفصل و پیشنیاز در هر ترم تعیین می گردد.
-
+-
 **فهرست منابع پیشنهادی:**
 
 در اختیار مدرس
@@ -2823,23 +2445,17 @@ Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevie
 
 معرفی بیوانفورماتیک، حوزه های علم بیوانفورماتیک، کاربردهای بیوانفورماتیک،  اساس بیوشیمی و زیست‌شناسی سلولی، ساختار مولکولی و شیمی فیزیکی پروتئین‌ها و DNA، گرافیک مولکولی، بانک‌های اطلاعاتی ساختاری، آنالیز توالی پروتئین و DNA، روشهای پیشگو به‌وسیله توالی‌های پروتئین و DNA، آنالیز ژنومیک، کاربرد بالینی / پزشکی و درمانی Bio-informatics
 
-**راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:** 
-**
-` `تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمونهای کوتاه توسط مدرس، در کنار آموزشهای کلاس درس، دانشجویان نیاز  به تمرین بیشتر و در برخی مطالب نیاز به مهارت و کار با نرم افزارهای آماری برای تحلیل داده دارند. کلاس حل تمرین در دو بخش نظری 8 جلسه 2 ساعتی و آزمایشگاه نرم افزار در 4 جلسه 2 ساعتی برگزار شود. این درس نیاز به انجام پروژه توسط دانشجو دارد. 
-
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:**  کلاس درس و آزمایشگاه رایانه مجهز
 
 **فهرست منابع پیشنهادی:** 
-
-\1. نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (1398). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
-
-1. Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
-1. Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
-1. Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
-1. Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
-1. Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
-
-
+-
+- - نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (۱۳۹۸). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
+- - Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
+- - Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
+- - Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
+- - Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
+- - Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
+-
 
 
 |عنوان درس به فارسی:|<h3>پروژه کارشناسی </h3>|
@@ -2868,7 +2484,7 @@ Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevie
 با نظر مدرس درس
 
 **
-
+-
 
 |عنوان درس به فارسی:|<h3>آنالیز عددی </h3>|
 | -: | :- |
@@ -2884,12 +2500,12 @@ Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevie
 اهداف ویژه: دانشجو با روشهای آنالیز عددی آشنا و با مفاهیم آن کار کند.
 
 **سر فصل یا رئوس مطالب:** 
-
-حل عددی معادلات دیفرانسیل عادی با شرایط اولیه. حل عددی معادلات دیفرانسیل مرزی. حل عددی معادلات دیفرانسیل با مشتقات جزئی به کمک روش تفاضلات متناهی و …. روش های تکراری برای حل دستگاه های خطی. تجزیه ماتریسها. حل مساله کمترین مربعات خطی. تجزیه ی قائم ماتریس ها. مساله ی مقدار ویژه و روش های حل آن.
-
+-
+- حل عددی معادلات دیفرانسیل عادی با شرایط اولیه. حل عددی معادلات دیفرانسیل مرزی. حل عددی معادلات دیفرانسیل با مشتقات جزئی به کمک روش تفاضلات متناهی و …. روش های تکراری برای حل دستگاه های خطی. تجزیه ماتریسها. حل مساله کمترین مربعات خطی. تجزیه ی قائم ماتریس ها. مساله ی مقدار ویژه و روش های حل آن.
+-
 ` `**فهرست منابع پیشنهادی:**
 
-R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, USA, 2011.
+- Burden, R. L., & Faires, J. D. (2011). Numerical Analysis. Cengage Learning.
 
 
 
@@ -2917,13 +2533,12 @@ R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, U
 **ملزومات، تجهیزات و امکانات مورد نیاز برای ارائه:** کلاس درس و آزمایشگاه مجهز به رایانه و سرور. 
 
 **فهرست منابع پیشنهادی:** 
-
-\1. مار، برنارد (1396). [داده‌های بزرگ ارتقای تصمیم گیری و عملکرد با استفاده از داده‌های بزرگ هوشمند: تحلیل شناسی و معیارها](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)، ترجمه: موسی خانی، مرتضی، انتشارات آوند دانش. 
-
-2. EMC Education Services. (2015). Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
-2. Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
-2. Sarangi, S., and Sharma, P. (2019). Big Data: A Beginner’s Introduction. Routledge.
-2. Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021). Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.
+-
+- - مار، برنارد (1396). [داده‌های بزرگ ارتقای تصمیم گیری و عملکرد با استفاده از داده‌های بزرگ هوشمند: تحلیل شناسی و معیارها](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)، ترجمه: موسی خانی، مرتضی، انتشارات آوند دانش. 
+- - EMC Education Services. (2015). Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
+- - Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
+- - Sarangi, S., and Sharma, P. (2019). Big Data: A Beginner’s Introduction. Routledge.
+- - Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021). Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.
 
 
 
@@ -2944,27 +2559,18 @@ R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, U
 
 بخش نظری: مروری بر توابع مولد  و مجموع تعداد تصادفی از متغیر های تصادفی، تعاریف و مفاهیم پایه‌ای  فرایند تصادفی،  توزیع‌های با بعد متناهی، ایستایی، با نموهای همگن، با نموهای مستقل، ویژگی مارکوفی، فرآیندهای برنولی و دوجمله‌ای و ویژگی‌های آن‌ها، فرایند شمارشی. فرآیند گام برداری تصادفی: ویژگی‌های و مسئله ورشکستگی بازیکن،   فرآیند پواسن، معرفی فرآیند پواسون، ویژگی‌های  آن، تجزیه فرآیند پواسون، توزیع زمان‌های رخداد، فرآیند پواسون دوباره شروع‌شده، ارتباط با توزیع نمائی، دوجمله‌ای، هندسی، یکنواخت و بتا، توزیع شرطی زمان‌های بین ورود و ارتباط با آماره‌های ترتیبی توزیع یکنواخت،  فرآیند پواسون مرکب و کاربردی در نظریه تجدید و نظریه ریسک، فرآیند پواسون ناهمگن و ویژگی‌های آن، مروری بر فرآیندهای زاد و مرگ. زنجیرهای مارکف: تابع انتقال، ماتریس انتقال یک مرحله‌ای و چندمرحله‌ای، معادله چپمن- کولموگرو،  توزیع اولیه، احتمالات مطلق، توزیع توأم، تجزیه فضای مکان، زنجیرهای تحویل‌ناپذیر و آرگودیک، وضعیت‌های گذرا و بازگشتی، وضعیت‌های بازگشتی مثبت و بازگشتی پوچ، متوسط تعداد دفعات ملاقات از یک وضعیت بازگشتی،  متوسط اولین زمان‌های گذر، احتمال‌های جذب، توزیع‌های ایستا، خواص توزیع‌های ایستا و روشهای محاسبه؛  برآورد ماتریس انتقال، بخش محاسباتی: شامل شبیه سازی و روشهای محاسباتی فرایندهای تصادفی تدریس شده (فرایند شمارشی برنولی،  فرایند گام برداری تصادفی-فرایند های پواسون، زنجیر های مارکوف، مقدمه ای بر روشهای MCMC با استفاده از نرم افزار. 
 
-**راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:**
 
-`     `تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمونهای کوتاه توسط مدرس، استفاده از حداقل یک نرم افزار آماری برای آموزش مطالب درسی. در کنار آموزشهای کلاس درس، دانشجویان نیاز  به تمرین بیشتر و در برخی مطالب نیاز به مهارت و کار با نرم افزارهای آماری دارند. کلاس حل تمرین در دو بخش نظری 8 جلسه 2 ساعتی و آزمایشگاه نرم افزار در 4 جلسه 2 ساعتی برگزار شود. 
 
 **فهرست منابع پیشنهادی:** 
 
-1.جونز و اشمیت (2010). مقدمه ای بر فرایندهای تصادفی(1396) ترجمه. محمد امینی و ابوالقاسم بزرگ نیا. انتشارات دانشگاه فردوسی مشهد.
-
-\2. دوبرو، رابرت پی. (1398). مقدمه ای بر فرایندهای تصادفی با R، ترجمه: موسوی، س. ن.، انتشارات دانشگاه اراک. 
-
-\1. Jones, P.W. and Smith, P., (2018). Stochastic Processes: An Introduction, 2nd Ed., CRC Press.
-
-\2. Durrett. R. (2016). Essentials of Stochastic Processes. Third Edition, Springer. 
-
-\3. Robert P. Dobrow. (2016). Introduction to Stochastic Processes with R. John Wiley.
-
-\4. Bhat, N. and Miller, K., (2002). Elements of Applied Stochastic Processes, 3rd Ed., John Wiley.
-
-\5. Bremaud, P. M, (1999). Markov Chains, Gibbs fields, Monte Carlo Simulation and Queues, Springer.
-
-\6. Korosteleva, O. (2022). Stochastic Processes with R: An Introduction. CRC Press.
+- 1.جونز و اشمیت (2010). مقدمه ای بر فرایندهای تصادفی(1396) ترجمه. محمد امینی و ابوالقاسم بزرگ نیا. انتشارات دانشگاه فردوسی مشهد.
+- 2. دوبرو، رابرت پی. (1398). مقدمه ای بر فرایندهای تصادفی با R، ترجمه: موسوی، س. ن.، انتشارات دانشگاه اراک. 
+  - Jones, P.W. and Smith, P., (2018). Stochastic Processes: An Introduction, 2nd Ed., CRC Press.
+  - Durrett. R. (2016). Essentials of Stochastic Processes. Third Edition, Springer. 
+  - Robert P. Dobrow. (2016). Introduction to Stochastic Processes with R. John Wiley.
+  - Bhat, N. and Miller, K., (2002). Elements of Applied Stochastic Processes, 3rd Ed., John Wiley.
+  - Bremaud, P. M, (1999). Markov Chains, Gibbs fields, Monte Carlo Simulation and Queues, Springer.
+  - Korosteleva, O. (2022). Stochastic Processes with R: An Introduction. CRC Press.
 **
 
 
@@ -2986,17 +2592,16 @@ R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, U
 1- آشنایی با مفاهیم رایانش ابری، مدلهای مختلف استقرار و سرویس دهی 2- آشنایی با معماری مرجع رایانش ابری 3- آشنایی با مفاهیم مجازی سازی در سطح سخت افزار، در سطح سیستم عامل و در سطح زبان برنامه‌نویسی 4- آشنایی با مدلهای مختلف برنامه‌نویسی ابر مانند مدل کیسه وظایف، جریانهای کاری، مدل ریزخدمت 5- آشنایی با مفاهیم تحلیل داده‌های عظیم و امکانات ابری برای پردازش این نوع داده‌ها همچون: سیستم فایل توزیع شده مانند HDFS، پایگاه داده‌های NoSQL همانند HBase، مدلهای برنامه‌نویسی مانند Map-Reduce، پردازش گرافی مانند Giraph و پردازش جریانی همانند Storm 6- آشنایی با مدیریت منابع و زمانبندی در ابر روشهای مختلف زمانبندی وظایف مستقل و جریانهای کاری 7- آشنایی با محاسبات ابری سبز و روشهای برقراری آن 8- آشنایی با مدلهای بین ابری همانند ابر متحد شده و چند ابری و تفاوتهای آنها، و آشنایی با مفهوم کارگزاری ابر 9- آشنایی با مفهوم محاسبات لبه ای و ارتباط آن با رایانش ابری، محاسبات ابری متحرک و انواع آن و محاسبات مهی
 
 **فهرست منابع پیشنهادی:** 
-
-1. `     `K. Chandrasekaran, *Essentials of cloud computing*, CRC Press, 2014 
-1. N**.** B. Ruparelia, *Cloud Computing*, MIT Press, 2016 
-1. T**.** Erl, Z**.** Mahmood, R**.** Puttini, *Cloud Computing, Concepts, Technology and Architecture*, Prentice Hall, 2013. 
-1. I**.** Ganelin, E**.** Orhian, K**.** Sasaki, B**.** York, *Spark: Big Data Cluster Computing in Production*, Wiley, 1st Edition, 2016. ISBN-13: 978-1119254010 
-1. T. White, *Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale,* 4th Edition. O'Reilly Media, 2015. ISBN-13: 978-1491901632 
-1. H. Geng, *Data Center Handbook*. Wiley, 1st Edition, 2014. ISBN-13: 978-1118436639 
-1. S. Adkins , J. Belamaric, V. Giersch. *OpenStack Cloud Application Development*. Wrox, 1st Edition, 2015. ISBN-13: 978-1119194316 
-1. B. Antony, K. Boudnik, C. Adams. *Professional Hadoop*. Wrox, 1st Edition, 2016.
-
-**
+-
+- - Chandrasekaran, K. (2014). Essentials of Cloud Computing. CRC Press.
+- - Ruparelia, N. B. (2016). Cloud Computing. MIT Press.
+- - Erl, T., Mahmood, Z., & Puttini, R. (2013). Cloud Computing: Concepts, Technology, and Architecture. Prentice Hall.
+- - Ganelin, I., Orhian, E., Sasaki, K., & York, B. (2016). Spark: Big Data Cluster Computing in Production. 1st Edition. Wiley.
+- - White, T. (2015). Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale. 4th Edition. O'Reilly Media.
+- - Geng, H. (2014). Data Center Handbook. 1st Edition. Wiley.
+- - Adkins, S., Belamaric, J., & Giersch, V. (2015). OpenStack Cloud Application Development. Wrox.
+- - Antony, B., Boudnik, K., & Adams, C. (2016). Professional Hadoop. 1st Edition. Wrox.
+- - **
 
 
 |**عنوان درس به فارسی:**|<h3>رایانش چند‌هسته‌ای </h3>|
@@ -3046,11 +2651,12 @@ R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, U
 معرفی کتابخانه Message Passing Interface (MPI) و نحوه‌ی برنامه‌نویسی موازی براساس مدل تبادل پیام
 
 **فهرست منابع پیشنهادی:** 
-
-2. *D. A. Patterson and J. L. Hennessy. Computer Architecture: A quantitative approach. Morgan Kaufmann, 2019.*
-2. *J. Sanders and E. Kandrot. CUDA by examples: An introduction to GPU programming. Addison-Wesley, 2011.*
-2. *D. B. Kirk and W. W. Hwu. Programming massively parallel processors: A hands-on approach. NVIDIA, 2010.*
-2. *M. McCool, A.D. Robison, and J. Reinders. Structured Parallel Programming. Elsevier, 2012.*
+-
+- - Patterson, D. A., & Hennessy, J. L. (2019). Computer Architecture: A Quantitative Approach. Morgan Kaufmann.
+- - Sanders, J., & Kandrot, E. (2011). CUDA by Examples: An Introduction to GPU Programming. Addison-Wesley.
+- - Kirk, D. B., & Hwu, W. W. (2010). Programming Massively Parallel Processors: A Hands-On Approach. NVIDIA.
+- - McCool, M., Robison, A. D., & Reinders, J. (2012). Structured Parallel Programming. Elsevier.
+-
 
 
 |**عنوان درس به فارسی:**|<h3>سیگنال‌ها و سیستم‌ها</h3>|
@@ -3086,8 +2692,8 @@ R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, U
 --تبدیل Z و خواص آن
 
 **فهرست منابع پیشنهادی:** 
-
-A.V. Oppenheim, A.S. Willsky, S.H. Nawab, *Signals and Systems*, 2nd Edition, Prentice-Hall, 1997. ISBN: 0-13-814757-4** 
+-
+- - Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1997). Signals and Systems. 2nd Edition. Prentice-Hall.
 
 
 |**عنوان درس به فارسی:**|<h3>مدیریت پروژه‌های فناوری اطلاعات</h3>|
@@ -3141,12 +2747,71 @@ A.V. Oppenheim, A.S. Willsky, S.H. Nawab, *Signals and Systems*, 2nd Edition, Pr
 مدل بلوغ و تکاملی وروش چابک مدیریت پروژه‌های فناوری اطلاعات  
 
 **فهرست منابع پیشنهادی:** 
+-
+- - Marchewka, J. T. (2014). Information Technology Project Management. Wiley.
+**
 
-Jack T. Marchewka. Information Technology Project Management. WILEY, 2014.
 
 
-[^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
-[^2]: ["Computer Science as a Profession"](https://web.archive.org/web/20080617030847/http:/www.csab.org/comp_sci_profession.html). Computing Sciences Accreditation Board. May 28, 1997.
-[^3]: [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
-[^4]: در تدوین این برنامه درسی، برنامه‌های درسی مصوب وزارت در سالهای ۱۳۹۹ تا ۱۴۰۱ برای رشته‌های علوم کامپیوتر، ریاضیات و کاربردها و آمار و همچنین برنامه درسی مهندسی کامپیوتر وزارت علوم و چند دانشگاه داخلی و خارجی مورد ملاحظه قرار گرفته‌اند.
-[^5]: Andrew Ng
+|عنوان درس به فارسی:|<h3>جبر خطی</h3>|
+| -: | :- |
+|عنوان درس به انگلیسی:|Linear Algebra|نوع درس و واحد|
+|دروس پیش‏نیاز:|مبانی محاسبات علمی|**پایه**£** |نظریn|
+|دروس هم‏نیاز:|ندارد|تخصصی الزامی£|عملی £|
+|تعداد واحد:|3|حل تمرین دارد|تخصصی اختیاری **n**|نظری-عملی £|
+|تعداد ساعت:|48||رساله / پایان‏نامه £||
+|نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار £سمینار £ کارگاه £ موارد دیگر: ..............|
+||
+هدف کلی:  آشنایی و پیاده سازی مفاهیم درسی با نرم‌افزارمتلب و برنامه‌نویسی علمی با آن به همراه پیادهسازی الگوریتم‌های عددی جهت کسب
+
+آمادگی لازم برای حل مسائل کاربردی و بنیادی
+
+اهداف ویژه: پیاده‌سازی علمی الگوریتم‌های عددی.
+
+**سر فصل یا رئوس مطالب:** 
+
+**مروری بربردارها و ماتریسها:**جمع وتفریق و ضرب ماتریسه،ضرب داخلی و نرم بردارها و ماتریسه،ضرب داخلی و نرم توابع پیوسته، ماتریسهای منفرد و غیر منفرد و معکوس و متقارن و شبه متقارن ، ماتریسهای مختلط و مختلط مزدوج و هرمیتی و شبه هرمیتی ،یکین ، نرمال، قطری – مثلثی – متعامد – مثبت معین و نیمه معین – منفی معین و نیمه معین.
+
+**دستگاه معادلات جبری خطی:** معرفی دستگاه جبری خطی – روشهای حل دستگاه معادلات جبری خطی بر پایه الگوریتم های حذفی گوس – گوس جردن – محورگیری جزئی و کلی – حل دستگاه معادلات جبری خطی برپایه تجزیه ماتریسها – تجزیه LU – تجزیه چالسکی.
+
+**فضاهای برداری:** مفهوم میدان – بسته بودن نسبت به اعمال جمع و ضرب – فضای برداری – زیرفضاهای برداری – زیر فضای ستونهای یک ماتریس – مفهوم اسپن – استقلال و وابستگی خطی بردارها – مفهوم پایه و بعد در فضای برداری – رتبه ماتریس – فضای پوچی ماتریسها – تبدیلات خطی – تبدیلات پرکاربرد از قبیل انتقال ، انعکاس ، تغییر مقیاس و دوران .
+
+**متعامد سازی و مساله حداقل مربعات :** مفهوم متعامد سازی – تصاویر متعامد – الگوریتم گرام اشمیت – مساله حداقل مربعات و کاربرد آن در حل دستگاه معادلات ناسازگار – نحوه بدست آوردن معادلات نرمال و روش های حل آنها بصورت مستقیم با استفاده از تجزیه چالسکی و تچزیه QR  - برازش داده ها با روش حداقل مربعات.
+
+**مقادیر ویژه و بردارهای ویژه :** مفاهیم مقدار ویژه و بردار ویژه – محاسبه مقادیر ویژه با روشهای تکراری مانند روش توانی – استفاده از روش QR  - قطری سازی ماتریسها با مقادیر حقیقی و مختلط – قطری سازی ماتریسها با مقادیر ویژه تکراری.
+
+**چندجمله ای ها و توابع ماتریسی :** قضیه کیلی هامیلتون – کاربرد قضیه کیلی هامیلتون برای محاسبه معکوس ماتریس – محاسبه چندجمله ای های ماتریسی – محاسبه توابع ماتریسی.
+
+**تجزیه مقادیر منفرد :** مفهوم مقادیر منفرد- کاربردهای تجزیه مقادیر منفرد – تجزیه ماتریس ها براساس مقادیر منفرد – تعیین زیر فضاهای اساسی ماتریس. 
+-
+**فهرست منابع پیشنهادی**: 
+
+- - داتا، ب.، (۱۳۹۵). جبر خطی عددی و کاربردها (جلد ۱ و ۲). ترجمه دکتر فائزه توتونیان، انتشارات دانشگاه فردوسی مشهد
+- - کرایچیان، ع. (۱۴۰۱). جبر خطی با متلب. انتشارات دانشگاه فردوسی مشهد
+- - Boyd, S., & Vandenberghe, L. (2018). Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares.
+- - Axler, S. (2015). Linear Algebra Done Right. Springer.
+
+
+
+
+|**عنوان درس به فارسی:**|<h3>بازی‌سازی و بازی‌انگاری</h3>|
+| -: | :- |
+|**عنوان درس به انگلیسی:**|Gamification and Game Design|**نوع درس و واحد:**  |
+|**دروس پیش‏نیاز:**|**آمار و احتمال ۱، مبانی ترکیبیات، برنامه‌نویسی پیشرفته**|**پایه £**|**نظری ¢**|
+|**دروس هم‏نیاز:**||**تخصصی الزامی £**|**عملی £**|
+|**تعداد واحد:**|**3**|**حل تمرین دارد**|**تخصصی اختیاری ¢**|**نظری-عملی £**|
+|**تعداد ساعت:**|**48**||**رساله / پایان‏نامه £**||
+|**نوع آموزش تکمیلی عملی (در صورت نیاز): سفر علمی £ آزمایشگاه نرم افزار ¢ سمینار £ کارگاه £ موارد دیگر**…..|
+هدف کلی: **آشنایی با علم طراحی بازی و بازیانگاری مسائل اجتماعی-تجاری**
+
+اهداف ویژه: کار با موتور بازیسازی یونیتی برای پیادهسازی و تولید بازی رایانه‌ای به صورت پروژه-محور. منظور از طراحی بازی، فقط بازیهای رایانهای نیستند، بلکه علم طراحی بازیهایی چون شطرنج، بازیهای کارتی، پازلها، بازیهایی روی صفحه، چون تخته‌نرد و ... را نیز شامل میشود
+
+**سر فصل یا رئوس مطالب:** 
+
+بازی چیست؟، انواع و دسته‌بندی بازیها،  چالش و پازل،  سیستم ارتقا بازیکنان،  مکانیکهای بازی (قوانین بازی، عملهای بازیکن، مهارتهای بازیکن و ...)،  خطهای داستان بازی،  ساختار گردش اقتصادی بازی (چگونه بازیکن انرژی و توان به دست میآورد و آن را در چه کارهای، سرمایه‌گذاری میکند)، متعادل‌سازی بازی (متعادل‌سازی سختی بازی، متعادل‌سازی دینامیک بازی)،  مراحل بازی،  چرخه‌های تعاملی بازیکن با بازی، مشخص کردن محدودیتها، اهداف و دستاوردهای هر چرخه،  نحوه دسترسی اطلاعات بازیکن به بازی،  محیط جذاب و واسط کاربری بازی،  بازیهای چند نفره و نحوه تعامل افراد در بازی، جداول رده‌بندی بازیکنان، امکانات رقابت در بازیهای چندنفره، بازیهای استراتژیک، روابط احتمالی در بازیها، گیم پلی بازی، بخش پروژه-محور، تولید بازی ساده با موتور بازیسازی یونیتی، مشخص کردن اشیا بازی، انیمیشن بازی، کدنویسی script های بازی، مدیریت بازی . کنترل بازی، بخش بازیانگاری، مطالعه یک مسئله اجتماعی-تجاری از نگاه بازی انگاری، - استفاده از ابزارهای بازی برای ایجاد سازوکار برای حل مسئله.
+
+**فهرست منابع پیشنهادی:** 
+-
+- - Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
+- - Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
+
