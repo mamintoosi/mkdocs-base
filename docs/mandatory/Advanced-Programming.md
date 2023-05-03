@@ -10,42 +10,40 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
--
 
-- - چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
+- چرخه حیات نرم افزار، جایگاه برنامه‌نویسی، روشهای طرح برنامه، ایده شی گرایی
 
-- - محیط‌های مجتمع توسعه
+- محیط‌های مجتمع توسعه
 
-- - ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
+- ساختارهای کنترلی و انتخاب، توابع و توابع بازگشتی، آرایه‌ها و ارسال آرایه ها به عنوان پارامتر
 
-- - برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
+- برنامه‌نویسی شی گرا: شی و تعریف آن، تشخیص شی ها در یک مساله، ارتباط شی‌ها
 
-- - وراثت در شی گرایی و چندریختی در شی گرایی
+- وراثت در شی گرایی و چندریختی در شی گرایی
 
-- - مدیریت استثناء
+- مدیریت استثناء
 
-- - رابط گرافیکی و مفاهیم Interface
+- رابط گرافیکی و مفاهیم Interface
 
-- - کار با فایل‌ها
+- کار با فایل‌ها
 
-- - جریان داده
+- جریان داده
 
-- - کار با رشته و آرایه
+- کار با رشته و آرایه
 
-- - حافظه پویا
+- حافظه پویا
 
-- - (درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
+- (درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
 
-- - قالبها، فضای نام، auto، 
+- قالبها، فضای نام، auto، 
 
-- - Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
+- Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Horton, I., & Van Weert, P. (2018). Beginning C++17: From Novice to Professional. Apress.
+- Horton, I., & Van Weert, P. (2018). Beginning C++17: From Novice to Professional. Apress.
 
-- - Horton, I., & Van Weert, P. (2020). Beginning C++20: From Novice to Professional. Apress.
+- Horton, I., & Van Weert, P. (2020). Beginning C++20: From Novice to Professional. Apress.
 
-- - Deitel, P., & Deitel, H. (2017). C++ How to Program (11th ed.). Pearson Education.
+- Deitel, P., & Deitel, H. (2017). C++ How to Program (11th ed.). Pearson Education.

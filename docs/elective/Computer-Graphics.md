@@ -10,18 +10,15 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
--
 
 - آشنایی با مفاهیم کلی و سخت‌افزار‌های گرافیکی. نمایش سه بعدی اشیا. معرفی توابع و سطوح اسپلاین و کار برد آنها. اشیاء حبابی شکل، نمایش محوری، روشهای مبتنی بر اشکال خوش‌تعریف هندسی. روش‌های تشخیص سطوح قابل رویت. مدل محاسبه‌ی روشنایی فونگ، روش‌های نورپردازی و رنگ آمیزی (Rendering) سطوح. مدل های رنگ و کاربرد آنها. نورپردازی کلی (Global illumination). سایه زن‌ها (Shaders). معرفی هندسه فراکتالی برای ساخت اشیا و صحنه‌هایی که با هندسه اقلیدسی قابل توصیف نیستند. مصورسازی مجموعه‌ی داده‌ها. پویا نمایی کامپیوتری. روش‌های ضبط حرکت کل بدن و چهره (Motion Capture) و کاربرد آن‌ها در ساخت پویانمایی، فیلم و بازی. آشنایی با ساخت یک بازی کامپیوتری.
 
--
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Hearn, D., & Baker, M. P. (2011). Computer Graphics with OpenGL. 4th Edition. Prentice Hull.
+- Hearn, D., & Baker, M. P. (2011). Computer Graphics with OpenGL. 4th Edition. Prentice Hull.
 
-- - Marschner, S., & Shirley, P. (2016). Fundamentals of Computer Graphics. 4th Edition. CRC Press.
+- Marschner, S., & Shirley, P. (2016). Fundamentals of Computer Graphics. 4th Edition. CRC Press.
 
-- - Angel, E. (2002). OpenGL: A Primer. Addison Wesley.
+- Angel, E. (2002). OpenGL: A Primer. Addison Wesley.

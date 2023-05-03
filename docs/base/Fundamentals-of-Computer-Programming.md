@@ -18,26 +18,25 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Matthes, E. (2019). Python Crash Course: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
+- Matthes, E. (2019). Python Crash Course: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
 
-- - Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). Green Tea Press.
+- Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). Green Tea Press.
 
-- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
 
-- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
 
-- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
 
-- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O’Reilly Media, Inc.
+- Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O’Reilly Media, Inc.
 
-- - Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media.
+- Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media.
 
-- - Barry, P., & Griffiths, D. (2009). Head First Programming. O'Reilly Media.
+- Barry, P., & Griffiths, D. (2009). Head First Programming. O'Reilly Media.
 
-- - Draper, B. (2020). Python Programming: A Complete Guide For Beginners To Master And Become An Expert.
+- Draper, B. (2020). Python Programming: A Complete Guide For Beginners To Master And Become An Expert.
 
-- - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
+- [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
 
 - Some other references: <https://github.com/ambadidi/Python-Books>

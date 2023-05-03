@@ -10,20 +10,17 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
--
 
 - مبانی تصویر دیجیتال. خواندن و نما یش تصویر خاکستری و رنگی. فضاهای رنگی و تبدیل فضای رنگ. افزودن نویز به تصویر. آستانه‌گذاری. تبدیلات هندسی تصویر، تغییر اندازه،‌ تغییرمقیاس و …. تبدیل آفین و پرسپکتیو. فیلترینگ در حوزه مکان و فرکانس. عملگرهای ریخت شناسی. آشکارساز لبه (لبه‌یابی). هیستوگرام تصویر. تبدیل هاف. شناسایی نقاط کلیدی تصویر مانند گوشه‌ها. قطعه‌بندی تصویر. مثالهای کاربردی همچون شناسایی اشیاء. اشاره‌ای بر بینایی ماشین.
 
--
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - علیائی طرقبه، م. ح. (1400). آموزش جامع پردازش تصویر با OpenCV و Python. انتشارات میعاد اندیشه.
+- علیائی طرقبه، م. ح. (1400). آموزش جامع پردازش تصویر با OpenCV و Python. انتشارات میعاد اندیشه.
 
-- - کیانی، و. (1402). پردازش تصاویر در پایتون: راهنمای سریع OpenCV. انتشارات دانشگاه بجنورد.
+- کیانی، و. (1402). پردازش تصاویر در پایتون: راهنمای سریع OpenCV. انتشارات دانشگاه بجنورد.
 
-- - Dey, S. (2018). Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data. Packt Publishing.
+- Dey, S. (2018). Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data. Packt Publishing.
 
-- - Chityala, R., & Pudipeddi, S. (2021). Image Processing and Acquisition using Python. Chapman & Hall.
+- Chityala, R., & Pudipeddi, S. (2021). Image Processing and Acquisition using Python. Chapman & Hall.

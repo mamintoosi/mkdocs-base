@@ -10,16 +10,13 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
--
 
 - نیمگروه، گروه، همریختی، زیرگروه. گروه خارج قسمتی، قضایای گروه های دوری و قضیه لاگرانژ. گروههای جایگشتی و قضیه کیلی. زیر گروه های نرمال و زیرگروه مشتق. قضایای یکریختی. حلقه و اعمال مقدماتی روی حلقه‌ها . زیرحلقه و مشخصه حلقه. ایده‌آلها و همریختی حلقه‌ها. ایده‌آل اول و ماکسیمال. حلقه چندجمله‌ای‌ها.
 
--
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Gallian, J. (2012), Contemporary abstract algebra. Nelson Education,
+- Gallian, J. (2012), Contemporary abstract algebra. Nelson Education,
 
-- - Kleiner, I., (2007), A history of abstract algebra. Springer Science & Business Media.
+- Kleiner, I., (2007), A history of abstract algebra. Springer Science & Business Media.
