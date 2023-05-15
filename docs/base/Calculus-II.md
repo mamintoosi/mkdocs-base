@@ -24,3 +24,5 @@ _______________________________________________________________________________
 - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
 
 - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
+
+<a name="_hlk93224737"></a>

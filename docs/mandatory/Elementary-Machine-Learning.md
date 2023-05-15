@@ -1,12 +1,12 @@
 # یادگیری ماشین مقدماتی
 ## Elementary Machine Learning
 _______________________________________________________________________________
-| کارشناسی     | مقطع:       | یادگیری ماشین مقدماتی                                                                                                                   | نام درس:    |
-| ------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| تخصصی الزامی | گروه درس:   | [تحلیل آماری داده‌ها](../mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](../mandatory/Elementary-Scientific-Computing.md) | پیش‌نیاز:   |
-| نظری         | نوع درس:    | ندارد                                                                                                                                   | هم‌نیاز:    |
-| 48           | تعداد ساعت: | 3                                                                                                                                       | تعداد واحد: |
-|              |             |  دارد                                                                                                                                   | حل تمرین:   |
+| کارشناسی     | مقطع:       | یادگیری ماشین مقدماتی                                                                                                                                                                              | نام درس:    |
+| ------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| تخصصی الزامی | گروه درس:   | [تحلیل آماری داده‌ها](../mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](../mandatory/Elementary-Scientific-Computing.md) ،[برنامه‌نویسی پایتون](../mandatory/Python-Programming.md) | پیش‌نیاز:   |
+| نظری         | نوع درس:    | ندارد                                                                                                                                                                                              | هم‌نیاز:    |
+| 48           | تعداد ساعت: | 3                                                                                                                                                                                                  | تعداد واحد: |
+|              |             |  دارد                                                                                                                                                                                              | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -26,12 +26,13 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-\1. جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند)
 
-2. James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
+- جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند)
 
-2. Sugiyama, M. (2015). Introduction to Statistical Machine Learning, Elsevier Science.
+- James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
 
-2. Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
+- Sugiyama, M. (2015). Introduction to Statistical Machine Learning, Elsevier Science.
 
-- 2. Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.**
+- Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
+
+- Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.**

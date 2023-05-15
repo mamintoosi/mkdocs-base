@@ -18,7 +18,3 @@ _______________________________________________________________________________
 Russell, S., & Norvig, P., (2020), Artificial intelligence: a modern approach, 4th Edition, PEARSON SERIES.
 
 Berkeley notes in Intro to Artificial Intelligence course: <https://inst.eecs.berkeley.edu/~cs188>
-
-«دروس تخصصی اختیاری»
-
-![](Aspose.Words.4811e529-edda-4feb-ad77-629bce69f956.008.png)

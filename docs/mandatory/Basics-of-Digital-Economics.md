@@ -54,4 +54,4 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-Øverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 
+<a name="_hlk932247371"></a>Øverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 

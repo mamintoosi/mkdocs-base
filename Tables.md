@@ -34,7 +34,7 @@ dir: rtl
 |3|[برنامه‌نویسی پیشرفته](docs/mandatory/Advanced-Programming.md)|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](docs/mandatory/Applied-Time-Series.md) | 
 |3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md) | 
-|2|ندارد|[طراحی و توسعه کسب و کارهای نوپا](docs/mandatory/Design-and-development-of-start-up-businesses.md) | 
+|3|ندارد|[طراحی و توسعه کسب و کارهای نوپا](docs/mandatory/Design-and-development-of-start-up-businesses.md) | 
 |3|` `اجازه گروه|[کارآموزی](docs/mandatory/Apprenticeship.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۲](docs/mandatory/Computer-Workshop-II.md) | 
 |2|ندارد|[مبانی اقتصاد دیجیتال](docs/mandatory/Basics-of-Digital-Economics.md) | 
@@ -46,8 +46,8 @@ dir: rtl
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md) | 
 |3|ندارد|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
 |3|[ساختمان داده‌ها و الگوریتم‌ها](docs/mandatory/Data-Structures-and-Algorithms.md)|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
-|3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |68|مجموع تعداد واحد|
+|3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) ،[برنامه‌نویسی پایتون](docs/mandatory/Python-Programming.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
+ |69|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
