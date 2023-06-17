@@ -1,12 +1,12 @@
 # طراحی و تحلیل الگوریتم‌ها
 ## Design & Analysis of Algorithms
 _______________________________________________________________________________
-| کارشناسی     | مقطع:       | طراحی و تحلیل الگوریتم‌ها                                                       | نام درس:    |
-| ------------ | ----------- | ------------------------------------------------------------------------------- | ----------- |
-| تخصصی الزامی | گروه درس:   | [ساختمان داده‌ها و الگوریتم‌ها](../mandatory/Data-Structures-and-Algorithms.md) | پیش‌نیاز:   |
-| نظری         | نوع درس:    | ندارد                                                                           | هم‌نیاز:    |
-| 48           | تعداد ساعت: | 3                                                                               | تعداد واحد: |
-|              |             |  دارد                                                                           | حل تمرین:   |
+| کارشناسی     | مقطع:       | طراحی و تحلیل الگوریتم‌ها                          | نام درس:    |
+| ------------ | ----------- | -------------------------------------------------- | ----------- |
+| تخصصی الزامی | گروه درس:   | [ساختمان داده‌ها](../mandatory/Data-Structures.md) | پیش‌نیاز:   |
+| نظری         | نوع درس:    | ندارد                                              | هم‌نیاز:    |
+| 48           | تعداد ساعت: | 3                                                  | تعداد واحد: |
+|              |             |  دارد                                              | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -30,15 +30,16 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
+- - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
 
-- Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
+- - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
 
-- Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
+- - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
 
-- Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
+- - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
 
-- Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
+- - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
 
 **

@@ -1,12 +1,12 @@
 # اصول سیستم‌های کامپیوتری
 ## Principles of Computer Systems
 _______________________________________________________________________________
-| کارشناسی     | مقطع:       | اصول سیستم‌های کامپیوتری                                                        | نام درس:    |
-| ------------ | ----------- | ------------------------------------------------------------------------------- | ----------- |
-| تخصصی الزامی | گروه درس:   | [مبانی کامپیوتر و برنامه‌سازی](../base/Fundamentals-of-Computer-Programming.md) | پیش‌نیاز:   |
-| نظری         | نوع درس:    | ندارد                                                                           | هم‌نیاز:    |
-| 48           | تعداد ساعت: | 3                                                                               | تعداد واحد: |
-|              |             |  ندارد                                                                          | حل تمرین:   |
+| کارشناسی     | مقطع:       | اصول سیستم‌های کامپیوتری                                                         | نام درس:    |
+| ------------ | ----------- | -------------------------------------------------------------------------------- | ----------- |
+| تخصصی الزامی | گروه درس:   | [مبانی کامپیوتر و برنامه‌نویسی](../base/Fundamentals-of-Computer-Programming.md) | پیش‌نیاز:   |
+| نظری         | نوع درس:    | ندارد                                                                            | هم‌نیاز:    |
+| 48           | تعداد ساعت: | 3                                                                                | تعداد واحد: |
+|              |             |  ندارد                                                                           | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -14,7 +14,8 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
+- - Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
 
-- Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)
+- - Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)

@@ -10,6 +10,7 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
+-
 
 - انقلاب صنعتی چهارم
 
@@ -51,7 +52,8 @@ _______________________________________________________________________________
 
 - اجزای اکوسیستم نوآوری مبتنی بر اقتصاد دیجیتال و آشنایی با نقش آنها
 
+-
 
 **فهرست منابع پیشنهادی**
 
-<a name="_hlk932247371"></a>Øverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 
+Øverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 

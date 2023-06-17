@@ -30,5 +30,6 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1997). Signals and Systems. 2nd Edition. Prentice-Hall.
+- - Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1997). Signals and Systems. 2nd Edition. Prentice-Hall.

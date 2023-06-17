@@ -1,567 +1,619 @@
 
 
-0 - ریاضی عمومی ۱
-کتاب حساب دیفرانسیل و انتگرال تالیف جیمز استوارت – ترجمه ارشک حمیدی ویراست حداقل 6
-` `کتاب حساب دیفرانسیل و انتگرال و هندسه تحلیلی، تالیف توماس فینی – ویر، ویرایش حداقل ۹
-سیاوش شهشهانی، "حساب دیفرانسیل و انتگرال"، جلد اول، ویراست دوم، انتشارات فاطمی، ۱۳۹۶.
-Robert A. Adams and Cristopher Essex. Calculus, A Complete Course. 9th Edition, Pearson, 2018.
-James Stewart. Calculus. 8th Edition, Cengage learning, 2016.
+ریاضی عمومی ۱
+-
+- - استوارت، ج. (1395). حساب دیفرانسیل و انتگرال (ج. حمیدی، مترجم). تهران: مؤسسه آموزشی و نشریاتی مدرسه.
+- - شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
 
 
-1 - ریاضی عمومی ۲
-کتاب حساب دیفرانسیل و انتگرال تالیف جیمز استوارت – ترجمه ارشک حمیدی ویراست حداقل 6
-` `کتاب حساب دیفرانسیل و انتگرال و هندسه تحلیلی، تالیف توماس فینی – ویر، ویرایش حداقل ۹
-سیاوش شهشهانی، "حساب دیفرانسیل و انتگرال"، جلد اول، ویراست دوم، انتشارات فاطمی، ۱۳۹۶.
-Robert A. Adams and Cristopher Essex. Calculus, A Complete Course. 9th Edition, Pearson, 2018.
-James Stewart. Calculus. 8th Edition, Cengage learning, 2016.
+ریاضی عمومی ۲
+-
+- - استوارت، ج. (1395). حساب دیفرانسیل و انتگرال (ج. حمیدی، مترجم). تهران: مؤسسه آموزشی و نشریاتی مدرسه.
+- - شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
 
 
-2 - معادلات دیفرانسیل
-William E. Boyce, Richard C. DiPrima, Douglas B. Meade, Elementary Differential Equations and Boundary Value Problems, 11th Edition, WILEY, 2017.
-)ویرایش نهم این کتاب توسط حمیدرضا ظهوری زنگنه ترجمه و توسط انتشارات فاطمی منتشر شده است.(
-Stephen Goode, Scott Annin, Differential Equations and Linear Algebra by Stephen, Pearson, 2016C. H. Edwards, D. E. Penney, Elementary Differential Equations, 6th Edition, Pearson Education, Inc. 2008. 
-D. G. Zill, A First Course in Differential Equations with Modeling Applications, 10th Edition, Brooks/Cole, Cengage Learning, 2012.
+معادلات دیفرانسیل
+- - ظهوری زنگنه، ح. (مترجم). (1394). معادلات دیفرانسیل مقدماتی و مسائل مقدماتی مرزی (ویرایش ۹). انتشارات فاطمی
+- - Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). Elementary Differential Equations and Boundary Value Problems (11th ed.). Wiley.
+- - Goode, S., & Annin, S. A. (2016). Differential Equations and Linear Algebra by Stephen. Pearson.
+- - Edwards, C. H., & Penney, D. E. (2008). Elementary Differential Equations (6th ed.). Pearson Education, Inc.
+- - Zill, D. G. (2012). A First Course in Differential Equations with Modeling Applications (10th ed.). Brooks/Cole, Cengage Learning.
 
 
-3 - مبانی کامپیوتر و برنامه‌سازی
-1. Eric Matthes, Python Crash Course: A Hands-On, Project-Based Introduction to Programming, No Starch Press, 2019
-1. Allen Downey, Think Python, How to Think Like a Computer Scientist, 2nd Edition, Green Tea Press, 2015
-1. P. Wentworth, J. Elkner, A. B. Downey, C. Meyers. How to Think Like a Computer Scientist: Learning with Python. 3rd Edition, Open Book Project, 2011.
-1. J. Campbell, P. Gries, J. Montojo, G. Wilson. Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf, 2009.
-1. J. M. Zelle. Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates, 2004.
-1. Micha Gorelick and Ian Ozsvald, High-Performance-Python, y O’Reilly Media, Inc., 2014
-1. Learning Python by Mark Lutz
-1. Head First Programming by Paul Barry and David Griffiths
-1. Python Programming: A Complete Guide For Beginners To Master And Become An Expert by Brian Draper
-1. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
-1. Some other references: <https://github.com/ambadidi/Python-Books>
+مبانی کامپیوتر و برنامه‌نویسی
+-
+- - Matthes, E. (2019). Python Crash Course: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
+- - Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). Green Tea Press.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O’Reilly Media, Inc.
+- - Lutz, M. (2013). Learning Python (5th ed.). O'Reilly Media.
+- - Barry, P., & Griffiths, D. (2009). Head First Programming. O'Reilly Media.
+- - Draper, B. (2020). Python Programming: A Complete Guide For Beginners To Master And Become An Expert.
+- - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
+- Some other references: <https://github.com/ambadidi/Python-Books>
 
 
-4 - کارگاه کامپیوتر ۱
+کارگاه کامپیوتر ۱
 در اختیار مدرس
 
 
+مبانی علوم ریاضی
+-
+- - موحد، ضیاء (1379). درآمدی به منطق جدید. انتشارات و آموزش انقلاب اسلامی.
+- - بردجربان ، ناصر (1377). مبانی و مقدمات علم ریاضی. مرکز نشر پرفسور حسابی.
+- - سپهری ، محمد رضا (1390). آشنائی با مبانی علوم ریاضی. مرکز نشر آینه.
+- - Halmos, P. R. (2017). I Set Theory. Courier Dover Publications.
+- - Stewart, I., & Tall, D. (2015). The Foundations of Mathematics. Oxford University Press.
+- - Lin, S.-Y. T., & Lin, Y.-F. (1985). Set Theory with Applications. Mancorp Pub.
 
-5 - مبانی علوم ریاضی
-موحد، ضیاء، درآمدی به منطق جدید، انتشارات و آموزش انقلاب اسلامی ، 1379
-ناصر، بردجربان. مبانی و مقدمات علم ریاضی، مرکز نشر پرفسور حسابی، 1377
-سپهری ، محمد رضا. آشنائی با مبانی علوم ریاضی، مرکز نشر آینه، 1390
-Halmos, Paul R. I set theory. Courier Dover Publications, 2017.
-Stewart, Ian, and David Tall. The foundations of mathematics. OUP Oxford, 2015.
-Lin, Shwu-Yeng T., and You-Feng Lin. Set theory with applications. Mancorp Pub, 1985.
+
+آمار و احتمال ۱
+-
+- - بهبودیان، جواد (1394). آمار و احتمال مقدماتی. انتشارات دانشگاه امام رضا.
+- - قهرمانی، سعید (1397). مبانی احتمال، ویرایش سوم، ترجمه شاهکار، غ. و بزرگنیا، ا. انتشارات دانشگاه صنعتی شریف.
+- - راس، شلدون (1389). مبانی احتمال، ویرایش هشتم، ترجمه پارسیان، ا.، همدانی، ع. انتشارات شیخ بهایی.
+- - هاگ، ر. و تنیس، ل. آ. (1394). احتمال و استنباط آماری. ترجمه نوروز ایزددوستدار و حمید پزشک. انتشارات دانشگاه تهران.
+- - Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th ed.). Pearson.
+- - José Unpingco (2019). Python for Probability, Statistics, and Machine Learning (2nd ed.). Springer. Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+- - Grimmett, G., & Welsh, D. (2014). Probability: An Introduction (2nd ed.). Oxford University Press.
+- - Ghahramani, S. (2014). Fundamentals of Probability: with Stochastic Process (3rd ed.). CRC Press. 
 
 
-6 - آمار و احتمال ۱
-بهبودیان، جواد. (1394). آمار واحتمال مقدماتی، انتشارات دانشگاه امام رضا، 
-قهرمانی، سعید. (1397).  مبانی احتمال،  ترجمه شاهکار، غ. و بزرگنیا، ا.، ویرایش سوم، انتشارات دانشگاه صنعتی شریف.  
-راس، شلدون. (1389).  مبانی احتمال، ترجمه پارسیان، ا.  همدانی، ع.، ویرایش هشتم، انتشارات شیخ بهایی، اصفهان. 
-هاگ، ر.و .تنیس، ل .آ .احتمال و استنباط آماری، ترجمه نوروز ایزددوستدار و حمید پزشک، انتشارات دانشگاه تهران،1۳۹۴
-Hogg, R. V. Tanis, E. and Zimmerman, D. Probability and Statistical Inference, 9th Edition, 
-Pearson, 2013
-José Unpingco, Python for Probability, Statistics, and Machine Learning, Second Ed., 2019, Springer, Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-Grimmett, G. and Welsh D. Probability: an Introduction, 2nd Edition, OUP, 2014.
-Ghahramani, S., Fundamentals of Probability: with Stochastic Process, 3rd Edition, CRC Press,2014.
+نرم‌افزارهای آماری و تحلیل داده‌ها
+-
+- - گوس، جی و منیروپ، د. (1401). آمار با نرم افزار JMP: نمودارها، آمار توصیفی و احتمال، ترجمه: بزرگنیا، ا.، و همکاران، انتشارات فردوسی مشهد.
+- - وناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و 2، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی.
+- - Goos, P., & Meintrup, D. (2015). Statistics with JMP: Graphs, Descriptive Statistics and Probability. Wiley.
+- - Rahlf, T. (2019). Data Visualisation with R: 111 Examples. Springer
+- - Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
+
 ` `«دروس تخصصی»
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.007.png)
+![](Aspose.Words.027dad54-58c5-41b8-acd6-4fe5ead1dfc8.007.png)
 
 
 
-7 - نرم‌افزارهای آماری و تحلیل داده‌ها
-\1. گوس، جی و منیروپ، د. (1401). آمار با نرم افزار JMP: نمودارها، آمار توصیفی و احتمال، ترجمه: بزرگنیا، ا.، و همکاران، انتشارات فردوسی مشهد. 
-\2. وناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و2، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی.
-\2. Goos, P. and Meintrup, D. (2015).Statistics with JMP: graphs, descriptive statistics and probability. Wiley.
-\3. Rahlf, T. (2019).Data Visualisation with R: 111 Eexamples. Springer Nature. 
-\4. Gerbing, D.W.(2020) R Visualisation: Derive meening from Data. Chpman and Hall/CRC.
+برنامه‌نویسی پیشرفته
+-
+- - Horton, I., & Van Weert, P. (2018). Beginning C++17: From Novice to Professional. Apress.
+- - Horton, I., & Van Weert, P. (2020). Beginning C++20: From Novice to Professional. Apress.
+- - Deitel, P., & Deitel, H. (2017). C++ How to Program (11th ed.). Pearson Education.
 
 
-
-8 - برنامه‌نویسی پیشرفته
-Ivor Horton and Peter Van Weert, Beginning C++17: From Novice to Professional, Apress, 2018
-Ivor Horton and Peter Van Weert, Beginning C++20: From Novice to Professional, Apress, 2020
-P. Deitel, H. Deitel. C++: How to Program. 11th Edition, Pearson Education, 2017.
-
-
-9 - برنامه‌نویسی پایتون
-1. Fabrizio Romano, Dusty Phillips, Rick van Hattem, Python: Journey from Novice to Expert, 2016, Packt Publishing
-1. P. Wentworth, J. Elkner, A. B. Downey, C. Meyers. How to Think Like a Computer Scientist: Learning with Python. 3rd Edition, Open Book Project, 2011.
-1. J. Campbell, P. Gries, J. Montojo, G. Wilson. Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf, 2009.
-1. J. M. Zelle. Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates, 2004.
-1. Micha Gorelick and Ian Ozsvald, High-Performance-Python, y O’Reilly Media, Inc., 2014
+برنامه‌نویسی پایتون
+-
+- - Romano, F., Phillips, D., & van Hattem, R. (2016). Python: Journey from Novice to Expert. Packt Publishing.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O'Reilly Media, Inc.
 
 
-10 - ساختمان داده‌ها و الگوریتم‌ها
-- محمد قدسی، "داده‌ساختارهای و مبانی الگوریتم‌ها"، چاپ چهارم، انتشارات فاطمی، ۱۳۹۳.
-- محمد قدسی و آیدین نصیری شرق، "۶۰۰ مسئله‌ی چندگزینه‌ای از داده‌ساختارها و الگوریتم‌ها"، چاپ ششم، انتشارات فاطمی، ۱۳۹۷.
-- Cormen, T. H. and Leiserson, C. E., Rivest, R. L. and Stein, C. (2009)., Introduction to Algorithms (3rd Ed), MIT Press. 
-- Manber, U.,  (1989).Introduction to Algorithms: A Creative Approach, Addison-Wesley. 
-- Sedgewick, R. and Wayne, K., (2011). Algorithms, 4th Ed, Addison-Wesley.
-- Weiss, M. A., (2012). Data Structures and Algorithm Analysis in C++, 4th Ed, Addison Wesley. 
+ساختمان داده‌ها
+- قدسی، محمد (۱۳۹۳). داده‌ساختارها و مبانی الگوریتم‌ها (چاپ چهارم). انتشارات فاطمی.
+- قدسی، محمد، و نصیری شرق، آیدین (۱۳۹۷). ۶۰۰ مسئله‌ی چندگزینه‌ای از داده‌ساختارها و الگوریتم‌ها (چاپ ششم). انتشارات فاطمی
+- - Cormen, T. H. and Leiserson, C. E., Rivest, R. L. and Stein, C. (2009)., Introduction to Algorithms (3rd Ed), MIT Press. 
+- - Manber, U.,  (1989).Introduction to Algorithms: A Creative Approach, Addison-Wesley. 
+- - Sedgewick, R. and Wayne, K., (2011). Algorithms, 4th Ed, Addison-Wesley.
+- - Weiss, M. A., (2012). Data Structures and Algorithm Analysis in C++, 4th Ed, Addison Wesley. 
 - Horowitz and Sahni, Fundamental of Data Structures, 4th Ed., CSP, 1994, (Pascal, C , C++ or Generic version(
 
 
-11 - طراحی و تحلیل الگوریتم‌ها
-1. R. Neopolitan. Foundations of algorithms. Jones & Bartlett Learning, 2015.
-1. J. Kleinberg and E. Tardos. Algorithm Design. Addison Wesley, 2005.
-1. T. Cormen, C. Leiserson, R. Riverst, and C. Stein. Introduction to Algorithms. 3rd Edition, MIT Press, 2009.
-1. U. Manber. Introduction to Algorithms: A Creative Approach. Addison-Wesley, 1989.
-1. G. Brassard, P. Bratley. Algorithmics: Theory and Practice. Prentice-Hall, 1988
+طراحی و تحلیل الگوریتم‌ها
+-
+- - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
+- - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
+- - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
+- - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
+- - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
 
 
 
-12 - کارگاه کامپیوتر ۲
+کارگاه کامپیوتر ۲
 در اختیار مدرس
 
 
-13 - پایگاه داده‌ها
-R. Elmasri, S. Navathe, Fundamentals of Database Systems, 7th edition, 2015
-A. Silberschatz, H. F. Korth, S. Sudarshan, Database System Concepts, 7th edition, 2019.
-Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
-Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
-Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson
+پایگاه داده‌ها
+-
+- - Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems (7th ed.). Pearson.
+- - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts (7th ed.). McGraw-Hill Education.
+- - Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
+- - Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
+- - Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson.
 
 
-14 - اصول سیستم‌های کامپیوتری
-Mano, M. Morris. Computer system architecture. 3th Edition, Prentice-Hall of India, 2003.
-Patterson, D. A., & Hennessy, J. L., Computer organization and design: the hardware/software interface, (Rev. ed. of: Computer organization and design/John L. Hennessy, David A. Patterson.1998.), Morgan Kaufmann, 2012.
+اصول سیستم‌های کامپیوتری
+-
+- - Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
+- - Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)
 
 
-15 - مبانی ترکیبیات
-ر . پ. گریمالدی، ریاضیات گسسته و ترکیبیاتی، ترجمه محمدعلی رضوانی و بیژن شمس، انتشارات فاطمی، 1377
-Anderson, Ian. A first course in combinatorial mathematics. Clarendon Press, 1989.
-Grimaldi, Ralph P. Discrete and Combinatorial Mathematics, 5/e. Pearson Education, India, 2006.
+مبانی ترکیبیات
+-
+- - گریمالدی، ر. پ. (۱۳۷۷). ریاضیات گسسته و ترکیبیاتی، ترجمه محمدعلی رضوانی و بیژن شمس، انتشارات فاطمی.
+- - Anderson, I. (1989). A first course in combinatorial mathematics. Clarendon Press.
+- - Grimaldi, R. P. (2006). Discrete and Combinatorial Mathematics (5th ed.). Pearson Education India.
 
 
-16 - مبانی منطق و نظریه مجموعه‌ها
-J. M. Henle, An Outline of Set Theory, Springer-Verlag, 1986.
-M. Huth, M. Ryan, Logic in Computer Sciences, Modeling and Reasoning about Systems, Cambridge University Press, 2004.
+مبانی منطق و نظریه مجموعه‌ها
+-
+- - Henle, J. M. (1986). An Outline of Set Theory. Springer-Verlag.
+- - Huth, M., & Ryan, M. (2004). Logic in Computer Science: Modelling and reasoning about systems. Cambridge university press.
 
 
-
-17 - بهینه‌سازی گسسته
-حمدی طه، آشنایی با تحقیق در عملیات: برنامهریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی،1387
-مهدی قطعی، تحقیق در عملیات و بهینه‌سازی ترکیبیاتی، انتشارات ناقوس، 1395.
-J. Lee, A First Course in Combinatorial Optimization, Cambridge University Press, 2004.
-T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein, Introduction to Algorithms, 3rd Edition, The MIT Press, 2009.
-C.H. Papadimitriou, R. Steiglitz, Combinatorial Optimization Algorithms and Complexity, Perintice Hall, 1982.
-V. Balakrishnan, Network Optimization, Chapman and Hall/CRC , 1995.
-R.K. Ahuja, T.L. Magnanti, J.B. Orlin, Network Flows: Theory, Algorithms, and Applications, Prentice-Hall, 1993.
-
-
-
-18 - مبانی نظریه محاسبه
-Sipser, Michael. Introduction to the Theory of Computation. Cengage learning, 2012.
-G. Boolos, J. Burgess, and R. Jeffrey. Computability and Logic. 5th Edition, Cambridge University Press, 2007.
-D. Kozen. Theory of Computation. Springer, 2006.
-S. Hedman. A First Course in Logic: An introduction to model theory, proof theory, computability, and complexity. Oxford University Press, 2004.
+بهینه‌سازی گسسته
+-
+- - حمدی طه، (۱۳۸۷) آشنایی با تحقیق در عملیات: برنامه‌ریزی خطی پویا و با اعداد صحیح، (م. بازرگان، مترجم). تهران: مرکز نشر دانشگاهی.
+- - مهدی قطعی، (1395). تحقیق در عملیات و بهینه‌سازی ترکیبیاتی. تهران: انتشارات ناقوس.
+- - Lee, J. (2004). A First Course in Combinatorial Optimization. Cambridge University Press.
+- - Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). The MIT Press.
+- - Papadimitriou, C.H., & Steiglitz, R. (1982). Combinatorial Optimization Algorithms and Complexity. Prentice-Hall.
+- - Balakrishnan, V. (1995). Network Optimization. Chapman and Hall/CRC.
+- - Ahuja, R.K., Magnanti, T.L., & Orlin, J.B. (1993). Network Flows: Theory, Algorithms, and Applications. Prentice-Hall.
 
 
-19 - مبانی محاسبات علمی
-Stephen Boyd and Lieven Vandenberghe, Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares, 2018
-Axler, S., Linear algebra done right. Springer, 2015.
-Scientific Computing with Case Studies, By Dianne P. O'Leary, 2009
-منصور واعظ پور، جبر خطی و ماتریس ها، انتشارات دانشگاه یزد، 1393.
-جبر خطی با متلب، دکتر کرایچیان
-Theodore Shifrin , Multivariable Mathematics, Linear Algebra, Multivariable Calculus, and Manifolds, Wiley, 2005
-Datta, B. N., Numerical linear algebra and applications (Vol. 116). SIAM, 2010.
-Trefethen, L. N., & Bau III, D., Numerical linear algebra (Vol. 50). SIAM, 1997.
+مبانی نظریه محاسبه
+-
+- - Sipser, M. (2012). Introduction to the Theory of Computation. Cengage Learning.
+- - Boolos, G., Burgess, J., & Jeffrey, R. (2007). Computability and Logic (5th ed.). Cambridge University Press.
+- - Kozen, D. (2006). Theory of Computation. Springer.
+- - Hedman, S. (2004). A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity. Oxford University Press.
 
 
-20 - جبر خطی
-Stephen Boyd and Lieven Vandenberghe, Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares, 2018
-Axler, S., Linear algebra done right. Springer, 2015.
+مبانی محاسبات علمی
+-
+- - ون لوان، چارلز فرانسیس (۱۴۰۱)،  مقدمه ای بر محاسبات علمی، ترجمه دکتر فائزه توتونیان و دکتر داود خجسته سالکویه.
+- - کرایچیان، ع. (۱۴۰۱). جبر خطی با متلب. انتشارات دانشگاه فردوسی مشهد
+- - O'Leary, D. P. (2009). Scientific Computing with Case Studies.
+- - Trefethen, L. N., & Bau III, D. (1997). Numerical Linear Algebra (Vol. 50). SI
 
 
-21 - مبانی آنالیز عددی
-Burden, R. L., & Faires, J. D., Solutions of equations in one variable the bisection
-method. Brooks/Cole, Cengage Learning, 2011.
-Dahlquist, G., & Björck, Å., Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics, 2008.
-Süli, E., & Mayers, D. F., An introduction to numerical analysis. Cambridge university press, 2003.
-Hildebrand, F. B., Introduction to numerical analysis. Courier Corporation, 1987.
-Stoer, J., & Bulirsch, R., Introduction to numerical analysis (Vol. 12). Springer Science &
-Business Media, 2013
+مبانی آنالیز عددی
+-
+- - Burden, R. L., & Faires, J. D. (2011). Solutions of equations in one variable: the bisection method. Brooks/Cole, Cengage Learning.
+- - Dahlquist, G., & Björck, Å. (2008). Numerical methods in scientific computing, volume I. Society for Industrial and Applied Mathematics.
+- - Süli, E., & Mayers, D. F. (2003). An introduction to numerical analysis. Cambridge university press.
+- - Hildebrand, F. B. (1987). Introduction to numerical analysis. Courier Corporation.
+- - Stoer, J., & Bulirsch, R. (2013). Introduction to numerical analysis (Vol. 12). Springer Science & Business Media.
 
 
-22 - مبانی آنالیز ریاضی
-` `مجید میرزا وزیری، فضاهای متریک با طعم توپولوژی، انتشارات دانشگاه فردوسی مشهد، چاپ سوم، 1
-Rudin, W., Principles of mathematical analysis (Vol. 3). New York: McGraw-hill, 1964.
-Gordon, R. A., Real Analysis: A first course. Addison Wesley, 2001.
+مبانی آنالیز ریاضی
+-
+- - میرزا وزیری، م. (۱۳۸۸). فضاهای متریک با طعم توپولوژی (چاپ سوم). مشهد: انتشارات دانشگاه فردوسی.
+- - Rudin, W. (1964). Principles of mathematical analysis (Vol. 3). New York: McGraw-hill.
+- - Gordon, R. A. (2001). Real analysis: A first course. Addison Wesley.
 
 
-23 - یادگیری ماشین مقدماتی
-\1. جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند و گویا مولفان کتاب اصلی -کتاب زیر- قصد دارند نسخه‌ی جدیدی از کتاب با پایتون در سال ۲۰۲۳ منتشر نمایند)
-2. James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
-2. Sugiyama, M. (2015). Introduction to Statistical Machine Learning, Elsevier Science.
-2. Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
-2. Zaki, M. J., & Meira, W., Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press, 2014.
+تحلیل آماری داده‌ها
+Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th Ed.). Pearson.
+Unpingco, J. (2019). Python for Probability, Statistics, and Machine Learning (2nd Ed.). Springer. [Source codes available at <https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E>]
+Chan, S. H. (2021). Introduction to Probability for Data Science, Michigan Publishing. [Source codes available at <https://probability4datascience.com/>]
+Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Ed.). O'Reilly Media, Inc.
+Griffiths, D. (2008). Head First Statistics. O'Reilly Media, Inc.
+Wheelan, C. (2014). Naked Statistics: Stripping the Dread from the Data. W. W. Norton & Company.
+AI PUBLISHING. (2021). Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts Using Python.
 
 
-24 - داده‌کاوی مقدماتی
-` `شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
-مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
-زینل همدانی، علی (1394). دانشیابی داده‌ها ( مقدمه ای بر داده کاوی)، انتشارات دانشگاه صنعتی اصفهان. 
-Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
-Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
-Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
-Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
-Zaki, M. J., & Meira, W., Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press, 2014.
+سری‌های زمانی کاربردی
+-
+- - کرایر، ج.د.؛ سیک چن، ک.  (1392). تجزیه‌وتحلیل سری‌های زمانی با استفاده از نرم‌افزار R، ترجمه محمدرضا مشکانی، مرکز نشر دانشگاهی. 
+- - براکول، پ. و دیویس، ر.ا. (1384). مقدمه‌ای بر سری‌های زمانی و پیش‌بینی، ترجمه امینی، م.،  بزرگ نیا، ا. و  دهقان، م. ح. انتشارات دانشگاه سیستان و بلوچستان. 
+- - چتفیلد، ک. (1996). مقدمه‌ای بر تحلیل سری‌های زمانی، ترجمه حسینعلی نیرومند چاپ ششم، انتشارات دانشگاه فردوسی مشهد
+- - Shumway, R. H., and Stoffer, D. S. (2019). Time series: a data analysis approach using R. Chapman and Hall/CRC.
+- - Cryer, J. D. and Chan, K. S. (2008). Time Series Analysis With Application in R, 2nd Ed. Springer.
 
 
-25 - تحلیل آماری داده‌ها
-Hogg, R. V. Tanis, E. and Zimmerman, D. Probability and Statistical Inference, 9th Edition, 
-Pearson, 2013
-José Unpingco, Python for Probability, Statistics, and Machine Learning, Second Ed., 2019, Springer, Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-Peter Bruce, Andrew Bruce, Peter Gedeck, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, 2nd Edition, O’Reilly Media, Inc, 2020
-Dawn Griffiths, Head First Statistics, O'Reilly Media, Inc, 2008
-Charles Wheelan, Naked Statistics: Stripping the Dread from the Data, 2012
-STATISTICS FOR BEGINNERS IN DATA SCIENCE, Theory and Applications of
-Essential Statistics Concepts using Python, AI PUBLISHING
+یادگیری ماشین مقدماتی
+-
+- - جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند)
+- James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
+- Sugiyama, M. (2015). Introduction to Statistical Machine Learning, Elsevier Science.
+- Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
+- - Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.
 
 
-26 - سری‌های زمانی کاربردی
-براکول، پ. و دیویس، ر.ا. (۱۳۸۴) مقدمهای بر سریهای زمانی و پیشبینی، ترجمه محمد امینی، ابوالقاسم بزرگ نیا و محمدحسین دهقان، چاپ دوم، انتشارات دانشگاه سیستان و بلوچستان. 
-چتفیلد، ک. (۱۹۹۶) . مقدمهای بر تحلیل سریهای زمانی، ترجمه حسینعلی نیرومند چاپ ششم، دانشگاه فردوسی مشهد.
-ترجمه محمدرضا مشکانی، ،R کرایر، ج.د.؛ سیک چن، ک. (۱۳۹۲)  تجزیه‌وتحلیل سریهای زمانی با استفاده از نرم‌افزار، مرکز نشر دانشگاهی.
+داده‌کاوی مقدماتی
+-
+- - شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
+- - مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
+- - Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
+- - Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
+- - Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
+- - Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
+- - Zaki, M. J., & Meira, W., (2014)m Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.
 
 
-27 - تحقیق در عملیات
-1 .برتسیماس، سیتسیکلیس، مقدمه ای بر بهینه سازی خطی، ترجمه حمید اسمعیلی، انتشارات دانشگاه بوعلی سینا، 1394.
-2 .حمدی طه، آشنایی با تحقیق در عملیات: برنامه ریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی، 1387.
-3 .وینستون، تحقیق در عملیات، برنامه‌ریزی خطی و حمل و نقل، ترجمه سید علی میر حسنی و محمدرضا علیرضایی، انتشارات مبتکران، 1380.
-4 .بازارا، جارویس، شرالی، برنامه ریزی خطی، ترجمه اسماعیل خرم، نشر کتاب دانشگاهی، 1392.
+تحقیق در عملیات
+-
+- - برتسیماس، سیتسیکلیس، (1394). مقدمه‌ای بر بهینه‌سازی خطی، ترجمه حمید اسمعیلی، انتشارات دانشگاه بوعلی سینا.
+- - حمدی طه، (1387). آشنایی با تحقیق در عملیات: برنامه‌ریزی خطی پویا و با اعداد صحیح، ترجمه محمدباقر بازرگان، مرکز نشر دانشگاهی.
+- - وینستون، (1380). تحقیق در عملیات، برنامه‌ریزی خطی و حمل و نقل، ترجمه سید علی میر حسنی و محمدرضا علیرضایی، انتشارات مبتکران.
+- - بازارا، جارویس، شرالی، (1392). برنامه‌ریزی خطی، ترجمه اسماعیل خرم، نشر کتاب دانشگاهی. 
 
 
+بهینه‌سازی غیرخطی
+- لوئنبرگر، د. ج.، مهدوی امیری، ن.، و پور کاظمی، محمدحسین. (۱۳۹۲). برنامه‌ریزی خطی و غیرخطی. تهران: دانشگاه صنعتی شریف.
+- Bazaraa, M., Sherali, H. D., & Shetty, C. M. (2006). Nonlinear Programming: Theory and Algorithms (3rd ed.). John Wiley & Sons.
+- Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University Press.
+- Chong, E. K. P., & Zak, S. H. (2013). An Introduction to Optimization (4th ed.). Wiley.
+- Griva, I., Nash, S. G., & Sofer, A. (2009). Linear and Nonlinear Optimization (2nd ed.). SIAM.
+- Nocedal, J., & Wright, S. (2006). Numerical optimization (2nd ed.). Springer Series in Operations Research and Financial Engineering.
+- Tibshirani, R. (2013-2019). Convex Optimization [Course]. Carnegie Mellon University.
+- Rao, S. S. (1978). Optimization: Theory and Applications. John Wiley & Sons.
 
-28 - بهینه‌سازی غیرخطی
-1. د. ج. لوئنبرگر، برنامه‌ریزی خطی و غیرخطی، ترجمه نظام‌الدین مهدوی امیری و محمدحسین پور کاظمی، دانشگاه صنعتی شریف، ۱۳۹۲.
-1. M. Bazaraa, H.D. Sherali, C.M. Shetty, Nonlinear Programming: Theory and Algorithms, 3rd edition, John Wiley & Sons, 2006.
-1. Stephen Boyd and Lieven Vandenberghe. Convex optimization. Cambridge university press, 2004.
-1. E.K.P. Chong, S.H. Zak, An Introduction to Optimization, 4th edition, Wiley, 2013.
-1. 4. I. Griva, S.G. Nash, A. Sofer, Linear and Nonlinear Optimization, 2nd edition, SIAM, 2009.
-1. Jorge Nocedal and Stephen Wright. Numerical optimization. Springer Series in Operations Research and Financial Engineering, 2nd edition, 2006.
-1. Convex Optimization taught by Ryan Tibshirani at CMU from 2013 to 2019.
-1. S.S. RAO: Optimization: Theory and Applications, August 9, 1978, John Wiley and Sons
 
-
-29 - طراحی و توسعه کسب و کارهای نوپا
+طراحی و توسعه کسب و کارهای نوپا
 منابع آزاد با نظر استاد درس
 
 
-30 - مبانی اقتصاد دیجیتال
-O’Sullivan, A., Sheffrin, S., & Perez, S., Survey of Economics: Principles, Applications, and Tools, 8th Edition, Boston: Pearson, 2019.
+مبانی اقتصاد دیجیتال
+Øverby, H., & Audestad, J. A. (2021). Introduction to Digital Economics: Foundations, Business Models and Case Studies. Springer. 
 
 
-31 - کارآموزی
+کارآموزی
 با نظر مدرس درس
 
 
-32 - هوش مصنوعی
-Russell, S., & Norvig, P., Artificial intelligence: a modern approach, 4th Edition, PEARSON SERIES, 2020.
+هوش مصنوعی
+Russell, S., & Norvig, P., (2020), Artificial intelligence: a modern approach, 4th Edition, PEARSON SERIES.
+Berkeley notes in Intro to Artificial Intelligence course: <https://inst.eecs.berkeley.edu/~cs188>
 «دروس تخصصی اختیاری»
-![](Aspose.Words.f1893656-44a0-4d8d-9157-04de9ad727fd.008.png)
+![](Aspose.Words.027dad54-58c5-41b8-acd6-4fe5ead1dfc8.008.png)
 
 
-33 - آمار و احتمال ۲
-ن. نعمت الهی، آمار و احتمالات مهندسی، انتشارات دلفک، 1394.
-ش. م. راس، مقدمهای بر آمار و احتمال (برای دانشجویان مهندسی و علوم)، ترجمه مجید اسدی و ابوالقاسم بزرگ نیا، انتشارات دانشگاه فردوسی مشهد، 1382.
-ج. بهبودیان، آمار و احتمال مقدماتی، انتشارات دانشگاه امام رضا (ع)، 1383.
-س. قهرمانی، مبانی احتمال، ترجمه غلامحسین شاهکار و ابوالقاسم بزرگ نیا، انتشارات دانشگاه فردوسی مشهد، 1390.
-G. G. Roussas, Introduction to probability, 2nd Edition, Academic Press, 2014.
+آمار و احتمال ۲
+-
+- - نعمت الهی، ن. (1394). آمار و احتمالات مهندسی. انتشارات دلفک.
+- - راس، ش. م.، اسدی، م.، و بزرگ نیا، ا. ق. (1382). مقدمه‌ای بر آمار و احتمال (برای دانشجویان مهندسی و علوم). انتشارات دانشگاه فردوسی مشهد.
+- - بهبودیان، ج. (1383). آمار و احتمال مقدماتی. انتشارات دانشگاه امام رضا (ع).
+- - قهرمانی، س.، شاهکار، غ.، و بزرگ نیا، ا. ق. (1390). مبانی احتمال. انتشارات دانشگاه فردوسی مشهد.
+- - Roussas, G. G. (2014). Introduction to probability (2nd ed.). Academic Press.
 
 
-34 - آمار محاسباتی
-گیونز، جف‌ اچ‌. (1393). آما‌ر محا‌سبا‌تی‌ (روش‌ بهینه‌سا‌زی عددی)، ترجمه محمدرضا مشکانی، انتشارات پژوهشکده آمار. 
-\1. Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
-2.Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
-\3. Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
+آمار محاسباتی
+-
+- - گیونز، جف‌ اچ‌. (۱۳۹۳). آما‌ر محا‌سبا‌تی‌ (روش‌ بهینه‌سا‌زی عددی)، ترجمه محمدرضا مشکانی، انتشارات پژوهشکده آمار. 
+- Rizzo, M.L. (2019). Statistical Computing with R, 2Ed  . Chapman & Hall
+- Givens, G.H. and Hoeting, J.A. (2012). Computational Statistics, 2nd edition, Wiely.
+- Härdle, W. K., Okhrin, O., & Okhrin, Y. (2017). Basic elements of computational statistics. Springer.
 
 
-35 - روش‌های آماری
-\1. نعمت اللهی، نادر ( 1397). روشهای آماری، انتشارات دانشگاه علامه طباطبایی.
-\2. جانسون، ر. آ. و  باتاچاریا، گ.، (1388).  آمار اصول و روش ها، جلد 1 و 2، ترجمه میکائیلی، ف.، انتشارات نشر ارکان دانش.
-\3. ووناکت، ت. چ. و ووناکت، ر. ج. (1393). آمار مقدماتی، جلد 1 و 2، ترجمه مشکانی، م. ر.، انتشارات مرکز نشر دانشگاهی، 
-\4. بهبودیان، ج.، آمار و احتمال مقدماتی (1394).  چاپ چهلم، انتشارات آستان قدس رضوی. 
-\5. طاهری، س.م. (1399). احتمال و آمار مهندسی، انتشارات دانشگاه تهران. 
+روش‌های آماری
+\1. نعمت اللهی، نادر (۱۳۹۷). روشهای آماری، انتشارات دانشگاه علامه طباطبایی.
+\2. جانسون، ر. آ. و  باتاچاریا، گ.، (۱۳۸۸).  آمار اصول و روش ها، جلد ۱ و ۲، ترجمه میکائیلی، ف.، انتشارات نشر ارکان دانش.
+\3. ووناکت، ت. چ. و ووناکت، ر. ج. (۱۳۹۳). آمار مقدماتی، جلد ۱ و ۲، ترجمه مشکانی، م. ر.، انتشارات مرکز نشر دانشگاهی، 
+\4. بهبودیان، ج.، آمار و احتمال مقدماتی (۱۳۹۴).  چاپ چهلم، انتشارات آستان قدس رضوی. 
+\5. طاهری، س.م. (۱۳۹۹). احتمال و آمار مهندسی، انتشارات دانشگاه تهران. 
 \6. Agresti, A.,  Franklin, C. Klingenberg, B.(2018). The art and science of learning from data. Peatson.
 \7. Wilcox, R. R. (2016). Understanding and applying basic statistical methods using R. John Wiley & Sons.
 
 
-36 - نظریه محاسبه
-Sipser, M. (2003). Introduction to the Theory of Computation. 3th Edition, ACM Sigact News, 27(1), 27-29.
-Cooper, S. Barry. Computability theory. CRC Press, 2003.
-M. Divis, R. Sigal, E. Weyuker, Computability, Complexity, and Languages. 2nd Edition, Academic Press, 1997. 
+نظریه محاسبه
+-
+- - Sipser, M. (2003). Introduction to the Theory of Computation. 3th Edition, ACM Sigact News, 27(1), 27-29.
+- - Cooper, S. Barry. (2003) Computability theory. CRC Press.
+- - M. Divis, R. Sigal, E. Weyuker, (1997), Computability, Complexity, and Languages. 2nd Edition, Academic Press. 
 
 
-37 - منطق برای علوم کامپیوتر
-Huth, M., Ryan, M. Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University, 2020.
+منطق برای علوم کامپیوتر
+-
+- - Huth, M., Ryan, M. (2020), Logic in Computer Science: Modelling and Reasoning about Systems, 2nd Edition, Cambridge: Cambridge University.
 
 
-38 - نظریه مقدماتی کدگذاری
-R. Hill, A First Course in Coding Theory, Oxford Applied Mathematics and Computers Science Series, 11th Edition, Clarendon Press, 2001.
-S. Roman, Coding and Information, Springer, 1992.
-S. Ling, C. Xing, Coding Theory: A First Course, Cambridge University Press, 2014
+
+نظریه مقدماتی کدگذاری
+-
+- - Hill, R. (2001). A First Course in Coding Theory (11th ed.). Oxford Applied Mathematics and Computers Science Series, Clarendon Press.
+- - Roman, S. (1992). Coding and Information. Springer.
+- - Ling, S., & Xing, C. (2014). Coding Theory: A First Course. Cambridge University Press.
 
 
-39 - رمزنگاری
-Jonathan Katz and Yehuda Lindell. Introduction to Modern Cryptography, CRC Press, 2007.
-O. Goldreich. Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press, 2001.
-O. Goldreich. Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press, 2004.
-A.J. Menezes, P.C. van Oorschot, and S.A. Vanstone. Handbook of Applied Cryptography, CRC Press, 1996.
+رمزنگاری
+-
+- - Katz, J., & Lindell, Y. (2007). Introduction to Modern Cryptography. CRC Press.
+- - Goldreich, O. (2001). Foundations of Cryptograph, Volume 1: Basic Tools. Cambridge University Press.
+- - Goldreich, O. (2004). Foundations of Cryptograph, Volume 2: Basic Applications. Cambridge University Press.
+- - Menezes, A. J., van Oorschot, P. C., & Vanstone, S. A. (1996). Handbook of Applied Cryptography. CRC Press.
 
 
-40 - برنامه‌نویسی امن
-B. Chest and J. West, Secure Programming with Static Analysis, , Addison Wesley, 2007.
-G. McGraw, Software Security, Addison Wesley, 2006.
+برنامه‌نویسی امن
+-
+- - Chest, B., & West, J. (2007). Secure Programming with Static Analysis. Addison Wesley.
+- - McGraw, G. (2006). Software Security. Addison Wesley.
 
 
-41 - معناشناسی عملیاتی برنامه‌نویسی
-G. Winskel, The Formal Semantics of Programming Languages An Introduction, The MIT Press, 1994
+معناشناسی عملیاتی برنامه‌نویسی
+-
+- - Winskel, G., (1994), The Formal Semantics of Programming Languages An Introduction, The MIT Press, 
 
 
-42 - آشنایی با نظریه بازی‌ها
-\1. عبدلی، قهرمان (1398). نظریه بازیها و کاربردهای آن (بازیهای اطلاعات ناقص ، تکاملی و همکارانه)، انتشارات سمت. 
-\2. عبدلی، قهرمان (1399). نظریه بازی ها و کاربردهای آن (بازیهای ایستا و پویا با اطلاعات کامل)، انتشارات جهاد دانشگاهی. 
-\3. سوری، علی. (1400). نظریه بازی‌ها و کاربردهای اقتصادی، انتشارات نور علم.
-\5. زیگفرید، تام. (1399). ریاضیات زیبا: جان نش، نظریه بازی ها، و جست و جوی رمز طبیعت، ترجمه صادقی، مهدی، نشر نی.
-\1. Rasmusen, E. (1990). Games and information. An introduction to game theory.Wiley.  
+آشنایی با نظریه بازی‌ها
+- عبدلی، قهرمان (1398). نظریه بازیها و کاربردهای آن (بازیهای اطلاعات ناقص ، تکاملی و همکارانه)، انتشارات سمت. 
+- عبدلی، قهرمان (1399). نظریه بازی ها و کاربردهای آن (بازیهای ایستا و پویا با اطلاعات کامل)، انتشارات جهاد دانشگاهی. 
+- سوری، علی. (1400). نظریه بازی‌ها و کاربردهای اقتصادی، انتشارات نور علم.
+- زیگفرید، تام. (1399). ریاضیات زیبا: جان نش، نظریه بازی ها، و جست و جوی رمز طبیعت، ترجمه صادقی، مهدی، نشر نی.
+- Rasmusen, E. (1990). Games and information. An introduction to game theory.Wiley.  
 #
 
 
-43 - الگوریتم‌های تصادفی
-R. Motwani and P. Raghavan. Randomized Algorithms. Cambridge University Press, 1995.
-J. Matoušek and J. Vondrák. The Probabilistic Method. Lecture Notes, Department of Applied Mathematics, Charles University, Prague, 2001.
-M. Mitzenmacher and E. Upfa. Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press, 2005.
+الگوریتم‌های تصادفی
+-
+- - Motwani, R., & Raghavan, P. (1995). Randomized Algorithms. Cambridge University Press.
+- - Matoušek, J., & Vondrák, J. (2001). The Probabilistic Method [Lecture Notes]. Department of Applied Mathematics, Charles University.
+- - Mitzenmacher, M., & Upfal, E. (2005). Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press.
 
 
-44 - هندسه محاسباتی
-M. de Berg, O. Cheong, M. van Kreveld, and M. Overmars. Computational Geometry: Algorithms and Applications. 3rd edition, Springer-Verlag, 2008.
-J. O'Rourke. Computational Geometry in C. 2nd edition, Cambridge University Press, 1998.
-Jean-Daniel Boissonnat and Mariette Yvinec, Algorithmic Geometry, Cambridge Univ. Press, 1998. 
-Satyan L. Devadoss and Joseph O'Rourke, Discrete and Computational Geometry, Princeton Univ. Press, 2011.
-Herbert Edelsbrunner, Algorithms in Combinatorial Geometry, Springer, 1987. 
-Jacob E. Goodman, Joseph O'Rourke, and Csaba D. Tóth (editors), Handbook of Discrete and Computational Geometry, 3rd edition, CRC Press, 2017.
-Sariel Har-Peled, Geometric Approximation Algorithms, AMS Press, 2011. Early draft and additional material available as PDF files.
-Jiří Matoušek, Lectures on Discrete Geometry, Springer, 2002.
-Joseph O'Rourke, Computational Geometry in C, Second Edition, Cambridge Univ. Press, 1998.
-Franco P. Preparata and Michael Ian Shamos, Computational Geometry: An Introduction, Springer, 1985
+هندسه محاسباتی
+-
+- - Berg, M., Cheong, O., van Kreveld, M., & Overmars, M. (2008). Computational Geometry: Algorithms and Applications (3rd ed.). Springer-Verlag.
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+- - Boissonnat, J.-D., & Yvinec, M. (1998). Algorithmic Geometry. Cambridge University Press.
+- - Devadoss, S. L., & O'Rourke, J. (2011). Discrete and Computational Geometry. Princeton University Press.
+- - Edelsbrunner, H. (1987). Algorithms in Combinatorial Geometry. Springer.
+- - Goodman, J. E., O'Rourke, J., & Tóth, C. D. (Eds.). (2017). Handbook of Discrete and Computational Geometry (3rd ed.). CRC Press.
+- - Har-Peled, S. (2011). Geometric Approximation Algorithms. AMS Press.
+- - Matoušek, J. (2002). Lectures on Discrete Geometry. Springer.
+- - O'Rourke, J. (1998). Computational Geometry in C (2nd ed.). Cambridge University Press.
+- - Preparata, F. P., & Shamos, M. I. (1985). Computational Geometry: An Introduction. Springer.
 
 
-45 - رگرسیون ۱
-1-مونتگمری، د.،  پک، آ و جافری، و. (1395). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
-\2. امینی، م. زمانی، ح. روزبه، م.  (1398). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
-1. Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
-1. Olive, D. (2017). Linear Regression, Springer.
-1. Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
-1. Weisberg, S. (2013). Applied linear regression. John Wiley.
-1. Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
+رگرسیون ۱
+-
+- - مونتگمری، د.،  پک، آ و جافری، و. (۱۳۹۵). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
+- - امینی، م. زمانی، ح. روزبه، م.  (۱۳۹۸). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
+- - Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
+- - Olive, D. (2017). Linear Regression, Springer.
+- - Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
+- - Weisberg, S. (2013). Applied linear regression. John Wiley.
+- - Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
 
 
-46 - هوش محاسباتی
-1. J. M. Keller, D. Liu and D. B. Fogel, Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation, Wiley, 2016. 
-1. P. Engelbrecht, Computational Intelligence: An Introduction, Wiley, 2007.
-1. Konar, Computational Intelligence: Principles, Techniques and Applications, Springer, 2007.
+
+هوش محاسباتی
+-
+- - Keller, J. M., Liu, D., & Fogel, D. B. (2016). Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation. Wiley.
+- - Engelbrecht, P. (2007). Computational Intelligence: An Introduction. Wiley.
+- - Konar, A. (2007). Computational Intelligence: Principles, Techniques and Applications. Springer.
 
 
-47 - هوش تجاری مقدماتی
+هوش تجاری مقدماتی
 تارخ، محمد جعفر و مهاجری، حسین (1392). هوش تجاری نگرشی پویا در عرصه کسب و کار، انتشارات دانشگاه خواجه نصیر. 
-1.Vercellis, C. (2011). Business intelligence: data mining and optimization for decision making. John Wiley.
-2.Azevedo, A. and Santos, M. F. (Eds.). (2020). Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
-3.Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
-4.Sauter, V. L. (2014). Decision support systems for business intelligence. John Wiley & Sons.
-5.Clark, D. (2019). Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
-6.Seamark, P. (2018). Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence. Apress.
+- Vercellis, C. (2011). Business intelligence: data mining and optimization for decision making. John Wiley.
+- Azevedo, A. and Santos, M. F. (Eds.). (2020). Integration Challenges for Analytics, Business Intelligence, and Data Mining. IGI Global.
+- Grossmann, W. and Rinderle-Ma, S. (2015). Fundamentals of business intelligence, Springer
+- Sauter, V. L. (2014). Decision support systems for business intelligence. John Wiley & Sons.
+- Clark, D. (2019). Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. Apress.
+- Seamark, P. (2018). Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence. Apress.
 
 
-48 - آشنایی با یادگیری عمیق
-\1. نیلسن، م. (1400). شبکه‌های عصبی و یادگیری عمیق، ترجمه: جاودانی گندمانی، فروزنده، سعید و هادی خسروی، انتشارات جهاد دانشگاهی چهارمحال و بختیاری. 
-2. Eli Stevens, Luca Antiga, and Thomas Viehmann, (2020) Deep Learning with PyTorch, Manning Pub.
-2. Chollet, F. (2017).  Deep Learning with Python. Manning Pub.
-2. Goodfellow, I., Bengio, Y. and Courville, A.  (2016). Deep Learning, MIT Press.
-2. Lantz, B. (2019). Machine learning with R: expert techniques for predictive modeling. Packt publishing.
-2. Santanu Pattanayak (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python by Santanu Pattanayak.
-2. Nielsen, M. A. (2015). Neural networks and deep learning, San Francisco, CA: Determination press.
+آشنایی با یادگیری عمیق
+-
+- - نیلسن، م. (۱۴۰۰). شبکه‌های عصبی و یادگیری عمیق، ترجمه: جاودانی گندمانی، فروزنده، سعید و هادی خسروی، انتشارات جهاد دانشگاهی چهارمحال و بختیاری. 
+- - Stevens, E., Antiga, L., & Viehmann, T. (2020). Deep Learning with PyTorch. Manning Publications.
+- - Chollet, F. (2017). Deep Learning with Python. Manning Publications.
+- - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+- - Lantz, B. (2019). Machine Learning with R: Expert Techniques for Predictive Modeling. Packt Publishing.
+- - Pattanayak, S. (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python. Apress.
+- - Nielsen, M. (2015). Neural Networks and Deep Learning. Determination Press.
+-
 
 
-49 - تجارت الکترونیک
-E. Turban, D. King, J. K. Lee, T.-P. Liang, and D. C. Turban. Electronic Commerce: A Managerial and Social Networks Perspective. 8th Edition, Springer, 2018.
+تجارت الکترونیک
+-
+- - Turban, E., King, D., Lee, J. K., Liang, T.-P., & Turban, D. C. (2018). Electronic Commerce: A Managerial and Social Networks Perspective (8th ed.). Springer.
 
 
-50 - مبانی و اصول مدیریت
-\1. الوانی مهدی (1395). مدیریت عمومی. چاپ پنجاه و چهارم. تهران .نی.
-\2. قلی پور رحمت ا.. . ابراهیم غلامی (1389).  فراین سیاست گذاری عمومی در ایران. تهران. مرکز پژوهش های مجلس شورای اسلامی.
-\3. نامغ پرویز (1391).  مبانی مدیریت دولتی. تهران. هستان.
+مدلسازی ریاضی
+-
+- - Crauder, B., Evans, A., & Noell, J. (2010). Functions and Change (5th ed.). Houghton Mifflin.
+- - Alder, M. (2001). An Introduction to Mathematical Modeling. HeavenForBooks.com.
+- - Oden, J. T. (2011). An Introduction to Mathematical Modeling: A Course in Mechanics (1st ed.). Wiley Series in Computational Mechanics.
+- - Ledder, G. (2013). Mathematics for Life Sciences: Calculus, Modeling, Probability and Dynamical Systems. Springer.
 
 
-51 - مدلسازی ریاضی
-\1. Functions and change, 5th Edition, Crauder, Evans and Noell, Houghton Mifflin, 2010.
-\2. An Introduction to Mathematical Modeling, Michael Alder, HeavenForBooks.com, 2001.
-\3. An Introduction to Mathematical Modeling: A Course in Mechanics 1st Edition, Tinsley Oden, Wily
-Series in Computational Mechanics, 2011.
-\4. Mathematics for Life Sciences, Calculus, Modeling, Probability and Dynamical Systems, G. Ledder, Springer, 2013.
+آزمایشگاه ریاضی
+Chapra, S. C. (n.d.). Applied Numerical Methods with MATLAB.
+Lopez, C. P. (n.d.). Matlab Symbolic Algebra and Calculus Tools.
+Don, E. (n.d.). Mathematica.
 
 
-52 - آزمایشگاه ریاضی
-Applied Numerical Methods with MATLAB, by Steven C. Chapra
-Matlab Symbolic Algebra and Calculus Tools, by C. P. Lopez
-Mathematica, by E. Don 
+ریاضیات فازی
+- Wang, L. X. (1996). A course in fuzzy systems and control.
+- Klir, G. J., & Youn, B. (1995). Fuzzy set and fuzzy logic: Theory and applications.
+- Bede, B. (2013). Mathematics of fuzzy sets and fuzzy logic.
+- Yager, R. R., & Negoyen, H. T. (1987). Fuzzy set and applications.
 
 
-53 - ریاضیات فازی
-L.X. Wang, A Course in Fuzzy Systems and Control, 1996.
-G.J. Klir, B. Youn, Fuzzy Set and Fuzzy Logic (Theory and Application), 1995.
-B. Bede, Mathematics of Fuzzy Sets and Fuzzy Logic, 2013.
-R.R. Yager, H.T. Negoyen, Fuzzy Set and Application, 1987.
+نظریه گراف و کاربردها
+-
+- - 1. Diestel, R. (2017). Extremal Graph Theory. In Graph Theory (pp. 173-207). Springer, Berlin Heidelberg.
+- - 2. West, D. B. (1996). Introduction to Graph Theory: Vol. 2. Prentice Hall.
+- - 3. Bondy, J. A., & Murty, U. S. R. (1976). Graph Theory with Applications: Vol. 290. Macmillan, London..
 
 
-54 - نظریه گراف و کاربردها
-Diestel, R., Extremal Graph Theory. In Graph Theory (pp. 173-207). Springer, Berlin,
-Heidelberg, 2017.
-West, D. B., Introduction to graph theory (Vol. 2). Upper Saddle River, NJ: Prentice hall, 1996.
-Bondy, J. A., & Murty, U. S. R., Graph theory with applications (Vol. 290). London: Macmillan, 1976.
+مبانی جبر
+-
+- - Gallian, J. (2012), Contemporary abstract algebra. Nelson Education,
+- - Kleiner, I., (2007), A history of abstract algebra. Springer Science & Business Media.
 
 
-55 - مبانی جبر
-Gallian, J. Contemporary abstract algebra. Nelson Education, 2012
-` `Kleiner, I., A history of abstract algebra. Springer Science & Business Media, 2007.
+مبانی آنالیز فوریه و موجک ها
+- - Frazier, M. W. (1999). An introduction to wavelets through linear algebra. Springer Science & Business Media.
+- - Hubbard, B. B. (2001). The world according to wavelets (2nd ed.). AK Peters.
+- - Narcowich, D. F. J., & Boggess, A. (2001). A first course in wavelets with Fourier analysis. Prentice Hall.
+- - Van Fleet, F. P. J. (1996). Discrete wavelet transforms: An elementary approach with applications. John Wiley & Sons. 
 
 
-56 - مبانی آنالیز فوریه و موجک ها
-\1. Michael W. Frazier, An Introduction to Wavelets through Linear Algebra, Springer Undergraduate Texts in Mathematics
-\2. Barbara Burke Hubbard, The World According to Wavelets, Second Edition.
-\3. D. F. J. Narcowich, A. Boggess, A First Course in Wavelets with Fourier Analysis, Prentice Hall
-\4. F. P. J. Van Fleet, Discrete Wavelet Transforms- An Elementary Approach with Applications 
+پردازش تصویر مقدماتی
+-
+- - علیائی طرقبه، م. ح. (1400). آموزش جامع پردازش تصویر با OpenCV و Python. انتشارات میعاد اندیشه.
+- - کیانی، و. (1402). پردازش تصاویر در پایتون: راهنمای سریع OpenCV. انتشارات دانشگاه بجنورد.
+- - Dey, S. (2018). Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data. Packt Publishing.
+- - Chityala, R., & Pudipeddi, S. (2021). Image Processing and Acquisition using Python. Chapman & Hall.
 
 
-57 - پردازش تصویر مقدماتی
-` `محمد حسن علیائی طرقبه، آموزش جامع پردازش تصویر با OpenCV و Python، ناشر: انتشارات میعاد اندیشه. ۱۴۰۰
-وحید کیانی،‌ پردازش تصاویر در پایتون: راهنمای سریع OpenCV، انتشارات دانشگاه بجنورد، ۱۴۰۲
-Sandipan Dey, Hands-On Image Processing with Python: Expert techniques for advanced image analysis and effective interpretation of image data, Packt Publishing, 2018
-Ravishankar Chityala, Sridevi Pudipeddi , Image Processing and Acquisition using Python, Chapman & Hall, 2021
+برنامه‌نویسی موبایل
+-
+- - Murphy, M. L. (2011). The busy coder's guide to Android development. CommonsWare.
+- - Neuburg, M. (2018). iOS 12 Programming Fundamentals with Swift. O'Reilly Media.
 
 
-58 - برنامه‌نویسی موبایل
-M. L. Murphy. The busy coder's guide to Android development. CommonsWare, 2011.
-M. Neuburg. iOS 12 Programming Fundamentals with Swift. O'Reilly Media, 2018.
+برنامه‌نویسی وب
+-
+- - Schafer, S. M. (2010). HTML, XHTML, and CSS Bible (5th ed.). Wiley Publishing.
+- - Forcier, J., Bissex, P., & Chun, W. (2009). Python web development with Django. Pearson Addison-Wesley.
+- - Chun, W. J. (2012). Core Python applications programming (3rd ed.). Pearson Addison-Wesley.
+- - Fowler, M., Rice, D., Foemmel, M., Hieatt, E., Mee, R., & Stafford, R. (2003). Patterns of enterprise application architecture. Pearson Addison-Wesley.
 
 
-59 - برنامه‌نویسی وب
-S. M. Schafer. HTML, XHTML, and CSS Bible. 5th Edition, Wiley Publishing, 2010.
-J. Forcier, P. Bissex, and W. Chun. Python Web Development with Django. Pearson Addison-Wesley, 2009.
-W. J. Chun. Core Python Applications Programming. 3rd Edition, Pearson Addison-Wesley, 2012.
-M. Fowler, D. Rice, M. Foemmel, E. Hieatt, R. Mee, and R. Stafford. Patterns of Enterprise Application Architecture. Pearson Addison-Wesley, 2003.
+شبکه‌های کامپیوتری
+-
+- - Peterson, L. L., & Davie, B. S. (2011). Computer Networks: A Systems Approach. 5th Edition. Morgan Kaufmann Publishers.
 
 
-60 - شبکه‌های کامپیوتری
-Larry L. Peterson and Bruce S. Davie. Computer Networks: A Systems Approach. 5th Edition, 2011.
+
+شبیه‌سازی کامپیوتری
+-
+- - Wainer, G. A. (2017). Discrete-Event Modeling and Simulation: A Practitioner's Approach. CRC Press.
+- - Banks, J. (2005). Discrete Event System Simulation. Pearson Education India.
+- - Banks, J. (Ed.). (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice. John Wiley & Sons.
 
 
-61 - شبیه سازی کامپیوتری
-Wainer, G. A., Discrete-event modeling and simulation: a practitioner's approach. CRC press, 2017.
-Banks, J., Discrete event system simulation. Pearson Education India, 2005.
-Banks, J. (Ed.), Handbook of simulation: principles, methodology, advances, applications, and practice. John Wiley & Sons, 1998.
+گرافیک کامپیوتری
+-
+- - Hearn, D., & Baker, M. P. (2011). Computer Graphics with OpenGL. 4th Edition. Prentice Hull.
+- - Marschner, S., & Shirley, P. (2016). Fundamentals of Computer Graphics. 4th Edition. CRC Press.
+- - Angel, E. (2002). OpenGL: A Primer. Addison Wesley.
 
 
-62 - گرافیک کامپیوتری
-Hearn and Baker. Computer Graphics with OpenGL. 4th Edition, Prentice Hull, 2011.
-Steve Marschner and Peter Shirley. Fundamental of Computer Graphics. 4th Edition, CRC Press, 2016.
-Edward Angel. OpenGL, A primer. Addison Wesley, 2002.
+تحلیل شبکه‌های اجتماعی
+- Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press.
 
 
-63 - تحلیل شبکه‌های اجتماعی
-D. Easley, J. Kleinberg, Networks, Crowds, and Markets: Reasoning about a Highly Connected World, Cambridge University Press, 2010.
+سیستم‌های عامل
+-
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2013). Operating System Concepts, Ninth Edition. John Wiley & Sons, Inc.
+- - Silberschatz, A., Galvin, P. B., & Gagne, G. (2009). Operating System Concepts with Java. Wiley Publishing.
+- - Tanenbaum, A., & Woodhull, A. S. (2009). Operating Systems: Design and Implementation. Pearson.
 
 
-64 - اصول سیستم‌های عامل
-Avi Silberschatz , Peter Baer Galvin, Greg Gagne , Operating System Concepts, Ninth Edition, John Wiley & Sons, Inc. 2013.
-Silberschatz, Abraham, Peter B. Galvin, and Greg Gagne. Operating system concepts with Java. Wiley Publishing, 2009.
-Tanenbaum, A. Woodhull, Operating Systems: Design and Implementation, Pearson, 2009.
+اصول طراحی نرم‌افزار
+- - Sommerville, I. (2010). Software Engineering, 9th Edition. Addison Wesley.
+- - Ghezzi, C., Jazayeri, M., & Mandrioli, D. (2003). Fundamentals of Software Engineering. Prentice Hall.
+- - Ng, P. A. B., & Yeh, R. T. (1990). Modern Software Engineering: Foundations and Current Perspectives. Van Nostrand Reinhold.
+- - Pressman, R. S., & Roger, P. (2009). Software Engineering: A Practitioner's Approach. 7th Edition. McGraw Hill.
 
 
-65 - اصول طراحی نرم افزار
-\1. I .Sommerville, Software Engineering, 9th edition, Addison Wesley, 2010.
-\2. C .Ghezzi, M .Jazayeri, D .Mandrioli, Fundamentals of software engineering, Prentice Hall, 2003.
-\3. P .A. B. Ng and R. T. Yeh, Modern Software Engineering: Foundations and Current Perspectives, Van Nostrand Reinhold, 1990.
-\4. R. S. Pressman and P. Roger, Software Engineering: A Practitioner's Approach, 7th edition, McGraw Hill, 2009.
+کامپایلر
+-
+- - Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2007). Compilers: Principles, Techniques, and Tools. 2nd Edition. Pearson.
+- - Thain, D. (2020). Introduction to Compilers and Language Design. 2nd Edition. Retrieved from http://compilerbook.org
+- - Cooper, K. D., & Torczon, L. (2012). Engineering a Compiler. 2nd Edition. Elsevier.
 
 
-66 - کامپایلر
-Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman, Compilers: Principles, Techniques, and Tools, 2nd Edition, Pearson, 2007.
-Douglas Thain, Introduction to Compilers and Language Design, 2nd Edition, 2020, downloadable from http://compilerbook.org.
-Keith D. Cooper, and Linda Torczon, Engineering a Compiler, 2nd Edition, Elsevier, 2012.
-
-
-67 - مباحثی در علوم کامپیوتر ۱
+مباحثی در علوم کامپیوتر ۱
 در اختیار مدرس
 
 
-68 - مباحثی در علوم کامپیوتر ۲
+مباحثی در علوم کامپیوتر ۲
 در اختیار مدرس
 
 
-69 - مبانی بیوانفورماتیک
-\1. نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (1398). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
-1. Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
-1. Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
-1. Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
-1. Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
-1. Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
+مبانی بیوانفورماتیک
+-
+- - نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (۱۳۹۸). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
+- - Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
+- - Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
+- - Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
+- - Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
+- - Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
+-
 
 
-70 - پروژه کارشناسی
+پروژه کارشناسی
 با نظر مدرس درس
 
+-
 
 
-71 - آنالیز عددی
-R. L. Burden, J. D. Faires, Numerical Analysis. PW Publishing Company, Boston, USA, 2011.
+آنالیز عددی
+- Burden, R. L., & Faires, J. D. (2011). Numerical Analysis. Cengage Learning.
 
 
-72 - آشنایی با کلان داده‌ها
-\1. مار، برنارد (1396). [داده‌های بزرگ ارتقای تصمیم گیری و عملکرد با استفاده از داده‌های بزرگ هوشمند: تحلیل شناسی و معیارها](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)، ترجمه: موسی خانی، مرتضی، انتشارات آوند دانش. 
-2. EMC Education Services. (2015). Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
-2. Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
-2. Sarangi, S., and Sharma, P. (2019). Big Data: A Beginner’s Introduction. Routledge.
-2. Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021). Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.
+آشنایی با کلان داده‌ها
+-
+- - مار، برنارد (1396). [داده‌های بزرگ ارتقای تصمیم گیری و عملکرد با استفاده از داده‌های بزرگ هوشمند: تحلیل شناسی و معیارها](https://ketabmail.com/%D8%AE%D8%B1%DB%8C%D8%AF%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%88-%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87%D8%A7-%D9%85%D8%A7%D8%B1-%D9%85%D9%88%D8%B3%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D9%88%D9%86%D8%AF%D8%AF%D8%A7%D9%86%D8%B4)، ترجمه: موسی خانی، مرتضی، انتشارات آوند دانش. 
+- - EMC Education Services. (2015). Data science and big data analytics: discovering, analyzing, visualizing and presenting data. Wiley.
+- - Furht, B. and Villanustre, F. (2016). Big data technologies and applications, Springer. 
+- - Sarangi, S., and Sharma, P. (2019). Big Data: A Beginner’s Introduction. Routledge.
+- - Ahmed, S. T., Basha, S. M., Arumugam, S. R. and Patil, K. K. (2021). Big Data Analytics and Cloud Computing: A Beginner's Guide. MileStone Research Publications.
 
 
-73 - فرایند های تصادفی
-1.جونز و اشمیت (2010). مقدمه ای بر فرایندهای تصادفی(1396) ترجمه. محمد امینی و ابوالقاسم بزرگ نیا. انتشارات دانشگاه فردوسی مشهد.
-\2. دوبرو، رابرت پی. (1398). مقدمه ای بر فرایندهای تصادفی با R، ترجمه: موسوی، س. ن.، انتشارات دانشگاه اراک. 
-\1. Jones, P.W. and Smith, P., (2018). Stochastic Processes: An Introduction, 2nd Ed., CRC Press.
-\2. Durrett. R. (2016). Essentials of Stochastic Processes. Third Edition, Springer. 
-\3. Robert P. Dobrow. (2016). Introduction to Stochastic Processes with R. John Wiley.
-\4. Bhat, N. and Miller, K., (2002). Elements of Applied Stochastic Processes, 3rd Ed., John Wiley.
-\5. Bremaud, P. M, (1999). Markov Chains, Gibbs fields, Monte Carlo Simulation and Queues, Springer.
-\6. Korosteleva, O. (2022). Stochastic Processes with R: An Introduction. CRC Press.
-
-
-
-74 - مبانی رایانش ابری
-1. `     `K. Chandrasekaran, Essentials of cloud computing, CRC Press, 2014 
-1. N. B. Ruparelia, Cloud Computing, MIT Press, 2016 
-1. T. Erl, Z. Mahmood, R. Puttini, Cloud Computing, Concepts, Technology and Architecture, Prentice Hall, 2013. 
-1. I. Ganelin, E. Orhian, K. Sasaki, B. York, Spark: Big Data Cluster Computing in Production, Wiley, 1st Edition, 2016. ISBN-13: 978-1119254010 
-1. T. White, Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale, 4th Edition. O'Reilly Media, 2015. ISBN-13: 978-1491901632 
-1. H. Geng, Data Center Handbook. Wiley, 1st Edition, 2014. ISBN-13: 978-1118436639 
-1. S. Adkins , J. Belamaric, V. Giersch. OpenStack Cloud Application Development. Wrox, 1st Edition, 2015. ISBN-13: 978-1119194316 
-1. B. Antony, K. Boudnik, C. Adams. Professional Hadoop. Wrox, 1st Edition, 2016.
+فرآیندهای تصادفی
+- 1.جونز و اشمیت (2010). مقدمه ای بر فرآیندهای تصادفی(1396) ترجمه. محمد امینی و ابوالقاسم بزرگ نیا. انتشارات دانشگاه فردوسی مشهد.
+- 2. دوبرو، رابرت پی. (1398). مقدمه ای بر فرآیندهای تصادفی با R، ترجمه: موسوی، س. ن.، انتشارات دانشگاه اراک. 
+  - Jones, P.W. and Smith, P., (2018). Stochastic Processes: An Introduction, 2nd Ed., CRC Press.
+  - Durrett. R. (2016). Essentials of Stochastic Processes. Third Edition, Springer. 
+  - Robert P. Dobrow. (2016). Introduction to Stochastic Processes with R. John Wiley.
+  - Bhat, N. and Miller, K., (2002). Elements of Applied Stochastic Processes, 3rd Ed., John Wiley.
+  - Bremaud, P. M, (1999). Markov Chains, Gibbs fields, Monte Carlo Simulation and Queues, Springer.
+  - Korosteleva, O. (2022). Stochastic Processes with R: An Introduction. CRC Press.
 
 
 
-75 - رایانش چند‌هسته‌ای
-2. D. A. Patterson and J. L. Hennessy. Computer Architecture: A quantitative approach. Morgan Kaufmann, 2019.
-2. J. Sanders and E. Kandrot. CUDA by examples: An introduction to GPU programming. Addison-Wesley, 2011.
-2. D. B. Kirk and W. W. Hwu. Programming massively parallel processors: A hands-on approach. NVIDIA, 2010.
-2. M. McCool, A.D. Robison, and J. Reinders. Structured Parallel Programming. Elsevier, 2012.
+مبانی رایانش ابری
+-
+- - Chandrasekaran, K. (2014). Essentials of Cloud Computing. CRC Press.
+- - Ruparelia, N. B. (2016). Cloud Computing. MIT Press.
+- - Erl, T., Mahmood, Z., & Puttini, R. (2013). Cloud Computing: Concepts, Technology, and Architecture. Prentice Hall.
+- - Ganelin, I., Orhian, E., Sasaki, K., & York, B. (2016). Spark: Big Data Cluster Computing in Production. 1st Edition. Wiley.
+- - White, T. (2015). Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale. 4th Edition. O'Reilly Media.
+- - Geng, H. (2014). Data Center Handbook. 1st Edition. Wiley.
+- - Adkins, S., Belamaric, J., & Giersch, V. (2015). OpenStack Cloud Application Development. Wrox.
+- - Antony, B., Boudnik, K., & Adams, C. (2016). Professional Hadoop. 1st Edition. Wrox.
+- - 
 
 
-76 - سیگنال‌ها و سیستم‌ها
-A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Signals and Systems, 2nd Edition, Prentice-Hall, 1997. ISBN: 0-13-814757-4 
+رایانش چند‌هسته‌ای
+-
+- - Patterson, D. A., & Hennessy, J. L. (2019). Computer Architecture: A Quantitative Approach. Morgan Kaufmann.
+- - Sanders, J., & Kandrot, E. (2011). CUDA by Examples: An Introduction to GPU Programming. Addison-Wesley.
+- - Kirk, D. B., & Hwu, W. W. (2010). Programming Massively Parallel Processors: A Hands-On Approach. NVIDIA.
+- - McCool, M., Robison, A. D., & Reinders, J. (2012). Structured Parallel Programming. Elsevier.
+-
 
 
-77 - مدیریت پروژه‌های فناوری اطلاعات
-Jack T. Marchewka. Information Technology Project Management. WILEY, 2014.
+سیگنال‌ها و سیستم‌ها
+-
+- - Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. (1997). Signals and Systems. 2nd Edition. Prentice-Hall.
+
+
+مدیریت پروژه‌های فناوری اطلاعات
+-
+- - Marchewka, J. T. (2014). Information Technology Project Management. Wiley.
+
+
+
+جبر خطی
+- - داتا، ب.، (۱۳۹۵). جبر خطی عددی و کاربردها (جلد ۱ و ۲). ترجمه دکتر فائزه توتونیان، انتشارات دانشگاه فردوسی مشهد
+- - کرایچیان، ع. (۱۴۰۱). جبر خطی با متلب. انتشارات دانشگاه فردوسی مشهد
+- - Boyd, S., & Vandenberghe, L. (2018). Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares.
+- - Axler, S. (2015). Linear Algebra Done Right. Springer.
+
+
+بازی‌سازی و بازی‌انگاری
+-
+- - Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
+- - Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
 [^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
 [^2]: ["Computer Science as a Profession"](https://web.archive.org/web/20080617030847/http:/www.csab.org/comp_sci_profession.html). Computing Sciences Accreditation Board. May 28, 1997.
 [^3]: [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
-[^4]: در تدوین این برنامه درسی، برنامه‌های درسی مصوب وزارت در سالهای ۱۳۹۹ تا ۱۴۰۱ برای رشته‌های علوم کامپیوتر، ریاضیات و کاربردها و آمار و همچنین برنامه درسی مهندسی کامپیوتر وزارت علوم و چند دانشگاه داخلی و خارجی مورد ملاحظه قرار گرفته‌اند.
+[^4]: در تدوین این برنامه درسی، برنامه‌های درسی مصوب وزارت در سالهای ۱۳۹۹ تا ۱۴۰۱ برای رشته‌های علوم کامپیوتر، ریاضیات و کاربردها و آمار و همچنین برنامه درسی مهندسی کامپیوتر وزارت علوم و چند دانشگاه داخلی (منجمله صنعتی شریف، تهران و امیرکبیر) و خارجی مورد ملاحظه قرار گرفته‌اند.
 [^5]: Andrew Ng

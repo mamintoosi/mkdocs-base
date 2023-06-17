@@ -1,7 +1,7 @@
-# شبیه سازی کامپیوتری
+# شبیه‌سازی کامپیوتری
 ## Computerized Simulation
 _______________________________________________________________________________
-| کارشناسی      | مقطع:       | شبیه سازی کامپیوتری                                        | نام درس:    |
+| کارشناسی      | مقطع:       | شبیه‌سازی کامپیوتری                                        | نام درس:    |
 | ------------- | ----------- | ---------------------------------------------------------- | ----------- |
 | تخصصی اختیاری | گروه درس:   | [آمار و احتمال ۱](../base/Probability-and-Statistics-I.md) | پیش‌نیاز:   |
 | نظری          | نوع درس:    | ندارد                                                      | هم‌نیاز:    |
@@ -10,15 +10,18 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
+-
 
-- مقدمه ای بر شبیه سازی. اصول کلی و زبانهای شبیه سازی. مدلهای ریاضی و آماری در شبیه سازی. مدلهای صف. سیستمهای موجودی. تولید اعداد تصادفی. تجزیه و تحلیل داده‌های ورودی به مدل. آزمایش مدلهای شبیه سازی و تعیین اعتبار آنها. تجزیه و تحلیل نتایج به دست آمده از یک مدل شبیه سازی. اجرای یک پروژه عملی.
+- مقدمه ای بر شبیه سازی. اصول کلی و زبانهای شبیه سازی. مدلهای ریاضی و آماری در شبیه سازی. مدلهای صف. سیستمهای موجودی. تولید اعداد تصادفی. تجزیه و تحلیل داده‌های ورودی به مدل. آزمایش مدلهای شبیه‌سازی و تعیین اعتبار آنها. تجزیه و تحلیل نتایج به دست آمده از یک مدل شبیه سازی. اجرای یک پروژه عملی.
 
+-
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Wainer, G. A. (2017). Discrete-Event Modeling and Simulation: A Practitioner's Approach. CRC Press.
+- - Wainer, G. A. (2017). Discrete-Event Modeling and Simulation: A Practitioner's Approach. CRC Press.
 
-- Banks, J. (2005). Discrete Event System Simulation. Pearson Education India.
+- - Banks, J. (2005). Discrete Event System Simulation. Pearson Education India.
 
-- Banks, J. (Ed.). (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice. John Wiley & Sons.
+- - Banks, J. (Ed.). (1998). Handbook of Simulation: Principles, Methodology, Advances, Applications, and Practice. John Wiley & Sons.

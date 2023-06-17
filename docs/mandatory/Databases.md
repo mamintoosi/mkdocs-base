@@ -1,12 +1,12 @@
 # پایگاه داده‌ها
 ## Databases
 _______________________________________________________________________________
-| کارشناسی     | مقطع:       | پایگاه داده‌ها                                                                  | نام درس:    |
-| ------------ | ----------- | ------------------------------------------------------------------------------- | ----------- |
-| تخصصی الزامی | گروه درس:   | [ساختمان داده‌ها و الگوریتم‌ها](../mandatory/Data-Structures-and-Algorithms.md) | پیش‌نیاز:   |
-| نظری         | نوع درس:    | ندارد                                                                           | هم‌نیاز:    |
-| 48           | تعداد ساعت: | 3                                                                               | تعداد واحد: |
-|              |             |  ندارد                                                                          | حل تمرین:   |
+| کارشناسی     | مقطع:       | پایگاه داده‌ها                                     | نام درس:    |
+| ------------ | ----------- | -------------------------------------------------- | ----------- |
+| تخصصی الزامی | گروه درس:   | [ساختمان داده‌ها](../mandatory/Data-Structures.md) | پیش‌نیاز:   |
+| نظری         | نوع درس:    | ندارد                                              | هم‌نیاز:    |
+| 48           | تعداد ساعت: | 3                                                  | تعداد واحد: |
+|              |             |  ندارد                                             | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -14,13 +14,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems (7th ed.). Pearson.
+- - Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems (7th ed.). Pearson.
 
-- Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts (7th ed.). McGraw-Hill Education.
+- - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). Database System Concepts (7th ed.). McGraw-Hill Education.
 
-- Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
+- - Hoffer, J. A., Topi, H., & Venkataraman, R. (2013). Essentials of Database Management. Pearson Higher Ed.
 
-- Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
+- - Coronel, C., & Morris, S. (2019). Database systems: design, implementation, & management. Cengage Learning.
 
-- Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson.
+- - Hoffer, J. A., Ramesh, V., & Topi, H. (2016). Modern database management. Pearson.

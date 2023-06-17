@@ -10,6 +10,7 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
+-
 
 - مفاهیم و اصول پایه داده کاوی، انباره داده‌ها، OLAP، پیش پردازش و آماده سازی داده‌ها، پاکسازی داده‌ها، یکپارچه سازی، جایگذاری داده‌های گمشده (مفقود)، انتخاب متغیر و تبدیلات روی داده‌ها، نرمال‌سازی و استانداردسازی داده‌ها، تحلیل اکتشافی و مصور‌سازی، مجموعه اقلام مکرر، قواعد انجمنی.
 
@@ -25,17 +26,18 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
+- - شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
 
-- مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
+- - مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
 
-- Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
+- - Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
 
-- Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
+- - Han, J., Kamber, M., Pei, J., (2012), Data Mining, Concepts and Techniques, 3rd Ed., Morgan Kaufmann Publishers, Elsevier. 
 
-- Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
+- - Olson, D., (2018), Data Mining Models, 2nd Ed., Business Expert Press.
 
-- Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
+- - Carlo Vercellis, C., (2009), Business Intelligence, Data Mining and Optimization for Decision Making, Wiley.
 
-- Zaki, M. J., & Meira, W., (2014)m Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.
+- - Zaki, M. J., & Meira, W., (2014)m Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.

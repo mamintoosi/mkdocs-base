@@ -16,7 +16,9 @@ _______________________________________________________________________________
 
 Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th Ed.). Pearson.
 
-Unpingco, J. (2019). Python for Probability, Statistics, and Machine Learning (2nd Ed.). Springer. [Source code available at <https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E>]
+Unpingco, J. (2019). Python for Probability, Statistics, and Machine Learning (2nd Ed.). Springer. [Source codes available at <https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E>]
+
+Chan, S. H. (2021). Introduction to Probability for Data Science, Michigan Publishing. [Source codes available at <https://probability4datascience.com/>]
 
 Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Ed.). O'Reilly Media, Inc.
 

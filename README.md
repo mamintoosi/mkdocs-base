@@ -12,7 +12,7 @@
 * [ریاضی عمومی ۲](base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](base/Computer-Workshop-I.md)
 * [مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)
-* [مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md)
+* [مبانی کامپیوتر و برنامه‌نویسی](base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](base/Differential-Equations.md)
 * [نرم‌افزارهای آماری و تحلیل داده‌ها](base/Statistical-Software-and-data-analysis.md)
 
@@ -30,7 +30,7 @@
 * [تحقیق در عملیات](mandatory/Operations-research.md)
 * [تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md)
 * [داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md)
-* [ساختمان داده‌ها و الگوریتم‌ها](mandatory/Data-Structures-and-Algorithms.md)
+* [ساختمان داده‌ها](mandatory/Data-Structures.md)
 * [سری‌های زمانی کاربردی](mandatory/Applied-Time-Series.md)
 * [طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)
 * [طراحی و توسعه کسب و کارهای نوپا](mandatory/Design-and-development-of-start-up-businesses.md)
@@ -53,8 +53,7 @@
 
 <summary>دروس اختیاری</summary>
 
-* [اصول سیستم‌های عامل](elective/Principles-of-Operating-Systems.md)
-* [اصول طراحی نرم افزار](elective/Principles-of-SoftwareDesign.md)
+* [اصول طراحی نرم‌افزار](elective/Principles-of-SoftwareDesign.md)
 * [الگوریتم‌های تصادفی](elective/Randomized-Algorithms.md)
 * [آزمایشگاه ریاضی](elective/Mathematics-Lab.md)
 * [آشنایی با کلان داده‌ها](elective/Introduction-to-Big-Data.md)
@@ -78,10 +77,11 @@
 * [رمزنگاری](elective/Cryptography.md)
 * [روش‌های آماری](elective/Statistical-Methods.md)
 * [ریاضیات فازی](elective/Fuzzy-Mathematics.md)
+* [سیستم‌های عامل](elective/Principles-of-Operating-Systems.md)
 * [سیگنال‌ها و سیستم‌ها](elective/Signals-and-Systems.md)
 * [شبکه‌های کامپیوتری](elective/Computer-Networks.md)
-* [شبیه سازی کامپیوتری](elective/Computerized-Simulation.md)
-* [فرایند های تصادفی](elective/Stochastic-Processes.md)
+* [شبیه‌سازی کامپیوتری](elective/Computerized-Simulation.md)
+* [فرآیندهای تصادفی](elective/Stochastic-Processes.md)
 * [کامپایلر](elective/Compiler.md)
 * [گرافیک کامپیوتری](elective/Computer-Graphics.md)
 * [مباحثی در علوم کامپیوتر ۱](elective/Topics-in-Computer-Science-I.md)

@@ -14,10 +14,11 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
+- - Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
 
-- Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
+- - Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
 
 [^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
 

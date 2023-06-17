@@ -1,12 +1,12 @@
 # برنامه‌نویسی پایتون
 ## Python Programming
 _______________________________________________________________________________
-| کارشناسی     | مقطع:       | برنامه‌نویسی پایتون                                                             | نام درس:    |
-| ------------ | ----------- | ------------------------------------------------------------------------------- | ----------- |
-| تخصصی الزامی | گروه درس:   | [مبانی کامپیوتر و برنامه‌سازی](../base/Fundamentals-of-Computer-Programming.md) | پیش‌نیاز:   |
-| نظری         | نوع درس:    | ندارد                                                                           | هم‌نیاز:    |
-| 48           | تعداد ساعت: | 3                                                                               | تعداد واحد: |
-|              |             |  دارد                                                                           | حل تمرین:   |
+| کارشناسی     | مقطع:       | برنامه‌نویسی پایتون                                                              | نام درس:    |
+| ------------ | ----------- | -------------------------------------------------------------------------------- | ----------- |
+| تخصصی الزامی | گروه درس:   | [مبانی کامپیوتر و برنامه‌نویسی](../base/Fundamentals-of-Computer-Programming.md) | پیش‌نیاز:   |
+| نظری         | نوع درس:    | ندارد                                                                            | هم‌نیاز:    |
+| 48           | تعداد ساعت: | 3                                                                                | تعداد واحد: |
+|              |             |  دارد                                                                            | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -14,13 +14,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Romano, F., Phillips, D., & van Hattem, R. (2016). Python: Journey from Novice to Expert. Packt Publishing.
+- - Romano, F., Phillips, D., & van Hattem, R. (2016). Python: Journey from Novice to Expert. Packt Publishing.
 
-- Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
+- - Wentworth, P., Elkner, J., Downey, A. B., & Meyers, C. (2011). How to Think Like a Computer Scientist: Learning with Python (3rd ed.). Open Book Project.
 
-- Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
+- - Campbell, J., Gries, P., Montojo, J., & Wilson, G. (2009). Practical Programming: An Introduction to Computer Science Using Python. The Pragmatic Bookshelf.
 
-- Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
+- - Zelle, J. M. (2004). Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates.
 
-- Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O'Reilly Media, Inc.
+- - Gorelick, M., & Ozsvald, I. (2014). High-Performance Python. O'Reilly Media, Inc.

@@ -10,6 +10,7 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
+-
 
 - مقدمه و برپایی محیط توسعه اندروید 
 
@@ -43,13 +44,16 @@ _______________________________________________________________________________
 
 - تکنولوژی‌های واسط کاربری، تکنولوژی‌های بازی‌سازی ، تکنولوژی‌های مدیریت داده‌ها ، مدیریت صدا و تصویر 
 
+-
 
 - امنیت‎، آشنایی با مخاطرات امنیتی و استانداردهای تخمین آن ، آشنایی با ابزارهای Obfuscation، آشنایی با ابزارهای تحلیل مخاطرات امنیتی
 
+-
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Murphy, M. L. (2011). The busy coder's guide to Android development. CommonsWare.
+- - Murphy, M. L. (2011). The busy coder's guide to Android development. CommonsWare.
 
-- Neuburg, M. (2018). iOS 12 Programming Fundamentals with Swift. O'Reilly Media.
+- - Neuburg, M. (2018). iOS 12 Programming Fundamentals with Swift. O'Reilly Media.

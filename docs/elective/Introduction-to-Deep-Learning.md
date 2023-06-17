@@ -22,18 +22,20 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- نیلسن، م. (۱۴۰۰). شبکه‌های عصبی و یادگیری عمیق، ترجمه: جاودانی گندمانی، فروزنده، سعید و هادی خسروی، انتشارات جهاد دانشگاهی چهارمحال و بختیاری. 
+- - نیلسن، م. (۱۴۰۰). شبکه‌های عصبی و یادگیری عمیق، ترجمه: جاودانی گندمانی، فروزنده، سعید و هادی خسروی، انتشارات جهاد دانشگاهی چهارمحال و بختیاری. 
 
-- Stevens, E., Antiga, L., & Viehmann, T. (2020). Deep Learning with PyTorch. Manning Publications.
+- - Stevens, E., Antiga, L., & Viehmann, T. (2020). Deep Learning with PyTorch. Manning Publications.
 
-- Chollet, F. (2017). Deep Learning with Python. Manning Publications.
+- - Chollet, F. (2017). Deep Learning with Python. Manning Publications.
 
-- Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+- - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 
-- Lantz, B. (2019). Machine Learning with R: Expert Techniques for Predictive Modeling. Packt Publishing.
+- - Lantz, B. (2019). Machine Learning with R: Expert Techniques for Predictive Modeling. Packt Publishing.
 
-- Pattanayak, S. (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python. Apress.
+- - Pattanayak, S. (2017). Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python. Apress.
 
-- Nielsen, M. (2015). Neural Networks and Deep Learning. Determination Press.
+- - Nielsen, M. (2015). Neural Networks and Deep Learning. Determination Press.
 
+-

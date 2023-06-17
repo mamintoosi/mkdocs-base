@@ -17,6 +17,7 @@ cd ..
 cd ..
 cd cs-um.github.io\docs
 xcopy ..\..\mkdocs-base\site . /e
+xcopy ..\..\mkdocs-base\Tables.md . /e
 git coa "Auto Commit"
 git push
 

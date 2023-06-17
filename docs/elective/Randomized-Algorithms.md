@@ -10,15 +10,18 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
+-
 
 - احتمال و اثبات با روش احتمالاتی. الگوریتم‌های تصادفی پایه‌ای. جایگشت تصادفی و کاربردهای‌ آن. کران پایین الگوریتم‌های تصادفی. ساختمان‌داده. قدم‌زدن تصادفی. روش مونت کارلو. روش‌های جبری. الگوریتم‌های گراف. آنتروپی.
 
+-
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- Motwani, R., & Raghavan, P. (1995). Randomized Algorithms. Cambridge University Press.
+- - Motwani, R., & Raghavan, P. (1995). Randomized Algorithms. Cambridge University Press.
 
-- Matoušek, J., & Vondrák, J. (2001). The Probabilistic Method [Lecture Notes]. Department of Applied Mathematics, Charles University.
+- - Matoušek, J., & Vondrák, J. (2001). The Probabilistic Method [Lecture Notes]. Department of Applied Mathematics, Charles University.
 
-- Mitzenmacher, M., & Upfal, E. (2005). Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press.
+- - Mitzenmacher, M., & Upfal, E. (2005). Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge University Press.

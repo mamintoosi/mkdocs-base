@@ -14,13 +14,14 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
+-
 
-- استوارت، ج. (1395). حساب دیفرانسیل و انتگرال (ج. حمیدی، مترجم). تهران: مؤسسه آموزشی و نشریاتی مدرسه.
+- - استوارت، ج. (1395). حساب دیفرانسیل و انتگرال (ج. حمیدی، مترجم). تهران: مؤسسه آموزشی و نشریاتی مدرسه.
 
-- شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
+- - شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
 
-- Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- - Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
 
-- Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
+- - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
 
-- Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.
+- - Finney, T., Demana, F., Waits, B. K., Kennedy, D., & Rodgers, J. (2014). Calculus: Graphical, numerical, algebraic (4th ed.). Pearson.

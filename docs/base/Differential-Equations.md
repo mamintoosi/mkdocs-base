@@ -14,12 +14,12 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
-- ظهوری زنگنه، ح. (مترجم). (1394). معادلات دیفرانسیل مقدماتی و مسائل مقدماتی مرزی (ویرایش ۹). انتشارات فاطمی
+- - ظهوری زنگنه، ح. (مترجم). (1394). معادلات دیفرانسیل مقدماتی و مسائل مقدماتی مرزی (ویرایش ۹). انتشارات فاطمی
 
-- Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). Elementary Differential Equations and Boundary Value Problems (11th ed.). Wiley.
+- - Boyce, W. E., DiPrima, R. C., & Meade, D. B. (2017). Elementary Differential Equations and Boundary Value Problems (11th ed.). Wiley.
 
-- Goode, S., & Annin, S. A. (2016). Differential Equations and Linear Algebra by Stephen. Pearson.
+- - Goode, S., & Annin, S. A. (2016). Differential Equations and Linear Algebra by Stephen. Pearson.
 
-- Edwards, C. H., & Penney, D. E. (2008). Elementary Differential Equations (6th ed.). Pearson Education, Inc.
+- - Edwards, C. H., & Penney, D. E. (2008). Elementary Differential Equations (6th ed.). Pearson Education, Inc.
 
-- Zill, D. G. (2012). A First Course in Differential Equations with Modeling Applications (10th ed.). Brooks/Cole, Cengage Learning.
+- - Zill, D. G. (2012). A First Course in Differential Equations with Modeling Applications (10th ed.). Brooks/Cole, Cengage Learning.
