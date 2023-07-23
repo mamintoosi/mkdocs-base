@@ -1,12 +1,12 @@
 # هوش محاسباتی
 ## Computational Intelligence
 _______________________________________________________________________________
-| کارشناسی      | مقطع:       | هوش محاسباتی                                                 | نام درس:    |
-| ------------- | ----------- | ------------------------------------------------------------ | ----------- |
-| تخصصی اختیاری | گروه درس:   | [برنامه‌نویسی پیشرفته](../mandatory/Advanced-Programming.md) | پیش‌نیاز:   |
-| نظری          | نوع درس:    | ندارد                                                        | هم‌نیاز:    |
-| 48            | تعداد ساعت: | 3                                                            | تعداد واحد: |
-|               |             |  : دارد                                                      | حل تمرین:   |
+| کارشناسی      | مقطع:       | هوش محاسباتی                                                | نام درس:    |
+| ------------- | ----------- | ----------------------------------------------------------- | ----------- |
+| تخصصی اختیاری | گروه درس:   | [برنامه‌سازی پیشرفته](../mandatory/Advanced-Programming.md) | پیش‌نیاز:   |
+| نظری          | نوع درس:    | ندارد                                                       | هم‌نیاز:    |
+| 48            | تعداد ساعت: | 3                                                           | تعداد واحد: |
+|               |             |  : دارد                                                     | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -22,10 +22,9 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Keller, J. M., Liu, D., & Fogel, D. B. (2016). Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation. Wiley.
+- Keller, J. M., Liu, D., & Fogel, D. B. (2016). Fundamentals of Computational Intelligence: Neural Networks, Fuzzy Systems and Evolutionary Computation. Wiley.
 
-- - Engelbrecht, P. (2007). Computational Intelligence: An Introduction. Wiley.
+- Engelbrecht, P. (2007). Computational Intelligence: An Introduction. Wiley.
 
-- - Konar, A. (2007). Computational Intelligence: Principles, Techniques and Applications. Springer.
+- Konar, A. (2007). Computational Intelligence: Principles, Techniques and Applications. Springer.

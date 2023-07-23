@@ -10,18 +10,16 @@ _______________________________________________________________________________
 
 **سر فصل یا رئوس مطالب**
 
--
 
 - جبر خطی و فضاهای هیلبرت: یادآوری فضاهای برداری و خواص آن، ضرب داخلی و تعامد، عملگرهای خطی و خود الحاق روی فضای ضرب داخلی، فضاهای هیلبرت، دنباله ها و سری ها در فضای هیلبرت، پایه های متعامد؛ سری فوریه: دیدگاه های تاریخی، تحلیل سیگنال و مثال های متنوع، سری فوریه و قضایای همگرایی، همگرایی در نقاط پیوستگی و ناپیوستگی، همگرایی یکنواخت و  همگرایی در میانگین؛ تبدیل فوریه : تبدیل فوریه و معکوس آن، ویژگی های تبدیل فوریه، تبدیل فوریه در فضاهای اقلیدسی، تبدیل  فوریه پیچش، فرمول پلانچرل؛ تبدیل فوریه گسسته: تبدیل فوریه گسسته، پایه فوریه، تبدیل فوریه سریع و کاربردهای آن؛ موجک ها:  سیستم های هار، تبدیل گسسته هار، آنالیز چند ریز ساز، پایه های موجکی، تبدیل های گسسته موجکی، موجک هار، موجک دبشیز، کاربردهایی از آنالیز موجکی شامل پردازش تصویر و ... . 
 
--
 
 **فهرست منابع پیشنهادی**
 
-- - Frazier, M. W. (1999). An introduction to wavelets through linear algebra. Springer Science & Business Media.
+- Frazier, M. W. (1999). An introduction to wavelets through linear algebra. Springer Science & Business Media.
 
-- - Hubbard, B. B. (2001). The world according to wavelets (2nd ed.). AK Peters.
+- Hubbard, B. B. (2001). The world according to wavelets (2nd ed.). AK Peters.
 
-- - Narcowich, D. F. J., & Boggess, A. (2001). A first course in wavelets with Fourier analysis. Prentice Hall.
+- Narcowich, D. F. J., & Boggess, A. (2001). A first course in wavelets with Fourier analysis. Prentice Hall.
 
-- - Van Fleet, F. P. J. (1996). Discrete wavelet transforms: An elementary approach with applications. John Wiley & Sons. 
+- Van Fleet, F. P. J. (1996). Discrete wavelet transforms: An elementary approach with applications. John Wiley & Sons. 

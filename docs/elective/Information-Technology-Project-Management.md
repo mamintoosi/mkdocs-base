@@ -48,8 +48,7 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Marchewka, J. T. (2014). Information Technology Project Management. Wiley.
+- Marchewka, J. T. (2014). Information Technology Project Management. Wiley.
 
 **

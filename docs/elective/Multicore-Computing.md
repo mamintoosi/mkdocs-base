@@ -1,12 +1,12 @@
 # رایانش چند‌هسته‌ای
 ## Multicore Computing
 _______________________________________________________________________________
-| کارشناسی      | مقطع:       | رایانش چند‌هسته‌ای                                                                                                                       | نام درس:    |
-| ------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| تخصصی اختیاری | گروه درس:   | [برنامه‌نویسی پیشرفته](../mandatory/Advanced-Programming.md) ،[اصول سیستم‌های کامپیوتری](../mandatory/Principles-of-Computer-Systems.md) | پیش‌نیاز:   |
-| نظری          | نوع درس:    | ندارد                                                                                                                                    | هم‌نیاز:    |
-| 48            | تعداد ساعت: | 3                                                                                                                                        | تعداد واحد: |
-|               |             |  دارد                                                                                                                                    | حل تمرین:   |
+| کارشناسی      | مقطع:       | رایانش چند‌هسته‌ای                                                                                                                      | نام درس:    |
+| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| تخصصی اختیاری | گروه درس:   | [برنامه‌سازی پیشرفته](../mandatory/Advanced-Programming.md) ،[اصول سیستم‌های کامپیوتری](../mandatory/Principles-of-Computer-Systems.md) | پیش‌نیاز:   |
+| نظری          | نوع درس:    | ندارد                                                                                                                                   | هم‌نیاز:    |
+| 48            | تعداد ساعت: | 3                                                                                                                                       | تعداد واحد: |
+|               |             |  دارد                                                                                                                                   | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -44,14 +44,12 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Patterson, D. A., & Hennessy, J. L. (2019). Computer Architecture: A Quantitative Approach. Morgan Kaufmann.
+- Patterson, D. A., & Hennessy, J. L. (2019). Computer Architecture: A Quantitative Approach. Morgan Kaufmann.
 
-- - Sanders, J., & Kandrot, E. (2011). CUDA by Examples: An Introduction to GPU Programming. Addison-Wesley.
+- Sanders, J., & Kandrot, E. (2011). CUDA by Examples: An Introduction to GPU Programming. Addison-Wesley.
 
-- - Kirk, D. B., & Hwu, W. W. (2010). Programming Massively Parallel Processors: A Hands-On Approach. NVIDIA.
+- Kirk, D. B., & Hwu, W. W. (2010). Programming Massively Parallel Processors: A Hands-On Approach. NVIDIA.
 
-- - McCool, M., Robison, A. D., & Reinders, J. (2012). Structured Parallel Programming. Elsevier.
+- McCool, M., Robison, A. D., & Reinders, J. (2012). Structured Parallel Programming. Elsevier.
 
--

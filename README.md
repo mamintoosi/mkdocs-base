@@ -12,7 +12,7 @@
 * [ریاضی عمومی ۲](base/Calculus-II.md)
 * [کارگاه کامپیوتر ۱](base/Computer-Workshop-I.md)
 * [مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)
-* [مبانی کامپیوتر و برنامه‌نویسی](base/Fundamentals-of-Computer-Programming.md)
+* [مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md)
 * [معادلات دیفرانسیل](base/Differential-Equations.md)
 * [نرم‌افزارهای آماری و تحلیل داده‌ها](base/Statistical-Software-and-data-analysis.md)
 
@@ -23,8 +23,8 @@
 <summary>دروس الزامی</summary>
 
 * [اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)
+* [برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)
 * [برنامه‌نویسی پایتون](mandatory/Python-Programming.md)
-* [برنامه‌نویسی پیشرفته](mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](mandatory/Nonlinear-Optimization.md)
 * [پایگاه داده‌ها](mandatory/Databases.md)
 * [تحقیق در عملیات](mandatory/Operations-research.md)
@@ -56,6 +56,7 @@
 * [اصول طراحی نرم‌افزار](elective/Principles-of-SoftwareDesign.md)
 * [الگوریتم‌های تصادفی](elective/Randomized-Algorithms.md)
 * [آزمایشگاه ریاضی](elective/Mathematics-Lab.md)
+* [آشنایی با پردازش زبان طبیعی](elective/Introdution-to-Natural-Language-Processing.md)
 * [آشنایی با کلان داده‌ها](elective/Introduction-to-Big-Data.md)
 * [آشنایی با نظریه بازی‌ها](elective/Introduction-to-Game-Theory.md)
 * [آشنایی با یادگیری عمیق](elective/Introduction-to-Deep-Learning.md)
@@ -77,6 +78,7 @@
 * [رمزنگاری](elective/Cryptography.md)
 * [روش‌های آماری](elective/Statistical-Methods.md)
 * [ریاضیات فازی](elective/Fuzzy-Mathematics.md)
+* [زبان‌های برنامه‌سازی](elective/Programming-Languages.md)
 * [سیستم‌های عامل](elective/Principles-of-Operating-Systems.md)
 * [سیگنال‌ها و سیستم‌ها](elective/Signals-and-Systems.md)
 * [شبکه‌های کامپیوتری](elective/Computer-Networks.md)

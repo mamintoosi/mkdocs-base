@@ -16,18 +16,16 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (۱۳۹۸). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
+- نقوی، م. ر، ملبوبی، م. ع و رشیدی، س (۱۳۹۸). بیوانفورماتیک (داده‌پردازی زیستی)، چاپ چهارم،  انتشارات دانشگاه تهران. 
 
-- - Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
+- Bergeron, B. P., (2003).Bioinformatics computing. Prentice Hall Professional.
 
-- - Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
+- Sensen, C. W. (2002). Essentials of Genomics and Bioinformatics. John Wiley & Sons. 
 
-- - Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
+- Curry, E. (2020). Introduction to Bioinformatics with R: A Practical Guide for Biologists. CRC Press.
 
-- - Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
+- Sinha, P. P. (2014). Bioinformatics with R cookbook. Birmingham: Packt Publishing.
 
-- - Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
+- Mathur, S. K. (2009). Statistical bioinformatics with R. Academic Press.
 
--

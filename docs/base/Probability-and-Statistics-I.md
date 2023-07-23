@@ -14,20 +14,19 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - بهبودیان، جواد (1394). آمار و احتمال مقدماتی. انتشارات دانشگاه امام رضا.
+- بهبودیان، جواد (1394). آمار و احتمال مقدماتی. انتشارات دانشگاه امام رضا.
 
-- - قهرمانی، سعید (1397). مبانی احتمال، ویرایش سوم، ترجمه شاهکار، غ. و بزرگنیا، ا. انتشارات دانشگاه صنعتی شریف.
+- قهرمانی، سعید (1397). مبانی احتمال، ویرایش سوم، ترجمه شاهکار، غ. و بزرگنیا، ا. انتشارات دانشگاه صنعتی شریف.
 
-- - راس، شلدون (1389). مبانی احتمال، ویرایش هشتم، ترجمه پارسیان، ا.، همدانی، ع. انتشارات شیخ بهایی.
+- راس، شلدون (1389). مبانی احتمال، ویرایش هشتم، ترجمه پارسیان، ا.، همدانی، ع. انتشارات شیخ بهایی.
 
-- - هاگ، ر. و تنیس، ل. آ. (1394). احتمال و استنباط آماری. ترجمه نوروز ایزددوستدار و حمید پزشک. انتشارات دانشگاه تهران.
+- هاگ، ر. و تنیس، ل. آ. (1394). احتمال و استنباط آماری. ترجمه نوروز ایزددوستدار و حمید پزشک. انتشارات دانشگاه تهران.
 
-- - Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th ed.). Pearson.
+- Hogg, R. V., Tanis, E., & Zimmerman, D. (2013). Probability and Statistical Inference (9th ed.). Pearson.
 
-- - José Unpingco (2019). Python for Probability, Statistics, and Machine Learning (2nd ed.). Springer. Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+- José Unpingco (2019). Python for Probability, Statistics, and Machine Learning (2nd ed.). Springer. Source Codes of the book: [Github Page](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 
-- - Grimmett, G., & Welsh, D. (2014). Probability: An Introduction (2nd ed.). Oxford University Press.
+- Grimmett, G., & Welsh, D. (2014). Probability: An Introduction (2nd ed.). Oxford University Press.
 
-- - Ghahramani, S. (2014). Fundamentals of Probability: with Stochastic Process (3rd ed.). CRC Press. 
+- Ghahramani, S. (2014). Fundamentals of Probability: with Stochastic Process (3rd ed.). CRC Press. 

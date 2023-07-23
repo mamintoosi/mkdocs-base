@@ -14,22 +14,21 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Chandrasekaran, K. (2014). Essentials of Cloud Computing. CRC Press.
+- Chandrasekaran, K. (2014). Essentials of Cloud Computing. CRC Press.
 
-- - Ruparelia, N. B. (2016). Cloud Computing. MIT Press.
+- Ruparelia, N. B. (2016). Cloud Computing. MIT Press.
 
-- - Erl, T., Mahmood, Z., & Puttini, R. (2013). Cloud Computing: Concepts, Technology, and Architecture. Prentice Hall.
+- Erl, T., Mahmood, Z., & Puttini, R. (2013). Cloud Computing: Concepts, Technology, and Architecture. Prentice Hall.
 
-- - Ganelin, I., Orhian, E., Sasaki, K., & York, B. (2016). Spark: Big Data Cluster Computing in Production. 1st Edition. Wiley.
+- Ganelin, I., Orhian, E., Sasaki, K., & York, B. (2016). Spark: Big Data Cluster Computing in Production. 1st Edition. Wiley.
 
-- - White, T. (2015). Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale. 4th Edition. O'Reilly Media.
+- White, T. (2015). Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale. 4th Edition. O'Reilly Media.
 
-- - Geng, H. (2014). Data Center Handbook. 1st Edition. Wiley.
+- Geng, H. (2014). Data Center Handbook. 1st Edition. Wiley.
 
-- - Adkins, S., Belamaric, J., & Giersch, V. (2015). OpenStack Cloud Application Development. Wrox.
+- Adkins, S., Belamaric, J., & Giersch, V. (2015). OpenStack Cloud Application Development. Wrox.
 
-- - Antony, B., Boudnik, K., & Adams, C. (2016). Professional Hadoop. 1st Edition. Wrox.
+- Antony, B., Boudnik, K., & Adams, C. (2016). Professional Hadoop. 1st Edition. Wrox.
 
-- - **
+- **

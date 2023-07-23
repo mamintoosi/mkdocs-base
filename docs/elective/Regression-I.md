@@ -20,20 +20,19 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - مونتگمری، د.،  پک، آ و جافری، و. (۱۳۹۵). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
+- مونتگمری، د.،  پک، آ و جافری، و. (۱۳۹۵). مقدمه ای بر تحلیل رگرسیون خطی، ترجمه: اسماعیل زاده،  نبز، انتشارات دانشگاه کردستان.
 
-- - امینی، م. زمانی، ح. روزبه، م.  (۱۳۹۸). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
+- امینی، م. زمانی، ح. روزبه، م.  (۱۳۹۸). تحلیل رگرسیون پیشرفته با R، انتشارات پارسیان. 
 
-- - Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
+- Kutner, M. Nachtsheim, C. Neter J. and Li W. (2012). Applied Linear Statistical Models, 5th Edition, McGraw- Hill.
 
-- - Olive, D. (2017). Linear Regression, Springer.
+- Olive, D. (2017). Linear Regression, Springer.
 
-- - Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
+- Lilja, D. J. (2016). Linear Regression Using R: An Introduction to Data Modeling. Libraries Publishing. 
 
-- - Weisberg, S. (2013). Applied linear regression. John Wiley.
+- Weisberg, S. (2013). Applied linear regression. John Wiley.
 
-- - Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
+- Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
 
 **

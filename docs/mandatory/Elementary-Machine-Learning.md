@@ -26,9 +26,8 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند)
+- جمیز، جی، ویتن، تی، هیستی، تی و تیبشیرانی، آر. (2021). مقدمه ای بر یادگیری آماری با نرم افزار R، ترجمه: محمدپور،ع. و امین غفاری، م.  ([برنامه‌های این کتاب به زبان پایتون](https://botlnec.github.io/islp/) موجودند)
 
 - James, G., Witten, D., Hastie, T. and Tibshirani, R. (2021). An Introduction to Statistical Learning, with applications in R, 2Ed, Springer, New York.  
 
@@ -36,4 +35,4 @@ _______________________________________________________________________________
 
 - Forrest, P. (2017). An Introduction to Statistical Learning, Create Space Independent Publishing Platform.
 
-- - Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.**
+- Zaki, M. J., & Meira, W., (2014) Data mining and analysis: fundamental concepts and algorithms. Cambridge University Press.**

@@ -1,12 +1,12 @@
 # بازی‌سازی و بازی‌انگاری
 ## Gamification and Game Design
 _______________________________________________________________________________
-| کارشناسی      | مقطع:       | بازی‌سازی و بازی‌انگاری                                                                                                                                                                 | نام درس:    |
-| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| تخصصی اختیاری | گروه درس:   | [آمار و احتمال ۱](../base/Probability-and-Statistics-I.md) ،[مبانی ترکیبیات](../mandatory/Foundation-of-Combinatorics.md) ،[برنامه‌نویسی پیشرفته](../mandatory/Advanced-Programming.md) | پیش‌نیاز:   |
-| نظری          | نوع درس:    | ندارد                                                                                                                                                                                   | هم‌نیاز:    |
-| 48            | تعداد ساعت: | 3                                                                                                                                                                                       | تعداد واحد: |
-|               |             |  دارد                                                                                                                                                                                   | حل تمرین:   |
+| کارشناسی      | مقطع:       | بازی‌سازی و بازی‌انگاری                                                                                                                                                                | نام درس:    |
+| ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| تخصصی اختیاری | گروه درس:   | [آمار و احتمال ۱](../base/Probability-and-Statistics-I.md) ،[مبانی ترکیبیات](../mandatory/Foundation-of-Combinatorics.md) ،[برنامه‌سازی پیشرفته](../mandatory/Advanced-Programming.md) | پیش‌نیاز:   |
+| نظری          | نوع درس:    | ندارد                                                                                                                                                                                  | هم‌نیاز:    |
+| 48            | تعداد ساعت: | 3                                                                                                                                                                                      | تعداد واحد: |
+|               |             |  دارد                                                                                                                                                                                  | حل تمرین:   |
 
 **سر فصل یا رئوس مطالب**
 
@@ -14,18 +14,7 @@ _______________________________________________________________________________
 
 **فهرست منابع پیشنهادی**
 
--
 
-- - Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
+- Schell, J. (2008). The Art of Game Design. Morgan Kaufmann Publishers.
 
-- - Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
-
-[^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
-
-[^2]: ["Computer Science as a Profession"](https://web.archive.org/web/20080617030847/http:/www.csab.org/comp_sci_profession.html). Computing Sciences Accreditation Board. May 28, 1997.
-
-[^3]: [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
-
-[^4]: در تدوین این برنامه درسی، برنامه‌های درسی مصوب وزارت در سالهای ۱۳۹۹ تا ۱۴۰۱ برای رشته‌های علوم کامپیوتر، ریاضیات و کاربردها و آمار و همچنین برنامه درسی مهندسی کامپیوتر وزارت علوم و چند دانشگاه داخلی (منجمله صنعتی شریف، تهران و امیرکبیر) و خارجی مورد ملاحظه قرار گرفته‌اند.
-
-[^5]: Andrew Ng
+- Kim, A. Jo. (2018). Game Thinking: Innovate Smarter & Drive Deep Engagement.
