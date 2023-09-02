@@ -81,7 +81,7 @@ dir: rtl
 |3|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[زبان‌های برنامه‌سازی](docs/elective/Programming-Languages.md) | 
 |3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md) | 
 |3|[معادلات دیفرانسیل](docs/base/Differential-Equations.md)|[سیگنال‌ها و سیستم‌ها](docs/elective/Signals-and-Systems.md) | 
-|3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md) ،[سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) | 
+|3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) | 
 |3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[شبیه‌سازی کامپیوتری](docs/elective/Computerized-Simulation.md) | 
 |3|[آمار و احتمال ۲](docs/elective/Probability-and-Statistics-II.md)|[فرآیندهای تصادفی](docs/elective/Stochastic-Processes.md) | 
 |3|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md)|[کامپایلر](docs/elective/Compiler.md) | 
@@ -89,7 +89,7 @@ dir: rtl
 |3|ندارد|[مباحثی در علوم کامپیوتر ۱](docs/elective/Topics-in-Computer-Science-I.md) | 
 |3|ندارد|[مباحثی در علوم کامپیوتر ۲](docs/elective/Topics-in-Computer-Science-II.md) | 
 |3|[مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[مبانی آنالیز فوریه و موجک ها](docs/elective/Introduction-to-Fourier-and-Wavelet-Analysis.md) | 
-|3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)|[مبانی بیوانفورماتیک](docs/elective/Fundamentals-of-Bioinformatic.md) | 
+|3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) ،  زیست شناسی سلولی و مولکولی|[مبانی بیوانفورماتیک](docs/elective/Fundamentals-of-Bioinformatic.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی جبر](docs/elective/Foundation-of-Algebra.md) | 
 |3|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) ،[سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)|[مبانی رایانش ابری](docs/elective/Cloud-Computing-Fundamentals.md) | 
 |3|ندارد|[مدیریت پروژه‌های فناوری اطلاعات](docs/elective/Information-Technology-Project-Management.md) | 

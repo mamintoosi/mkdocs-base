@@ -8,17 +8,30 @@ _______________________________________________________________________________
 | 48            | تعداد ساعت: | 3                                                                          | تعداد واحد: |
 |               |             |  ندارد                                                                     | حل تمرین:   |
 
-**سر فصل یا رئوس مطالب**
+**سرفصل درس:**
 
 
 - بررسی کلی سیستمهای عامل. بررسی پیشینه های سیستم عامل. مدیریت فرآیند. مدیریت چند نخی. زمانبندی. مدیریت همزمانی. مدیریت بن بست و الگوریتم‌های شناسایی و رفع بن بست. مدیریت ذخیره سازی. برنامه‌نویسی لینوکس.
 
 
-**فهرست منابع پیشنهادی**
+` `**روش یاددهی-یادگیری:** تدریس و سخنرانی؛ حل مثال و مسائل مربوط به درس؛ مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمونهای کوتاه توسط مدرس، در کنار آموزشهای کلاس درس، دانشجویان نیاز  به تمرین بیشتر و مهارت و کار عملی دارد.
+
+**روش ارزیابی:**
+
+|ارزشیابی مستمر|میان ترم|آزمون نهایی|پروژه|
+
+| - | - | - | - |
+
+|حداکثر 20 درصد|حداکثر 40 درصد|نوشتاری: حداقل 50 درصد|در صورت نیاز حداکثر 15 درصد|
+
+**تجهیزات و امکانات موردنیاز:** کلاس مجهز به ویدئو پروژکتور
+
+**منابع:**
 
 
-- Silberschatz, A., Galvin, P. B., & Gagne, G. (2013). Operating System Concepts, Ninth Edition. John Wiley & Sons, Inc.
+- Tanenbaum, A.S. (2014). Modern Operating Systems (4th Edition). Pearson.
 
-- Silberschatz, A., Galvin, P. B., & Gagne, G. (2009). Operating System Concepts with Java. Wiley Publishing.
+- Silberschatz, A., Galvin, P.B., & Gagne, G. (2013). Operating System Concepts (9th Edition). John Wiley & Sons, Inc.
 
-- Tanenbaum, A., & Woodhull, A. S. (2009). Operating Systems: Design and Implementation. Pearson.
+- Stallings, W. (2015). Operating Systems: Internal and Design Principles (9th Edition). Pearson.
+

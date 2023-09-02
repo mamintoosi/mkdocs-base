@@ -8,13 +8,28 @@ _______________________________________________________________________________
 | 48           | تعداد ساعت: | 3                                                                               | تعداد واحد: |
 |              |             |  ندارد                                                                          | حل تمرین:   |
 
-**سر فصل یا رئوس مطالب**
+**سرفصل درس:**
 
 جبر بول. مدارات ترکیبی. فلیپ فلاپ. مدارات ترتیبی. سیستم اعداد. زبان انتقال ثبات. کامپیوتر پایه. سیستم حافظه. خط لوله. زبان ماشین 8086.
 
-**فهرست منابع پیشنهادی**
+**روش یاددهی-یادگیری:**تدریس توسط استاد، حل مثال و مسائل مربوط به درس، مشارکت دانشجویان در مباحث درسی از طریق حل مسئله و انجام آزمون‌های کوتاه توسط استاد درس. شرکت در کلاس حل تمرین و انجام تکلیف‌های محول شده توسط دانشجو.
 
+**روش ارزیابی:**
+
+|ارزشیابی مستمر|میان ترم|آزمون نهایی|پروژه|
+
+| - | - | - | - |
+
+|حداکثر 20 درصد|حداکثر 40 درصد|نوشتاری: حداقل 50 درصد|در صورت نیاز حداکثر 15 درصد|
+
+**تجهیزات و امکانات موردنیاز:** کلاس مجهز به ویدئو پروژکتور
+
+**منابع:**
+
+
+- Patterson, D. A., & Hennessy, J. L. (2014). Computer organization and design: the hardware/software interface (Fifth. ed.). Morgan Kaufmann.  url: <https://www.academia.edu/31944631/Computer_Organization_and_Design_5th_Edition_Patterson_Hennessy>
 
 - Mano, M. Morris. (2003). Computer system architecture (3rd ed.). Prentice-Hall of India.
 
-- Patterson, D. A., & Hennessy, J. L. (2012). Computer organization and design: the hardware/software interface (Rev. ed.). Morgan Kaufmann. (Original work published 1998)
+
+- 
