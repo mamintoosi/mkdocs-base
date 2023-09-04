@@ -5,16 +5,16 @@ nav:
     - "آمار و احتمال ۱": base/Probability-and-Statistics-I.md
     - "ریاضی عمومی ۱": base/Calculus-I.md
     - "ریاضی عمومی ۲": base/Calculus-II.md
-    - "کارگاه کامپیوتر ۱": base/Computer-Workshop-I.md
     - "مبانی علوم ریاضی": base/Foundation-of-Mathematics.md
     - "مبانی کامپیوتر و برنامه‌سازی": base/Fundamentals-of-Computer-Programming.md
     - "معادلات دیفرانسیل": base/Differential-Equations.md
-    - "نرم‌افزارهای آماری و تحلیل داده‌ها": base/Statistical-Software-and-data-analysis.md
   - دروس الزامی:
     - "اصول سیستم‌های کامپیوتری": mandatory/Principles-of-Computer-Systems.md
+    - "آشنایی با یادگیری عمیق": mandatory/Introduction-to-Deep-Learning.md
     - "برنامه‌سازی پیشرفته": mandatory/Advanced-Programming.md
     - "برنامه‌نویسی پایتون": mandatory/Python-Programming.md
     - "بهینه‌سازی غیرخطی": mandatory/Nonlinear-Optimization.md
+    - "بهینه‌سازی گسسته": mandatory/Discrete-Optimization.md
     - "پایگاه داده‌ها": mandatory/Databases.md
     - "تحقیق در عملیات": mandatory/Operations-research.md
     - "تحلیل آماری داده‌ها": mandatory/Statistical-Data-Analysis.md
@@ -24,6 +24,7 @@ nav:
     - "طراحی و تحلیل الگوریتم‌ها": mandatory/Design-and-Analysis-of-Algorithms.md
     - "طراحی و توسعه کسب و کارهای نوپا": mandatory/Design-and-development-of-start-up-businesses.md
     - "کارآموزی": mandatory/Apprenticeship.md
+    - "کارگاه کامپیوتر ۱": mandatory/Computer-Workshop-I.md
     - "کارگاه کامپیوتر ۲": mandatory/Computer-Workshop-II.md
     - "مبانی اقتصاد دیجیتال": mandatory/Basics-of-Digital-Economics.md
     - "مبانی آنالیز ریاضی": mandatory/Foundation-of-Mathematical-Analysis.md
@@ -33,6 +34,7 @@ nav:
     - "مبانی منطق و نظریه مجموعه‌ها": mandatory/Fundamentals-of-Logic.md
     - "مبانی نظریه محاسبه": mandatory/Introduction-to-the-theory-of-Computation.md
     - "مدلسازی ریاضی": mandatory/Mathematical-Modeling.md
+    - "نرم‌افزارهای آماری و تحلیل داده‌ها": mandatory/Statistical-Software-and-data-analysis.md
     - "هوش مصنوعی": mandatory/Artificial-Intelligence.md
     - "یادگیری ماشین مقدماتی": mandatory/Elementary-Machine-Learning.md
   - دروس اختیاری:
@@ -42,7 +44,6 @@ nav:
     - "آشنایی با پردازش زبان طبیعی": elective/Introdution-to-Natural-Language-Processing.md
     - "آشنایی با کلان داده‌ها": elective/Introduction-to-Big-Data.md
     - "آشنایی با نظریه بازی‌ها": elective/Introduction-to-Game-Theory.md
-    - "آشنایی با یادگیری عمیق": elective/Introduction-to-Deep-Learning.md
     - "آمار محاسباتی": elective/Computational-Statistics.md
     - "آمار و احتمال ۲": elective/Probability-and-Statistics-II.md
     - "آنالیز عددی": elective/Numerical-Analysis.md
@@ -50,7 +51,6 @@ nav:
     - "برنامه‌نویسی امن": elective/Secure-Programming.md
     - "برنامه‌نویسی موبایل": elective/Mobile-Programming.md
     - "برنامه‌نویسی وب": elective/Web-Programming.md
-    - "بهینه‌سازی گسسته": elective/Discrete-Optimization.md
     - "پردازش تصویر مقدماتی": elective/Elementary-Image-Processing.md
     - "پروژه کارشناسی": elective/Project.md
     - "تجارت الکترونیک": elective/Electronic-Commerce.md
@@ -71,7 +71,7 @@ nav:
     - "گرافیک کامپیوتری": elective/Computer-Graphics.md
     - "مباحثی در علوم کامپیوتر ۱": elective/Topics-in-Computer-Science-I.md
     - "مباحثی در علوم کامپیوتر ۲": elective/Topics-in-Computer-Science-II.md
-    - "مبانی آنالیز فوریه و موجک ها": elective/Introduction-to-Fourier-and-Wavelet-Analysis.md
+    - "مبانی آنالیز فوریه و موجک‌ها": elective/Introduction-to-Fourier-and-Wavelet-Analysis.md
     - "مبانی بیوانفورماتیک": elective/Fundamentals-of-Bioinformatic.md
     - "مبانی جبر": elective/Foundation-of-Algebra.md
     - "مبانی رایانش ابری": elective/Cloud-Computing-Fundamentals.md
