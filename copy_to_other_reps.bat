@@ -1,5 +1,5 @@
 @REM git config --global alias.coa '!git add -A && git commit -m'
-xcopy Tables.md ./docs/ /e
+xcopy Tables.md .\docs\ 
 mkdocs build
 git coa "Auto Commit"
 git push
