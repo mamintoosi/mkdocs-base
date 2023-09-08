@@ -45,7 +45,7 @@ dir: rtl
 |3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی منطق و نظریه مجموعه‌ها](docs/mandatory/Fundamentals-of-Logic.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md) | 
-|3|ندارد|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
+|3|[معادلات دیفرانسیل](docs/base/Differential-Equations.md) ،[تحقیق در عملیات](docs/mandatory/Operations-research.md) ، آمار و احتمال 1|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md) | 
 |3|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) ،[برنامه‌نویسی پایتون](docs/mandatory/Python-Programming.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 

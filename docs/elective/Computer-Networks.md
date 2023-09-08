@@ -19,4 +19,8 @@ _______________________________________________________________________________
 
 - Peterson, L. L., & Davie, B. S. (2011). Computer Networks: A Systems Approach. 5th Edition. Morgan Kaufmann Publishers.
 
+- Kurose, J. F., & Ross, K. W. (2020). A Top-Down Approach: Computer Networking.  8th edition, Pearson. URL: <http://gaia.cs.umass.edu/kurose_ross/index.php>
+
+- Lowe, D. (2021). Networking All-in-One For Dummies (8th Edition). Wiley. URL: <https://www.wiley.com/en-cn/Networking+All+in+One+For+Dummies,+8th+Edition-p-9781119689010>
+
 **

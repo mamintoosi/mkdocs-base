@@ -19,8 +19,6 @@ _______________________________________________________________________________
 
 - Stein, C., Drysdale, R. L., & Bogart, K. (2011). Discrete Mathematics for Computer Scientists, Addison-Wesley, url: <http://cslabcms.nju.edu.cn/problem_solving/images/1/1f/Discrete_Mathematics_for_Computer_Scientists.pdf>
 
-- کتاب بالا فصلی در مورد رمزنگاری هم دارد – به مباحث منطق برای علوم کامپیوتر هم پرداخته است
-
 - Haggard, G., Schlipf, J. S., & Whinston, A. B. (2006). Discrete Mathematics for Computer Scientists. Brooks/Cole Publishing. url: <https://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf>
 
 - Anderson, I. (1989). A first course in combinatorial mathematics. Clarendon Press.
