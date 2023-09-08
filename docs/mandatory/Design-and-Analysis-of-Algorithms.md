@@ -33,6 +33,8 @@ _______________________________________________________________________________
 
 - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
 
+- Demaine, E. (2020), MIT Course, Design And Analysis Of Algorithms, <https://erikdemaine.org/classes/>
+
 - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
 
 - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
@@ -40,3 +42,5 @@ _______________________________________________________________________________
 - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
 
 - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
+
+- Berkeley Course: [Efficient Algorithms and Intractable Problems](https://cs170.org/), Fall 2023, <https://cs170.org/>

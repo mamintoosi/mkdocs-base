@@ -1,4 +1,4 @@
-﻿![C:\Users\user\Desktop\36.jpg](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.001.png)
+﻿![C:\Users\user\Desktop\36.jpg](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.001.png)
 
 جمهوری اسلامی ایران 
 
@@ -6,7 +6,7 @@
 
 دانشگاه فردوسی مشهد
 
-![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\مشهد.png](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.002.png)
+![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\مشهد.png](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.002.png)
 
 **برنامه درسی پیشنهادی دانشکده علوم ریاضی
 برای رشته**
@@ -30,7 +30,7 @@
 فصل اول
 
 مشخصات کلی برنامه درسی
-![](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.003.png)
+![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.003.png)
 
 ## **تعریف رشته**
 در خلال چند دهه‌ی اخیر تعاریف متعددی برای علوم کامپیوتر داده شده است، می‌توان گفت علم کامپیوتر به مطالعه کامپیوتر نمی‌پردازد، بلکه در حالت کلی عبارت است از علم حل مسائل توسط یک دستگاه قابل برنامه‌ریزی به صورت کارا و کاربرد این دانش[^1]. از جمله زیرحوزه‌های مطرح در علوم کامپیوتر می‌توان مواردی مانند نظریه‌ی محاسبات، داده ساختارها و الگوریتم‌ها و هوش مصنوعی را برشمرد که هر یک خود شامل دسته‌های تخصصی‌تر هستند.
@@ -73,11 +73,11 @@
 
 جدول عناوین و مشخصات دروس
 
-![](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.004.png)
+![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.004.png)
 
 کارشناسی علوم کامپیوتر  /   PAGE 100
 
-![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\عمومی.jpg](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.005.jpeg)
+![C:\Users\Dr.Dolati\Desktop\بازنگری برنامه کارشناسی\19-11-1400\عمومی.jpg](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.005.jpeg)
 
 
 
@@ -197,7 +197,7 @@
 
 
 ` `«دروس  پایه»
-![](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.006.png)
+![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.006.png)
 
 |عنوان درس به فارسی:|<h3>ریاضی عمومی ۱</h3>|
 | -: | :- |
@@ -433,7 +433,7 @@
 
 
 ` `«دروس تخصصی»
-![](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.007.png)
+![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.007.png)
 
 
 
@@ -639,8 +639,8 @@
 - - Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2014). Data structures and algorithms in Java. John Wiley & Sons
 - - Drozdek, A. (2012). Data structures and algorithms in C++. Cengage Learning.
 - - Karumanchi, N. (2016). Data structures and algorithms made easy: Data structure and algorithmic puzzles. CareerMonk Publications.
-
-
+- - Demaine, E. (2021), MIT Course, Advanced Data Structures, <https://erikdemaine.org/classes/>
+- - Berkeley Course, Fundamentals of Data Structures and Algorithms,  <https://www.ischool.berkeley.edu/courses/mids1b>
 
 
 
@@ -688,12 +688,12 @@
 **منابع**: 
 -
 - - Neopolitan, R. (2015). Foundations of algorithms. Jones & Bartlett Learning.
+- - Demaine, E. (2020), MIT Course, Design And Analysis Of Algorithms, <https://erikdemaine.org/classes/>
 - - Kleinberg, J., & Tardos, E. (2005). Algorithm Design. Addison Wesley.
 - - Cormen, T., Leiserson, C., Rivest, R., & Stein, C. (2009). Introduction to Algorithms (3rd Ed.). MIT Press.
 - - Manber, U. (1989). Introduction to Algorithms: A Creative Approach. Addison-Wesley.
 - - Brassard, G., & Bratley, P. (1988). Algorithmics: Theory and Practice. Prentice-Hall.
-
-
+- - Berkeley Course: [Efficient Algorithms and Intractable Problems](https://cs170.org/), Fall 2023, <https://cs170.org/>
 
 
 
@@ -1561,7 +1561,7 @@ AI PUBLISHING. (2021). Statistics for Beginners in Data Science: Theory and Appl
 
 
 «دروس تخصصی اختیاری»
-![](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.008.png)
+![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.008.png)
 
 
 
@@ -1996,8 +1996,7 @@ AI PUBLISHING. (2021). Statistics for Beginners in Data Science: Theory and Appl
 - - Har-Peled, S. (2011). Geometric Approximation Algorithms. AMS Press.
 - - Matoušek, J. (2002). Lectures on Discrete Geometry. Springer.
 - - Preparata, F. P., & Shamos, M. I. (1985). Computational Geometry: An Introduction. Springer.
-
-
+- - Demaine, E. (2020), MIT Course, Geometric Folding Algorithms: Linkages, Origami, Polyhedra, <http://courses.csail.mit.edu/6.849/fall20/>
 
 
 |عنوان درس به فارسی:|<h3>رگرسیون ۱</h3>|
@@ -3306,7 +3305,7 @@ Don, E. (n.d.). Mathematica.
 
 **برنامه‌ی هشت ترمی پیشنهادی**
 
-![](Aspose.Words.02f3f3c7-112e-4f1f-afbe-cda0df6f6b63.009.png)برنامه‌ی پیشنهادی ۸ ترمی به صورت زیر است که البته درصورت استفاده از طرح کواپ می‌تواند مطابق آیین‌نامه کواپ سنوات دانشجو بیشتر شده و برنامه مقداری متفاوت گردد.
+![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.009.png)برنامه‌ی پیشنهادی ۸ ترمی به صورت زیر است که البته درصورت استفاده از طرح کواپ می‌تواند مطابق آیین‌نامه کواپ سنوات دانشجو بیشتر شده و برنامه مقداری متفاوت گردد.
 
 
 

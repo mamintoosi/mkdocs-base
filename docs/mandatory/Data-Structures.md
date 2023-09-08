@@ -33,3 +33,7 @@ _______________________________________________________________________________
 - Drozdek, A. (2012). Data structures and algorithms in C++. Cengage Learning.
 
 - Karumanchi, N. (2016). Data structures and algorithms made easy: Data structure and algorithmic puzzles. CareerMonk Publications.
+
+- Demaine, E. (2021), MIT Course, Advanced Data Structures, <https://erikdemaine.org/classes/>
+
+- Berkeley Course, Fundamentals of Data Structures and Algorithms,  <https://www.ischool.berkeley.edu/courses/mids1b>
