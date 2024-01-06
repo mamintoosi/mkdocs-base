@@ -34,8 +34,4 @@ _______________________________________________________________________________
 
 - Har-Peled, S. (2011). Geometric Approximation Algorithms. AMS Press.
 
-- Matoušek, J. (2002). Lectures on Discrete Geometry. Springer.
-
-- Preparata, F. P., & Shamos, M. I. (1985). Computational Geometry: An Introduction. Springer.
-
 - Demaine, E. (2020), MIT Course, Geometric Folding Algorithms: Linkages, Origami, Polyhedra, <http://courses.csail.mit.edu/6.849/fall20/>

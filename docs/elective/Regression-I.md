@@ -34,5 +34,3 @@ _______________________________________________________________________________
 - Weisberg, S. (2013). Applied linear regression. John Wiley.
 
 - Chatterjee, S., & Hadi, A. S. (2013). Regression analysis by example. John Wiley.
-
-**

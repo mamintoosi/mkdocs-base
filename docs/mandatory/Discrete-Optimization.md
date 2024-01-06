@@ -29,6 +29,8 @@ _______________________________________________________________________________
 
 - Ahuja, R.K., Magnanti, T.L., & Orlin, J.B. (1993). Network Flows: Theory, Algorithms, and Applications. Prentice-Hall.
 
-«دروس تخصصی اختیاری»
+«دروس اختیاری»
 
-![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.008.png)
+![](Aspose.Words.37d2102b-3f10-4522-bf26-9941f2032abb.008.png)
+
+**

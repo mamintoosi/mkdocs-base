@@ -31,8 +31,8 @@ _______________________________________________________________________________
 
 - Ghahramani, S. (2014). Fundamentals of Probability: with Stochastic Process (3rd ed.). CRC Press. 
 
-` `«دروس تخصصی»
+` `«دروس تخصصی الزامی»
 
-![](Aspose.Words.69cd3fe4-9d84-46e0-9160-3b58157c9897.007.png)
+![](Aspose.Words.37d2102b-3f10-4522-bf26-9941f2032abb.007.png)
 
 **
