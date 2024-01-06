@@ -36,6 +36,7 @@ dir: rtl
 |3|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md) | 
 |3|ندارد|[طراحی و توسعه کسب و کارهای نوپا](docs/mandatory/Design-and-development-of-start-up-businesses.md) | 
 |2|` `اجازه گروه|[کارآموزی](docs/mandatory/Apprenticeship.md) | 
+|1|-|[کاربینی](docs/mandatory/Workplace-Exposure.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۱](docs/mandatory/Computer-Workshop-I.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۲](docs/mandatory/Computer-Workshop-II.md) | 
 |2|ندارد|[مبانی اقتصاد دیجیتال](docs/mandatory/Basics-of-Digital-Economics.md) | 
@@ -46,10 +47,11 @@ dir: rtl
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی منطق و نظریه مجموعه‌ها](docs/mandatory/Fundamentals-of-Logic.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md) | 
 |3|[معادلات دیفرانسیل](docs/base/Differential-Equations.md) ،[تحقیق در عملیات](docs/mandatory/Operations-research.md) ،[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
+|2|-|[مهارت‌های نرم شغلی](docs/mandatory/Job-Soft-Skills.md) | 
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |77|مجموع تعداد واحد|
+ |80|مجموع تعداد واحد|
 
 ## دروس اختیاری
 

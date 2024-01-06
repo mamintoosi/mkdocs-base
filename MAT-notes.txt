@@ -1,0 +1,7 @@
+در پوشه
+C:\temp\git\mkdocs-base
+Run
+/doc/md2md.ipynb
+then
+Run
+copy_to_other_reps.bat
