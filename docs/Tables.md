@@ -48,7 +48,7 @@ dir: rtl
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md)|[مبانی نظریه محاسبه](mandatory/Introduction-to-the-theory-of-Computation.md) | 
 |3|[معادلات دیفرانسیل](base/Differential-Equations.md) ،[تحقیق در عملیات](mandatory/Operations-research.md) ،[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[مدلسازی ریاضی](mandatory/Mathematical-Modeling.md) | 
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-data-analysis.md) | 
-|3|[مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md) ، طراحی الگوریتم‌ها|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) | 
+|3|[مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md) ،[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md) | 
  |78|مجموع تعداد واحد|
 
