@@ -35,7 +35,7 @@ dir: rtl
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](docs/mandatory/Applied-Time-Series.md) | 
 |3|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md) | 
 |2|[کاربینی](docs/mandatory/Workplace-Exposure.md)|[کارآفرینی](docs/mandatory/Entrepreneurship.md) | 
-|2|` `اجازه گروه|[کارآموزی](docs/mandatory/Apprenticeship.md) | 
+|3|اجازه گروه|[کارآموزی](docs/mandatory/Apprenticeship.md) | 
 |1|-|[کاربینی](docs/mandatory/Workplace-Exposure.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۱](docs/mandatory/Computer-Workshop-I.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۲](docs/mandatory/Computer-Workshop-II.md) | 
@@ -50,7 +50,7 @@ dir: rtl
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md) | 
 |3|[مبانی منطق و نظریه مجموعه‌ها](docs/mandatory/Fundamentals-of-Logic.md) ، طراحی الگوریتم‌ها|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |77|مجموع تعداد واحد|
+ |78|مجموع تعداد واحد|
 
 ## دروس اختیاری
 

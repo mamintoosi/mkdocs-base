@@ -35,7 +35,7 @@ dir: rtl
 |3|[تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](mandatory/Applied-Time-Series.md) | 
 |3|[ساختمان داده‌ها](mandatory/Data-Structures.md)|[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md) | 
 |2|[کاربینی](mandatory/Workplace-Exposure.md)|[کارآفرینی](mandatory/Entrepreneurship.md) | 
-|2|` `اجازه گروه|[کارآموزی](mandatory/Apprenticeship.md) | 
+|3|اجازه گروه|[کارآموزی](mandatory/Apprenticeship.md) | 
 |1|-|[کاربینی](mandatory/Workplace-Exposure.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۱](mandatory/Computer-Workshop-I.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۲](mandatory/Computer-Workshop-II.md) | 
@@ -50,7 +50,7 @@ dir: rtl
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-data-analysis.md) | 
 |3|[مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md) ، طراحی الگوریتم‌ها|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md) | 
- |77|مجموع تعداد واحد|
+ |78|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
