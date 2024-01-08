@@ -26,11 +26,3 @@ _______________________________________________________________________________
 - Clark, A. (2016). Neural Networks for NLP. Morgan & Claypool Publishers.
 
 - Goldberg, Y. (2017). Neural Network Methods in Natural Language Processing. Morgan & Claypool Publishers.
-
-**برنامه‌ی هشت ترمی پیشنهادی**
-
-برنامه‌ی پیشنهادی ۸ ترمی به صورت زیر است که البته درصورت استفاده از طرح کواپ می‌تواند مطابق آیین‌نامه کواپ سنوات دانشجو بیشتر شده و برنامه مقداری متفاوت گردد.
-
-[^1]: Luk, Robert W. P. (2020). Insights in How Computer Science can be a Science. Science and Philosophy 8 (2):17-46
-
-[^2]: Andrew Ng

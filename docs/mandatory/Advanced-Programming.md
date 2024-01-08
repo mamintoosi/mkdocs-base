@@ -35,9 +35,7 @@ _______________________________________________________________________________
 
 - (درصورت تدریس C++) موارد جدید اضافه شده به استانداردهایC++ تحت عنوان Modern C++ مانند موارد زیر بیان شوند:
 
-- قالبها، فضای نام، auto، 
-
-- Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
+قالبها، فضای نام، auto، Range Based for loop, for each loop, Array class, Vectors, Raw Pointers & Smart Pointers, String class, Lambda Expression, Containers & Algorithms
 
 **راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:**
 

@@ -22,7 +22,7 @@ nav:
     - "ساختمان داده‌ها": mandatory/Data-Structures.md
     - "سری‌های زمانی کاربردی": mandatory/Applied-Time-Series.md
     - "طراحی و تحلیل الگوریتم‌ها": mandatory/Design-and-Analysis-of-Algorithms.md
-    - "طراحی و توسعه کسب و کارهای نوپا": mandatory/Design-and-development-of-start-up-businesses.md
+    - "کارآفرینی": mandatory/Entrepreneurship.md
     - "کارآموزی": mandatory/Apprenticeship.md
     - "کاربینی": mandatory/Workplace-Exposure.md
     - "کارگاه کامپیوتر ۱": mandatory/Computer-Workshop-I.md
@@ -35,7 +35,6 @@ nav:
     - "مبانی منطق و نظریه مجموعه‌ها": mandatory/Fundamentals-of-Logic.md
     - "مبانی نظریه محاسبه": mandatory/Introduction-to-the-theory-of-Computation.md
     - "مدلسازی ریاضی": mandatory/Mathematical-Modeling.md
-    - "مهارت‌های نرم شغلی": mandatory/Job-Soft-Skills.md
     - "نرم‌افزارهای آماری و تحلیل داده‌ها": mandatory/Statistical-Software-and-data-analysis.md
     - "هوش مصنوعی": mandatory/Artificial-Intelligence.md
     - "یادگیری ماشین مقدماتی": mandatory/Elementary-Machine-Learning.md
@@ -67,6 +66,7 @@ nav:
     - "سیگنال‌ها و سیستم‌ها": elective/Signals-and-Systems.md
     - "شبکه‌های کامپیوتری": elective/Computer-Networks.md
     - "شبیه‌سازی کامپیوتری": elective/Computerized-Simulation.md
+    - "طراحی و توسعه کسب و کارهای نوپا": elective/Design-and-development-of-start-up-businesses.md
     - "فرآیندهای تصادفی": elective/Stochastic-Processes.md
     - "کامپایلر": elective/Compiler.md
     - "گرافیک کامپیوتری": elective/Computer-Graphics.md
@@ -79,6 +79,7 @@ nav:
     - "مدیریت پروژه‌های فناوری اطلاعات": elective/Information-Technology-Project-Management.md
     - "معناشناسی عملیاتی برنامه‌نویسی": elective/Operational-Semantics-of-Programming.md
     - "منطق برای علوم کامپیوتر": elective/Logic-for-Computer-Science.md
+    - "مهارت‌های نرم شغلی": elective/Job-Soft-Skills.md
     - "نظریه گراف و کاربردها": elective/Graph-Theory-and-Applications.md
     - "نظریه محاسبه": elective/Theory-of-Computation.md
     - "نظریه مقدماتی کدگذاری": elective/Elementary-Coding-Theory.md

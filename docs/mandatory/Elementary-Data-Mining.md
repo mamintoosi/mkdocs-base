@@ -17,11 +17,9 @@ _______________________________________________________________________________
 
 - شناسایی داده‌های پرت. روش‌های رتبه‌بندی صفحات، سیستم‌های پیشنهاد دهنده، ارزیابی آنها، پالایش مشارکتی، معیارهای مختلف مقایسه، فاصله اقلیدسی، ضریب همبستگی پیرسون،‌ شباهت کسینوسی، ضریب کاپای کوهن، پالایش بر اساس اقلام، امتیازدهی صریح و ضمنی. تجزیه و تحلیل شبکه‌های اجتماعی، اشاره ای به گراف کاوی، تحلیل لینک و متن کاوی.
 
-- روشهای کاوش الگوها در داده‌های ترتیبی و سری‌های زمانی، GSP ،  SPADE،‌FreeSpan، آنالیز تناوب، Motif Discovery،  Matrix Profile، الگوریتم MASS.
-
 - معرفی برخی از نرم افزارهای تخصصی در داده کاوی، مانند RapidMiner، نحوه بارگذاری  داده‌ها  و تحلیل آنها بوسیله نرم افزار،  ارایه پروژه های کلاسی دانشجویان.
 
-نکته‌: از آنجا که برخی از موضوعات مانند روش‌های طبقه‌بندی و خوشه‌بندی با درس یادگیری ماشین مقدماتی اشتراک دارد، شایسته است مدرسین این دروس در این خصوص هماهنگ باشند.
+- نکته‌: از آنجا که برخی از موضوعات مانند روش‌های طبقه‌بندی و خوشه‌بندی با درس یادگیری ماشین مقدماتی اشتراک دارد، شایسته است مدرسین این دروس در این خصوص هماهنگ باشند. در صورت امکان می‌توان به موارد زیر هم پرداخت: روشهای کاوش الگوها در داده‌های ترتیبی و سری‌های زمانی، GSP ،  SPADE،‌FreeSpan، آنالیز تناوب، Motif Discovery،  Matrix Profile، الگوریتم MASS.
 
 **منابع:**
 
@@ -29,6 +27,8 @@ _______________________________________________________________________________
 - شومیلی، ج.، بروک، پی، یاهو، آ، پاتل، ان و لیختندال، ک. (1400). داده‌کاوی برای تحلیل خودکار کسب‌وکار: مفاهیم، فنون و کاربردهای R،  ترجمه دکتر محمدرضا فقیهی حبیب‌آبادی، انتشارات دانشگاه شهید بهشتی. 
 
 - مرادی، عباس، حسین‌زاده، جواد، شباک، اشکان، کیانی، کاوه و شیری، محمد. (1398). آشنایی با مفاهیم و روشهای داده کاوی، پژوهشکده آمار
+
+- VanderPlas, J. (2022). Python data science handbook: Essential tools for working with data. 2nd Edition, O'Reilly Media [[Github](https://github.com/jakevdp/PythonDataScienceHandbook)]
 
 - Shmueli, G., Bruce, P., Yahav, I., Patel, N., Lichtendahl, K., (2018), Data Mining for Business  Analytics Concepts, Techniques, and Applications in R, Wiley. 
 
@@ -43,3 +43,5 @@ _______________________________________________________________________________
 - Leskovec, J., Rajaraman, A.,, Ullman, J. D. (2014). Mining of Massive Datasets. Cambridge University Press. <http://www.mmds.org/>
 
 - Blum, A., Hopcroft, J.,, Kannan, R. (2020). Foundations of Data Science. Cambridge: Cambridge University Press. <https://www.cs.cornell.edu/jeh/book.pdf>
+
+- James, G., Witten, D., Hastie, T., Tibshirani, R. and Taylor, J. (2023). An Introduction to Statistical Learning, with applications in Python, Springer, New York. <https://www.statlearning.com/>
