@@ -56,7 +56,7 @@ dir: rtl
 
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
-|3|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[اصول طراحی نرم‌افزار](docs/elective/Principles-of-SoftwareDesign.md) | 
+|3|[زبان‌های برنامه‌سازی](docs/mandatory/Programming-Languages.md)|[اصول طراحی نرم‌افزار](docs/elective/Principles-of-SoftwareDesign.md) | 
 |3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md) ،[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[الگوریتم‌های تصادفی](docs/elective/Randomized-Algorithms.md) | 
 |1|ندارد|[آزمایشگاه ریاضی](docs/elective/Mathematics-Lab.md) | 
 |3|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) ،[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)|[آشنایی با پردازش زبان طبیعی](docs/elective/Introdution-to-Natural-Language-Processing.md) | 
@@ -79,11 +79,10 @@ dir: rtl
 |3|[مبانی جبر](docs/elective/Foundation-of-Algebra.md)|[رمزنگاری](docs/elective/Cryptography.md) | 
 |3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[روش‌های آماری](docs/elective/Statistical-Methods.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[ریاضیات فازی](docs/elective/Fuzzy-Mathematics.md) | 
-|3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md) | 
+|3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](docs/elective/Operating-Systems.md) | 
 |3|[معادلات دیفرانسیل](docs/base/Differential-Equations.md)|[سیگنال‌ها و سیستم‌ها](docs/elective/Signals-and-Systems.md) | 
-|3|[سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) | 
+|3|[سیستم‌های عامل](docs/elective/Operating-Systems.md)|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) | 
 |3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[شبیه‌سازی کامپیوتری](docs/elective/Computerized-Simulation.md) | 
-|3|[کاربینی](docs/mandatory/Workplace-Exposure.md)|[طراحی و توسعه کسب و کارهای نوپا](docs/elective/Design-and-development-of-start-up-businesses.md) | 
 |3|[آمار و احتمال ۲](docs/elective/Probability-and-Statistics-II.md)|[فرآیندهای تصادفی](docs/elective/Stochastic-Processes.md) | 
 |3|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md)|[کامپایلر](docs/elective/Compiler.md) | 
 |3|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[گرافیک کامپیوتری](docs/elective/Computer-Graphics.md) | 
@@ -92,7 +91,7 @@ dir: rtl
 |3|[مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md) ،[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[مبانی آنالیز فوریه و موجک‌ها](docs/elective/Introduction-to-Fourier-and-Wavelet-Analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) ،  زیست شناسی سلولی و مولکولی|[مبانی بیوانفورماتیک](docs/elective/Fundamentals-of-Bioinformatic.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[مبانی جبر](docs/elective/Foundation-of-Algebra.md) | 
-|3|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) ،[سیستم‌های عامل](docs/elective/Principles-of-Operating-Systems.md)|[مبانی رایانش ابری](docs/elective/Cloud-Computing-Fundamentals.md) | 
+|3|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) ،[سیستم‌های عامل](docs/elective/Operating-Systems.md)|[مبانی رایانش ابری](docs/elective/Cloud-Computing-Fundamentals.md) | 
 |3|ندارد|[مدیریت پروژه‌های فناوری اطلاعات](docs/elective/Information-Technology-Project-Management.md) | 
 |3|[منطق برای علوم کامپیوتر](docs/elective/Logic-for-Computer-Science.md)|[معناشناسی عملیاتی برنامه‌نویسی](docs/elective/Operational-Semantics-of-Programming.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)|[منطق برای علوم کامپیوتر](docs/elective/Logic-for-Computer-Science.md) | 
@@ -103,4 +102,4 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](docs/elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)|[هوش محاسباتی](docs/elective/Computational-Intelligence.md) | 
- |137|مجموع تعداد واحد|
+ |134|مجموع تعداد واحد|

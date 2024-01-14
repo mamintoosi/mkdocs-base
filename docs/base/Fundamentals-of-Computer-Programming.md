@@ -48,3 +48,5 @@ _______________________________________________________________________________
 - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/lecture-slides-code/), MIT Open Courseware
 
 - Some other references: <https://github.com/ambadidi/Python-Books>
+
+- [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/start/)

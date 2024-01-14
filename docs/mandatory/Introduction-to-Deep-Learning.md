@@ -23,7 +23,7 @@ _______________________________________________________________________________
 
 - Stevens, E., Antiga, L., & Viehmann, T. (2020). Deep Learning with PyTorch. Manning Publications.
 
-- Chollet, F. (2019). Deep Learning with Python, Second Edition. Manning Publications. [[PDF](https://download.bibis.ir/Books/Artificial-Intelligence/Deep-Learning/2021/Deep%20Learning%20with%20Python%20by%20Franc%CC%A7ois%20Chollet_bibis.ir.pdf)]
+- Chollet, F. (2021). Deep Learning with Python, Second Edition. Manning Publications. [[PDF](https://download.bibis.ir/Books/Artificial-Intelligence/Deep-Learning/2021/Deep%20Learning%20with%20Python%20by%20Franc%CC%A7ois%20Chollet_bibis.ir.pdf)]
 
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 

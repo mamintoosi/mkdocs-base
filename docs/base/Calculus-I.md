@@ -19,7 +19,7 @@ _______________________________________________________________________________
 
 - شهشهانی، س. (1396). حساب دیفرانسیل و انتگرال (ویراست 2). تهران: انتشارات فاطمی.
 
-- Stewart, J. (2016). Calculus (8th ed.). Cengage Learning.
+- Stewart, J., Clegg, D. K. and Watson, S. (2020) Calculus (9th ed.). Cengage Learning. [[Web Site](https://www.stewartcalculus.com/)], [[PFD of 7th ed](http://www.uop.edu.pk/ocontents/Multivariable%20Calculus%207th%20Edition%20By%20James%20Stewart.pdf)]
 
 - Adams, R. A., & Essex, C. (2018). Calculus: A complete course (9th ed.). Pearson.
 

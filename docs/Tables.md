@@ -56,7 +56,7 @@ dir: rtl
 
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
-|3|[ساختمان داده‌ها](mandatory/Data-Structures.md)|[اصول طراحی نرم‌افزار](elective/Principles-of-SoftwareDesign.md) | 
+|3|[زبان‌های برنامه‌سازی](mandatory/Programming-Languages.md)|[اصول طراحی نرم‌افزار](elective/Principles-of-SoftwareDesign.md) | 
 |3|[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md) ،[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[الگوریتم‌های تصادفی](elective/Randomized-Algorithms.md) | 
 |1|ندارد|[آزمایشگاه ریاضی](elective/Mathematics-Lab.md) | 
 |3|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) ،[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)|[آشنایی با پردازش زبان طبیعی](elective/Introdution-to-Natural-Language-Processing.md) | 
@@ -79,11 +79,10 @@ dir: rtl
 |3|[مبانی جبر](elective/Foundation-of-Algebra.md)|[رمزنگاری](elective/Cryptography.md) | 
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[روش‌های آماری](elective/Statistical-Methods.md) | 
 |3|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)|[ریاضیات فازی](elective/Fuzzy-Mathematics.md) | 
-|3|[اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](elective/Principles-of-Operating-Systems.md) | 
+|3|[اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](elective/Operating-Systems.md) | 
 |3|[معادلات دیفرانسیل](base/Differential-Equations.md)|[سیگنال‌ها و سیستم‌ها](elective/Signals-and-Systems.md) | 
-|3|[سیستم‌های عامل](elective/Principles-of-Operating-Systems.md)|[شبکه‌های کامپیوتری](elective/Computer-Networks.md) | 
+|3|[سیستم‌های عامل](elective/Operating-Systems.md)|[شبکه‌های کامپیوتری](elective/Computer-Networks.md) | 
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[شبیه‌سازی کامپیوتری](elective/Computerized-Simulation.md) | 
-|3|[کاربینی](mandatory/Workplace-Exposure.md)|[طراحی و توسعه کسب و کارهای نوپا](elective/Design-and-development-of-start-up-businesses.md) | 
 |3|[آمار و احتمال ۲](elective/Probability-and-Statistics-II.md)|[فرآیندهای تصادفی](elective/Stochastic-Processes.md) | 
 |3|[مبانی نظریه محاسبه](mandatory/Introduction-to-the-theory-of-Computation.md)|[کامپایلر](elective/Compiler.md) | 
 |3|[ساختمان داده‌ها](mandatory/Data-Structures.md)|[گرافیک کامپیوتری](elective/Computer-Graphics.md) | 
@@ -92,7 +91,7 @@ dir: rtl
 |3|[مبانی آنالیز ریاضی](mandatory/Foundation-of-Mathematical-Analysis.md) ،[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)|[مبانی آنالیز فوریه و موجک‌ها](elective/Introduction-to-Fourier-and-Wavelet-Analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md) ،  زیست شناسی سلولی و مولکولی|[مبانی بیوانفورماتیک](elective/Fundamentals-of-Bioinformatic.md) | 
 |3|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)|[مبانی جبر](elective/Foundation-of-Algebra.md) | 
-|3|[شبکه‌های کامپیوتری](elective/Computer-Networks.md) ،[سیستم‌های عامل](elective/Principles-of-Operating-Systems.md)|[مبانی رایانش ابری](elective/Cloud-Computing-Fundamentals.md) | 
+|3|[شبکه‌های کامپیوتری](elective/Computer-Networks.md) ،[سیستم‌های عامل](elective/Operating-Systems.md)|[مبانی رایانش ابری](elective/Cloud-Computing-Fundamentals.md) | 
 |3|ندارد|[مدیریت پروژه‌های فناوری اطلاعات](elective/Information-Technology-Project-Management.md) | 
 |3|[منطق برای علوم کامپیوتر](elective/Logic-for-Computer-Science.md)|[معناشناسی عملیاتی برنامه‌نویسی](elective/Operational-Semantics-of-Programming.md) | 
 |3|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)|[منطق برای علوم کامپیوتر](elective/Logic-for-Computer-Science.md) | 
@@ -103,4 +102,4 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[هوش محاسباتی](elective/Computational-Intelligence.md) | 
- |137|مجموع تعداد واحد|
+ |134|مجموع تعداد واحد|

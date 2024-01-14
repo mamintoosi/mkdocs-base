@@ -21,7 +21,7 @@ _______________________________________________________________________________
 
 - سپهری ، محمد رضا (1390). آشنائی با مبانی علوم ریاضی. مرکز نشر آینه.
 
-- Halmos, P. R. (2017). I Set Theory. Courier Dover Publications.
+- Halmos, P. R. (2017). Naive Set Theory. Courier Dover Publications.
 
 - Stewart, I., & Tall, D. (2015). The Foundations of Mathematics. Oxford University Press.
 
