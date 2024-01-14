@@ -1,6 +1,11 @@
 @REM git config --global alias.coa '!git add -A && git commit -m'
 @REM xcopy Tables.md .\docs\ 
-python -m mkdocs build
+
+@REM برای دستگاه دانشگاه
+@REM python -m 
+
+@REM برای سرفیس اچ پی
+mkdocs build
 git coa "Auto Commit"
 git push
 

@@ -12,9 +12,12 @@
         <link href="../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-        <script>hljs.highlightAll();</script> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
@@ -280,7 +283,7 @@
 </li>
                                     
 <li>
-    <a href="../Principles-of-Operating-Systems/" class="dropdown-item">سیستم‌های عامل</a>
+    <a href="../Operating-Systems/" class="dropdown-item">سیستم‌های عامل</a>
 </li>
                                     
 <li>
@@ -293,10 +296,6 @@
                                     
 <li>
     <a href="../Computerized-Simulation/" class="dropdown-item">شبیه‌سازی کامپیوتری</a>
-</li>
-                                    
-<li>
-    <a href="../Design-and-development-of-start-up-businesses/" class="dropdown-item">طراحی و توسعه کسب و کارهای نوپا</a>
 </li>
                                     
 <li>
@@ -441,7 +440,7 @@
 <tr>
 <td>تخصصی اختیاری</td>
 <td>گروه درس:</td>
-<td><a href="../../mandatory/Data-Structures/">ساختمان داده‌ها</a></td>
+<td><a href="../../mandatory/Programming-Languages/">زبان‌های برنامه‌سازی</a></td>
 <td>پیش‌نیاز:</td>
 </tr>
 <tr>
@@ -509,28 +508,37 @@
 <p>رسول زادگان، ع (۱۳۹۱)، مدل سازی نرم فزار به کمک UML با رویکرد RUP انتشارات علوم رایانه، چاپ اول.</p>
 </li>
 <li>
-<p>Sommerville, I. (2010). Software Engineering, 9th Edition. Addison Wesley.</p>
+<p>Pressman, R. S., &amp; Roger, P. (2009). Software engineering: A practitioner's approach (7th ed.). McGraw Hill.</p>
 </li>
 <li>
-<p>Ghezzi, C., Jazayeri, M., &amp; Mandrioli, D. (2003). Fundamentals of Software Engineering. Prentice Hall.</p>
+<p>Sommerville, I. (2011). Software engineering (9th ed.). Addison Wesley.</p>
 </li>
 <li>
-<p>Ng, P. A. B., &amp; Yeh, R. T. (1990). Modern Software Engineering: Foundations and Current Perspectives. Van Nostrand Reinhold.</p>
+<p>Larman, C. (2004). Applying UML and patterns: An introduction to object-oriented analysis and design and the unified process (2nd ed.). Prentice Hall.</p>
 </li>
 <li>
-<p>Pressman, R. S., &amp; Roger, P. (2009). Software Engineering: A Practitioner's Approach. 7th Edition. McGraw Hill.</p>
-</li>
-<li>
-<p>Larman, C. (2004). Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process (2nd ed.). Prentice Hall.</p>
+<p>Rubin, K. S. (2012). Essential scrum: A practical guide to the most popular agile process (1st ed.). Addison-Wesley.</p>
 </li>
 <li>
 <p>Gamma, E., Helm, R., Johnson, R., &amp; Vlissides, J. (1995). Design patterns: elements of reusable object-oriented software. Addison-Wesley.</p>
 </li>
 <li>
-<p>Fowler, M., &amp; Beck, K. (1999). Refactoring: Improving the Design of Existing Code. Addison-Wesley.</p>
+<p>Robson, E., &amp; Freeman, E. (2021). Head first design patterns: Building extensible and maintainable object-oriented software (2nd ed.). O'Reilly Media.</p>
 </li>
 <li>
-<p>Martin, R. C. (2017). Clean Architecture: A Craftsman's Guide to Software Structure and Design (1st ed.). Pearson.</p>
+<p>Shvets, A. (2019). Dive into design patterns. Refactoring.Guru.</p>
+</li>
+<li>
+<p>Brown, W. J., Malveau, R. C., Brown, W. H., McCormic, H. W., &amp; Mowbray, T. J. (1998). AntiPatterns: Refactoring software, architectures, and projects in crisis (1st ed.). John Wiley and Sons.</p>
+</li>
+<li>
+<p>Fowler, M., &amp; Beck, K. (1999). Refactoring: Improving the design of existing code. Addison-Wesley.</p>
+</li>
+<li>
+<p>Martin, R. C. (2017). Clean architecture: A craftsman's guide to software structure and design (1st ed.). Pearson.</p>
+</li>
+<li>
+<p>Bass, L., Clements, P., &amp; Kazman, R. (2012). Software architecture in practice (3rd ed.). Addison-Wesley Professional.</p>
 </li>
 </ul></div>
             </div>
@@ -540,14 +548,12 @@
             <hr>
             <p>مستندات ساخته شده توسط <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
-        <script src="../../js/jquery-3.6.0.min.js"></script>
-        <script src="../../js/bootstrap.min.js"></script>
         <script>
             var base_url = "../..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
-        <script src="../../js/base.js"></script>
-        <script src="../../search/main.js"></script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">

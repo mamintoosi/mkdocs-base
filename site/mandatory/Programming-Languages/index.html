@@ -12,9 +12,12 @@
         <link href="../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-        <script>hljs.highlightAll();</script> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
@@ -280,7 +283,7 @@
 </li>
                                     
 <li>
-    <a href="../../elective/Principles-of-Operating-Systems/" class="dropdown-item">سیستم‌های عامل</a>
+    <a href="../../elective/Operating-Systems/" class="dropdown-item">سیستم‌های عامل</a>
 </li>
                                     
 <li>
@@ -293,10 +296,6 @@
                                     
 <li>
     <a href="../../elective/Computerized-Simulation/" class="dropdown-item">شبیه‌سازی کامپیوتری</a>
-</li>
-                                    
-<li>
-    <a href="../../elective/Design-and-development-of-start-up-businesses/" class="dropdown-item">طراحی و توسعه کسب و کارهای نوپا</a>
 </li>
                                     
 <li>
@@ -465,7 +464,7 @@
 </tbody>
 </table>
 <p><strong>سرفصل درس:</strong></p>
-<p>تاریخچه و انواع زبانهای برنامه نویسی (رویه‌ای، تابعی، شیئ‌گرا، منطق گرا)، انتخاب مناسب زبان برای یک کاربرد معین،  ماشین های مجازی، سطوح تجرید و ترجمه زبان برنامه نویسی، تجرید داده، تجرید عملیات، متغیر، نام، نوع، حوزه و دوره حیات متغیر، نوع و حوزه متغیر ایستا و پویا، مقید سازی و زمان آن، اختصاص حافظه و جمع آوری آشغال، انواع داده، تجرید عملیات و واحدهای برنامه، ساختمان های کنترل در یک یا چند واحد برنامه، روش های اشتراک اطلاعات بین چند واحد برنامه، برنامه های فرعی، عملیات موازی، انتقال پارامترها، تجرید توأم داده و عملیات، مروری بر زبانهای تابعی، شی گرا و منطق گرا.</p>
+<p>تاریخچه و انواع زبانهای برنامه نویسی (رویه‌ای، تابعی، شیئ‌گرا، منطق گرا و جنبه‌گرا)، انتخاب مناسب زبان برای یک کاربرد معین،  ماشین های مجازی، سطوح تجرید و ترجمه زبان برنامه نویسی، تجرید داده، تجرید عملیات، متغیر، نام، نوع، حوزه و دوره حیات متغیر، نوع و حوزه متغیر ایستا و پویا، مقید سازی و زمان آن، اختصاص حافظه و جمع آوری آشغال، انواع داده، تجرید عملیات و واحدهای برنامه، ساختمان های کنترل در یک یا چند واحد برنامه، روش های اشتراک اطلاعات بین چند واحد برنامه، برنامه های فرعی، عملیات موازی، انتقال پارامترها، تجرید توأم داده و عملیات.</p>
 <p><strong>راهبردهای تدریس و یادگیری متناسب با محتوا و هدف:</strong></p>
 <p><strong>با توجه به تحولات سریع حوزه‌ی زبان‌های برنامه‌نویسی، وابسته به نیازمندیها و پیشرفت‌های روز، می‌توان روی ویژگی‌های یک زبان خاص تمرکز کرد. به عنوان مثال منابع دوم و سوم زیر، نسخه‌های با زبان‌های جاوااسکریپت و پایتون از منبع اول هستند که به بیشتر موارد فوق‌الذکر در زبان‌های مذکور پرداخته‌اند.</strong></p>
 <p><strong>منابع:</strong></p>
@@ -502,14 +501,12 @@
             <hr>
             <p>مستندات ساخته شده توسط <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
-        <script src="../../js/jquery-3.6.0.min.js"></script>
-        <script src="../../js/bootstrap.min.js"></script>
         <script>
             var base_url = "../..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
-        <script src="../../js/base.js"></script>
-        <script src="../../search/main.js"></script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
