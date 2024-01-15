@@ -34,14 +34,14 @@ dir: rtl
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[ساختمان داده‌ها](mandatory/Data-Structures.md) | 
 |3|[تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](mandatory/Applied-Time-Series.md) | 
 |3|[ساختمان داده‌ها](mandatory/Data-Structures.md)|[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md) | 
-|2|[کاربینی](mandatory/Workplace-Exposure.md)|[کارآفرینی](mandatory/Entrepreneurship.md) | 
+|2|[کاربینی](mandatory/Internship.md)|[کارآفرینی](mandatory/Entrepreneurship.md) | 
 |3|اجازه گروه|[کارآموزی](mandatory/Apprenticeship.md) | 
-|1|-|[کاربینی](mandatory/Workplace-Exposure.md) | 
+|1|ندارد|[کاربینی](mandatory/Internship.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۱](mandatory/Computer-Workshop-I.md) | 
 |1|ندارد|[کارگاه کامپیوتر ۲](mandatory/Computer-Workshop-II.md) | 
 |2|ندارد|[مبانی اقتصاد دیجیتال](mandatory/Basics-of-Digital-Economics.md) | 
 |3|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md) ،[ریاضی عمومی ۱](base/Calculus-I.md)|[مبانی آنالیز ریاضی](mandatory/Foundation-of-Mathematical-Analysis.md) | 
-|3|[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی آنالیز عددی](mandatory/Foundation-of-Numerical-Analysis.md) | 
+|3|[مبانی کامپیوتر و برنامه‌سازی](base/Fundamentals-of-Computer-Programming.md) ،[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی آنالیز عددی](mandatory/Foundation-of-Numerical-Analysis.md) | 
 |4|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)|[مبانی ترکیبیات](mandatory/Foundation-of-Combinatorics.md) | 
 |3|[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) | 
 |3|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)|[مبانی منطق و نظریه مجموعه‌ها](mandatory/Fundamentals-of-Logic.md) | 
@@ -95,7 +95,7 @@ dir: rtl
 |3|ندارد|[مدیریت پروژه‌های فناوری اطلاعات](elective/Information-Technology-Project-Management.md) | 
 |3|[منطق برای علوم کامپیوتر](elective/Logic-for-Computer-Science.md)|[معناشناسی عملیاتی برنامه‌نویسی](elective/Operational-Semantics-of-Programming.md) | 
 |3|[مبانی علوم ریاضی](base/Foundation-of-Mathematics.md)|[منطق برای علوم کامپیوتر](elective/Logic-for-Computer-Science.md) | 
-|2|[کاربینی](mandatory/Workplace-Exposure.md)|[مهارت‌های نرم شغلی](elective/Job-Soft-Skills.md) | 
+|2|[کاربینی](mandatory/Internship.md)|[مهارت‌های نرم شغلی](elective/Job-Soft-Skills.md) | 
 |3|[مبانی ترکیبیات](mandatory/Foundation-of-Combinatorics.md)|[نظریه گراف و کاربردها](elective/Graph-Theory-and-Applications.md) | 
 |3|[مبانی نظریه محاسبه](mandatory/Introduction-to-the-theory-of-Computation.md)|[نظریه محاسبه](elective/Theory-of-Computation.md) | 
 |3|[مبانی جبر](elective/Foundation-of-Algebra.md) ،[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)|[نظریه مقدماتی کدگذاری](elective/Elementary-Coding-Theory.md) | 

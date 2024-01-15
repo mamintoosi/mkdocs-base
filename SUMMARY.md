@@ -24,7 +24,7 @@
 * [طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)
 * [کارآفرینی](docs/mandatory/Entrepreneurship.md)
 * [کارآموزی](docs/mandatory/Apprenticeship.md)
-* [کاربینی](docs/mandatory/Workplace-Exposure.md)
+* [کاربینی](docs/mandatory/Internship.md)
 * [کارگاه کامپیوتر ۱](docs/mandatory/Computer-Workshop-I.md)
 * [کارگاه کامپیوتر ۲](docs/mandatory/Computer-Workshop-II.md)
 * [مبانی اقتصاد دیجیتال](docs/mandatory/Basics-of-Digital-Economics.md)
