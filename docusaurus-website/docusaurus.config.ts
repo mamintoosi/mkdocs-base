@@ -3,8 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'علوم کامپیوتر فردوسی مشهد',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -15,8 +14,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Ferdowsi University of Mashhad', // Usually your GitHub org/user name.
+  projectName: 'fumcs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,21 +57,19 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'FUMCS',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'FUMCS Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          href: '/docs/intro',
+          label: 'مستندات',
           position: 'left',
-          label: 'Tutorial',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/mamintoosi/mkdocs-base',
           label: 'GitHub',
           position: 'right',
         },
@@ -82,46 +79,29 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'مستندات',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'برنامه درسی',
+              to: '/docs/category/برنامه-درسی',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'لینک‌ها',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
+              label: 'وبلاک',
               to: '/blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/mamintoosi/mkdocs-base',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} FUMCS, Inc. Built with Docusaurus by @theMasix`,
     },
     prism: {
       theme: prismThemes.github,
