@@ -8,32 +8,30 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
+      <div className='container'>
+        <Heading as='h1' className='hero__title'>
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+        <p className='hero__subtitle'>{siteConfig.tagline}</p>
+        <span>
+          شما در حال مشاهده وبسایت دپارتمان علوم کامپیوتر دانشگاه فردوسی مشهد
+          هستید
+        </span>
       </div>
     </header>
   );
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description='Ferdowsi University of Mashhad, CS Department'
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
