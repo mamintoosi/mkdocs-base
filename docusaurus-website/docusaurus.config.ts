@@ -107,6 +107,14 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'IW0UML0UCO',
+
+      apiKey: '0f98e980c17dabdb99e47db17c02e055',
+
+      indexName: 'fumcs_curriculum',
+    },
   } satisfies Preset.ThemeConfig,
 };
 
