@@ -7,7 +7,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mamintoosi.netlify.app',
+  url: 'https://fumcs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -15,7 +15,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Ferdowsi University of Mashhad', // Usually your GitHub org/user name.
-  projectName: 'fumcs', // Usually your repo name.
+  projectName: 'fumcs-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,7 +69,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/mamintoosi/mkdocs-base',
+          href: 'https://fumcs.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -96,7 +96,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/mamintoosi/mkdocs-base',
+              href: 'https://github.com/fumcs',
             },
           ],
         },
