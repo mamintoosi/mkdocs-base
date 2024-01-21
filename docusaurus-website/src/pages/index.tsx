@@ -17,7 +17,7 @@ function HomepageHeader() {
         </Heading>
         <p className='hero__subtitle'>{siteConfig.tagline}</p>
         <span>
-          شما در حال مشاهده وبسایت دپارتمان علوم کامپیوتر دانشگاه فردوسی مشهد
+          شما در حال مشاهده وبسایت فارسی علوم کامپیوتر دانشگاه فردوسی مشهد
           هستید
         </span>
       </div>

@@ -11,9 +11,13 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'لیست دروس ارائه شده',
+    title: 'وب سایت انگلیسی',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: <>مشاهده دروس ارائه شده</>,
+    description: (
+      <Link to='https://fumcs.github.io/'>
+        FUM-CS English WebSite
+      </Link>
+    ),
   },
   {
     title: 'برنامه درسی',
@@ -27,7 +31,11 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'مشاهده اساتید',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: <>مشاهده اعضای هیئت علمی</>,
+    description: (
+      <Link to='https://fumcs.github.io/faculty/'>
+        Faculty Members
+      </Link>
+    ),
   },
 ];
 
