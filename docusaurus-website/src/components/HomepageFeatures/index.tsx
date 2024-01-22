@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'وب سایت انگلیسی',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/CS02.svg').default,
     description: (
       <Link to='https://fumcs.github.io/'>
         FUM-CS English WebSite
@@ -21,19 +21,19 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'برنامه درسی',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/CS-Word-Cloud.svg').default,
     description: (
       <Link to='/docs/category/برنامه-درسی'>
-        مشاهده برنامه درسی رشته کارشناسی
+        برنامه درسی پیشنهادی کارشناسی علوم کامپیوتر
       </Link>
     ),
   },
   {
-    title: 'مشاهده اساتید',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'پزوهش و تحقیق',
+    Svg: require('@site/static/img/tiling.svg').default,
     description: (
-      <Link to='https://fumcs.github.io/faculty/'>
-        Faculty Members
+      <Link to='https://fumcs.github.io/projects/'>
+        Rresearch Projects
       </Link>
     ),
   },
