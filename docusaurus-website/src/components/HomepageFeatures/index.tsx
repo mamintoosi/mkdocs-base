@@ -5,23 +5,21 @@ import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  imageAddress: string;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'وب سایت انگلیسی',
-    Svg: require('@site/static/img/CS02.svg').default,
+    imageAddress: '/img/CS02.png',
     description: (
-      <Link to='https://fumcs.github.io/'>
-        FUM-CS English WebSite
-      </Link>
+      <Link to='https://fumcs.github.io/'>FUM-CS English WebSite</Link>
     ),
   },
   {
     title: 'برنامه درسی',
-    Svg: require('@site/static/img/CS-Word-Cloud.svg').default,
+    imageAddress: '/img/CS-Word-Cloud.png',
     description: (
       <Link to='/docs/category/برنامه-درسی'>
         برنامه درسی پیشنهادی کارشناسی علوم کامپیوتر
@@ -30,20 +28,18 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'پزوهش و تحقیق',
-    Svg: require('@site/static/img/tiling.svg').default,
+    imageAddress: '/img/tiling.png',
     description: (
-      <Link to='https://fumcs.github.io/projects/'>
-        Rresearch Projects
-      </Link>
+      <Link to='https://fumcs.github.io/projects/'>Rresearch Projects</Link>
     ),
   },
 ];
 
-function Feature({ title, Svg, description }: FeatureItem) {
+function Feature({ title, imageAddress, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className='text--center'>
-        <Svg className={styles.featureSvg} role='img' />
+        <img className={styles.featureImg} src={imageAddress} />
       </div>
       <div className='text--center padding-horiz--md'>
         <Heading as='h3'>{title}</Heading>
