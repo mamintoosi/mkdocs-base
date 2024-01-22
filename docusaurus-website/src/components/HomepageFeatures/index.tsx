@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'پزوهش و تحقیق',
+    title: 'پژوهش و تحقیق',
     imageAddress: '/img/tiling.png',
     description: (
       <Link to='https://fumcs.github.io/projects/'>Rresearch Projects</Link>

@@ -14,3 +14,5 @@ https://github.com/cmfcmf/docusaurus-search-local
     }
   },
 https://github.com/cmfcmf/docusaurus-search-local/issues/199  
+
+magick convert  CS-Word-Cloud.png -transparent white  your.png

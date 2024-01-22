@@ -12,16 +12,19 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className='container'>
+        <p className='hero__subtitle'>{siteConfig.tagline}</p>
+        <span>
+          بسم الله الرحمان الرحیم
+        </span>
         <Heading as='h1' className='hero__title'>
           {siteConfig.title}
         </Heading>
         <p className='hero__subtitle'>{siteConfig.tagline}</p>
         <span>
-          شما در حال مشاهده وبسایت فارسی علوم کامپیوتر دانشگاه فردوسی مشهد
-          هستید
+          وب‌سایت فارسی مستندات علوم کامپیوتر دانشگاه فردوسی مشهد
         </span>
       </div>
-    </header>
+    </header >
   );
 }
 
