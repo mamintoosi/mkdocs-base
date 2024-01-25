@@ -101,7 +101,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} FUMCS, Inc. Built with Docusaurus by @theMasix`,
+      copyright: `Copyright © ${new Date().getFullYear()} FUMCS, Inc`,
     },
     prism: {
       theme: prismThemes.github,
@@ -117,22 +117,13 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 
-// };
-
-// module.exports = {
-    // // ...
-    // plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
-
-    // // or, if you want to specify options:
-
-  // ...
   plugins: [
     [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
+      require.resolve('@cmfcmf/docusaurus-search-local'),
       {
         // whether to index docs pages
         indexDocs: true,
-      
+
         // Whether to also index the titles of the parent categories in the sidebar of a doc page.
         // 0 disables this feature.
         // 1 indexes the direct parent category in the sidebar of a doc page
@@ -141,17 +132,17 @@ const config: Config = {
         //
         // Do _not_ use Infinity, the value must be a JSON-serializable integer.
         indexDocSidebarParentCategories: 0,
-      
+
         // whether to index blog pages
         indexBlog: true,
-      
+
         // whether to index static pages
         // /404.html is never indexed
         indexPages: false,
-      
+
         // language of your documentation, see next section
-        language: ["en","ar"],
-      
+        language: ['en', 'ar'],
+
         // setting this to "none" will prevent the default CSS to be included. The default CSS
         // comes from autocomplete-theme-classic, which you can read more about here:
         // https://www.algolia.com/doc/ui-libraries/autocomplete/api-reference/autocomplete-theme-classic/
@@ -159,11 +150,11 @@ const config: Config = {
         // overwrites with `!important`, because they might otherwise not be applied as expected. See the
         // following comment for more information: https://github.com/cmfcmf/docusaurus-search-local/issues/107#issuecomment-1119831938.
         style: undefined,
-      
+
         // The maximum number of search results shown to the user. This does _not_ affect performance of
         // searches, but simply does not display additional search results that have been found.
         maxSearchResults: 8,
-      
+
         // lunr.js-specific settings
         lunr: {
           // When indexing your documents, their content is split into "tokens".
@@ -193,7 +184,7 @@ const config: Config = {
           contentBoost: 1,
           tagsBoost: 3,
           parentCategoriesBoost: 2, // Only used when indexDocSidebarParentCategories > 0
-        }
+        },
       },
     ],
   ],
