@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5.0
+sidebar_position: 6.0
 ---
 # بهینه‌سازی گسسته
 ## Discrete Optimization
@@ -31,7 +31,3 @@ _______________________________________________________________________________
 - Balakrishnan, V. (1995). Network Optimization. Chapman and Hall/CRC.
 
 - Ahuja, R.K., Magnanti, T.L., & Orlin, J.B. (1993). Network Flows: Theory, Algorithms, and Applications. Prentice-Hall.
-
-«دروس اختیاری»
-
-**

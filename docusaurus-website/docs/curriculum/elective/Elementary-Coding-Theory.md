@@ -1,5 +1,5 @@
 ---
-sidebar_position: 38.0
+sidebar_position: 37.0
 ---
 # نظریه مقدماتی کدگذاری
 ## Elementary Coding Theory

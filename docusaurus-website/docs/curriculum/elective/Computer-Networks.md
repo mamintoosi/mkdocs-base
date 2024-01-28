@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24.0
+sidebar_position: 23.0
 ---
 # شبکه‌های کامپیوتری
 ## Computer Networks

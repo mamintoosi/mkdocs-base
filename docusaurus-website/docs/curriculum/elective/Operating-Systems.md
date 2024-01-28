@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22.0
+sidebar_position: 21.0
 ---
 # سیستم‌های عامل
 ## Operating Systems

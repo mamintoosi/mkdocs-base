@@ -1,5 +1,5 @@
 ---
-sidebar_position: 43.0
+sidebar_position: 42.0
 ---
 # پردازش تصویر مقدماتی
 ## Elementary Image Processing

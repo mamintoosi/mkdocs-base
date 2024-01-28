@@ -1,5 +1,5 @@
 ---
-sidebar_position: 42.0
+sidebar_position: 41.0
 ---
 # هوش محاسباتی
 ## Computational Intelligence

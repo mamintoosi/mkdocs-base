@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20.0
+sidebar_position: 19.0
 ---
 # رگرسیون ۱
 ## Regression I

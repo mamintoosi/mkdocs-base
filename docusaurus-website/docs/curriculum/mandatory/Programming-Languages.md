@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9.0
+sidebar_position: 10.0
 ---
 # زبان‌های برنامه‌سازی
 ## Programming Languages

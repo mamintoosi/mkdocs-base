@@ -1,5 +1,5 @@
 ---
-sidebar_position: 26.0
+sidebar_position: 25.0
 ---
 # فرآیندهای تصادفی
 ## Stochastic Processes

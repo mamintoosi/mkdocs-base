@@ -1,5 +1,5 @@
 ---
-sidebar_position: 30.0
+sidebar_position: 29.0
 ---
 # مبانی بیوانفورماتیک
 ## Fundamentals of Bioinformatic

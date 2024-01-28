@@ -1,5 +1,5 @@
 ---
-sidebar_position: 25.0
+sidebar_position: 24.0
 ---
 # شبیه‌سازی کامپیوتری
 ## Computerized Simulation

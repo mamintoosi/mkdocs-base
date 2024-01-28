@@ -1,5 +1,5 @@
 ---
-sidebar_position: 34.0
+sidebar_position: 33.0
 ---
 # معناشناسی عملیاتی برنامه‌نویسی
 ## Operational Semantics of Programming

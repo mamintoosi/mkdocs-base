@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40.0
+sidebar_position: 39.0
 ---
 # هندسه محاسباتی
 ## Computational Geometry

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9.0
+sidebar_position: 8.0
 ---
 # الگوریتم‌های تصادفی
 ## Randomized Algorithms

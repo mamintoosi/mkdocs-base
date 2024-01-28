@@ -1,5 +1,5 @@
 ---
-sidebar_position: 46.0
+sidebar_position: 45.0
 ---
 # گرافیک کامپیوتری
 ## Computer Graphics

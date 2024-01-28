@@ -1,5 +1,5 @@
 ---
-sidebar_position: 41.0
+sidebar_position: 40.0
 ---
 # هوش تجاری مقدماتی
 ## Elementary Business intelligence

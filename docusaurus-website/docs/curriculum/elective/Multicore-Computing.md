@@ -1,5 +1,5 @@
 ---
-sidebar_position: 17.0
+sidebar_position: 16.0
 ---
 # رایانش چند‌هسته‌ای
 ## Multicore Computing
