@@ -28,7 +28,3 @@ _______________________________________________________________________________
 - Tsukada, M., Kobayashi, Y., Kaneko, H., Takahasi, S., Shirayanagi, K., & Noguchi, M. (2023). Linear algebra with Python: Theory and applications. Springer.
 
 - Stewart, J. M., & Mommert, M. (2023). Python for scientists (3rd ed.). Cambridge University Press.
-
-«دروس تخصصی اختیاری»
-
-**
