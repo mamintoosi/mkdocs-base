@@ -1,5 +1,5 @@
 ---
-sidebar_position: 34.0
+sidebar_position: 38.0
 ---
 # منطق برای علوم کامپیوتر
 ## Logic for Computer Science

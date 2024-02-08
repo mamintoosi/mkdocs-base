@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19.0
+sidebar_position: 25.0
 ---
 # مبانی منطق
 ## Fundamentals of Logic

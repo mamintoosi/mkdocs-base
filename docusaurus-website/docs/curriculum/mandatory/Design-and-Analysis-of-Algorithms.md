@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13.0
+sidebar_position: 14.0
 ---
 # طراحی و تحلیل الگوریتم‌ها
 ## Design & Analysis of Algorithms

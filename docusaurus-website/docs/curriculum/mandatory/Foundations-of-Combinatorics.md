@@ -1,5 +1,5 @@
 ---
-sidebar_position: 17.0
+sidebar_position: 23.0
 ---
 # مبانی ترکیبیات
 ## Foundations of Combinatorics

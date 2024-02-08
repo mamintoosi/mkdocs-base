@@ -1,5 +1,5 @@
 ---
-sidebar_position: 44.0
+sidebar_position: 28.0
 ---
 # کامپایلر
 ## Compiler

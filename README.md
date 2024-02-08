@@ -10,8 +10,8 @@
 * [آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)
 * [ریاضی عمومی ۱](docs/base/Calculus-I.md)
 * [ریاضی عمومی ۲](docs/base/Calculus-II.md)
-* [مبانی علوم ریاضی](docs/base/Foundation-of-Mathematics.md)
-* [مبانی کامپیوتر و برنامه‌سازی](docs/base/Fundamentals-of-Computer-Programming.md)
+* [مبانی علوم ریاضی](docs/base/Foundations-of-Mathematics.md)
+* [مبانی کامپیوتر و برنامه‌سازی](docs/base/Computer-Fundamentals-and-Programming.md)
 * [معادلات دیفرانسیل](docs/base/Differential-Equations.md)
 
 </details>
@@ -21,12 +21,13 @@
 <summary>دروس الزامی</summary>
 
 * [اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)
+* [آزمایشگاه ریاضی](docs/mandatory/Mathematics-Lab.md)
 * [آشنایی با یادگیری عمیق](docs/mandatory/Introduction-to-Deep-Learning.md)
 * [برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](docs/mandatory/Nonlinear-Optimization.md)
 * [بهینه‌سازی گسسته](docs/mandatory/Discrete-Optimization.md)
 * [پایگاه داده‌ها](docs/mandatory/Databases.md)
-* [تحقیق در عملیات](docs/mandatory/Operations-research.md)
+* [تحقیق در عملیات](docs/mandatory/Operations-Research.md)
 * [تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)
 * [داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)
 * [زبان‌های برنامه‌سازی](docs/mandatory/Programming-Languages.md)
@@ -39,14 +40,14 @@
 * [کارگاه کامپیوتر ۱](docs/mandatory/Computer-Workshop-I.md)
 * [کارگاه کامپیوتر ۲](docs/mandatory/Computer-Workshop-II.md)
 * [مبانی اقتصاد دیجیتال](docs/mandatory/Basics-of-Digital-Economics.md)
-* [مبانی آنالیز ریاضی](docs/mandatory/Foundation-of-Mathematical-Analysis.md)
+* [مبانی آنالیز ریاضی](docs/mandatory/Foundations-of-Mathematical-Analysis.md)
 * [مبانی آنالیز عددی](docs/mandatory/Foundation-of-Numerical-Analysis.md)
-* [مبانی ترکیبیات](docs/mandatory/Foundation-of-Combinatorics.md)
+* [مبانی ترکیبیات](docs/mandatory/Foundations-of-Combinatorics.md)
 * [مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)
-* [مبانی منطق و نظریه مجموعه‌ها](docs/mandatory/Fundamentals-of-Logic.md)
-* [مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-theory-of-Computation.md)
+* [مبانی منطق](docs/mandatory/Fundamentals-of-Logic.md)
+* [مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-Theory-of-Computation.md)
 * [مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md)
-* [نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-data-analysis.md)
+* [نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-Data-Analysis.md)
 * [هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md)
 * [یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)
 
@@ -58,7 +59,6 @@
 
 * [اصول طراحی نرم‌افزار](docs/elective/Principles-of-SoftwareDesign.md)
 * [الگوریتم‌های تصادفی](docs/elective/Randomized-Algorithms.md)
-* [آزمایشگاه ریاضی](docs/elective/Mathematics-Lab.md)
 * [آشنایی با پردازش زبان طبیعی](docs/elective/Introdution-to-Natural-Language-Processing.md)
 * [آشنایی با کلان داده‌ها](docs/elective/Introduction-to-Big-Data.md)
 * [آشنایی با نظریه بازی‌ها](docs/elective/Introduction-to-Game-Theory.md)

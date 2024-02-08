@@ -1,5 +1,5 @@
 ---
-sidebar_position: 28.0
+sidebar_position: 18.0
 ---
 # کارگاه کامپیوتر ۱
 ## Computer Workshop I

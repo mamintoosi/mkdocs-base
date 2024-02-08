@@ -1,5 +1,5 @@
 ---
-sidebar_position: 30.0
+sidebar_position: 34.0
 ---
 # مبانی جبر
 ## Foundation of Algebra

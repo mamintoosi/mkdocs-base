@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11.0
+sidebar_position: 12.0
 ---
 # ساختمان داده‌ها
 ## Data Structures

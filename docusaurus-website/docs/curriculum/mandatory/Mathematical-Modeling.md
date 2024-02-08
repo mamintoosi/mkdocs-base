@@ -1,5 +1,5 @@
 ---
-sidebar_position: 21.0
+sidebar_position: 27.0
 ---
 # مدلسازی ریاضی
 ## Mathematical Modeling

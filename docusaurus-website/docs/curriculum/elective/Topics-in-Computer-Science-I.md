@@ -1,5 +1,5 @@
 ---
-sidebar_position: 26.0
+sidebar_position: 30.0
 ---
 # مباحثی در علوم کامپیوتر ۱
 ## Topics in Computer Science-I

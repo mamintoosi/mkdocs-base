@@ -1,5 +1,5 @@
 ---
-sidebar_position: 38.0
+sidebar_position: 40.0
 ---
 # نظریه گراف و کاربردها
 ## Graph Theory & Applications

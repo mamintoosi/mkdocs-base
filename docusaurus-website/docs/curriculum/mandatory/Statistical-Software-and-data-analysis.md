@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22.0
+sidebar_position: 28.0
 ---
 # نرم‌افزارهای آماری و تحلیل داده‌ها
 ## Statistical Software & Data Analysis

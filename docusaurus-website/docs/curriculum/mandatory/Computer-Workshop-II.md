@@ -1,5 +1,5 @@
 ---
-sidebar_position: 29.0
+sidebar_position: 19.0
 ---
 # کارگاه کامپیوتر ۲
 ## Computer Workshop II

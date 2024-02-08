@@ -1,5 +1,5 @@
 ---
-sidebar_position: 23.0
+sidebar_position: 29.0
 ---
 # هوش مصنوعی
 ## Artificial Intelligence

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20.0
+sidebar_position: 26.0
 ---
 # مبانی نظریه محاسبه
 ## Introduction to the Theory of Computation

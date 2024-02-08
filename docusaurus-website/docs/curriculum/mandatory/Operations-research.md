@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7.0
+sidebar_position: 8.0
 ---
 # تحقیق در عملیات
 ## Operations Research

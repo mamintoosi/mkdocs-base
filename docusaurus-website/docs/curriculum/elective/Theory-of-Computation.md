@@ -1,5 +1,5 @@
 ---
-sidebar_position: 36.0
+sidebar_position: 41.0
 ---
 # نظریه محاسبه
 ## Theory of Computation

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12.0
+sidebar_position: 13.0
 ---
 # سری‌های زمانی کاربردی
 ## Applied Time Series

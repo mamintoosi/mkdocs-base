@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16.0
+sidebar_position: 22.0
 ---
 # مبانی اقتصاد دیجیتال
 ## Basics of Digital Economics

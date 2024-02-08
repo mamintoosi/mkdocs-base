@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24.0
+sidebar_position: 7.0
 ---
 # پایگاه داده‌ها
 ## Databases

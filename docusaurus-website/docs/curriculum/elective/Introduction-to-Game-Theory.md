@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1.0
+sidebar_position: 3.0
 ---
 # آشنایی با نظریه بازی‌ها
 ## Introduction to Game Theory

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.0
+sidebar_position: 1.0
 ---
 # آشنایی با پردازش زبان طبیعی
 ## Introdution to Natural Language Processing

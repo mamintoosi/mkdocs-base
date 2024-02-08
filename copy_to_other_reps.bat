@@ -1,8 +1,8 @@
-@REM git config --global alias.coa '!git add -A && git commit -m'
+git config --global alias.coa '!git add -A && git commit -m'
 @REM xcopy Tables.md .\docs\ 
 
 @REM برای دستگاه دانشگاه
-@REM python -m 
+@REM python -m mkdocs build
 
 @REM برای سرفیس اچ پی
 mkdocs build

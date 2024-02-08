@@ -28,9 +28,3 @@ _______________________________________________________________________________
 - Balakrishnan, V. (1995). Network Optimization. Chapman and Hall/CRC.
 
 - Ahuja, R.K., Magnanti, T.L., & Orlin, J.B. (1993). Network Flows: Theory, Algorithms, and Applications. Prentice-Hall.
-
-«دروس اختیاری»
-
-![](Aspose.Words.c03f894d-fa5f-4f62-8804-2287c6b363ae.008.png)
-
-**

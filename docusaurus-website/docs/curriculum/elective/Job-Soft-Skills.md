@@ -1,5 +1,5 @@
 ---
-sidebar_position: 35.0
+sidebar_position: 39.0
 ---
 # مهارت‌های نرم شغلی
 ## Job Soft Skills
