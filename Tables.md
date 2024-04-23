@@ -44,7 +44,7 @@ dir: rtl
 |3|[مبانی علوم ریاضی](docs/base/Foundations-of-Mathematics.md) ،[ریاضی عمومی ۱](docs/base/Calculus-I.md)|[مبانی آنالیز ریاضی](docs/mandatory/Foundations-of-Mathematical-Analysis.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Computer-Fundamentals-and-Programming.md) ،[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی آنالیز عددی](docs/mandatory/Foundation-of-Numerical-Analysis.md) | 
 |4|[مبانی علوم ریاضی](docs/base/Foundations-of-Mathematics.md)|[مبانی ترکیبیات](docs/mandatory/Foundations-of-Combinatorics.md) | 
-|3|[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) | 
+|3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Computer-Fundamentals-and-Programming.md) ،[ریاضی عمومی ۲](docs/base/Calculus-II.md)|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundations-of-Mathematics.md)|[مبانی منطق](docs/mandatory/Fundamentals-of-Logic.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](docs/base/Computer-Fundamentals-and-Programming.md)|[مبانی نظریه محاسبه](docs/mandatory/Introduction-to-the-Theory-of-Computation.md) | 
 |3|[معادلات دیفرانسیل](docs/base/Differential-Equations.md) ،[تحقیق در عملیات](docs/mandatory/Operations-Research.md) ،[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[مدلسازی ریاضی](docs/mandatory/Mathematical-Modeling.md) | 
@@ -102,4 +102,5 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](docs/elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)|[هوش محاسباتی](docs/elective/Computational-Intelligence.md) | 
- |133|مجموع تعداد واحد|
+|2|ندارد|[هوش مصنوعی کاربردی](docs/elective/Applied-Artificial-Intelligence.md) | 
+ |135|مجموع تعداد واحد|

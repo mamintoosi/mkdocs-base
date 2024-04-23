@@ -23,7 +23,7 @@ cd ..
 cd ..
 cd cs-um.github.io\docs
 xcopy ..\..\mkdocs-base\site . /e
-@REM xcopy ..\..\mkdocs-base\Tables.md . /e
+xcopy ..\..\mkdocs-base\Tables.md . /e
 git coa "Auto Commit"
 git push
 

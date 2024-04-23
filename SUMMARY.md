@@ -85,3 +85,4 @@
 * [هندسه محاسباتی](docs/elective/Computational-Geometry.md)
 * [هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md)
 * [هوش محاسباتی](docs/elective/Computational-Intelligence.md)
+* [هوش مصنوعی کاربردی](docs/elective/Applied-Artificial-Intelligence.md)

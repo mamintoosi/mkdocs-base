@@ -44,7 +44,7 @@ dir: rtl
 |3|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md) ،[ریاضی عمومی ۱](base/Calculus-I.md)|[مبانی آنالیز ریاضی](mandatory/Foundations-of-Mathematical-Analysis.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md) ،[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی آنالیز عددی](mandatory/Foundation-of-Numerical-Analysis.md) | 
 |4|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md)|[مبانی ترکیبیات](mandatory/Foundations-of-Combinatorics.md) | 
-|3|[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) | 
+|3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md) ،[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) | 
 |3|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md)|[مبانی منطق](mandatory/Fundamentals-of-Logic.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md)|[مبانی نظریه محاسبه](mandatory/Introduction-to-the-Theory-of-Computation.md) | 
 |3|[معادلات دیفرانسیل](base/Differential-Equations.md) ،[تحقیق در عملیات](mandatory/Operations-Research.md) ،[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[مدلسازی ریاضی](mandatory/Mathematical-Modeling.md) | 
@@ -102,4 +102,5 @@ dir: rtl
 |3|[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)|[هندسه محاسباتی](elective/Computational-Geometry.md) | 
 |3|[داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[هوش محاسباتی](elective/Computational-Intelligence.md) | 
- |133|مجموع تعداد واحد|
+|2|ندارد|[هوش مصنوعی کاربردی](elective/Applied-Artificial-Intelligence.md) | 
+ |135|مجموع تعداد واحد|
