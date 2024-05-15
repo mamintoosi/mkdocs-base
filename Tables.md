@@ -31,6 +31,7 @@ dir: rtl
 |3|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md)|[تحقیق در عملیات](docs/mandatory/Operations-Research.md) | 
 |3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md)|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md) | 
+|2|ندارد|[زبان تخصصی](docs/mandatory/English-for-Computer-Science.md) | 
 |3|[برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)|[زبان‌های برنامه‌سازی](docs/mandatory/Programming-Languages.md) | 
 |3|[برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)|[ساختمان داده‌ها](docs/mandatory/Data-Structures.md) | 
 |3|[تحلیل آماری داده‌ها](docs/mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](docs/mandatory/Applied-Time-Series.md) | 
@@ -51,7 +52,7 @@ dir: rtl
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](docs/mandatory/Statistical-Software-and-Data-Analysis.md) | 
 |3|[مبانی منطق](docs/mandatory/Fundamentals-of-Logic.md) ،[طراحی و تحلیل الگوریتم‌ها](docs/mandatory/Design-and-Analysis-of-Algorithms.md)|[هوش مصنوعی](docs/mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](docs/mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](docs/mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](docs/mandatory/Elementary-Machine-Learning.md) | 
- |78|مجموع تعداد واحد|
+ |80|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
@@ -80,7 +81,6 @@ dir: rtl
 |3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[روش‌های آماری](docs/elective/Statistical-Methods.md) | 
 |3|[مبانی علوم ریاضی](docs/base/Foundations-of-Mathematics.md)|[ریاضیات فازی](docs/elective/Fuzzy-Mathematics.md) | 
 |3|[اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](docs/elective/Operating-Systems.md) | 
-|3|[معادلات دیفرانسیل](docs/base/Differential-Equations.md)|[سیگنال‌ها و سیستم‌ها](docs/elective/Signals-and-Systems.md) | 
 |3|[سیستم‌های عامل](docs/elective/Operating-Systems.md)|[شبکه‌های کامپیوتری](docs/elective/Computer-Networks.md) | 
 |3|[آمار و احتمال ۱](docs/base/Probability-and-Statistics-I.md)|[شبیه‌سازی کامپیوتری](docs/elective/Computerized-Simulation.md) | 
 |3|[آمار و احتمال ۲](docs/elective/Probability-and-Statistics-II.md)|[فرآیندهای تصادفی](docs/elective/Stochastic-Processes.md) | 
@@ -103,4 +103,4 @@ dir: rtl
 |3|[داده‌کاوی مقدماتی](docs/mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](docs/elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)|[هوش محاسباتی](docs/elective/Computational-Intelligence.md) | 
 |2|ندارد|[هوش مصنوعی کاربردی](docs/elective/Applied-Artificial-Intelligence.md) | 
- |135|مجموع تعداد واحد|
+ |132|مجموع تعداد واحد|

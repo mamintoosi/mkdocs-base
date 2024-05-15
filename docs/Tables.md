@@ -31,6 +31,7 @@ dir: rtl
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)|[تحقیق در عملیات](mandatory/Operations-Research.md) | 
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)|[داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md) | 
+|2|ندارد|[زبان تخصصی](mandatory/English-for-Computer-Science.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[زبان‌های برنامه‌سازی](mandatory/Programming-Languages.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[ساختمان داده‌ها](mandatory/Data-Structures.md) | 
 |3|[تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](mandatory/Applied-Time-Series.md) | 
@@ -51,7 +52,7 @@ dir: rtl
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-Data-Analysis.md) | 
 |3|[مبانی منطق](mandatory/Fundamentals-of-Logic.md) ،[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md) | 
- |78|مجموع تعداد واحد|
+ |80|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
@@ -80,7 +81,6 @@ dir: rtl
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[روش‌های آماری](elective/Statistical-Methods.md) | 
 |3|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md)|[ریاضیات فازی](elective/Fuzzy-Mathematics.md) | 
 |3|[اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md)|[سیستم‌های عامل](elective/Operating-Systems.md) | 
-|3|[معادلات دیفرانسیل](base/Differential-Equations.md)|[سیگنال‌ها و سیستم‌ها](elective/Signals-and-Systems.md) | 
 |3|[سیستم‌های عامل](elective/Operating-Systems.md)|[شبکه‌های کامپیوتری](elective/Computer-Networks.md) | 
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[شبیه‌سازی کامپیوتری](elective/Computerized-Simulation.md) | 
 |3|[آمار و احتمال ۲](elective/Probability-and-Statistics-II.md)|[فرآیندهای تصادفی](elective/Stochastic-Processes.md) | 
@@ -103,4 +103,4 @@ dir: rtl
 |3|[داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[هوش محاسباتی](elective/Computational-Intelligence.md) | 
 |2|ندارد|[هوش مصنوعی کاربردی](elective/Applied-Artificial-Intelligence.md) | 
- |135|مجموع تعداد واحد|
+ |132|مجموع تعداد واحد|
