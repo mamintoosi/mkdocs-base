@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3.0
+sidebar_position: 2.0
 ---
 # اصول سیستم‌های کامپیوتری
 ## Principles of Computer Systems

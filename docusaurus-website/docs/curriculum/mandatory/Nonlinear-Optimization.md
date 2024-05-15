@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5.0
+sidebar_position: 4.0
 ---
 # بهینه‌سازی غیرخطی
 ## Nonlinear Optimization

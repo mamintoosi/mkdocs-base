@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6.0
+sidebar_position: 5.0
 ---
 # بهینه‌سازی گسسته
 ## Discrete Optimization

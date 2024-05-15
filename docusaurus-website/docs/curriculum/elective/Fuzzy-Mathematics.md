@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22.0
+sidebar_position: 23.0
 ---
 # ریاضیات فازی
 ## Fuzzy Mathematics
