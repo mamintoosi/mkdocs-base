@@ -30,7 +30,7 @@ dir: rtl
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)|[تحقیق در عملیات](mandatory/Operations-Research.md) | 
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md) | 
 |3|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)|[داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md) | 
-|2|ندارد|[زبان تخصصی](mandatory/English-for-Computer-Science.md) | 
+|2|زبان انگلیسی|[زبان تخصصی](mandatory/English-for-Computer-Science.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[زبان‌های برنامه‌سازی](mandatory/Programming-Languages.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[ساختمان داده‌ها](mandatory/Data-Structures.md) | 
 |3|[تحلیل آماری داده‌ها](mandatory/Statistical-Data-Analysis.md)|[سری‌های زمانی کاربردی](mandatory/Applied-Time-Series.md) | 
