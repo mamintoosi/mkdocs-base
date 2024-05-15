@@ -10,7 +10,6 @@ nav:
     - "معادلات دیفرانسیل": base/Differential-Equations.md
   - دروس الزامی:
     - "اصول سیستم‌های کامپیوتری": mandatory/Principles-of-Computer-Systems.md
-    - "آزمایشگاه ریاضی": mandatory/Mathematics-Lab.md
     - "آشنایی با یادگیری عمیق": mandatory/Introduction-to-Deep-Learning.md
     - "برنامه‌سازی پیشرفته": mandatory/Advanced-Programming.md
     - "بهینه‌سازی غیرخطی": mandatory/Nonlinear-Optimization.md
@@ -43,6 +42,7 @@ nav:
   - دروس اختیاری:
     - "اصول طراحی نرم‌افزار": elective/Principles-of-SoftwareDesign.md
     - "الگوریتم‌های تصادفی": elective/Randomized-Algorithms.md
+    - "آزمایشگاه ریاضی": elective/Mathematics-Lab.md
     - "آشنایی با پردازش زبان طبیعی": elective/Introdution-to-Natural-Language-Processing.md
     - "آشنایی با کلان داده‌ها": elective/Introduction-to-Big-Data.md
     - "آشنایی با نظریه بازی‌ها": elective/Introduction-to-Game-Theory.md

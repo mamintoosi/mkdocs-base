@@ -22,7 +22,6 @@ dir: rtl
 | تعداد واحد | پیش‌نیاز | نام درس |
 | ---------- | -------- | ------- |
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md)|[اصول سیستم‌های کامپیوتری](mandatory/Principles-of-Computer-Systems.md) | 
-|1|ندارد|[آزمایشگاه ریاضی](mandatory/Mathematics-Lab.md) | 
 |3|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)|[آشنایی با یادگیری عمیق](mandatory/Introduction-to-Deep-Learning.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md)|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md) | 
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md)|[بهینه‌سازی غیرخطی](mandatory/Nonlinear-Optimization.md) | 
@@ -44,7 +43,7 @@ dir: rtl
 |2|ندارد|[مبانی اقتصاد دیجیتال](mandatory/Basics-of-Digital-Economics.md) | 
 |3|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md) ،[ریاضی عمومی ۱](base/Calculus-I.md)|[مبانی آنالیز ریاضی](mandatory/Foundations-of-Mathematical-Analysis.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md) ،[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی آنالیز عددی](mandatory/Foundation-of-Numerical-Analysis.md) | 
-|4|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md)|[مبانی ترکیبیات](mandatory/Foundations-of-Combinatorics.md) | 
+|3|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md)|[مبانی ترکیبیات](mandatory/Foundations-of-Combinatorics.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md) ،[ریاضی عمومی ۲](base/Calculus-II.md)|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) | 
 |3|[مبانی علوم ریاضی](base/Foundations-of-Mathematics.md)|[مبانی منطق](mandatory/Fundamentals-of-Logic.md) | 
 |3|[مبانی کامپیوتر و برنامه‌سازی](base/Computer-Fundamentals-and-Programming.md)|[مبانی نظریه محاسبه](mandatory/Introduction-to-the-Theory-of-Computation.md) | 
@@ -52,7 +51,7 @@ dir: rtl
 |1|ندارد|[نرم‌افزارهای آماری و تحلیل داده‌ها](mandatory/Statistical-Software-and-Data-Analysis.md) | 
 |3|[مبانی منطق](mandatory/Fundamentals-of-Logic.md) ،[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md)|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) | 
 |3|[مبانی محاسبات علمی](mandatory/Elementary-Scientific-Computing.md) ،[ساختمان داده‌ها](mandatory/Data-Structures.md)|[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md) | 
- |80|مجموع تعداد واحد|
+ |78|مجموع تعداد واحد|
 
 ## دروس اختیاری
 
@@ -60,6 +59,7 @@ dir: rtl
 | ---------- | -------- | ------- |
 |3|[زبان‌های برنامه‌سازی](mandatory/Programming-Languages.md)|[اصول طراحی نرم‌افزار](elective/Principles-of-SoftwareDesign.md) | 
 |3|[طراحی و تحلیل الگوریتم‌ها](mandatory/Design-and-Analysis-of-Algorithms.md) ،[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[الگوریتم‌های تصادفی](elective/Randomized-Algorithms.md) | 
+|1|ندارد|[آزمایشگاه ریاضی](elective/Mathematics-Lab.md) | 
 |3|[هوش مصنوعی](mandatory/Artificial-Intelligence.md) ،[یادگیری ماشین مقدماتی](mandatory/Elementary-Machine-Learning.md)|[آشنایی با پردازش زبان طبیعی](elective/Introdution-to-Natural-Language-Processing.md) | 
 |3|[پایگاه داده‌ها](mandatory/Databases.md)|[آشنایی با کلان داده‌ها](elective/Introduction-to-Big-Data.md) | 
 |3|[آمار و احتمال ۱](base/Probability-and-Statistics-I.md)|[آشنایی با نظریه بازی‌ها](elective/Introduction-to-Game-Theory.md) | 
@@ -103,4 +103,4 @@ dir: rtl
 |3|[داده‌کاوی مقدماتی](mandatory/Elementary-Data-Mining.md)|[هوش تجاری مقدماتی](elective/Elementary-Business-intelligence.md) | 
 |3|[برنامه‌سازی پیشرفته](mandatory/Advanced-Programming.md)|[هوش محاسباتی](elective/Computational-Intelligence.md) | 
 |2|ندارد|[هوش مصنوعی کاربردی](elective/Applied-Artificial-Intelligence.md) | 
- |132|مجموع تعداد واحد|
+ |133|مجموع تعداد واحد|

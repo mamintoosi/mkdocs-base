@@ -21,7 +21,6 @@
 <summary>دروس الزامی</summary>
 
 * [اصول سیستم‌های کامپیوتری](docs/mandatory/Principles-of-Computer-Systems.md)
-* [آزمایشگاه ریاضی](docs/mandatory/Mathematics-Lab.md)
 * [آشنایی با یادگیری عمیق](docs/mandatory/Introduction-to-Deep-Learning.md)
 * [برنامه‌سازی پیشرفته](docs/mandatory/Advanced-Programming.md)
 * [بهینه‌سازی غیرخطی](docs/mandatory/Nonlinear-Optimization.md)
@@ -60,6 +59,7 @@
 
 * [اصول طراحی نرم‌افزار](docs/elective/Principles-of-SoftwareDesign.md)
 * [الگوریتم‌های تصادفی](docs/elective/Randomized-Algorithms.md)
+* [آزمایشگاه ریاضی](docs/elective/Mathematics-Lab.md)
 * [آشنایی با پردازش زبان طبیعی](docs/elective/Introdution-to-Natural-Language-Processing.md)
 * [آشنایی با کلان داده‌ها](docs/elective/Introduction-to-Big-Data.md)
 * [آشنایی با نظریه بازی‌ها](docs/elective/Introduction-to-Game-Theory.md)
